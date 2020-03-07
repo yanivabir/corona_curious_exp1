@@ -5,9 +5,11 @@ var maxStimDuration = 10000,
   tooSlowTime = 1000,
   postTooSlowTime = 800,
   fixationTime = 500,
-  maxTaskTime = 10 * 60 * 1000;
+  maxTaskTime = 10 * 60 * 1000,
+  waits = [4, 8, 12, 16],
+  ITI_range = [500, 1200];
 
-// Code
+// Trial strucutre
 var too_slow = [kick_out, {
   type: 'html-keyboard-response',
   stimulus: '<div style="font-size: 150%">Please choose more quickly</div>',
@@ -30,7 +32,9 @@ var wait_trial_answer = [{
     type: 'html-keyboard-response',
     stimulus: '<div id="fixation">...</div>',
     choices: jsPsych.NO_KEYS,
-    trial_duration: jsPsych.timelineVariable('wait_time'),
+    trial_duration: function(){
+      return jsPsych.timelineVariable('wait_time', true) * 1000
+    },
     data: {
       category: 'wait_wait'
     }
@@ -62,7 +66,7 @@ var wait_trial_answer = [{
       category: "wait_satisfaction",
       ITI_next: jsPsych.timelineVariable('ITI_next')
     },
-    on_finish: function() {
+    on_finish: function(data) {
       if (Date.now() > data.wait_start_time + maxTaskTime) {
         jsPsych.endCurrentTimeline();
       }
@@ -91,7 +95,13 @@ var wait_trial = [{
     // Question
     type: 'html-button-response',
     stimulus: jsPsych.timelineVariable('question'),
-    choices: ['SKIP', "WAIT 4", "KNOW"],
+    choices: function() {
+      return [
+        'SKIP',
+        "WAIT " + jsPsych.timelineVariable('wait_time', true),
+        "KNOW"
+      ]
+    },
     margin_horizontal: "40px",
     margin_vertical: "80px",
     trial_duration: maxStimDuration,
@@ -172,8 +182,8 @@ var wait_instructions1 = {
   ],
   loop_function: function() {
     var resps = JSON.parse(jsPsych.data.get().last(1).select("responses").values[0]);
-    for (i=0; i<3; i++){
-      if (resps["Q" + i] == "False"){
+    for (i = 0; i < 3; i++) {
+      if (resps["Q" + i] == "False") {
         return true
       }
     }
@@ -194,6 +204,19 @@ var wait_instructions2 = {
   }
 };
 
+// Trial plans - add timing variables to tables loaded from csv
+function drawTimes(items) {
+  var wait_times = jsPsych.randomization.repeat(waits,
+    Math.ceil(items.length / waits.length), false);
+
+  for (i = 0; i < items.length; i++) {
+    items[i]["wait_time"] = wait_times[i];
+    items[i]["ITI_next"] = Math.random() * (ITI_range[1] - ITI_range[0]) +
+      ITI_range[0]
+  }
+  return items
+}
+
 // Load items from local csv file
 var corona_items;
 var general_items;
@@ -202,13 +225,13 @@ Papa.parse("../static/corona_questions.csv", {
   header: true,
   dynamicTyping: true,
   complete: function(results) {
-    corona_items = results.data;
+    corona_items = drawTimes(results.data);
     Papa.parse("../static/general_questions.csv", {
       download: true,
       header: true,
       dynamicTyping: true,
       complete: function(results) {
-        general_items = results.data;
+        general_items = drawTimes(results.data);
         postLoad();
       }
     });
