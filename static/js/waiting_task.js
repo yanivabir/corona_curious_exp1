@@ -4,7 +4,8 @@
 var maxStimDuration = 10000,
   tooSlowTime = 1000,
   postTooSlowTime = 800,
-  fixationTime = 500;
+  fixationTime = 500,
+  maxTaskTime = 10 * 60 * 1000;
 
 // Code
 var too_slow = [kick_out, {
@@ -61,6 +62,11 @@ var wait_trial_answer = [
     data: {
       category: "wait_satisfaction",
       ITI_next: jsPsych.timelineVariable('ITI_next')
+    },
+    on_finish: function(){
+      if(Date.now() > data.wait_start_time + maxTaskTime){
+        jsPsych.endCurrentTimeline();
+      }
     }
   }
 ];
@@ -73,6 +79,14 @@ var wait_trial = [{
   trial_duration: fixationTime,
   data: {
     category: 'wait_fixation'
+  },
+  on_start: function() {
+    var start = jsPsych.data.get().last(1).select("wait_start_time").values[0]
+    if (!(start > 0)){
+      jsPsych.data.addProperties({
+        wait_start_time: Date.now()
+      });
+    }
   }
 },{
   // Question
