@@ -1,19 +1,15 @@
 // Parameters
-
 var images = [];
 
 // Put it all together
 var experiment = [];
-experiment.push(fullscreen);
+experiment = experiment.concat(wait_trial);
 
 // Prevent right click
-document.addEventListener('contextmenu', event => event.preventDefault());
-
-// Save trial plan
-var trial_plan = trialPlan();
+// document.addEventListener('contextmenu', event => event.preventDefault());
 
 // Initiate experiment
 jsPsych.init({
   timeline: experiment,
-  preload_images: images
+  // preload_images: images
 });
