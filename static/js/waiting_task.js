@@ -42,8 +42,9 @@ var wait_trial_answer = [
     choices: jsPsych.NO_KEYS,
     trial_duration: 2000,
     data: {
-      category: 'wait_wait'
-    }
+      category: 'wait_answer'
+    },
+    post_trial_gap: 200
   },
   {
     // Satisfaction rating
@@ -56,6 +57,11 @@ var wait_trial_answer = [
       required: true,
       name: "satisfaction"
     }],
+    post_trial_gap: jsPsych.timelineVariable('ITI_next'),
+    data: {
+      category: "wait_satisfaction",
+      ITI_next: jsPsych.timelineVariable('ITI_next')
+    }
   }
 ];
 

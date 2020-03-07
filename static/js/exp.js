@@ -31,12 +31,14 @@ experiment.push({
     {
       question: "abc",
       answer: "bcd",
-      wait_time: 1000
+      wait_time: 1000,
+      ITI_next: 1000
     },
     {
       question: "def",
       answer: "gef",
-      wait_time: 3000
+      wait_time: 3000,
+      ITI_next: 1000
     }
   ]
 });
