@@ -123,3 +123,15 @@ var wait_trial = [{
   }
 }
 ]
+
+// Load items from local csv file
+var corona_items;
+Papa.parse("../static/corona_questions.csv", {
+  download: true,
+  header: true,
+  dynamicTyping: true,
+  complete: function(results) {
+    corona_items = results.data;
+    postLoad();
+  }
+});
