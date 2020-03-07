@@ -125,7 +125,7 @@ var wait_trial = [{
 ];
 
 // Instructions
-var wait_instructions = {
+var wait_instructions1 = {
   type: 'instructions',
   pages: ['<div id="instruct"><p>You will now do a computer task about curiosity. Press the <i>Next</i> button to read the instructions for this task.</p></div>',
   '<div id="instruct"><p>In this task, you will be shown a series of trivia questions. For each question, you must decide if you want to know the answer to the question.<br></p><p>If you want to find out the answer, you will have to wait a certain amount of time.</p><p>If you do not want to wait to see the answer, you can choose to skip the question.</p><p>If you are 100% certain that you already know the answer to the question, you may indicate that you already know it.</p><p>If you choose to skip or indicate that you know the answer, you will NOT see the answer to the question.</p></div>',
@@ -136,7 +136,22 @@ var wait_instructions = {
   '<div id="instruct"><p>The task will continue for 10 minutes. The task takes the same amount of time regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
   '<div id="instruct"><p>You will now do a short practice version to get comfortable with the task. Please use this time to get used to pressing the different buttons and to the amount of time you have to respond to the different prompts.<p></div>'],
   show_clickable_nav: true,
-  allow_keys: false
+  allow_keys: false,
+  data:{
+    category: "wait_instructions1"
+  }
+};
+
+var wait_instructions2 = {
+  type: 'instructions',
+  pages: ['<div id="instruct"><p>You will now continue to another round of the same task with different questions.</p></div>',
+  '<div id="instruct"><p>This block is also 10 minuets long, regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
+  '<div id="instruct"><p>Press the <i>Next</i> button to begin the second round of the task.</p></div>'],
+  show_clickable_nav: true,
+  allow_keys: false,
+  data:{
+    category: "wait_instructions1"
+  }
 };
 
 // Load items from local csv file
