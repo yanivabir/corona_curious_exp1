@@ -25,7 +25,21 @@ var fullscreen = {
 // Put it all together
 var experiment = [];
 experiment.push(fullscreen);
-experiment = experiment.concat(wait_trial);
+experiment.push({
+  timeline: wait_trial,
+  timeline_variables: [
+    {
+      question: "abc",
+      answer: "bcd",
+      wait_time: 1000
+    },
+    {
+      question: "def",
+      answer: "gef",
+      wait_time: 3000
+    }
+  ]
+});
 
 // Prevent right click
 // document.addEventListener('contextmenu', event => event.preventDefault());

@@ -30,7 +30,7 @@ var wait_trial_answer = [
     type: 'html-keyboard-response',
     stimulus: '<div id="fixation">...</div>',
     choices: jsPsych.NO_KEYS,
-    trial_duration: 5000,
+    trial_duration: jsPsych.timelineVariable('wait_time'),
     data: {
       category: 'wait_wait'
     }
@@ -38,7 +38,7 @@ var wait_trial_answer = [
   {
     // Answer
     type: 'html-keyboard-response',
-    stimulus: 'Everest',
+    stimulus: jsPsych.timelineVariable('answer'),
     choices: jsPsych.NO_KEYS,
     trial_duration: 2000,
     data: {
@@ -71,7 +71,7 @@ var wait_trial = [{
 },{
   // Question
   type: 'html-button-response',
-  stimulus: 'What is the highest mountain?',
+  stimulus: jsPsych.timelineVariable('question'),
   choices: ['SKIP', "WAIT 4", "KNOW"],
   margin_horizontal: "40px",
   margin_vertical: "80px",
