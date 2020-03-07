@@ -7,6 +7,23 @@ var maxStimDuration = 10000,
   fixationTime = 500;
 
 // Code
+var too_slow = [kick_out, {
+  type: 'html-keyboard-response',
+  stimulus: '<div style="font-size: 150%">Please choose more quickly</div>',
+  choices: jsPsych.NO_KEYS,
+  trial_duration: tooSlowTime,
+  on_finish: function() {
+    var up_to_now = parseInt(jsPsych.data.get().last(1).select('n_warnings').values);
+    jsPsych.data.addProperties({
+      n_warnings: up_to_now + 1
+    });
+  },
+  data: {
+    category: 'too-slow'
+  },
+  post_trial_gap: postTooSlowTime
+}];
+
 var wait_trial_answer = [
   {
     // Wait time
@@ -64,6 +81,17 @@ var wait_trial = [{
   }
 },
 {
+  timeline: too_slow,
+  conditional_function: function(){
+    // Got to answer only if wait selected
+    var resp = jsPsych.data.get().filter({
+      category: "wait_question"
+    }).last(1).select("button_pressed").values[0]
+
+    return resp==null ? true : false
+  }
+},
+{
   timeline: wait_trial_answer,
   conditional_function: function(){
     // Got to answer only if wait selected
@@ -75,21 +103,3 @@ var wait_trial = [{
   }
 }
 ]
-
-
-// var response_quick = [kick_out, {
-//   type: 'html-keyboard-response',
-//   stimulus: '<div style="font-size: 150%">Please choose more quickly</div>',
-//   choices: jsPsych.NO_KEYS,
-//   trial_duration: tooSlowTime,
-//   on_finish: function() {
-//     var up_to_now = parseInt(jsPsych.data.get().last(1).select('n_warnings').values);
-//     jsPsych.data.addProperties({
-//       n_warnings: up_to_now + 1
-//     });
-//   },
-//   data: {
-//     category: 'too-slow'
-//   },
-//   post_trial_gap: postTooSlowTime
-// }]
