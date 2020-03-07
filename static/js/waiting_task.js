@@ -122,7 +122,22 @@ var wait_trial = [{
     return resp=="1" ? true : false
   }
 }
-]
+];
+
+// Instructions
+var wait_instructions = {
+  type: 'instructions',
+  pages: ['<div id="instruct"><p>You will now do a computer task about curiosity. Press the <i>Next</i> button to read the instructions for this task.</p></div>',
+  '<div id="instruct"><p>In this task, you will be shown a series of trivia questions. For each question, you must decide if you want to know the answer to the question.<br></p><p>If you want to find out the answer, you will have to wait a certain amount of time.</p><p>If you do not want to wait to see the answer, you can choose to skip the question.</p><p>If you are 100% certain that you already know the answer to the question, you may indicate that you already know it.</p><p>If you choose to skip or indicate that you know the answer, you will NOT see the answer to the question.</p></div>',
+  '<div id="instruct"><p>When you are first shown the trivia question, the screen will look like this:<p>\
+  <center><img width="50%" src="../static/images/wait_instructions.jpg"></center>\
+  <p>You will use the mouse to indicate that you would like to wait for the answer, skip the question, or that you know its answer.</p></div>',
+  '<div id="instruct"><p>If you choose to wait for a question, you will be asked to rate if the answer was worth waiting for on a scale of 1 = not worth it up to 5 = extremely worth it.</p></div>',
+  '<div id="instruct"><p>The task will continue for 10 minutes. The task takes the same amount of time regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
+  '<div id="instruct"><p>You will now do a short practice version to get comfortable with the task. Please use this time to get used to pressing the different buttons and to the amount of time you have to respond to the different prompts.<p></div>'],
+  show_clickable_nav: true,
+  allow_keys: false
+};
 
 // Load items from local csv file
 var corona_items;
@@ -141,5 +156,6 @@ Papa.parse("../static/corona_questions.csv", {
         general_items = results.data;
         postLoad();
       }
+    });
   }
 });

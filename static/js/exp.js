@@ -29,6 +29,7 @@ function postLoad() {
   // Put it all together
   var experiment = [];
   experiment.push(fullscreen);
+  experiment.push(wait_instructions);
   experiment.push({
     timeline: wait_trial,
     timeline_variables: [

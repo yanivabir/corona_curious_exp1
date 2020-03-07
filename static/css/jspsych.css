@@ -6,6 +6,11 @@
  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
 
+#instruct{
+  text-align: left;
+  max-width: 800px;
+}
+
 /* New custom css above this line */
 html {
   background-color: grey;
