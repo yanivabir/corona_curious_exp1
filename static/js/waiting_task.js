@@ -126,12 +126,20 @@ var wait_trial = [{
 
 // Load items from local csv file
 var corona_items;
+var general_items;
 Papa.parse("../static/corona_questions.csv", {
   download: true,
   header: true,
   dynamicTyping: true,
   complete: function(results) {
     corona_items = results.data;
-    postLoad();
+    Papa.parse("../static/general_questions.csv", {
+      download: true,
+      header: true,
+      dynamicTyping: true,
+      complete: function(results) {
+        general_items = results.data;
+        postLoad();
+      }
   }
 });
