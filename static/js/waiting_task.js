@@ -5,7 +5,7 @@ var maxStimDuration = 10000,
   tooSlowTime = 1000,
   postTooSlowTime = 800,
   fixationTime = 500,
-  maxTaskTime = 10 * 60 * 1000,
+  maxTaskTime = 2.5,
   waits = [4, 8, 12, 16],
   ITI_range = [500, 1200];
 
@@ -67,7 +67,7 @@ var wait_trial_answer = [{
       ITI_next: jsPsych.timelineVariable('ITI_next')
     },
     on_finish: function(data) {
-      if (Date.now() > data.wait_start_time + maxTaskTime) {
+      if (Date.now() > data.wait_start_time + maxTaskTime * 60 * 1000) {
         jsPsych.endCurrentTimeline();
       }
     }
@@ -130,6 +130,28 @@ var wait_trial = [{
 
       return resp == "1" ? true : false
     }
+  },
+  {
+    timeline: [
+      {
+        type: "html-keyboard-response",
+        stimulus: "",
+        choices: jsPsych.NO_KEYS,
+        trial_duration: jsPsych.timelineVariable('ITI_next'),
+        data: {
+          category: "wait_skip_ITI",
+          ITI_next: jsPsych.timelineVariable('ITI_next')
+        }
+      }
+    ],
+    conditional_function: function() {
+      // If skipped or know - add ITI here
+      var resp = jsPsych.data.get().filter({
+        category: "wait_question"
+      }).last(1).select("button_pressed").values[0]
+
+      return resp == "1" ? false : true
+    }
   }
 ];
 
@@ -143,7 +165,7 @@ var wait_instructions1 = {
   <center><img width="50%" src="../static/images/wait_instructions.jpg"></center>\
   <p>You will use the mouse to indicate that you would like to wait for the answer, skip the question, or that you know its answer.</p></div>',
         '<div id="instruct"><p>If you choose to wait for a question, you will be asked to rate if the answer was worth waiting for on a scale of 1 = not worth it up to 5 = extremely worth it.</p></div>',
-        '<div id="instruct"><p>The task will continue for 10 minutes. The task takes the same amount of time regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
+        '<div id="instruct"><p>The task will continue for ' + maxTaskTime + ' minutes. The task takes the same amount of time regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
         '<div id="instruct"><p>You will soon do a short practice version to get comfortable with the task. Please use this time to get used to pressing the different buttons and to the amount of time you have to respond to the different prompts.<p></div>',
         '<div id="instruct"><p>You will first be asked to answer some questions to ensure that you understood the instructions.</p>\
   <p>Please answer to the best of your ability.</p>\
@@ -164,7 +186,8 @@ var wait_instructions1 = {
           horizontal: true
         },
         {
-          prompt: 'The trivia task will take 10 minutes, regardless of whether I press SKIP, KNOW, or WAIT.',
+          prompt: 'The trivia task will take ' + maxTaskTime +
+          ' minutes, regardless of whether I press SKIP, KNOW, or WAIT.',
           options: ['True', 'False'],
           required: true,
           horizontal: true
@@ -191,10 +214,27 @@ var wait_instructions1 = {
   }
 };
 
+var wait_instructions_post_practice = {
+  type: "instructions",
+  pages: ['<div id="instruct"><p>You will now begin the full version of the \
+  task. The task will continue for ' + maxTaskTime + ' minutes.</p>\
+  <p><b>Please remain focused on this task for the next ' + maxTaskTime +
+  ' minutes. We are able to note when participants click away from the task \
+  and we will review all data before approving the HIT.</b></p></div>'],
+  show_clickable_nav: true,
+  allow_keys: false,
+  data: {
+    category: "wait_instructions_post_practice"
+  }
+}
+
 var wait_instructions2 = {
   type: 'instructions',
   pages: ['<div id="instruct"><p>You will now continue to another round of the same task with different questions.</p></div>',
-    '<div id="instruct"><p>This block is also 10 minuets long, regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
+    '<div id="instruct"><p>This block is also ' + maxTaskTime +
+    ' minuets long, regardless of how many questions you choose to skip or wait \
+    for, so please base your decisions on how interested you are in learning \
+    the answers.</p></div>',
     '<div id="instruct"><p>Press the <i>Next</i> button to begin the second round of the task.</p></div>'
   ],
   show_clickable_nav: true,
@@ -216,24 +256,3 @@ function drawTimes(items) {
   }
   return items
 }
-
-// Load items from local csv file
-var corona_items;
-var general_items;
-Papa.parse("../static/corona_questions.csv", {
-  download: true,
-  header: true,
-  dynamicTyping: true,
-  complete: function(results) {
-    corona_items = drawTimes(results.data);
-    Papa.parse("../static/general_questions.csv", {
-      download: true,
-      header: true,
-      dynamicTyping: true,
-      complete: function(results) {
-        general_items = drawTimes(results.data);
-        postLoad();
-      }
-    });
-  }
-});

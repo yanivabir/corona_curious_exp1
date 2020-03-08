@@ -3,6 +3,8 @@
 var maxWarining = 10;
 
 // Code
+
+// Kick out trial
 var kick_out = {
   type: 'html-keyboard-response',
   conditional_function: function() {
@@ -37,4 +39,17 @@ var kick_out = {
   data: {
     category: 'kick-out'
   }
+}
+
+// Save data to file functions
+function saveData(name, data, onComplete = function() {}, type = 'csv') {
+  name = name + '.' + type;
+  var xhr = new XMLHttpRequest();
+  xhr.addEventListener("load", onComplete);
+  xhr.open('POST', 'write_data.php'); 
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send(JSON.stringify({
+    filename: name,
+    filedata: data
+  }));
 }
