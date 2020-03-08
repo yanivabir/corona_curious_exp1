@@ -24,7 +24,6 @@ Implemented using the [jsPsych package](jspsych.org).
 ```
 
 ## To Do
-1. Covariate ratings
 2. Police no leaving the experiment page on browser
 3. Prevent right clicks and refreshes
 4. Questionnaires
