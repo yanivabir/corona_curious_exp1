@@ -4,6 +4,7 @@ Online waiting task and other ratings for Cornoa and non Corona related items.
 Implemented using the [jsPsych package](jspsych.org).
 
 ##Noteworthy files:
+
 .
 |---_templates
 |   |--- index.html: landing page w/ general info. Leads to consent.html.
