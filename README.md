@@ -30,7 +30,6 @@ Implemented using the [jsPsych package](jspsych.org).
 4. Questionnaires
 5. Consider using database for data rather than saving locally on server with csv
 6. Initial data processing scripit
-7. Update consent
 9. Consider font sizes
 10. Images for instructions
 11. Consider waiting time distribution
