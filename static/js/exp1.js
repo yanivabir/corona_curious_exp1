@@ -195,24 +195,25 @@ function postLoad() {
   // Put it all together
   var experiment = [];
   experiment.push(fullscreen);
-  // experiment.push(wait_instructions1);
-  // experiment.push(wait_practice_block);
-  // experiment.push(wait_instructions_post_practice);
-  // experiment.push(wait_block1);
-  // experiment.push(wait_instructions2);
-  // experiment.push(wait_block2);
-  // experiment.push(covariate_instructions);
-  // experiment.push(covariate_block);
+  experiment.push(wait_instructions1);
+  experiment.push(wait_practice_block);
+  experiment.push(wait_instructions_post_practice);
+  experiment.push(wait_block1);
+  experiment.push(wait_instructions2);
+  experiment.push(wait_block2);
+  experiment.push(covariate_instructions);
+  experiment.push(covariate_block);
   experiment = experiment.concat(debrief);
 
   // Prevent right click, refresh
   if (!debug) {
+    // Prevent right-click
     document.addEventListener('contextmenu', event => event.preventDefault());
 
+    // Prompt before refresh
     window.addEventListener('beforeunload', function(e) {
       // Cancel the event
-      e.preventDefault(); // If you prevent default behavior in Mozilla Firefox prompt will always be shown
-      // Chrome requires returnValue to be set
+      e.preventDefault();
       e.returnValue = '';
     });
 
