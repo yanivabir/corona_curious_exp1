@@ -28,6 +28,4 @@ Implemented using the [jsPsych package](jspsych.org).
 5. Consider using database for data rather than saving locally on server with csv
 6. Initial data processing script
 11. Consider waiting time distribution
-12. Fix data save
 13. Second session.
-14. covariates instructions
