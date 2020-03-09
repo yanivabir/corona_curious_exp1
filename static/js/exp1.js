@@ -3,7 +3,7 @@ var sess = 1,
   version = 1.0,
   n_for_covariates = 5, // How many items to save for covariate measurement
   n_for_practice; // How many itmes in practice block
-var images = [];
+var images = ["../static/images/wait_instructions.jpg"];
 
 // ------- Determine subject level variables ----- //
 var PID = jsPsych.data.getURLVariable('workerId'),
