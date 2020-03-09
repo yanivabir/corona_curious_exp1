@@ -67,6 +67,7 @@ demographic_block = [{
       labels: ["1<br>Not at all", "2", "3", "4", "5<br>Very fluent"],
       required: true
     }],
+    scale_width: 400,
     data: {
       category: 'debrief'
     }

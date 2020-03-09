@@ -96,12 +96,13 @@ corona_perception_block = [
         required: true,
         name: "corona_wash"
       }
-    ]
+    ],
+    scale_width: 400
   },
   {
     type: "html-slider-response",
     stimulus: "What do you think the chances are that you will personally be infected with the new coronavirus?",
-    slider_width: 300,
+    slider_width: 400,
     require_movement: true,
     data: {
       category: "corona_chances_infct"
