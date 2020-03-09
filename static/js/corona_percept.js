@@ -77,21 +77,21 @@ corona_perception_block = [
     type: "survey-likert",
     questions: [
       {
-        prompt: "How worried are you about being infected with the coronavirus?",
+        prompt: "<div id='instruct'>How worried are you about being infected with the coronavirus?</div>",
         labels: ["1<br>Not at all", "2", "3", "4", "5<br>Very worried"],
         required: true,
         name: "corona_worried"
       },
       {
-        prompt: "How anxious do you feel about the possibility of losing your \
-        life to the new coronavirus?",
+        prompt: "<div id='instruct'>How anxious do you feel about the possibility of losing your \
+        life to the new coronavirus?</div>",
         labels: ["1<br>Not at all", "2", "3", "4", "5<br>Very anxious"],
         required: true,
         name: "corona_death"
       },
       {
-        prompt: "To what extent do you agree with the following: \"If I wash my \
-        hands and am careful about my exposure, I will avoid being infected with the coronavirus.\"",
+        prompt: "<div id='instruct'>To what extent do you agree with the following: \"If I wash my \
+        hands and am careful about my exposure, I will avoid being infected with the coronavirus.\"</div>",
         labels: ["1<br>Not at all", "2", "3", "4", "5<br>Completely agree"],
         required: true,
         name: "corona_wash"
