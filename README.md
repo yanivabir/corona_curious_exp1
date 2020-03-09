@@ -33,3 +33,4 @@ Implemented using the [jsPsych package](jspsych.org).
 14. prevent retakes
 15. test know
 16. general questions
+17. minimum decision time wait task
