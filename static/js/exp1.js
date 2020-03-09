@@ -217,8 +217,9 @@ function postLoad() {
   // experiment.push(wait_block2);
   // experiment.push(covariate_instructions);
   // experiment.push(covariate_block);
-  experiment.push(pre_questionnaires_message);
-  experiment = experiment.concat(gallup_block);
+  // experiment.push(pre_questionnaires_message);
+  // experiment = experiment.concat(gallup_block);
+  experiment = experiment.concat(corona_perception_block);
   experiment = experiment.concat(demographic_block);
   experiment = experiment.concat(debrief);
 
