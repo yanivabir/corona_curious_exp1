@@ -11,6 +11,10 @@
   max-width: 800px;
 }
 
+#jspsych-html-button-response-stimulus, #jspsych-survey-likert-preamble{
+  max-width: 800px;
+}
+
 /* New custom css above this line */
 html {
   background-color: grey;
