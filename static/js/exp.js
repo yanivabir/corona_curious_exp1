@@ -7,6 +7,9 @@ var images = [];
 var PID = jsPsych.data.getURLVariable('workerId'),
   firstBlock = Math.random() > 0.5 ? "corona" : "general";
 
+// Is this a debug run?
+var debug = PID.includes("debug");
+
 // Keep important variables in global scope for convenience
 var corona_items,
   general_items,
@@ -200,7 +203,9 @@ function postLoad() {
   experiment = experiment.concat(debrief);
 
   // Prevent right click
-  // document.addEventListener('contextmenu', event => event.preventDefault());
+  if (!debug){
+    document.addEventListener('contextmenu', event => event.preventDefault());
+  }
 
   // Initiate experiment
   jsPsych.init({
