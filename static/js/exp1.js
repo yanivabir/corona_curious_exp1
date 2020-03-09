@@ -209,16 +209,16 @@ function postLoad() {
   // Put it all together
   var experiment = [];
   experiment.push(fullscreen);
-  // experiment.push(wait_instructions1);
-  // experiment.push(wait_practice_block);
-  // experiment.push(wait_instructions_post_practice);
-  // experiment.push(wait_block1);
-  // experiment.push(wait_instructions2);
-  // experiment.push(wait_block2);
-  // experiment.push(covariate_instructions);
-  // experiment.push(covariate_block);
-  // experiment.push(pre_questionnaires_message);
-  // experiment = experiment.concat(gallup_block);
+  experiment.push(wait_instructions1);
+  experiment.push(wait_practice_block);
+  experiment.push(wait_instructions_post_practice);
+  experiment.push(wait_block1);
+  experiment.push(wait_instructions2);
+  experiment.push(wait_block2);
+  experiment.push(covariate_instructions);
+  experiment.push(covariate_block);
+  experiment.push(pre_questionnaires_message);
+  experiment = experiment.concat(gallup_block);
   experiment = experiment.concat(corona_perception_block);
   experiment = experiment.concat(demographic_block);
   experiment = experiment.concat(debrief);
