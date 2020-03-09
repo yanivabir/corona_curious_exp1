@@ -41,10 +41,9 @@ var wait_trial_answer = [{
   },
   {
     // Answer
-    type: 'html-keyboard-response',
+    type: 'html-button-response',
     stimulus: jsPsych.timelineVariable('answer'),
-    choices: jsPsych.NO_KEYS,
-    trial_duration: 2000,
+    choices: ["Continue"],
     data: {
       category: 'wait_answer'
     },
