@@ -25,7 +25,7 @@ Implemented using the [jsPsych package](jspsych.org).
 
 ## To Do
 2. Police no leaving the experiment page on browser
-3. Prevent right clicks and refreshes
+3. Prevent refreshes
 4. Questionnaires
 5. Consider using database for data rather than saving locally on server with csv
 6. Initial data processing scripit
