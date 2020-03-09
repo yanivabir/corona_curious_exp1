@@ -69,3 +69,22 @@ var covariate_trial = [fullscreen_prompt,
     post_trial_gap: 300
   }
 ]
+
+var covariate_instructions = {
+  type: "instructions",
+  pages: [
+    "<div id='instruct'><p>In the next part of this experiment, you will be \
+    presented with 10 trivia qustion. We would like you to rate each of these \
+    questions on several scales.</p></div>",
+    "<div id='instruct'><p>In this study we are interested in your own personal \
+    judgment. Therefore it is important that you rely only on your own \
+    knowledge and give your best answer \"off the top of your head.\"</p></div>",
+    "<div id='instruct'><p>Press the <i>Next</i> button to begin this part of \
+    the experiment.</p></div>"
+  ],
+  show_clickable_nav: true,
+  allow_keys: false,
+  data: {
+    category: "covariate_instructions1"
+  }
+}

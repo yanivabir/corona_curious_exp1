@@ -30,3 +30,4 @@ Implemented using the [jsPsych package](jspsych.org).
 11. Consider waiting time distribution
 12. Fix data save
 13. Second session.
+14. covariates instructions
