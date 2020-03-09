@@ -126,6 +126,20 @@ function postLoad() {
     randomize_order: true
   }
 
+  var pre_questionnaires_message = {
+    type: "html-button-response",
+    stimulus: '<div id="instruct"><p>For the last part of the experiment, we ask \
+      you to answer a few questions about your opinions and beliefs, and about \
+      yourself.</p><p>Please answer these questions as truthfully and accurately \
+      as possible</p></div>',
+      choices: ["Continue"],
+      margin_vertical: "80px",
+      data: {
+        category: 'pre_questionnaires_message'
+      },
+      post_trial_gap: 200
+  }
+
   // Debriefing and data upload
   var debrief = [{
       type: "instructions",
@@ -203,6 +217,9 @@ function postLoad() {
   experiment.push(wait_block2);
   experiment.push(covariate_instructions);
   experiment.push(covariate_block);
+  experiment.push(pre_questionnaires_message);
+  experiment.push(gallup_block);
+  experiment.push(demographic_block);
   experiment = experiment.concat(debrief);
 
   // Prevent right click, refresh
