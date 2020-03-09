@@ -44,6 +44,7 @@ var wait_trial_answer = [{
     type: 'html-button-response',
     stimulus: jsPsych.timelineVariable('answer'),
     choices: ["Continue"],
+    margin_vertical: "80px",
     data: {
       category: 'wait_answer'
     },
