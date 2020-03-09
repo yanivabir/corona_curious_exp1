@@ -31,3 +31,5 @@ Implemented using the [jsPsych package](jspsych.org).
 11. Consider waiting time distribution
 13. Second session.
 14. prevent retakes
+15. test know
+16. general questions
