@@ -1,7 +1,7 @@
 // Gallup world poll
 var gallup_questions = [
   {
-    prompt: "<div id='instruct'>All things considered, how satisfied are you with your life as a whole these days? Use a 0 to 10 scale, where 0 is dissatisfied and 10 is satisfied.</div></div>",
+    prompt: "<div id='instruct'>All things considered, how satisfied are you with your life as a whole these days? Use a 0 to 10 scale, where 0 is dissatisfied and 10 is satisfied.</div>",
     options: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
     horizontal: true,
     name: "gallup01"
@@ -91,7 +91,6 @@ var gallup_questions = [
     name: "gallup15"
   },
 ];
-gallup_questions = jsPsych.randomization.shuffle(gallup_questions);
 
 var gallup_block = []
 for (i=0; i<Math.ceil(gallup_questions.length / 3); i++){
