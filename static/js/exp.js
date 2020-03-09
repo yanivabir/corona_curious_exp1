@@ -202,9 +202,17 @@ function postLoad() {
   experiment.push(covariate_block);
   experiment = experiment.concat(debrief);
 
-  // Prevent right click
-  if (!debug){
+  // Prevent right click, refresh
+  if (!debug) {
     document.addEventListener('contextmenu', event => event.preventDefault());
+
+    window.addEventListener('beforeunload', function(e) {
+      // Cancel the event
+      e.preventDefault(); // If you prevent default behavior in Mozilla Firefox prompt will always be shown
+      // Chrome requires returnValue to be set
+      e.returnValue = '';
+    });
+
   }
 
   // Initiate experiment
