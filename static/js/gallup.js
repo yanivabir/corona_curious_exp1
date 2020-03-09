@@ -95,7 +95,7 @@ gallup_questions = jsPsych.randomization.shuffle(gallup_questions);
 
 var gallup_block = []
 for (i=0; i<Math.ceil(gallup_questions.length / 3); i++){
-  gallup_trials.push({
+  gallup_block.push({
     type: 'survey-multi-choice',
     questions: gallup_questions.slice(i * 3, i * 3 + 3)
   })
