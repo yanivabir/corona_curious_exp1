@@ -32,7 +32,7 @@ var covariate_probes = [{
   }
 ]
 
-var covariate_trial = [
+var covariate_trial = [fullscreen_prompt,
   // Introduce questions
   {
     type: "html-button-response",

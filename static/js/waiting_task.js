@@ -74,7 +74,7 @@ var wait_trial_answer = [{
   }
 ];
 
-var wait_trial = [{
+var wait_trial = [fullscreen_prompt, {
     // Fixation
     type: 'html-keyboard-response',
     stimulus: '<div id="fixation">+</div>',

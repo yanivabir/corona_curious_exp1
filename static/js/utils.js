@@ -41,12 +41,99 @@ var kick_out = {
   }
 }
 
+// Police full screen
+var fullscreen_prompt = {
+  type: 'fullscreen',
+  fullscreen_mode: true,
+  timeline: [
+    {
+      message: '<div class="instructions"><p>This study has to run in fullscreen mode.</p><p>To switch to full screen mode \
+        and restart the experiment, press the button below.</p></div>'
+    }
+  ],
+  conditional_function: check_fullscreen,
+  on_finish: function() {
+    // Update warning count
+    var up_to_now = parseInt(jsPsych.data.get().last(1).select('n_warnings').values);
+    jsPsych.data.addProperties({
+      n_warnings: up_to_now + 1
+    });
+  },
+  data: {
+    category: 'fullscreen-prompt'
+  }
+}
+
+function check_fullscreen(){
+  if (PID.includes("debug")){
+    return false
+  }
+
+  var int = jsPsych.data.getInteractionData(),
+  exit = int.values().filter(function(e){
+    return e.event == "fullscreenexit"
+  }),
+  enter = int.values().filter(function(e){
+    return e.event == "fullscreenenter"
+  });
+
+  if (exit.length > 0){
+    return exit[exit.length - 1].time > enter[enter.length - 1].time
+  }else{
+    return false
+  }
+}
+
+// Focus policing
+// var focusblur = [kick_out,
+//   {
+//     type: 'html-keyboard-response',
+//     stimulus: "<div class='instructions'><p>Please focus on the task and don't\
+//     use other windows.\
+//     </p><p>Press the space bar to continue.</div>",
+//     choices: [32],
+//     on_finish: function() {
+//       var up_to_now = parseInt(jsPsych.data.get().last(1).select('n_warnings').values);
+//       jsPsych.data.addProperties({
+//         n_warnings: up_to_now + 1
+//       });
+//     },
+//     data: {
+//       category: 'focus-blur'
+//     },
+//     post_trial_gap: 800
+//   }
+// ];
+//
+// function check_focusblur(n){
+//   // n is number of trial back to check for focus loss
+//   if (PID.includes("debug")){
+//     return false
+//   }
+//
+//   var last_trial = jsPsych.data.get().last(1).select('category').values;
+//   if (last_trial == 'too-slow' | last_trial == 'focus-blur') {
+//     return false
+//   }
+//
+//   var blurs = jsPsych.data.getInteractionData().filter({
+//     event: "blur"
+//   }).select('trial').values, // Find blur events
+//   // Get trial indx for trials of interest
+//   inx = jsPsych.data.get().last(n).select('trial_index').values,
+//   intersect = blurs.filter(value => inx.includes(value)); // Find intersection of trials
+//   if (intersect.length > 0){
+//     return true
+//   }
+//   return false
+// }
+
 // Save data to file functions
 function saveData(name, data, onComplete = function() {}, type = 'csv') {
   name = name + '.' + type;
   var xhr = new XMLHttpRequest();
   xhr.addEventListener("load", onComplete);
-  xhr.open('POST', 'write_data.php'); 
+  xhr.open('POST', 'write_data.php');
   xhr.setRequestHeader('Content-Type', 'application/json');
   xhr.send(JSON.stringify({
     filename: name,
