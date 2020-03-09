@@ -26,8 +26,7 @@ Implemented using the [jsPsych package](jspsych.org).
 ## To Do
 4. Questionnaires
 5. Consider using database for data rather than saving locally on server with csv
-6. Initial data processing scripit
-9. Consider font sizes
+6. Initial data processing script
 11. Consider waiting time distribution
-12. Set up google server / psych department server
+12. Fix data save
 13. Second session.
