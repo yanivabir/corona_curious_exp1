@@ -28,7 +28,7 @@ var kick_out = {
     var d = new Date;
     saveData(PID, sess, '', jsPsych.data.get().csv(),
       function() {
-        saveData(PID, sess, 'int', jsPsych.data.getInteractionData().csv(),
+        saveData(PID, sess, '_int', jsPsych.data.getInteractionData().csv(),
           function() {
             self.close();
           })
@@ -131,7 +131,7 @@ function saveData(PID, sess, part, data, onComplete = function() {}, type = 'csv
   console.log(onComplete)
   var d = new Date;
   name = 'S' + PID + '_sess' + sess + '_' + d.toISOString().slice(0, 10) +
-    '_' + part + '.' + type;
+    part + '.' + type;
   var xhr = new XMLHttpRequest();
   xhr.addEventListener("load", onComplete);
   xhr.open('POST', 'write_data.php');
