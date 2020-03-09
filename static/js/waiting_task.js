@@ -106,7 +106,8 @@ var wait_trial = [fullscreen_prompt, {
     margin_vertical: "80px",
     trial_duration: maxStimDuration,
     data: {
-      category: 'wait_question'
+      category: 'wait_question',
+      questionId: jsPsych.timelineVariable('questionId')
     }
   },
   {

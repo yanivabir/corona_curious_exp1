@@ -15,6 +15,7 @@ Implemented using the [jsPsych package](jspsych.org).
 |   |---_js
 |   |   |---exp.js: main javascript fle for task.
 |   |   |--- waiting_task.js: functions and variables for waiting task.
+|   |   |--- covariates.js: functions and variables for covariate ratings.
 |   |   |--- utils.js: functions common to all stages of task.
 |   |   |---_jspsych: jsPsych scripts
 |   |
@@ -29,3 +30,4 @@ Implemented using the [jsPsych package](jspsych.org).
 6. Initial data processing script
 11. Consider waiting time distribution
 13. Second session.
+14. prevent retakes
