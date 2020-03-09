@@ -1,5 +1,7 @@
 // Parameters
-var n_for_covariates = 5, // How many items to save for covariate measurement
+var sess = 1,
+  version = 1.0,
+  n_for_covariates = 5, // How many items to save for covariate measurement
   n_for_practice; // How many itmes in practice block
 var images = [];
 
@@ -87,7 +89,9 @@ function postLoad() {
       jsPsych.data.addProperties({
         n_warnings: 0,
         PID: PID,
-        firstBlock: firstBlock
+        firstBlock: firstBlock,
+        sess: sess,
+        version: version
       });
     }
   }
@@ -168,11 +172,9 @@ function postLoad() {
       choices: jsPsych.NO_KEYS,
       on_load: function() {
         var d = new Date;
-        saveData('S' + PID + '_' + d.toISOString().slice(0, 10),
-          jsPsych.data.get().csv(),
+        saveData(PID, sess, '', jsPsych.data.get().csv(),
           function() {
-            saveData('S' + PID + '_' + d.toISOString().slice(0, 10) + '_int',
-              jsPsych.data.getInteractionData().csv(),
+            saveData(PID, sess, 'int', jsPsych.data.getInteractionData().csv(),
               function() {
                 self.close();
               })

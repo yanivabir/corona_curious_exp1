@@ -26,11 +26,9 @@ var kick_out = {
   on_finish: function() {
     var subject = jsPsych.data.get().last(1).select('PID').values[0];
     var d = new Date;
-    saveData('S' + PID + '_' + d.toISOString().slice(0, 10),
-      jsPsych.data.get().csv(),
+    saveData(PID, sess,jsPsych.data.get().csv(),
       function() {
-        saveData('S' + PID + '_' + d.toISOString().slice(0, 10) + '_int',
-          jsPsych.data.getInteractionData().csv(),
+        saveData(PID, sess, 'int', jsPsych.data.getInteractionData().csv(),
           function() {
             self.close();
           })
@@ -129,8 +127,10 @@ function check_fullscreen(){
 // }
 
 // Save data to file functions
-function saveData(name, data, onComplete = function() {}, type = 'csv') {
-  name = name + '.' + type;
+function saveData(PID, sess, part, data, onComplete = function() {}, type = 'csv') {
+  var d = new Date;
+  name = 'S' + PID + '_sess' + sess + '_' + d.toISOString().slice(0, 10) +
+    '_' + part + '.' + type;
   var xhr = new XMLHttpRequest();
   xhr.addEventListener("load", onComplete);
   xhr.open('POST', 'write_data.php');
