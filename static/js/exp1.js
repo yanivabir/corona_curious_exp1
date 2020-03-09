@@ -217,8 +217,8 @@ function postLoad() {
   experiment.push(wait_block2);
   experiment.push(covariate_instructions);
   experiment.push(covariate_block);
-  experiment.push(pre_questionnaires_message);
-  experiment.push(gallup_block);
+  experiment = experiment.concat(pre_questionnaires_message);
+  experiment = experiment.concat(gallup_block);
   experiment.push(demographic_block);
   experiment = experiment.concat(debrief);
 
