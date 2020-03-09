@@ -1,14 +1,52 @@
-questionID,category,question,answer
-C_NU_01,Not useful,What is the source of coronavirus in humans?,"Animals, probably bats"
-C_NU_02,Not useful,What food was the majority of Corona infected pepole in Italy eating in their last meal prior to their positive diagnoisis ?,?
-C_NU_03,Not useful,What is the instructed duration of quarantine for coronovirus carriers in Africa?,
-C_NU_04,Not useful,How many times was #corona retweeted by Canadian people in the first week of March?,
-C_NU_05,Not useful,How is the coronovirus related to a the use of antibiotics?,"* Antibiotic use on animals in the food industry is thought to lead to the evolution of increasingly robust viruses in animals, which then spread to humans."
-C_NU_06,Not useful,How many pandemics were there in the 20th century?,Three 
-C_NU_07,Not useful,When was the molecular structure of the coronovirus identfied?,Feb-20
-C_NU_08,Not useful,"Why is the new coronavirus called ""COVID-19""? ","it stands for ""COronaVIrus Disease 2019"""
-C_NU_09,Not useful,Which was the first US University to cancel classes becuase of the new coronavirus?,University of Washington
-C_NU_10,Not useful,"Which celebrity said about the new coronavirus ""I've already been in this movie""?",Gwyneth Paltrow
-C_NU_11,Not useful,What's the name of the Italian party leader who tested positive,Nicola Zingaretti
-C_NU_12,Not useful,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?,Pink
-C_NU_13,Not useful,What is the name of the county in Italy that had the first coronavirus outbreak?,Lombardy
+qustionId,type,source,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
+NC_01_NU,Not useful,Trivia,"What country is home to Roots, the company that outfits the U.S. Olympic team?",Canada,-2.7712415,1.95285018,
+NC_02_NU,Not useful,Trivia,"In 1991, who finally broke Bob Beamon's decades-old long jump record?",Mike Powell,-2.7031335,3.04705301,
+NC_03_NU,Not useful,Trivia,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?",Tiger Woods,-2.0925019,2.5887081,
+NC_04_NU,Not useful,Trivia,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?",Red River,-1.9126216,2.83688377,
+NC_05_NU,Not useful,Trivia,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?",Phil Knight,-1.4452006,1.89104412,
+NC_06_NU,Not useful,Trivia,What city's harbor is overlooked by Victoria Peak?,Hong Kong,-1.3206945,2.3241274,
+NC_07_NU,Not useful,Trivia,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?,Tuxedo Club,-1.0550642,2.34994082,
+NC_08_NU,Not useful,Trivia,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?,The guppy,-0.8921518,2.38998658,
+NC_09_NU,Not useful,Trivia,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?",Library of Congress,-0.7407983,1.67110218,
+NC_10_NU,Not useful,Trivia,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?",The first email,-0.5050674,2.39432433,
+NC_11_NU,Not useful,Trivia,What is the name of the ship that carried Captain Cook to Australia?,Endeavour,-0.4203849,1.89399284,
+NC_12_NU,Not useful,Trivia,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?",Come by her,-0.1570055,2.39689119,
+NC_13_NU,Not useful,Trivia,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?,Bling bling,0.05624761,1.91900946,
+NC_14_NU,Not useful,Trivia,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?",It sits beside the Finger Lakes,0.12826231,1.50292657,
+NC_15_NU,Not useful,Trivia,On what namesake Asian island are the first Homo erectus fossils found?,Java,0.23347277,2.30630372,
+NC_16_NU,Not useful,Trivia,The apgar score is used to measure the color and condition of what?,Newborns,0.31460735,1.7962884,
+NC_17_NU,Not useful,Trivia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?,Portia,0.561401,1.59253576,
+NC_18_NU,Not useful,Trivia,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?,Jim Lovell,0.81036407,1.69437436,
+NC_19_NU,Not useful,Trivia,What was the unfortunate name of the plumber who helped popularize and improve the flush toilet?,Thomas Crapper,0.87891001,1.2490951,
+NC_20_NU,Not useful,Trivia,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?",Smoke,0.92807434,1.31832832,
+NC_21_NU,Not useful,Trivia,Who was flying the plane in which the first US airplane fatality occurred?,Orville Wright,1.1540265,1.55957974,
+NC_22_NU,Not useful,Trivia,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?",Steamboat Geyser,1.31064908,1.28548899,
+NC_23_NU,Not useful,Trivia,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?,The Netherlands,1.81470745,0.5823498,
+NC_24_NU,Not useful,Trivia,What's been released five times a year from January 1999 to fall 2008?,State quarters,1.90382142,0.27263678,
+NC_25_NU,Not useful,Trivia,"What animal is thought to be immune to most all diseases, including cancer?",Shark,2.63033458,0.14984934,
+NC_26_NU,Not useful,Trivia,What is the only part of the body that can't repair itself?,Tooth,2.79386851,-0.0450704,
+NC_27_U,Useful,MTurk,Which creatures live in deep sea?,tk,,,
+NC_28_U,Useful,MTurk,What's the new technologies in future?,tk,,,
+NC_29_U,Useful,MTurk,How do I know if I'm happy?,tk,,,
+NC_30_U,Useful,MTurk,Does God exist?,tk,,,
+NC_31_U,Useful,MTurk,What is to happen ten years from now?,tk,,,
+NC_32_U,Useful,MTurk,What will happen in the year of 2050?,tk,,,
+NC_33_U,Useful,MTurk,How to make more money?,tk,,,
+NC_34_U,Useful,MTurk,How to stay calm in adversity?,tk,,,
+NC_35_U,Useful,MTurk,What is the composition of a black hole?,tk,,,
+NC_36_U,Useful,MTurk,How feasible would it be to colonize Antarctica?,tk,,,
+NC_37_U,Useful,MTurk,What are undersea researchers doing to explore the ocean floor?,tk,,,
+NC_38_U,Useful,MTurk,How much does it cost to launch a person into space?,tk,,,
+NC_39_U,Useful,MTurk,What will future humans look like?,tk,,,
+NC_40_U,Useful,MTurk,When will we have flying cars?,tk,,,
+NC_41_U,Useful,MTurk,Why don't space rockets take off from a plane already in the air?,tk,,,
+NC_42_U,Useful,MTurk,What popular 21st-century films are still based on Shakespeare?,tk,,,
+NC_43_U,Useful,MTurk,Are houses built better than they used to be?,tk,,,
+NC_44_U,Useful,MTurk,Is it really cheaper to cook at home vs. eating out?,tk,,,
+NC_45_U,Useful,MTurk,What do insurance companies do with the unreimbursed money they take in?,tk,,,
+NC_46_U,Useful,MTurk,Who gave the idea about human body structure?,tk,,,
+NC_47_U,Useful,MTurk,How was the recent picture of a black hole made?,tk,,,
+NC_48_U,Useful,MTurk,When could a lunar base be established?,tk,,,
+NC_49_U,Useful,MTurk,What are the most recent developments in artificial intelligence?,tk,,,
+NC_50_U,Useful,MTurk,How do galaxies form?,tk,,,
+NC_51_U,Useful,MTurk,How do planets form?,tk,,,
