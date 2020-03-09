@@ -2,19 +2,19 @@
 demographic_block = [{
     type: "survey-text",
     questions: [{
-        prompt: "How old are you?",
+        prompt: "<div id='instruct'>How old are you?</div>",
         columns: 20,
         rows: 1,
         value: ''
       },
       {
-        prompt: "What is your zip code?",
-        columns: 40,
+        prompt: "<div id='instruct'>What is your zip code?</div>",
+        columns: 20,
         rows: 1,
         value: ''
       },
       {
-        prompt: "What state do you live in?",
+        prompt: "<div id='instruct'>What state do you live in?</div>",
         columns: 20,
         rows: 1,
         value: ''
