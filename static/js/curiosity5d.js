@@ -34,7 +34,7 @@ for (i = 0; i < Math.ceil(five_d_items.length / 3); i++) {
   for (j = 0; j < 3; j++) {
     if (five_d_items[i * 3 + j]) {
       these_q.push({
-        prompt: five_d_items[i * 3 + j],
+        prompt: "<div id='instruct'>" + five_d_items[i * 3 + j] + "</div>",
         labels: ["1<br>Doesn't describe me at all", "2",
           "3", "4", "5", "6", "7<br>Completely describes me"
         ],

@@ -26,8 +26,6 @@ Implemented using the [jsPsych package](jspsych.org).
 
 ## To Do
 16. general questions
-1. 5d scale
-1. interest deprivation
 1. link to cdc faq at the end
 1. Vote republican democrat / don't know / won't vote
 1. Who's more likely to win
