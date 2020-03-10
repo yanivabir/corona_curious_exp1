@@ -25,19 +25,17 @@ Implemented using the [jsPsych package](jspsych.org).
 ```
 
 ## To Do
-5. Consider using database for data rather than saving locally on server with csv
-6. Initial data processing script
-11. Consider waiting time distribution
-13. Second session.
-14. prevent retakes
 16. general questions
 1. 5d scale
 1. interest deprivation
-1. stai
-1. how anxious do you feel in general
-1. how anxious do you feel now
 1. link to cdc faq at the end
 1. Vote republican democrat / don't know / won't vote
 1. Who's more likely to win
 1. Stock market %change
 1. ran ohad block
+
+5. Consider using database for data rather than saving locally on server with csv
+6. Initial data processing script
+11. Consider waiting time distribution
+13. Second session.
+14. prevent retakes
