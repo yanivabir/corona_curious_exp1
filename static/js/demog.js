@@ -1,5 +1,27 @@
 // Demographics etc
 demographic_block = [{
+    type: "survey-multi-choice",
+    questions:[{
+      prompt: "<div id='instruct'>Who will you vote for in the upcoming presidential elections?</div>",
+      options: ["President Trump", "The Democratic candidate", "Don't know",
+      "I won't vote"],
+      horizontal: true
+    }],
+    data: {
+      category: 'politics'
+    }
+  },
+  {
+    type: "html-slider-response",
+    stimulus: "<div id='instruct'>Who do you think is likely to win the next \
+    presidential elections?</div>",
+    labels: ["100% certain Trump", "Coin toss", "100% certain Democrat"],
+    require_movement: true,
+    data: {
+      category: 'politics'
+    }
+  },
+  {
     type: "survey-text",
     questions: [{
         prompt: "<div id='instruct'>How old are you?</div>",
