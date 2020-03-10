@@ -2,6 +2,7 @@
 
 // Parameters
 var maxStimDuration = 10000,
+  min_response_time = 1500,
   tooSlowTime = 1000,
   postTooSlowTime = 800,
   fixationTime = 500,
@@ -93,7 +94,7 @@ var wait_trial = [fullscreen_prompt, {
     }
   }, {
     // Question
-    type: 'html-button-response',
+    type: 'html-button-response-min-time',
     stimulus: jsPsych.timelineVariable('question'),
     choices: function() {
       return [
@@ -105,6 +106,7 @@ var wait_trial = [fullscreen_prompt, {
     margin_horizontal: "40px",
     margin_vertical: "80px",
     trial_duration: maxStimDuration,
+    min_response_time: minResponseTime,
     data: {
       category: 'wait_question',
       questionId: jsPsych.timelineVariable('questionId')

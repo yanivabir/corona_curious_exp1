@@ -41,3 +41,5 @@ Implemented using the [jsPsych package](jspsych.org).
 1. Vote republican democrat / don't know / won't vote
 1. Who's more likely to win
 1. Stock market %change
+1. ran ohad block
+1. fix drawing of practice questions
