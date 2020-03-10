@@ -114,7 +114,7 @@ function postLoad() {
       several tasks and answer multiple questions. Throuhgout the study, we are \
       interested in your own personal judgments, views and knowledge.</p>\
       <p>It is important that you stay engaged throuhgout this study. We will\
-      monitor the data for use of other apps, or lack of attention, and give \
+      monitor the data for use of other apps or lack of attention, and give \
       an extra $2 bonus for full engagement with the task.</p><p>Thank you for\
       participating!</p></div>",
       choices: ["Continue"],
