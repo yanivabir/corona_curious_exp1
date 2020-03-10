@@ -45,10 +45,12 @@ function postLoad() {
 
   // Separate 2 items for practice block - one from each type
   if (firstBlock == "corona") {
+    // Pick 1 from each type at random
     practice_items = jsPsych.randomization.shuffle(
       corona_items).filter(x => x['type'] == "Useful").splice(0,1).concat(
         jsPsych.randomization.shuffle(corona_items).filter(x =>
         x['type'] == "Not useful").splice(0,1));
+    // Remove them from corona list
     corona_items = corona_items.filter(x => !practice_items.includes(x));
   } else {
     practice_items = jsPsych.randomization.shuffle(
