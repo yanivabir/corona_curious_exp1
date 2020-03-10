@@ -38,7 +38,6 @@ Implemented using the [jsPsych package](jspsych.org).
 1. how anxious do you feel in general
 1. how anxious do you feel now
 1. link to cdc faq at the end
-1. pseudo random useful not useful order
 1. Vote republican democrat / don't know / won't vote
 1. Who's more likely to win
 1. Stock market %change

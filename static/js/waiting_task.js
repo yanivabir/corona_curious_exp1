@@ -278,7 +278,6 @@ function pseudoShuffle(items, types, bin_size = 6){
     this_add = jsPsych.randomization.shuffle(this_add);
 
     shuf_items = shuf_items.concat(this_add);
-    console.log(shuf_items)
   }
   return shuf_items
 }
