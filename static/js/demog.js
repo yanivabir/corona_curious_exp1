@@ -22,6 +22,21 @@ demographic_block = [{
     }
   },
   {
+    type: 'survey-text',
+    questions: [{
+        prompt: "<div id='instruct'><p>The S&P 500 is an index that tracks much \
+        of the American stock market.</p><p>Think of the current level of the S&P 500 \
+        as 100. Please write your best guess for the relative level of the S&P 500 \
+        in one month from now.</p></div>",
+        columns: 20,
+        rows: 1,
+        value: ''
+      }],
+      data: {
+        category: 'stock'
+      }
+  },
+  {
     type: "survey-text",
     questions: [{
         prompt: "<div id='instruct'>How old are you?</div>",

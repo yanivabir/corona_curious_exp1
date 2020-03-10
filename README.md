@@ -27,9 +27,6 @@ Implemented using the [jsPsych package](jspsych.org).
 ## To Do
 16. general questions
 1. link to cdc faq at the end
-1. Vote republican democrat / don't know / won't vote
-1. Who's more likely to win
-1. Stock market %change
 1. ran ohad block
 
 5. Consider using database for data rather than saving locally on server with csv
