@@ -77,11 +77,51 @@ corona_perception_block = [
     type: "survey-likert",
     questions: [
       {
+        prompt: "<div id='instruct'>How upset would you be if you find out that a close family member is infected with the new coronavirus?</div>",
+        labels: ["1<br>Not at all", "2", "3", "4", "5<br>Extremely upset"],
+        required: true,
+        name: "corona_upst,fmly"
+      },
+      {
+        prompt: "<div id='instruct'>How upset would you be if you find out that you are infected with the new coronavirus?</div>",
+        labels: ["1<br>Not at all", "2", "3", "4", "5<br>Extremely upset"],
+        required: true,
+        name: "corona_upst_me"
+      },
+      {
+        prompt: "<div id='instruct'>In the next few weeks, how much will your personal life change as a result of the new coronavirus epidemic?</div>",
+        labels: ["1<br>No change", "2", "3", "4", "5<br>Extreme change"],
+        required: true,
+        name: "corona_prsnl_change"
+      }],
+    scale_width: 400
+  },
+  {
+    type: "survey-likert",
+    questions: [
+      {
+        prompt: "<div id='instruct'>In the next few weeks, how much will the lives of people around you will change as a result of the new coronavirus epidemic?</div>",
+        labels: ["1<br>No change", "2", "3", "4", "5<br>Extreme change"],
+        required: true,
+        name: "corona_close_change"
+      },
+      {
+        prompt: "<div id='instruct'>In the next few weeks, how much will society change as a result of the new coronavirus epidemic?</div>",
+        labels: ["1<br>No change", "2", "3", "4", "5<br>Extreme change"],
+        required: true,
+        name: "corona_scty_change"
+      },
+      {
         prompt: "<div id='instruct'>How worried are you about being infected with the coronavirus?</div>",
         labels: ["1<br>Not at all", "2", "3", "4", "5<br>Very worried"],
         required: true,
         name: "corona_worried"
-      },
+      }],
+    scale_width: 400,
+  },
+  {
+    type: "survey-likert",
+    questions: [
       {
         prompt: "<div id='instruct'>How anxious do you feel about the possibility of losing your \
         life to the new coronavirus?</div>",

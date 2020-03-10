@@ -257,3 +257,28 @@ function drawTimes(items) {
   }
   return items
 }
+
+// Trial plan - shuffle keeping types even throughout
+function pseudoShuffle(items, types, bin_size = 6){
+
+  // Separate by type of question
+  var cond0 = items.filter(item => item["type"] == types[0]),
+    cond1 = items.filter(item => item["type"] == types[1]);
+
+  // Random order each type
+  cond0 = jsPsych.randomization.shuffle(cond0);
+  cond1 = jsPsych.randomization.shuffle(cond1);
+
+  var shuf_items = [];
+
+  for (i=0; i < Math.ceil(cond0.length / (bin_size / 2)); i++){
+    var this_add = cond0.slice(i * (bin_size / 2), i * (bin_size / 2) + (bin_size / 2)).concat(
+      cond1.slice(i * (bin_size / 2), i  * (bin_size / 2) + (bin_size / 2))
+    );
+    this_add = jsPsych.randomization.shuffle(this_add);
+
+    shuf_items = shuf_items.concat(this_add);
+    console.log(shuf_items)
+  }
+  return shuf_items
+}

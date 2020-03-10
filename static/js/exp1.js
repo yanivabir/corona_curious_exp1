@@ -44,8 +44,8 @@ Papa.parse("../static/corona_questions.csv", {
 function postLoad() {
 
   // Split items to curiosity and covariate ratings sets
-  corona_items = jsPsych.randomization.shuffle(corona_items);
-  general_items = jsPsych.randomization.shuffle(general_items);
+  corona_items = pseudoShuffle(corona_items, ["Useful", "Not useful"], 6);
+  general_items = pseudoShuffle(general_items, ["Useful", "Not useful"], 6);
 
   corona_items_curiosity = corona_items.slice(0,
     corona_items.length - n_for_covariates);
@@ -147,7 +147,7 @@ function postLoad() {
       In this study we were interested in people\'s curiosity about different \
       types of questions.</p>\
       <p>All the coronavirus related information you viewed in the course of \
-      this study were based on the current state of scientific knowledge, and \
+      this study was based on the current state of scientific knowledge, and \
       on recommendations made by the Center for Disease Control and Prevention \
       (CDC).</p>\
       <p>You will recieve an email invitiation for the next session early next week.</p>\
