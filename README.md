@@ -41,3 +41,4 @@ Implemented using the [jsPsych package](jspsych.org).
 1. Who's more likely to win
 1. Stock market %change
 1. ran ohad block
+1. bonus good behaviour

@@ -82,6 +82,23 @@ function check_fullscreen(){
   }
 }
 
+// Save data to file functions
+function saveData(PID, sess, part, data, onComplete = function() {}, type = 'csv') {
+  console.log(onComplete)
+  var d = new Date;
+  name = 'S' + PID + '_sess' + sess + '_' + d.toISOString().slice(0, 10) +
+    part + '.' + type;
+  var xhr = new XMLHttpRequest();
+  xhr.addEventListener("load", onComplete);
+  xhr.open('POST', 'write_data.php');
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send(JSON.stringify({
+    filename: name,
+    filedata: data
+  }));
+}
+
+
 // Focus policing
 // var focusblur = [kick_out,
 //   {
@@ -125,19 +142,3 @@ function check_fullscreen(){
 //   }
 //   return false
 // }
-
-// Save data to file functions
-function saveData(PID, sess, part, data, onComplete = function() {}, type = 'csv') {
-  console.log(onComplete)
-  var d = new Date;
-  name = 'S' + PID + '_sess' + sess + '_' + d.toISOString().slice(0, 10) +
-    part + '.' + type;
-  var xhr = new XMLHttpRequest();
-  xhr.addEventListener("load", onComplete);
-  xhr.open('POST', 'write_data.php');
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send(JSON.stringify({
-    filename: name,
-    filedata: data
-  }));
-}

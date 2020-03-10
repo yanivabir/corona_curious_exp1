@@ -53,13 +53,14 @@ function postLoad() {
     // Remove them from corona list
     corona_items = corona_items.filter(x => !practice_items.includes(x));
   } else {
+    // Pick 1 from each type at random
     practice_items = jsPsych.randomization.shuffle(
       general_items).filter(x => x['type'] ==
       "Useful").splice(0,1).concat(jsPsych.randomization.shuffle(general_items).filter(x =>
         x['type'] == "Not useful").splice(0,1));
+    // Remove them from general list
     general_items = general_items.filter(x => !practice_items.includes(x));
   }
-
 
   // Split items to curiosity and covariate ratings sets
   corona_items = pseudoShuffle(corona_items, ["Useful", "Not useful"], 6);
@@ -105,6 +106,23 @@ function postLoad() {
         version: version
       });
     }
+  }
+
+  var welcome = {
+    type: "html-button-response",
+    stimulus: "<div id='instruct'><p>In this study, you will be asked to \
+      several tasks and answer multiple questions. Throuhgout the study, we are \
+      interested in your own personal judgments, views and knowledge.</p>\
+      <p>It is important that you stay engaged throuhgout this study. We will\
+      monitor the data for use of other apps, or lack of attention, and give \
+      an extra $2 bonus for full engagement with the task.</p><p>Thank you for\
+      participating!</p></div>",
+      choices: ["Continue"],
+      margin_vertical: "80px",
+      data: {
+        category: 'welcome'
+      },
+      post_trial_gap: 200
   }
 
   // Build waiting task blocks
@@ -220,6 +238,7 @@ function postLoad() {
   // Put it all together
   var experiment = [];
   experiment.push(fullscreen);
+  experiment.push(welcome);
   experiment.push(wait_instructions1);
   experiment.push(wait_practice_block);
   experiment.push(wait_instructions_post_practice);
