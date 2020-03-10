@@ -31,7 +31,6 @@ Implemented using the [jsPsych package](jspsych.org).
 13. Second session.
 14. prevent retakes
 16. general questions
-17. minimum decision time wait task
 1. 5d scale
 1. interest deprivation
 1. stai
@@ -42,4 +41,3 @@ Implemented using the [jsPsych package](jspsych.org).
 1. Who's more likely to win
 1. Stock market %change
 1. ran ohad block
-1. fix drawing of practice questions

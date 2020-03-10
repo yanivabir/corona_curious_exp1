@@ -43,6 +43,22 @@ Papa.parse("../static/corona_questions.csv", {
 // csv file
 function postLoad() {
 
+  // Separate 2 items for practice block - one from each type
+  if (firstBlock == "corona") {
+    practice_items = jsPsych.randomization.shuffle(
+      corona_items).filter(x => x['type'] == "Useful").splice(0,1).concat(
+        jsPsych.randomization.shuffle(corona_items).filter(x =>
+        x['type'] == "Not useful").splice(0,1));
+    corona_items = corona_items.filter(x => !practice_items.includes(x));
+  } else {
+    practice_items = jsPsych.randomization.shuffle(
+      general_items).filter(x => x['type'] ==
+      "Useful").splice(0,1).concat(jsPsych.randomization.shuffle(general_items).filter(x =>
+        x['type'] == "Not useful").splice(0,1));
+    general_items = general_items.filter(x => !practice_items.includes(x));
+  }
+
+
   // Split items to curiosity and covariate ratings sets
   corona_items = pseudoShuffle(corona_items, ["Useful", "Not useful"], 6);
   general_items = pseudoShuffle(general_items, ["Useful", "Not useful"], 6);
@@ -56,13 +72,6 @@ function postLoad() {
     general_items.length - n_for_covariates);
   general_items_covariate = general_items.slice(
     general_items.length - n_for_covariates, general_items.length);
-
-  // Separate for practice block
-  if (firstBlock == "corona") {
-    practice_items = corona_items_curiosity.splice(0, 2);
-  } else {
-    practice_items = general_items_curiosity.splice(0, 2);
-  }
 
   // Set timing parameters for waiting task practice block
   practice_items[0]["wait_time"] = waits[1];
