@@ -2,7 +2,7 @@
 
 // Parameters
 var maxStimDuration = 10000,
-  min_response_time = 1500,
+  minResponseTime = 1500,
   tooSlowTime = 1000,
   postTooSlowTime = 800,
   fixationTime = 500,
