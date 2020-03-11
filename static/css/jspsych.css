@@ -6,6 +6,11 @@
  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
 
+#satsifaction_prompt{
+  font-size: 90%;
+  color: #444444
+}
+
 #instruct{
   text-align: left;
   max-width: 800px;

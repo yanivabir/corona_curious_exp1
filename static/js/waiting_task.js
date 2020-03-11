@@ -3,6 +3,7 @@
 // Parameters
 var maxStimDuration = 10000,
   minResponseTime = 1500,
+  satisfactionMaxTime = 3500,
   tooSlowTime = 1000,
   maxAnswerTime = 7000,
   postTooSlowTime = 800,
@@ -55,19 +56,28 @@ var wait_trial_answer = [{
   },
   {
     // Satisfaction rating
-    type: "survey-likert",
-    preamble: "Was the answer worth the wait?",
-    scale_width: 400,
-    questions: [{
-      prompt: "",
-      labels: ["1<br>Not at all", "2", "3", "4", "5<br>Extremely worth it"],
-      required: true,
-      name: "satisfaction"
-    }],
+    type: "html-button-response",
+    stimulus: "Was the answer worth the wait?",
+    choices: ["1", "2", "3", "4", "5"],
     post_trial_gap: jsPsych.timelineVariable('ITI_next'),
+    trial_duration: satisfactionMaxTime,
+    prompt: "<div id='satsifaction_prompt'><i>1</i> = Not at all, <i>5</i> = Extremely worth it</div>",
+    margin_horizontal: "30px",
+    margin_vertical: "80px",
     data: {
       category: "wait_satisfaction",
       ITI_next: jsPsych.timelineVariable('ITI_next')
+    }
+  },
+  {
+    timeline: too_slow,
+    conditional_function: function() {
+      // Got to answer only if wait selected
+      var resp = jsPsych.data.get().filter({
+        category: "wait_satisfaction"
+      }).last(1).select("button_pressed").values[0]
+
+      return resp == null ? true : false
     }
   }
 ];
