@@ -47,6 +47,9 @@ Papa.parse("../static/corona_questions.csv", {
   }
 });
 
+var experiment = [];
+
+
 // Execute all of this experiment prep and run after we load items from local
 // csv file
 function postLoad() {
@@ -142,22 +145,22 @@ function postLoad() {
 
   // Build waiting task blocks
   wait_practice_block = {
-    timeline: wait_trial,
+    timeline: wait_timeline,
     timeline_variables: practice_items
   }
 
   wait_block1 = {
-    timeline: wait_trial,
+    timeline: wait_timeline,
     timeline_variables: firstBlock == "corona" ? corona_items_curiosity : general_items_curiosity
   }
 
   wait_block2 = {
-    timeline: wait_trial,
+    timeline: wait_timeline,
     timeline_variables: firstBlock == "corona" ? general_items_curiosity : corona_items_curiosity
   }
 
   wait_block3 = {
-    timeline: wait_trial,
+    timeline: wait_timeline,
     timeline_variables: third_block_items_curiosity
   }
 
@@ -258,12 +261,11 @@ function postLoad() {
 
 
   // Put it all together
-  var experiment = [];
   experiment.push(fullscreen);
-  experiment.push(welcome);
-  experiment = experiment.concat(wait_instructions1);
-  experiment.push(wait_practice_block);
-  experiment.push(wait_instructions_post_practice);
+  // experiment.push(welcome);
+  // experiment = experiment.concat(wait_instructions1);
+  // experiment.push(wait_practice_block);
+  // experiment.push(wait_instructions_post_practice);
   experiment.push(wait_block1);
   experiment.push(wait_instructions2);
   experiment.push(wait_block2);

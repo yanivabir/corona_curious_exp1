@@ -7,7 +7,7 @@ var maxStimDuration = 10000,
   maxAnswerTime = 7000,
   postTooSlowTime = 800,
   fixationTime = 500,
-  maxTaskTime = 0.1,
+  maxTaskTime = 2.5,
   waits = [4, 8, 12, 16],
   ITI_range = [500, 1200];
 
@@ -34,7 +34,7 @@ var wait_trial_answer = [{
     type: 'html-keyboard-response',
     stimulus: '<div id="fixation">...</div>',
     choices: jsPsych.NO_KEYS,
-    trial_duration: function(){
+    trial_duration: function() {
       return jsPsych.timelineVariable('wait_time', true) * 1000
     },
     data: {
@@ -68,12 +68,6 @@ var wait_trial_answer = [{
     data: {
       category: "wait_satisfaction",
       ITI_next: jsPsych.timelineVariable('ITI_next')
-    },
-    on_finish: function(data) {
-      if (Date.now() > data.wait_start_time + maxTaskTime * 60 * 1000) {
-        console.log('here')
-        jsPsych.endCurrentTimeline();
-      }
     }
   }
 ];
@@ -87,14 +81,6 @@ var wait_trial = [fullscreen_prompt, {
     data: {
       category: 'wait_fixation'
     },
-    on_start: function() {
-      var start = jsPsych.data.get().last(1).select("wait_start_time").values[0]
-      if (!(start > 0)) {
-        jsPsych.data.addProperties({
-          wait_start_time: Date.now()
-        });
-      }
-    }
   }, {
     // Question
     type: 'html-button-response-min-time',
@@ -138,18 +124,16 @@ var wait_trial = [fullscreen_prompt, {
     }
   },
   {
-    timeline: [
-      {
-        type: "html-keyboard-response",
-        stimulus: "",
-        choices: jsPsych.NO_KEYS,
-        trial_duration: jsPsych.timelineVariable('ITI_next'),
-        data: {
-          category: "wait_skip_ITI",
-          ITI_next: jsPsych.timelineVariable('ITI_next')
-        }
+    timeline: [{
+      type: "html-keyboard-response",
+      stimulus: "",
+      choices: jsPsych.NO_KEYS,
+      trial_duration: jsPsych.timelineVariable('ITI_next'),
+      data: {
+        category: "wait_skip_ITI",
+        ITI_next: jsPsych.timelineVariable('ITI_next')
       }
-    ],
+    }],
     conditional_function: function() {
       // If skipped or know - add ITI here
       var resp = jsPsych.data.get().filter({
@@ -161,86 +145,109 @@ var wait_trial = [fullscreen_prompt, {
   }
 ];
 
-// Instructions
-var wait_instructions1 = [{
-  timeline: [{
-      type: 'instructions',
-      pages: ['<div id="instruct"><p>You will now do a computer task about curiosity. Press the <i>Next</i> button to read the instructions for this task.</p></div>',
-        '<div id="instruct"><p>In this task, you will be shown a series of trivia questions. For each question, you must decide if you want to know the answer to the question.<br></p><p>If you want to find out the answer, you will have to wait a certain amount of time.</p><p>If you do not want to wait to see the answer, you can choose to skip the question.</p><p>If you are 100% certain that you already know the answer to the question, you may indicate that you already know it.</p><p>If you choose to skip or indicate that you know the answer, you will NOT see the answer to the question.</p></div>',
-        '<div id="instruct"><p>When you are first shown the trivia question, the screen will look like this:<p>\
-  <center><img width="50%" src="../static/images/wait_instructions.jpg" border="1"></center>\
-  <p>You will use the mouse to indicate that you would like to wait for the answer, skip the question, or that you know its answer.</p></div>',
-        '<div id="instruct"><p>If you choose to wait for a question, you will be asked to rate if the answer was worth waiting for on a scale of 1 = not worth it up to 5 = extremely worth it.</p></div>',
-        '<div id="instruct"><p>The task will continue for ' + maxTaskTime + ' minutes. The task takes the same amount of time regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
-        '<div id="instruct"><p>You will soon do a short practice version to get comfortable with the task. Please use this time to get used to pressing the different buttons and to the amount of time you have to respond to the different prompts.<p></div>',
-        '<div id="instruct"><p>You will first be asked to answer some questions to ensure that you understood the instructions.</p>\
-  <p>Please answer to the best of your ability.</p>\
-  <p>If you miss a question, you will be sent back to review the instructions and re-take the test. You must get all questions correct before you can move on to the practice round of the task.</p></div>'
-      ],
-      show_clickable_nav: true,
-      allow_keys: false,
-      data: {
-        category: "wait_instructions1"
-      }
-    },
-    {
-      type: 'survey-multi-choice',
-      questions: [{
-          prompt: 'If I choose "SKIP" or "KNOW," I will not see the answer to the trivia question.',
-          options: ['True', 'False'],
-          required: true,
-          horizontal: true
-        },
-        {
-          prompt: 'The trivia task will take ' + maxTaskTime +
-          ' minutes, regardless of whether I press SKIP, KNOW, or WAIT.',
-          options: ['True', 'False'],
-          required: true,
-          horizontal: true
-        },
-        {
-          prompt: 'I should press KNOW only if I\'m 100% sure I know the answer to the question.',
-          options: ['True', 'False'],
-          required: true,
-          horizontal: true
-        }
-      ],
-      randomize_question_order: true,
-      preamble: 'Please answer these questions:'
-    }
-  ],
-  loop_function: function() {
-    var resps = JSON.parse(jsPsych.data.get().last(1).select("responses").values[0]);
-    for (i = 0; i < 3; i++) {
-      if (resps["Q" + i] == "False") {
-        return true
-      }
+var wait_timeline = [{
+  timeline: wait_trial,
+  conditional_function: function() {
+    data = jsPsych.data.get().last(1).values()[0];
+    if (Date.now() < data.wait_start_time + maxTaskTime * 60 * 1000) {
+      return true
     }
     return false
   }
-},
-{
-  type: "html-button-response",
-  stimulus: "<div id='instruct'>Press <i>Continue</i> to start the short training block.</div>",
-  choices: ["Continue"],
-  margin_vertical: "80px",
-  data: {
-    category: 'wait_answer'
-  },
-  post_trial_gap: 200
 }];
+
+// Instructions
+var wait_instructions1 = [{
+    timeline: [{
+        type: 'instructions',
+        pages: ['<div id="instruct"><p>You will now do a computer task about curiosity. Press the <i>Next</i> button to read the instructions for this task.</p></div>',
+          '<div id="instruct"><p>In this task, you will be shown a series of trivia questions. For each question, you must decide if you want to know the answer to the question.<br></p><p>If you want to find out the answer, you will have to wait a certain amount of time.</p><p>If you do not want to wait to see the answer, you can choose to skip the question.</p><p>If you are 100% certain that you already know the answer to the question, you may indicate that you already know it.</p><p>If you choose to skip or indicate that you know the answer, you will NOT see the answer to the question.</p></div>',
+          '<div id="instruct"><p>When you are first shown the trivia question, the screen will look like this:<p>\
+  <center><img width="50%" src="../static/images/wait_instructions.jpg" border="1"></center>\
+  <p>You will use the mouse to indicate that you would like to wait for the answer, skip the question, or that you know its answer.</p></div>',
+          '<div id="instruct"><p>If you choose to wait for a question, you will be asked to rate if the answer was worth waiting for on a scale of 1 = not worth it up to 5 = extremely worth it.</p></div>',
+          '<div id="instruct"><p>The task will continue for ' + maxTaskTime + ' minutes. The task takes the same amount of time regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
+          '<div id="instruct"><p>You will soon do a short practice version to get comfortable with the task. Please use this time to get used to pressing the different buttons and to the amount of time you have to respond to the different prompts.<p></div>',
+          '<div id="instruct"><p>You will first be asked to answer some questions to ensure that you understood the instructions.</p>\
+  <p>Please answer to the best of your ability.</p>\
+  <p>If you miss a question, you will be sent back to review the instructions and re-take the test. You must get all questions correct before you can move on to the practice round of the task.</p></div>'
+        ],
+        show_clickable_nav: true,
+        allow_keys: false,
+        data: {
+          category: "wait_instructions1"
+        }
+      },
+      {
+        type: 'survey-multi-choice',
+        questions: [{
+            prompt: 'If I choose "SKIP" or "KNOW," I will not see the answer to the trivia question.',
+            options: ['True', 'False'],
+            required: true,
+            horizontal: true
+          },
+          {
+            prompt: 'The trivia task will take ' + maxTaskTime +
+              ' minutes, regardless of whether I press SKIP, KNOW, or WAIT.',
+            options: ['True', 'False'],
+            required: true,
+            horizontal: true
+          },
+          {
+            prompt: 'I should press KNOW only if I\'m 100% sure I know the answer to the question.',
+            options: ['True', 'False'],
+            required: true,
+            horizontal: true
+          }
+        ],
+        randomize_question_order: true,
+        preamble: 'Please answer these questions:'
+      }
+    ],
+    loop_function: function() {
+      var resps = JSON.parse(jsPsych.data.get().last(1).select("responses").values[0]);
+      for (i = 0; i < 3; i++) {
+        if (resps["Q" + i] == "False") {
+          return true
+        }
+      }
+      return false
+    }
+  },
+  {
+    type: "html-button-response",
+    stimulus: "<div id='instruct'>Press <i>Continue</i> to start the short training block.</div>",
+    choices: ["Continue"],
+    margin_vertical: "80px",
+    data: {
+      category: 'wait_answer'
+    },
+    post_trial_gap: 200,
+    on_finish: function() {
+      jsPsych.data.addProperties({
+        wait_start_time: Date.now()
+      });
+    }
+  },
+];
 
 var wait_instructions_post_practice = {
   type: "instructions",
   pages: ['<div id="instruct"><p>You will now begin the full version of the \
   task. The task will continue for ' + maxTaskTime + ' minutes.</p>\
   <p><b>Please remain focused on this task for the next ' + maxTaskTime +
-  ' minutes. We are able to note when participants click away from the task \
-  and we will review all data before approving the HIT.</b></p></div>'],
+    ' minutes. We are able to note when participants click away from the task \
+  and we will review all data before approving the HIT.</b></p></div>'
+  ],
   show_clickable_nav: true,
   allow_keys: false,
   data: {
     category: "wait_instructions_post_practice"
+  },
+  on_finish: function() {
+    jsPsych.data.addProperties({
+      wait_start_time: Date.now()
+    });
   }
 }
 
@@ -257,6 +264,11 @@ var wait_instructions2 = {
   allow_keys: false,
   data: {
     category: "wait_instructions1"
+  },
+  on_finish: function() {
+    jsPsych.data.addProperties({
+      wait_start_time: Date.now()
+    });
   }
 };
 
@@ -274,7 +286,7 @@ function drawTimes(items) {
 }
 
 // Trial plan - shuffle keeping types even throughout
-function pseudoShuffle(items, types, bin_size = 6){
+function pseudoShuffle(items, types, bin_size = 6) {
 
   // Separate by type of question
   var cond0 = items.filter(item => item["type"] == types[0]),
@@ -286,9 +298,9 @@ function pseudoShuffle(items, types, bin_size = 6){
 
   var shuf_items = [];
 
-  for (i=0; i < Math.ceil(cond0.length / (bin_size / 2)); i++){
+  for (i = 0; i < Math.ceil(cond0.length / (bin_size / 2)); i++) {
     var this_add = cond0.slice(i * (bin_size / 2), i * (bin_size / 2) + (bin_size / 2)).concat(
-      cond1.slice(i * (bin_size / 2), i  * (bin_size / 2) + (bin_size / 2))
+      cond1.slice(i * (bin_size / 2), i * (bin_size / 2) + (bin_size / 2))
     );
     this_add = jsPsych.randomization.shuffle(this_add);
 
