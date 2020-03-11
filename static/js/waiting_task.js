@@ -190,6 +190,9 @@ var wait_instructions1 = [{
       },
       {
         type: 'survey-multi-choice',
+        data: {
+          category: "wait_instructions_quiz"
+        },
         questions: [{
             prompt: 'If I choose "SKIP" or "KNOW," I will not see the answer to the trivia question.',
             options: ['True', 'False'],
@@ -268,7 +271,7 @@ var wait_instructions2 = {
     ' minuets long, regardless of how many questions you choose to skip or wait \
     for, so please base your decisions on how interested you are in learning \
     the answers.</p></div>',
-    '<div id="instruct"><p>Press the <i>Next</i> button to begin the second round of the task.</p></div>'
+    '<div id="instruct"><p>Press the <i>Next</i> button to begin the next round of the task.</p></div>'
   ],
   show_clickable_nav: true,
   allow_keys: false,

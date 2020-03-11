@@ -50,6 +50,9 @@ for (i = 0; i < Math.ceil(five_d_items.length / 3); i++) {
     preamble: "<div id='instruct'>Below are statements people often use to describe themselves. Please use the scale below to indicate the degree to which these statements accurately describe you. There are no right or wrong answers.</div>",
     questions: these_q,
     scale_width: 400,
-    post_trial_gap: 200
+    post_trial_gap: 200,
+    data:{
+      category: "curiosity_5d"
+    }
   });
 }

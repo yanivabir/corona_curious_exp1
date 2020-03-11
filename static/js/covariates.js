@@ -57,7 +57,7 @@ var covariate_trial = [fullscreen_prompt,
     type: "survey-likert",
     preamble: function() {
       return "<p><i>" + jsPsych.timelineVariable('question', true) + "</i></p>\
-      <p>The information in the question above is…</p>"
+      <p>The answer to the question above is…</p>"
     },
     questions: function() {
       return jsPsych.timelineVariable('probes', true).slice(0, 3)

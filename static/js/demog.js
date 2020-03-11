@@ -58,7 +58,7 @@ demographic_block = [{
       }
     ],
     data: {
-      category: 'debrief'
+      category: 'demographics'
     }
   }, {
     type: "survey-multi-choice",
@@ -94,7 +94,7 @@ demographic_block = [{
       }
     ],
     data: {
-      category: 'debrief'
+      category: 'demographics'
     }
   },
   {
@@ -106,7 +106,7 @@ demographic_block = [{
     }],
     scale_width: 400,
     data: {
-      category: 'debrief'
+      category: 'demographics'
     }
   }
 ]

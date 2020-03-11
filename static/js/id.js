@@ -36,6 +36,9 @@ for (i = 0; i < Math.ceil(id_items.length / 3); i++) {
     preamble: "<div id='instruct'>A number of statements that people use to describe themselves are given below. Read each statement and then select the appropriate response to indicate how you <u>generally</u> feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer that seems to describe how you <u>generally</u> feel.</div>",
     questions: these_q,
     scale_width: 400,
-    post_trial_gap: 200
+    post_trial_gap: 200,
+    data: {
+      category: "interest_deprivation"
+    }
   });
 }

@@ -24,7 +24,10 @@ var anxiety = [{
         name: "anxiety_upset"
       }
     ],
-    post_trial_gap: 200
+    post_trial_gap: 200,
+    data: {
+      category: "anxiety"
+    }
   },
   {
     type: "survey-likert",
@@ -50,7 +53,10 @@ var anxiety = [{
         name: "anxiety_worry"
       }
     ],
-    post_trial_gap: 200
+    post_trial_gap: 200,
+    data: {
+      category: "anxiety"
+    }
   },
   {
     type: "survey-likert",
@@ -65,6 +71,9 @@ var anxiety = [{
         name: "anxious now"
       }
     ],
-    post_trial_gap: 200
+    post_trial_gap: 200,
+    data: {
+      category: "anxiety"
+    }
   }
 ]

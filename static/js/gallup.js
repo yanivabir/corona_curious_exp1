@@ -96,6 +96,9 @@ var gallup_block = []
 for (i=0; i<Math.ceil(gallup_questions.length / 3); i++){
   gallup_block.push({
     type: 'survey-multi-choice',
+    data: {
+      category: "gallup"
+    },
     questions: gallup_questions.slice(i * 3, i * 3 + 3)
   })
 }

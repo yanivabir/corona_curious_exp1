@@ -200,7 +200,7 @@ function postLoad() {
       types of questions.</p>\
       <p>All the coronavirus related information you viewed in the course of \
       this study was based on the current state of scientific knowledge, and \
-      on recommendations made by the <a href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html">Center for Disease Control and Prevention</a> \
+      on recommendations made by the Center for Disease Control and Prevention \
       (CDC).</p>\
       <p>We will process your data witin 48h and grant you an extra $2 to any \
       participant that stayed engaged throughout the task.</p>\
@@ -233,6 +233,9 @@ function postLoad() {
     },
     {
       type: "html-keyboard-response",
+      data: {
+        category: "save_data"
+      },
       stimulus: "<div class='instructions'><p>Data uploading. To ensure proper completion \
       of the experiment, please don't refresh, \
       close your browser or open another tab.\
@@ -251,6 +254,9 @@ function postLoad() {
     },
     {
       type: "html-keyboard-response",
+      data: {
+        category: "data_saved"
+      },
       stimulus: "<div class='instructions'><p>Your results have successfully uploaded.</p>\
     <p>Your completion code for this study is: <br> <b>EK64HN7</b></p>\
     <p>Use it to submit this HIT on MTurk.</p>\

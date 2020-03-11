@@ -12,7 +12,7 @@ C_10_NU,Not useful,"What is the population of Wuhan, the city in which coronavir
 C_11_NU,Not useful,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?",The Chicago of China,wikipedia:wuhan
 C_12_NU,Not useful,What was the name of the British cruise ship that was quarantined in Japanese waters?,Diamond Princess,wikipedia:Diamond Princess (ship)
 C_13_NU,Not useful,"Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?","The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals",
-C_14_NU,Not useful,On what date did the World Health Organization declare the outbreak to be a Public Health Emergency of International Concern?,"January 30, 2020",
+C_14_NU,Not useful,On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?,"January 30, 2020",
 C_15_NU,Not useful,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?",7.5 days,RH: info maybe? if you want to evaluate risk?
 C_16_NU,Not useful,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?,Bats and pangolins,wikipedia:2019–20 coronavirus outbreak
 C_17_NU,Not useful,"The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?","Locations, people, or animals",
@@ -26,7 +26,7 @@ C_24_NU,Not useful,"According to media reports, which 2011 movie has seen a larg
 C_25_NU,Not useful,What is the supposed origin of the name coronavirus?,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),
 C_26_NU,Not useful,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?,Severe acute respiratory syndrome,
 C_27_U,Useful,What is the most effective measure to prevent infection with the coronavirus?,Washing your hands frequently,
-C_28_U,Useful,"Does sleep help boost the immune system, and thus prevent coronavirus infections?",Yes,RH: explicitly tie to corona
+C_28_U,Useful,Does sleep help prevent coronavirus infections?,"Yes, by boosting the immune system",RH: explicitly tie to corona
 C_29_U,Useful,How soon is a vaccine for the coronavirus likely to be available?,Not for at least several months from now,
 C_30_U,Useful,"Are the coronavirus symptoms similar to, or different from, seasonal flu?",Similar,https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
 C_31_U,Useful,Can the coronavirus be transmitted through sexual intercourse?,Probably not but it's too soon to be sure,https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html

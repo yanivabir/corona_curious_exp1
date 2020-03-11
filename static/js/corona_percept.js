@@ -2,6 +2,9 @@
 corona_perception_block = [
   {
     type: "survey-multi-choice",
+    data:{
+      category: "corona_percept"
+    },
     questions: [
       {
         prompt: "Have you been infected with the new coronavirus?",
@@ -16,6 +19,9 @@ corona_perception_block = [
     timeline:[
       {
         type: "survey-multi-choice",
+        data:{
+          category: "corona_percept"
+        },
         questions: [
           {
             prompt: "Have you been diagnosed by a COVID-19 test?",
@@ -33,6 +39,9 @@ corona_perception_block = [
       },
       {
         type: "survey-text",
+        data:{
+          category: "corona_percept"
+        },
         questions: [{
             prompt: "<div id='instruct'>How long ago were you infected?</div>",
             columns: 60,
@@ -49,6 +58,9 @@ corona_perception_block = [
   },
   {
     type: "survey-multi-choice",
+    data:{
+      category: "corona_percept"
+    },
     questions: [
       {
         prompt: "Do you personally know anyone infected with the new coronavirus?",
@@ -75,6 +87,9 @@ corona_perception_block = [
   },
   {
     type: "survey-likert",
+    data:{
+      category: "corona_percept"
+    },
     questions: [
       {
         prompt: "<div id='instruct'>How upset would you be if you find out that a close family member is infected with the new coronavirus?</div>",
@@ -98,6 +113,9 @@ corona_perception_block = [
   },
   {
     type: "survey-likert",
+    data:{
+      category: "corona_percept"
+    },
     questions: [
       {
         prompt: "<div id='instruct'>In the next few weeks, how much will the lives of people around you will change as a result of the new coronavirus epidemic?</div>",
@@ -121,6 +139,9 @@ corona_perception_block = [
   },
   {
     type: "survey-likert",
+    data:{
+      category: "corona_percept"
+    },
     questions: [
       {
         prompt: "<div id='instruct'>How anxious do you feel about the possibility of losing your \
