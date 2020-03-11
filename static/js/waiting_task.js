@@ -159,7 +159,7 @@ var wait_trial = [fullscreen_prompt, {
 ];
 
 // Instructions
-var wait_instructions1 = {
+var wait_instructions1 = [{
   timeline: [{
       type: 'instructions',
       pages: ['<div id="instruct"><p>You will now do a computer task about curiosity. Press the <i>Next</i> button to read the instructions for this task.</p></div>',
@@ -215,7 +215,17 @@ var wait_instructions1 = {
     }
     return false
   }
-};
+},
+{
+  type: "html-button-response",
+  stimulus: "<div id='instruct'>Press <i>Continue</i> to start the short training block.</div>",
+  choices: ["Continue"],
+  margin_vertical: "80px",
+  data: {
+    category: 'wait_answer'
+  },
+  post_trial_gap: 200
+}];
 
 var wait_instructions_post_practice = {
   type: "instructions",

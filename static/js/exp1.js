@@ -261,7 +261,7 @@ function postLoad() {
   var experiment = [];
   experiment.push(fullscreen);
   experiment.push(welcome);
-  experiment.push(wait_instructions1);
+  experiment = experiment.concat(wait_instructions1);
   experiment.push(wait_practice_block);
   experiment.push(wait_instructions_post_practice);
   experiment.push(wait_block1);
