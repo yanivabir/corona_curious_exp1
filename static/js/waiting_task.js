@@ -4,6 +4,7 @@
 var maxStimDuration = 10000,
   minResponseTime = 1500,
   tooSlowTime = 1000,
+  maxAnswerTime = 7,
   postTooSlowTime = 800,
   fixationTime = 500,
   maxTaskTime = 2.5,
@@ -46,6 +47,7 @@ var wait_trial_answer = [{
     stimulus: jsPsych.timelineVariable('answer'),
     choices: ["Continue"],
     margin_vertical: "80px",
+    trial_duration: maxAnswerTime,
     data: {
       category: 'wait_answer'
     },
