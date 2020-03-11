@@ -38,7 +38,7 @@ for (i = 0; i < Math.ceil(five_d_items.length / 3); i++) {
         labels: ["1<br>Doesn't describe me at all", "2",
           "3", "4", "5", "6", "7<br>Completely describes me"
         ],
-        name: "5d_" + i * 3 + j,
+        name: "5d_" + (i * 3 + j),
         required: true
       });
     }

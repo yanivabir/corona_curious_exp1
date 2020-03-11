@@ -46,7 +46,8 @@ corona_perception_block = [
             prompt: "<div id='instruct'>How long ago were you infected?</div>",
             columns: 60,
             rows: 1,
-            value: ''
+            value: '',
+            name: "corona_duration_infctd"
           },
         ]
       }

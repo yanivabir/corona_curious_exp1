@@ -24,7 +24,7 @@ for (i = 0; i < Math.ceil(id_items.length / 3); i++) {
         labels: ["Almost Never", "Sometimes",
           "Often", "Almost Always"
         ],
-        name: "id_" + i * 3 + j + 1,
+        name: "id_" + (i * 3 + j + 1),
         required: true
       });
     }
