@@ -33,7 +33,15 @@ Papa.parse("../static/corona_questions.csv", {
       dynamicTyping: true,
       complete: function(results) {
         general_items = results.data;
-        postLoad();
+        Papa.parse("../static/third_block.csv", {
+          download: true,
+          header: true,
+          dynamicTyping: true,
+          complete: function(results) {
+            third_block_items = results.data;
+            postLoad();
+          }
+        });
       }
     });
   }
@@ -65,6 +73,7 @@ function postLoad() {
   // Split items to curiosity and covariate ratings sets
   corona_items = pseudoShuffle(corona_items, ["Useful", "Not useful"], 6);
   general_items = pseudoShuffle(general_items, ["Useful", "Not useful"], 6);
+  third_block_items = pseudoShuffle(third_block_items, ["Trivia", "MTurk"], 6);
 
   corona_items_curiosity = corona_items.slice(0,
     corona_items.length - n_for_covariates);
@@ -75,6 +84,11 @@ function postLoad() {
     general_items.length - n_for_covariates);
   general_items_covariate = general_items.slice(
     general_items.length - n_for_covariates, general_items.length);
+
+  third_block_items_curiosity = third_block_items.slice(0,
+    third_block_items.length - n_for_covariates);
+  third_block_items_covariate = third_block_items.slice(
+    third_block_items.length - n_for_covariates, third_block_items.length);
 
   // Set timing parameters for waiting task practice block
   practice_items[0]["wait_time"] = waits[1];
@@ -87,6 +101,7 @@ function postLoad() {
   // Draw timing parameters for waiting task
   corona_items_curiosity = drawTimes(corona_items_curiosity);
   general_items_curiosity = drawTimes(general_items_curiosity);
+  third_block_items_curiosity = drawTimes(third_block_items_curiosity);
 
   // Fullscreen experiment, save PID, counterbalancing
   var fullscreen = {
@@ -141,8 +156,13 @@ function postLoad() {
     timeline_variables: firstBlock == "corona" ? general_items_curiosity : corona_items_curiosity
   }
 
+  wait_block3 = {
+    timeline: wait_trial,
+    timeline_variables: third_block_items_curiosity
+  }
+
   // Building covariate rating block
-  var items_covariate = corona_items_covariate.concat(general_items_covariate);
+  var items_covariate = corona_items_covariate.concat(general_items_covariate).concat(third_block_items_covariate);
 
   for (i = 0; i < items_covariate.length; i++) {
     items_covariate[i]["probes"] =
@@ -245,6 +265,8 @@ function postLoad() {
   experiment.push(wait_block1);
   experiment.push(wait_instructions2);
   experiment.push(wait_block2);
+  experiment.push(wait_instructions2);
+  experiment.push(wait_block3);
   experiment.push(covariate_instructions);
   experiment.push(covariate_block);
   experiment.push(pre_questionnaires_message);

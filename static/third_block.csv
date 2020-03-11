@@ -1,0 +1,47 @@
+qustionId,type,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
+TB_01_TR,Trivia,"What country is home to Roots, the company that outfits the U.S. Olympic team?",Canada,-2.7712415,1.95285018,
+TB_02_TR,Trivia,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?",Ivory Coast's,-2.1078316,1.87182145,
+TB_03_TR,Trivia,What 1993 film's title character has the first name Euphegenia?,Mrs. Doubtfire's,-1.9413601,1.32164136,
+TB_04_TR,Trivia,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?",Phil Knight,-1.4452006,1.89104412,
+TB_05_TR,Trivia,What city's harbor is overlooked by Victoria Peak?,Hong Kong,-1.3206945,2.3241274,
+TB_06_TR,Trivia,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?,Xanadu,-1.1490821,1.87987574,
+TB_07_TR,Trivia,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?,Tuxedo Club,-1.0550642,2.34994082,
+TB_08_TR,Trivia,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?",Library of Congress,-0.7407983,1.67110218,
+TB_09_TR,Trivia,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?",The first email,-0.5050674,2.39432433,
+TB_10_TR,Trivia,Who was the last British Monarch to also be an emperor?,George VI,-0.2960876,1.32687348,
+TB_11_TR,Trivia,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?,Mung beans,-0.0590454,1.46836986,
+TB_12_TR,Trivia,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?",It sits beside the Finger Lakes,0.12826231,1.50292657,
+TB_13_TR,Trivia,On what namesake Asian island are the first Homo erectus fossils found?,Java,0.23347277,2.30630372,
+TB_14_TR,Trivia,"When asked to define ""cool,"" what two words did James Brown use?",James Brown,0.40133445,1.51120178,
+TB_15_TR,Trivia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?,Portia,0.561401,1.59253576,
+TB_16_TR,Trivia,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?,Jim Lovell,0.81036407,1.69437436,
+TB_17_TR,Trivia,What part of his body did Keith Richards insure for a million pounds?,"Third finger, left hand",1.02946374,1.0108646,
+TB_18_TR,Trivia,Who was flying the plane in which the first US airplane fatality occurred?,Orville Wright,1.1540265,1.55957974,
+TB_19_TR,Trivia,The only vegetable ice cream ever produced was what flavor?,Ketchup,1.21041798,0.85529664,
+TB_20_TR,Trivia,What is the largest flower in the world?,Rafflesia (corpse lily),1.67969787,0.72429136,
+TB_21_TR,Trivia,Which state has the zip code 12345?,New York,1.89157277,-0.2946678,
+TB_22_TR,Trivia,Which is the only cat that cannot retract its claws?,Cheetah,2.47716021,-0.0951034,
+TB_23_TR,Trivia,What is the only part of the body that can't repair itself?,Tooth,2.79386851,-0.0450704,
+TB_24_MT,MTurk,Which creatures live in deep sea?,"Deep sea creature must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",,,https://www.nationalgeographic.com/environment/oceans/photos/deep-sea-creatures/
+TB_25_MT,MTurk,What will be the new technologies of future?,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",,,
+TB_26_MT,MTurk,How do you know if you're happy?,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",,,
+TB_27_MT,MTurk,Does God exist?,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",,,
+TB_28_MT,MTurk,What is to happen ten years from now?,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",,,https://www.theguardian.com/technology/2020/jan/25/peter-diamandis-future-faster-think-interview-ai-industry
+TB_29_MT,MTurk,How to stay calm in adversity?,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",,,
+TB_30_MT,MTurk,What is the composition of a black hole?,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",,,https://www.quora.com/What-is-the-composition-of-a-black-hole
+TB_31_MT,MTurk,How feasible would it be to colonize Antarctica?,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,,,
+TB_32_MT,MTurk,What are undersea researchers doing to explore the ocean floor?,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,,,https://en.wikipedia.org/wiki/Deep-sea_exploration
+TB_33_MT,MTurk,How much does it cost to launch a person into space?,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",,,https://www.businessinsider.com/spacex-rocket-cargo-price-by-weight-2016-6#does-this-sound-ridiculously-expensive-10
+TB_34_MT,MTurk,What will future humans look like?,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,,,
+TB_35_MT,MTurk,When will we have flying cars?,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,,,
+TB_36_MT,MTurk,Why don't space rockets take off from a plane already in the air?,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",,,
+TB_37_MT,MTurk,Are houses built better than they used to be?,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,,,
+TB_38_MT,MTurk,Is it really cheaper to cook at home vs. eating out?,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",,,
+TB_39_MT,MTurk,How was the recent picture of a black hole made?,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",,,
+TB_40_MT,MTurk,When could a lunar base be established?,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",,,
+TB_41_MT,MTurk,What are the most recent developments in artificial intelligence?,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",,,
+TB_42_MT,MTurk,How do galaxies form?,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",,,https://www.jpl.nasa.gov/edu/news/2019/4/19/how-scientists-captured-the-first-image-of-a-black-hole/
+TB_43_MT,MTurk,How do planets form?,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",,,https://en.wikipedia.org/wiki/Colonization_of_the_Moon
+TB_44_MT,MTurk,How have families changed over time?,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",,,
+TB_45_MT,MTurk,What is the amygdala?,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",,,
+TB_46_MT,MTurk,How does social media influence our mental health?,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",,,
