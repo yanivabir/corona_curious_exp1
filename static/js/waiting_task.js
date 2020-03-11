@@ -7,7 +7,7 @@ var maxStimDuration = 10000,
   maxAnswerTime = 7000,
   postTooSlowTime = 800,
   fixationTime = 500,
-  maxTaskTime = 2.5,
+  maxTaskTime = 0.1,
   waits = [4, 8, 12, 16],
   ITI_range = [500, 1200];
 
@@ -71,6 +71,7 @@ var wait_trial_answer = [{
     },
     on_finish: function(data) {
       if (Date.now() > data.wait_start_time + maxTaskTime * 60 * 1000) {
+        console.log('here')
         jsPsych.endCurrentTimeline();
       }
     }
