@@ -48,7 +48,7 @@ var anxiety = [{
         name: "anxiety_content"
       },
       {
-        prompt: "I am worreid",
+        prompt: "I am worried",
         labels: ["1<br>Not at all", "2<br>Some What", "3<br>Moderately so", "4<br>Very much so"],
         name: "anxiety_worry"
       }
