@@ -1,4 +1,4 @@
-qustionId,type,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
+questionId,type,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
 NC_01_NU,Not useful,"In 1991, who finally broke Bob Beamon's decades-old long jump record?",Mike Powell,-2.7031335,3.04705301,
 NC_02_NU,Not useful,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?",Tiger Woods,-2.0925019,2.5887081,
 NC_03_NU,Not useful,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?",Red River,-1.9126216,2.83688377,
