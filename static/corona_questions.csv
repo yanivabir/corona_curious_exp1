@@ -1,55 +1,55 @@
-questionId,type,question,answer,comments
-C_01_NU,Not useful,What is the source of coronavirus in humans?,"Animals, probably bats",
-C_02_NU,Not useful,How many pandemics were there in the 20th century?,Three ,
-C_03_NU,Not useful,When was the molecular structure of the coronovirus identfied?,"Fuburary 1st, 2020","here, in case you are curios"" https://science.sciencemag.org/content/early/2020/02/19/science.abb2507"
-C_04_NU,Not useful,"Why is the new coronavirus called ""COVID-19""? ","It stands for ""COronaVIrus Disease 2019""",
-C_05_NU,Not useful,Which was the first US University to cancel classes becuase of the new coronavirus?,University of Washington,DS: This information can be useful or not depending on where a person lives
-C_06_NU,Not useful,"Which celebrity said about the new coronavirus ""I've already been in this movie""?",Gwyneth Paltrow,
-C_07_NU,Not useful,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?,Pink,
-C_08_NU,Not useful,What is the name of the county in Italy that had the first coronavirus outbreak?,Lombardy,RH: might be info for italians
-C_09_NU,Not useful,What is the name of the province in China in which this new coronavirus was first discovered?,Hubei,
-C_10_NU,Not useful,"What is the population of Wuhan, the city in which coronavirus was first identified?",11 million people,
-C_11_NU,Not useful,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?",The Chicago of China,wikipedia:wuhan
-C_12_NU,Not useful,What was the name of the British cruise ship that was quarantined in Japanese waters?,Diamond Princess,wikipedia:Diamond Princess (ship)
-C_13_NU,Not useful,"Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?","The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals",
-C_14_NU,Not useful,On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?,"January 30, 2020",
-C_15_NU,Not useful,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?",7.5 days,RH: info maybe? if you want to evaluate risk?
-C_16_NU,Not useful,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?,Bats and pangolins,wikipedia:2019–20 coronavirus outbreak
-C_17_NU,Not useful,"The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?","Locations, people, or animals",
-C_18_NU,Not useful,Why are N95 respirator face masks so named?,They are able to filter out at least 95% of airborne particles,
-C_19_NU,Not useful,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?,Strategic National Stockpile,
-C_20_NU,Not useful,"In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?","Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.",
-C_21_NU,Not useful,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?,An epidemic that has spread around the world,
-C_22_NU,Not useful,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?,Contact tracing,
-C_23_NU,Not useful,"At the end of February, Amazon banned over a million products because of what?",They falsely claimed to cure or prevent coronavirus,
-C_24_NU,Not useful,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?",Contagion,
-C_25_NU,Not useful,What is the supposed origin of the name coronavirus?,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),
-C_26_NU,Not useful,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?,Severe acute respiratory syndrome,
-C_27_U,Useful,What is the most effective measure to prevent infection with the coronavirus?,Washing your hands frequently,
-C_28_U,Useful,Does sleep help prevent coronavirus infections?,"Yes, by boosting the immune system",RH: explicitly tie to corona
-C_29_U,Useful,How soon is a vaccine for the coronavirus likely to be available?,Not for at least several months from now,
-C_30_U,Useful,"Are the coronavirus symptoms similar to, or different from, seasonal flu?",Similar,https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
-C_31_U,Useful,Can the coronavirus be transmitted through sexual intercourse?,Probably not but it's too soon to be sure,https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html
-C_32_U,Useful,Which three groups of people does the CDC recommend masks for?,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html
-C_33_U,Useful,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?,Soft surfaces are less likely to transmit the virus than hard surfaces.,cdc faq
-C_34_U,Useful,Can the new coronavirus be transmitted on a package from an infected country?,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",cdc faq
-C_35_U,Useful,Can the new coronavirus be transmitted through mosquito bites?,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",cdc faq
-C_36_U,Useful,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,cdc myth busting
-C_37_U,Useful,Can eating garlic help prevent infection with the new coronavirus?,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,cdc myth busting
-C_38_U,Useful,"Does the new coronavirus affect older people, or are younger people also susceptible?",People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,
-C_39_U,Useful,Are antibiotics effective in preventing and treating the new coronavirus?,"No, antibiotics do not work against viruses, only bacteria.",
-C_40_U,Useful,How long is the incubation period for the new coronavirus?,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",cdc faq
-C_41_U,Useful,How long does the new coronavirus survive on surfaces?,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,
-C_42_U,Useful,What are the most common symptoms of the new coronavirus?,"Fever, cough, shortness of breath.",wikipedia:2019-2020 coronavirus outbreak
-C_43_U,Useful,"Currently, people who have traveled to a high-risk area or who may have been in contact with someone with the new coronavirus are recommended to do what?",Quarantine themselves for 14 days to make sure they are not infected.,
-C_44_U,Useful,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?,People over age 60,
-C_45_U,Useful,What did 75% of the people who have died from the new coronavirus have?,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",
-C_46_U,Useful,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?",Remdesivir,
-C_47_U,Useful,What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",
-C_48_U,Useful,Why does the CDC currently recommend that healthy people do not wear face masks?,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",
-C_49_U,Useful,"It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?","Approved filtering facemask respirators, such as the N95 respirator.",
-C_50_U,Useful,The first US death from the new coronavirus occurred in which state?,Washington,
-C_51_U,Useful,What sort of specimen is needed to test for the new coronavirus? ,Nasal or orab swab or a sample of sputum,"CM: I'm realizing that I've been going back and forth using ""new coronavirus"" and ""COVID-19"" -- we should probably standardize. It might make sense to go with COVID-19 but make sure to highlight somewhere in the instructions . 
+questionId,block,type,question,answer,comments
+C_01_NU,corona,Not useful,What is the source of coronavirus in humans?,"Animals, probably bats",
+C_02_NU,corona,Not useful,How many pandemics were there in the 20th century?,Three ,
+C_03_NU,corona,Not useful,When was the molecular structure of the coronovirus identfied?,"Fuburary 1st, 2020","here, in case you are curios"" https://science.sciencemag.org/content/early/2020/02/19/science.abb2507"
+C_04_NU,corona,Not useful,"Why is the new coronavirus called ""COVID-19""? ","It stands for ""COronaVIrus Disease 2019""",
+C_05_NU,corona,Not useful,Which was the first US University to cancel classes becuase of the new coronavirus?,University of Washington,DS: This information can be useful or not depending on where a person lives
+C_06_NU,corona,Not useful,"Which celebrity said about the new coronavirus ""I've already been in this movie""?",Gwyneth Paltrow,
+C_07_NU,corona,Not useful,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?,Pink,
+C_08_NU,corona,Not useful,What is the name of the county in Italy that had the first coronavirus outbreak?,Lombardy,RH: might be info for italians
+C_09_NU,corona,Not useful,What is the name of the province in China in which this new coronavirus was first discovered?,Hubei,
+C_10_NU,corona,Not useful,"What is the population of Wuhan, the city in which coronavirus was first identified?",11 million people,
+C_11_NU,corona,Not useful,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?",The Chicago of China,wikipedia:wuhan
+C_12_NU,corona,Not useful,What was the name of the British cruise ship that was quarantined in Japanese waters?,Diamond Princess,wikipedia:Diamond Princess (ship)
+C_13_NU,corona,Not useful,"Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?","The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals",
+C_14_NU,corona,Not useful,On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?,"January 30, 2020",
+C_15_NU,corona,Not useful,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?",7.5 days,RH: info maybe? if you want to evaluate risk?
+C_16_NU,corona,Not useful,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?,Bats and pangolins,wikipedia:2019–20 coronavirus outbreak
+C_17_NU,corona,Not useful,"The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?","Locations, people, or animals",
+C_18_NU,corona,Not useful,Why are N95 respirator face masks so named?,They are able to filter out at least 95% of airborne particles,
+C_19_NU,corona,Not useful,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?,Strategic National Stockpile,
+C_20_NU,corona,Not useful,"In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?","Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.",
+C_21_NU,corona,Not useful,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?,An epidemic that has spread around the world,
+C_22_NU,corona,Not useful,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?,Contact tracing,
+C_23_NU,corona,Not useful,"At the end of February, Amazon banned over a million products because of what?",They falsely claimed to cure or prevent coronavirus,
+C_24_NU,corona,Not useful,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?",Contagion,
+C_25_NU,corona,Not useful,What is the supposed origin of the name coronavirus?,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),
+C_26_NU,corona,Not useful,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?,Severe acute respiratory syndrome,
+C_27_U,corona,Useful,What is the most effective measure to prevent infection with the coronavirus?,Washing your hands frequently,
+C_28_U,corona,Useful,Does sleep help prevent coronavirus infections?,"Yes, by boosting the immune system",RH: explicitly tie to corona
+C_29_U,corona,Useful,How soon is a vaccine for the coronavirus likely to be available?,Not for at least several months from now,
+C_30_U,corona,Useful,"Are the coronavirus symptoms similar to, or different from, seasonal flu?",Similar,https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
+C_31_U,corona,Useful,Can the coronavirus be transmitted through sexual intercourse?,Probably not but it's too soon to be sure,https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html
+C_32_U,corona,Useful,Which three groups of people does the CDC recommend masks for?,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html
+C_33_U,corona,Useful,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?,Soft surfaces are less likely to transmit the virus than hard surfaces.,cdc faq
+C_34_U,corona,Useful,Can the new coronavirus be transmitted on a package from an infected country?,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",cdc faq
+C_35_U,corona,Useful,Can the new coronavirus be transmitted through mosquito bites?,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",cdc faq
+C_36_U,corona,Useful,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,cdc myth busting
+C_37_U,corona,Useful,Can eating garlic help prevent infection with the new coronavirus?,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,cdc myth busting
+C_38_U,corona,Useful,"Does the new coronavirus affect older people, or are younger people also susceptible?",People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,
+C_39_U,corona,Useful,Are antibiotics effective in preventing and treating the new coronavirus?,"No, antibiotics do not work against viruses, only bacteria.",
+C_40_U,corona,Useful,How long is the incubation period for the new coronavirus?,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",cdc faq
+C_41_U,corona,Useful,How long does the new coronavirus survive on surfaces?,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,
+C_42_U,corona,Useful,What are the most common symptoms of the new coronavirus?,"Fever, cough, shortness of breath.",wikipedia:2019-2020 coronavirus outbreak
+C_43_U,corona,Useful,"Currently, people who have traveled to a high-risk area or who may have been in contact with someone with the new coronavirus are recommended to do what?",Quarantine themselves for 14 days to make sure they are not infected.,
+C_44_U,corona,Useful,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?,People over age 60,
+C_45_U,corona,Useful,What did 75% of the people who have died from the new coronavirus have?,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",
+C_46_U,corona,Useful,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?",Remdesivir,
+C_47_U,corona,Useful,What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",
+C_48_U,corona,Useful,Why does the CDC currently recommend that healthy people do not wear face masks?,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",
+C_49_U,corona,Useful,"It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?","Approved filtering facemask respirators, such as the N95 respirator.",
+C_50_U,corona,Useful,The first US death from the new coronavirus occurred in which state?,Washington,
+C_51_U,corona,Useful,What sort of specimen is needed to test for the new coronavirus? ,Nasal or orab swab or a sample of sputum,"CM: I'm realizing that I've been going back and forth using ""new coronavirus"" and ""COVID-19"" -- we should probably standardize. It might make sense to go with COVID-19 but make sure to highlight somewhere in the instructions . 
 that we're talking about this new coronavirus? 
 YA: CDC uses new coronavirus in communications. COVID-19 is the disease."
-C_52_U,Useful,Are hand dryers effective in killing the new coronavirus?,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
+C_52_U,corona,Useful,Are hand dryers effective in killing the new coronavirus?,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters

@@ -1,69 +1,69 @@
-questionId,type,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
-NC_01_NU,Not useful,"In 1991, who finally broke Bob Beamon's decades-old long jump record?",Mike Powell,-2.7031335,3.04705301,
-NC_02_NU,Not useful,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?",Tiger Woods,-2.0925019,2.5887081,
-NC_03_NU,Not useful,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?",Red River,-1.9126216,2.83688377,
-NC_04_NU,Not useful,"Who wrote ""Who's Afraid of Virginia Woolf?""",Edward Albee,-1.7740375,1.1629614,
-NC_05_NU,Not useful,Which of the four biblical Gospels was written by a tax collector?,Matthew,-1.3734686,1.63892267,
-NC_06_NU,Not useful,Who discovered the Victoria Falls?,David Livingstone,-1.1758512,1.83513628,
-NC_07_NU,Not useful,In what city could you see the Seagull Monument at Temple Square?,Salt Lake City,-1.05801,1.91621262,
-NC_08_NU,Not useful,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?,The guppy,-0.8921518,2.38998658,
-NC_09_NU,Not useful,"Who christened Hawaii ""the Sandwich Islands"" in 1778?",Captain Cook,-0.7195798,1.34728153,
-NC_10_NU,Not useful,What Canadian singer appeared on the first cover of Entertainment Weekly?,K.D. Lang,-0.5216165,1.30461507,
-NC_11_NU,Not useful,What is the name of the ship that carried Captain Cook to Australia?,Endeavour,-0.4203849,1.89399284,
-NC_12_NU,Not useful,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?",Come by her,-0.1570055,2.39689119,
-NC_13_NU,Not useful,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?,Bling bling,0.05624761,1.91900946,
-NC_14_NU,Not useful,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?,Rod Serling,0.13887033,1.51840324,
-NC_15_NU,Not useful,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?,Albert Einstein,0.19384558,1.75501252,
-NC_16_NU,Not useful,The apgar score is used to measure the color and condition of what?,Newborns,0.31460735,1.7962884,
-NC_17_NU,Not useful,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?,Gilbert Van Camp,0.53408608,1.31886055,
-NC_18_NU,Not useful,What was put in place by the Ancient Greeks before and during all Olympic festivals?,A truce,0.71404206,1.3135107,
-NC_19_NU,Not useful,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?",Smoke,0.92807434,1.31832832,
-NC_20_NU,Not useful,Which country has the most public libraries?,Russia,1.11994038,0.77944323,
-NC_21_NU,Not useful,Which was the only one of his sculptures that Michelangelo signed?,The Pieta,1.2022823,0.88453612,
-NC_22_NU,Not useful,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?",Steamboat Geyser,1.31064908,1.28548899,
-NC_23_NU,Not useful,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?,The Netherlands,1.81470745,0.5823498,
-NC_24_NU,Not useful,What's been released five times a year from January 1999 to fall 2008?,State quarters,1.90382142,0.27263678,
-NC_25_NU,Not useful,"What animal is thought to be immune to most all diseases, including cancer?",Shark,2.63033458,0.14984934,
-NC_26_NU,Not useful,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?,Dark Side of the Moon,3.73746065,-0.2590754,
-NC_27_U,Useful,What can you use instead of fabric softner to soften sheets and remove odours?,White vinegar,,,https://www.apartmenttherapy.com/laundry-hacks-36600368
-NC_28_U,Useful,How can you soften brown sugar that has hardened into a lump?,Microwave next to a glass of water,,,https://greatist.com/health/kitchen-tips-hacks#3
-NC_29_U,Useful,How to chop an onion without crying?,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",,,https://greatist.com/health/kitchen-tips-hacks#3
-NC_30_U,Useful,What item that can be found in any car can help you extract your car from mud or snow?,Floormats - put them under the wheels for traction,,,http://www.kickvick.com/car-driving-hacks/
-NC_31_U,Useful,How can people under 25 rent a car without paying extra fees?,Sign up for a free USAA membership,,,https://www.enterprise.com/en/corporate-accounts/usaa.html
-NC_32_U,Useful,What's a simple trick for telling whether your out of something when you're grocery shopping?,Take a picture of your fridge before leaving the house,,,https://www.ranker.com/list/grocery-store-secrets-tricks/ashley-reign
-NC_33_U,Useful,Where in the supermarket can you usually find the cheaper items?,Below eye level,,,https://www.ranker.com/list/grocery-store-secrets-tricks/ashley-reign
-NC_34_U,Useful,What tropical fruit can be regrown from its scraps?,"Pineapple, by planting the green leaves",,,
-NC_35_U,Useful,How can you cool beverages more quickly?,Wrap a wet paper towel around the bottle and put in the fridge,,,https://www.lifehack.org/articles/lifestyle/100-life-hacks-that-make-life-easier.html
-NC_36_U,Useful,What vegetable can prevent your windshield from freezing over in winter?,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,,,https://www.farmersalmanac.com/winter-tips-2-29953
-NC_37_U,Useful,What's a better investment: stocks or real estate?,"Over the past 150 year, real estate, if you rent it out",,,https://www.economist.com/finance-and-economics/2018/01/06/many-happy-returns-new-data-reveal-long-term-investment-trends
-NC_38_U,Useful,What fruit has the highest content of vitamin C?,"Camu Camu, a cherry-like fruit from Brazil",,,https://en.wikipedia.org/wiki/Myrciaria_dubia
-NC_39_U,Useful,How much money should I keep as an emergency fund?,"At least $2,467 according to current research",,,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455696&amp;dgcid=ejournal_htmlemail_behavioral:experimental:finance:ejournal_abstractlink
-NC_40_U,Useful,How do you make your smile look more genuine in photographs?,Squint your eyes,,,https://www.lifehack.org/articles/lifestyle/100-life-hacks-that-make-life-easier.html
-NC_41_U,Useful,When is the next total solar eclipse visible in North America projected to occur? ,"April 8th, 2024",,,https://www.greatamericaneclipse.com/future
-NC_42_U,Useful,How do you put out a grease fire? ,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",,,https://www.firerescue1.com/community/articles/how-to-put-out-a-grease-fire-KDraBGaOTnYN8JPn/
-NC_43_U,Useful,How far in advance of a trip is the most cost effective time to purchase a plane ticket? ,Between 105 and 54 days before the scheduled trip.,,,
-NC_44_U,Useful,What popular snack food is effective to use as kindling to start a fire?,Doritos,,,https://adequateman.deadspin.com/what-snack-makes-for-the-best-campfire-kindling-1780173841
-NC_45_U,Useful,"In addition to chocolate, what other foods can be very harmful to dogs? ","Grapes or raisins, onions, avocado",,,
-NC_46_U,Useful,"While tomato juice probably will not work, what does work to remove skunk odor? ","Dish soap, peroxide, and baking soda",,,
-NC_47_U,Useful,What can you do to make dry beans cook faster?,"Add baking soda, soak in advance, use a preassure cooker",,,
-NC_48_U,Useful,How can you tell if a battery is dead without using any tools?,"Drop it from a 3 inch height. If it bounces, it's dead.",,,
-NC_49_U,Useful,How can you tell if an egg is cooked without breaking it?,"Roll it along its long side. If it stops immediately, it's raw.",,,
-NC_50_U,Useful,What's an easy way to waterproof canvas shoes?,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,,,
-NC_51_U,Useful,What salad dressing ingredient is also an efficient weed killer?,White vinegar,,,
-NC_52_U,Useful,How can you give yourself a layered haircut?,"Tie your hair into a tight ponytail at the front of your head, and cut it.",,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,"
+questionId,block,type,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
+NC_01_NU,general,Not useful,"In 1991, who finally broke Bob Beamon's decades-old long jump record?",Mike Powell,-2.7031335,3.04705301,
+NC_02_NU,general,Not useful,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?",Tiger Woods,-2.0925019,2.5887081,
+NC_03_NU,general,Not useful,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?",Red River,-1.9126216,2.83688377,
+NC_04_NU,general,Not useful,"Who wrote ""Who's Afraid of Virginia Woolf?""",Edward Albee,-1.7740375,1.1629614,
+NC_05_NU,general,Not useful,Which of the four biblical Gospels was written by a tax collector?,Matthew,-1.3734686,1.63892267,
+NC_06_NU,general,Not useful,Who discovered the Victoria Falls?,David Livingstone,-1.1758512,1.83513628,
+NC_07_NU,general,Not useful,In what city could you see the Seagull Monument at Temple Square?,Salt Lake City,-1.05801,1.91621262,
+NC_08_NU,general,Not useful,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?,The guppy,-0.8921518,2.38998658,
+NC_09_NU,general,Not useful,"Who christened Hawaii ""the Sandwich Islands"" in 1778?",Captain Cook,-0.7195798,1.34728153,
+NC_10_NU,general,Not useful,What Canadian singer appeared on the first cover of Entertainment Weekly?,K.D. Lang,-0.5216165,1.30461507,
+NC_11_NU,general,Not useful,What is the name of the ship that carried Captain Cook to Australia?,Endeavour,-0.4203849,1.89399284,
+NC_12_NU,general,Not useful,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?",Come by her,-0.1570055,2.39689119,
+NC_13_NU,general,Not useful,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?,Bling bling,0.05624761,1.91900946,
+NC_14_NU,general,Not useful,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?,Rod Serling,0.13887033,1.51840324,
+NC_15_NU,general,Not useful,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?,Albert Einstein,0.19384558,1.75501252,
+NC_16_NU,general,Not useful,The apgar score is used to measure the color and condition of what?,Newborns,0.31460735,1.7962884,
+NC_17_NU,general,Not useful,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?,Gilbert Van Camp,0.53408608,1.31886055,
+NC_18_NU,general,Not useful,What was put in place by the Ancient Greeks before and during all Olympic festivals?,A truce,0.71404206,1.3135107,
+NC_19_NU,general,Not useful,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?",Smoke,0.92807434,1.31832832,
+NC_20_NU,general,Not useful,Which country has the most public libraries?,Russia,1.11994038,0.77944323,
+NC_21_NU,general,Not useful,Which was the only one of his sculptures that Michelangelo signed?,The Pieta,1.2022823,0.88453612,
+NC_22_NU,general,Not useful,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?",Steamboat Geyser,1.31064908,1.28548899,
+NC_23_NU,general,Not useful,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?,The Netherlands,1.81470745,0.5823498,
+NC_24_NU,general,Not useful,What's been released five times a year from January 1999 to fall 2008?,State quarters,1.90382142,0.27263678,
+NC_25_NU,general,Not useful,"What animal is thought to be immune to most all diseases, including cancer?",Shark,2.63033458,0.14984934,
+NC_26_NU,general,Not useful,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?,Dark Side of the Moon,3.73746065,-0.2590754,
+NC_27_U,general,Useful,What can you use instead of fabric softner to soften sheets and remove odours?,White vinegar,,,https://www.apartmenttherapy.com/laundry-hacks-36600368
+NC_28_U,general,Useful,How can you soften brown sugar that has hardened into a lump?,Microwave next to a glass of water,,,https://greatist.com/health/kitchen-tips-hacks#3
+NC_29_U,general,Useful,How to chop an onion without crying?,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",,,https://greatist.com/health/kitchen-tips-hacks#3
+NC_30_U,general,Useful,What item that can be found in any car can help you extract your car from mud or snow?,Floormats - put them under the wheels for traction,,,http://www.kickvick.com/car-driving-hacks/
+NC_31_U,general,Useful,How can people under 25 rent a car without paying extra fees?,Sign up for a free USAA membership,,,https://www.enterprise.com/en/corporate-accounts/usaa.html
+NC_32_U,general,Useful,What's a simple trick for telling whether your out of something when you're grocery shopping?,Take a picture of your fridge before leaving the house,,,https://www.ranker.com/list/grocery-store-secrets-tricks/ashley-reign
+NC_33_U,general,Useful,Where in the supermarket can you usually find the cheaper items?,Below eye level,,,https://www.ranker.com/list/grocery-store-secrets-tricks/ashley-reign
+NC_34_U,general,Useful,What tropical fruit can be regrown from its scraps?,"Pineapple, by planting the green leaves",,,
+NC_35_U,general,Useful,How can you cool beverages more quickly?,Wrap a wet paper towel around the bottle and put in the fridge,,,https://www.lifehack.org/articles/lifestyle/100-life-hacks-that-make-life-easier.html
+NC_36_U,general,Useful,What vegetable can prevent your windshield from freezing over in winter?,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,,,https://www.farmersalmanac.com/winter-tips-2-29953
+NC_37_U,general,Useful,What's a better investment: stocks or real estate?,"Over the past 150 year, real estate, if you rent it out",,,https://www.economist.com/finance-and-economics/2018/01/06/many-happy-returns-new-data-reveal-long-term-investment-trends
+NC_38_U,general,Useful,What fruit has the highest content of vitamin C?,"Camu Camu, a cherry-like fruit from Brazil",,,https://en.wikipedia.org/wiki/Myrciaria_dubia
+NC_39_U,general,Useful,How much money should I keep as an emergency fund?,"At least $2,467 according to current research",,,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455696&amp;dgcid=ejournal_htmlemail_behavioral:experimental:finance:ejournal_abstractlink
+NC_40_U,general,Useful,How do you make your smile look more genuine in photographs?,Squint your eyes,,,https://www.lifehack.org/articles/lifestyle/100-life-hacks-that-make-life-easier.html
+NC_41_U,general,Useful,When is the next total solar eclipse visible in North America projected to occur? ,"April 8th, 2024",,,https://www.greatamericaneclipse.com/future
+NC_42_U,general,Useful,How do you put out a grease fire? ,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",,,https://www.firerescue1.com/community/articles/how-to-put-out-a-grease-fire-KDraBGaOTnYN8JPn/
+NC_43_U,general,Useful,How far in advance of a trip is the most cost effective time to purchase a plane ticket? ,Between 105 and 54 days before the scheduled trip.,,,
+NC_44_U,general,Useful,What popular snack food is effective to use as kindling to start a fire?,Doritos,,,https://adequateman.deadspin.com/what-snack-makes-for-the-best-campfire-kindling-1780173841
+NC_45_U,general,Useful,"In addition to chocolate, what other foods can be very harmful to dogs? ","Grapes or raisins, onions, avocado",,,
+NC_46_U,general,Useful,"While tomato juice probably will not work, what does work to remove skunk odor? ","Dish soap, peroxide, and baking soda",,,
+NC_47_U,general,Useful,What can you do to make dry beans cook faster?,"Add baking soda, soak in advance, use a preassure cooker",,,
+NC_48_U,general,Useful,How can you tell if a battery is dead without using any tools?,"Drop it from a 3 inch height. If it bounces, it's dead.",,,
+NC_49_U,general,Useful,How can you tell if an egg is cooked without breaking it?,"Roll it along its long side. If it stops immediately, it's raw.",,,
+NC_50_U,general,Useful,What's an easy way to waterproof canvas shoes?,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,,,
+NC_51_U,general,Useful,What salad dressing ingredient is also an efficient weed killer?,White vinegar,,,
+NC_52_U,general,Useful,How can you give yourself a layered haircut?,"Tie your hair into a tight ponytail at the front of your head, and cut it.",,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,"
 ",,,,

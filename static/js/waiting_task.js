@@ -41,7 +41,9 @@ var wait_trial_answer = [{
     data: {
       category: 'wait_wait',
       questionId: jsPsych.timelineVariable('questionId'),
-      wait_duration: jsPsych.timelineVariable('wait_time')
+      wait_duration: jsPsych.timelineVariable('wait_time'),
+      type: jsPsych.timelineVariable('type'),
+      block: jsPsych.timelineVariable('block')
     }
   },
   {
@@ -54,7 +56,9 @@ var wait_trial_answer = [{
     data: {
       category: 'wait_answer',
       questionId: jsPsych.timelineVariable('questionId'),
-      wait_duration: jsPsych.timelineVariable('wait_time')
+      wait_duration: jsPsych.timelineVariable('wait_time'),
+      type: jsPsych.timelineVariable('type'),
+      block: jsPsych.timelineVariable('block')
     },
     post_trial_gap: 200
   },
@@ -72,7 +76,9 @@ var wait_trial_answer = [{
       category: "wait_satisfaction",
       ITI_next: jsPsych.timelineVariable('ITI_next'),
       questionId: jsPsych.timelineVariable('questionId'),
-      wait_duration: jsPsych.timelineVariable('wait_time')
+      wait_duration: jsPsych.timelineVariable('wait_time'),
+      type: jsPsych.timelineVariable('type'),
+      block: jsPsych.timelineVariable('block')
     }
   },
   {
@@ -97,7 +103,9 @@ var wait_trial = [fullscreen_prompt, {
     data: {
       category: 'wait_fixation',
       questionId: jsPsych.timelineVariable('questionId'),
-      wait_duration: jsPsych.timelineVariable('wait_time')
+      wait_duration: jsPsych.timelineVariable('wait_time'),
+      type: jsPsych.timelineVariable('type'),
+      block: jsPsych.timelineVariable('block')
     },
   }, {
     // Question
@@ -117,7 +125,9 @@ var wait_trial = [fullscreen_prompt, {
     data: {
       category: 'wait_question',
       questionId: jsPsych.timelineVariable('questionId'),
-      wait_duration: jsPsych.timelineVariable('wait_time')
+      wait_duration: jsPsych.timelineVariable('wait_time'),
+      type: jsPsych.timelineVariable('type'),
+      block: jsPsych.timelineVariable('block')
     }
   },
   {
