@@ -26,6 +26,7 @@ Implemented using the [jsPsych package](jspsych.org).
 
 ## To Do
 6. Initial data processing script
+8. test
 
 
 11. Consider waiting time distribution
