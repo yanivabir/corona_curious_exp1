@@ -1,1 +1,108 @@
-var _0x2d9c=['…something\x20that\x20well-informed\x20people\x20would\x20agree\x20on','...something\x20that\x20has\x20an\x20element\x20of\x20randomness','<p><i>','covariate_intro_question','return\x20/\x22\x20+\x20this\x20+\x20\x22/','timelineVariable','7<br>Very\x20much','useful_me','test','<div\x20id=\x27instruct\x27><p>We\x20are\x20interested\x20in\x20your\x20judgment\x20about\x20this\x20question:</p>\x20\x20\x20\x20\x20\x20<p><i>','epstm_detemined_chance','...something\x20that\x20would\x20be\x20useful\x20for\x20others\x20to\x20know','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','slice','<div\x20id=\x27instruct\x27><p>In\x20the\x20next\x20part\x20of\x20this\x20experiment,\x20you\x20will\x20be\x20\x20\x20\x20\x20presented\x20with\x2015\x20trivia\x20qustion.\x20We\x20would\x20like\x20you\x20to\x20rate\x20each\x20of\x20these\x20\x20\x20\x20\x20questions\x20on\x20several\x20scales.</p></div>','compile','covariate_instructions1','...determined\x20by\x20chance\x20factors','covariate_question2','apply','constructor','covariate_question1','useful_others','epstm_random_element','question','<div\x20id=\x27instruct\x27><p>In\x20this\x20study\x20we\x20are\x20interested\x20in\x20your\x20own\x20personal\x20\x20\x20\x20\x20judgment.\x20Therefore\x20it\x20is\x20important\x20that\x20you\x20rely\x20only\x20on\x20your\x20own\x20\x20\x20\x20\x20knowledge\x20and\x20give\x20your\x20best\x20answer\x20\x22off\x20the\x20top\x20of\x20your\x20head.\x22</p></div>','questionId','1<br>Not\x20at\x20all','...knowable\x20in\x20principle,\x20given\x20enough\x20information','<div\x20id=\x27instruct\x27><p>Press\x20the\x20<i>Next</i>\x20button\x20to\x20begin\x20this\x20part\x20of\x20\x20\x20\x20\x20the\x20experiment.</p></div>','</i></p>\x20\x20\x20\x20\x20\x20<p>The\x20answer\x20to\x20the\x20question\x20above\x20is…</p>','survey-likert','...something\x20that\x20would\x20be\x20useful\x20for\x20me\x20to\x20know','Continue','</i></p></div>','probes','epstm_knowable','instructions'];(function(_0x17efb8,_0x2d9c59){var _0x3eeaf9=function(_0xd85f9d){while(--_0xd85f9d){_0x17efb8['push'](_0x17efb8['shift']());}};var _0x4e98ad=function(){var _0x8da76c={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x261a5c,_0x382470,_0x2a43a4,_0x305b4f){_0x305b4f=_0x305b4f||{};var _0x206f33=_0x382470+'='+_0x2a43a4;var _0xb0dbf0=0x0;for(var _0x449b69=0x0,_0x4832b7=_0x261a5c['length'];_0x449b69<_0x4832b7;_0x449b69++){var _0xd1cfac=_0x261a5c[_0x449b69];_0x206f33+=';\x20'+_0xd1cfac;var _0x3e7faf=_0x261a5c[_0xd1cfac];_0x261a5c['push'](_0x3e7faf);_0x4832b7=_0x261a5c['length'];if(_0x3e7faf!==!![]){_0x206f33+='='+_0x3e7faf;}}_0x305b4f['cookie']=_0x206f33;},'removeCookie':function(){return'dev';},'getCookie':function(_0x8bbfeb,_0x369173){_0x8bbfeb=_0x8bbfeb||function(_0x557a2d){return _0x557a2d;};var _0x8b4866=_0x8bbfeb(new RegExp('(?:^|;\x20)'+_0x369173['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)'));var _0x45b25e=function(_0x2b4b5f,_0x31d2e1){_0x2b4b5f(++_0x31d2e1);};_0x45b25e(_0x3eeaf9,_0x2d9c59);return _0x8b4866?decodeURIComponent(_0x8b4866[0x1]):undefined;}};var _0x388925=function(){var _0x1f7e6d=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x1f7e6d['test'](_0x8da76c['removeCookie']['toString']());};_0x8da76c['updateCookie']=_0x388925;var _0x47cefc='';var _0x459c52=_0x8da76c['updateCookie']();if(!_0x459c52){_0x8da76c['setCookie'](['*'],'counter',0x1);}else if(_0x459c52){_0x47cefc=_0x8da76c['getCookie'](null,'counter');}else{_0x8da76c['removeCookie']();}};_0x4e98ad();}(_0x2d9c,0xc8));var _0x3eea=function(_0x17efb8,_0x2d9c59){_0x17efb8=_0x17efb8-0x0;var _0x3eeaf9=_0x2d9c[_0x17efb8];return _0x3eeaf9;};var _0x8da76c=function(){var _0xc8bed6=!![];return function(_0x8bffcb,_0x3ab4){var _0x3463df=_0xc8bed6?function(){if(_0x3ab4){var _0x144a39=_0x3ab4[_0x3eea('0x9')](_0x8bffcb,arguments);_0x3ab4=null;return _0x144a39;}}:function(){};_0xc8bed6=![];return _0x3463df;};}();var _0xd85f9d=_0x8da76c(this,function(){var _0x42112f=function(){var _0x40a012=_0x42112f[_0x3eea('0xa')](_0x3eea('0x20'))()[_0x3eea('0x5')](_0x3eea('0x2'));return!_0x40a012[_0x3eea('0x24')](_0xd85f9d);};return _0x42112f();});_0xd85f9d();var covariate_probes=[{'prompt':_0x3eea('0x1d'),'labels':[_0x3eea('0x11'),'2','3','4','5','6',_0x3eea('0x22')],'required':!![],'name':_0x3eea('0xd')},{'prompt':_0x3eea('0x12'),'labels':[_0x3eea('0x11'),'2','3','4','5','6',_0x3eea('0x22')],'required':!![],'name':_0x3eea('0x1a')},{'prompt':_0x3eea('0x7'),'labels':[_0x3eea('0x11'),'2','3','4','5','6',_0x3eea('0x22')],'required':!![],'name':_0x3eea('0x0')},{'prompt':_0x3eea('0x1c'),'labels':[_0x3eea('0x11'),'2','3','4','5','6',_0x3eea('0x22')],'required':!![],'name':'epstm_informed_agree'},{'prompt':_0x3eea('0x16'),'labels':[_0x3eea('0x11'),'2','3','4','5','6',_0x3eea('0x22')],'required':!![],'name':_0x3eea('0x23')},{'prompt':_0x3eea('0x1'),'labels':[_0x3eea('0x11'),'2','3','4','5','6',_0x3eea('0x22')],'required':!![],'name':_0x3eea('0xc')}];var covariate_trial=[fullscreen_prompt,{'type':'html-button-response','stimulus':function(){return _0x3eea('0x25')+jsPsych[_0x3eea('0x21')](_0x3eea('0xe'),!![])+_0x3eea('0x18');},'choices':[_0x3eea('0x17')],'data':{'category':_0x3eea('0x1f'),'questionId':jsPsych[_0x3eea('0x21')]('questionId')}},{'type':_0x3eea('0x15'),'preamble':function(){return _0x3eea('0x1e')+jsPsych[_0x3eea('0x21')](_0x3eea('0xe'),!![])+_0x3eea('0x14');},'questions':function(){return jsPsych['timelineVariable'](_0x3eea('0x19'),!![])[_0x3eea('0x3')](0x0,0x3);},'scale_width':0x190,'post_trial_gap':0x64,'data':{'category':_0x3eea('0xb'),'questionId':jsPsych[_0x3eea('0x21')](_0x3eea('0x10'))}},{'type':_0x3eea('0x15'),'preamble':function(){return _0x3eea('0x1e')+jsPsych[_0x3eea('0x21')](_0x3eea('0xe'),!![])+'</i></p>\x20\x20\x20\x20\x20\x20<p>The\x20information\x20in\x20the\x20question\x20above\x20is…</p>';},'questions':function(){return jsPsych[_0x3eea('0x21')](_0x3eea('0x19'),!![])['slice'](0x3,0x6);},'scale_width':0x190,'post_trial_gap':0x12c,'data':{'category':_0x3eea('0x8'),'questionId':jsPsych[_0x3eea('0x21')](_0x3eea('0x10'))}}];var covariate_instructions={'type':_0x3eea('0x1b'),'pages':[_0x3eea('0x4'),_0x3eea('0xf'),_0x3eea('0x13')],'show_clickable_nav':!![],'allow_keys':![],'data':{'category':_0x3eea('0x6')}};
+// Javascript functions and routines for waiting task for measuring
+// reducibility and usefullness covariates
+var covariate_probes = [{
+    prompt: "...something that has an element of randomness",
+    labels: ["1<br>Not at all", "2", "3", "4", "5", "6", "7<br>Very much"],
+    required: true,
+    name: "epstm_random_element"
+  },
+  {
+    prompt: "...knowable in principle, given enough information",
+    labels: ["1<br>Not at all", "2", "3", "4", "5", "6", "7<br>Very much"],
+    required: true,
+    name: "epstm_knowable"
+  },
+  {
+    prompt: "...determined by chance factors",
+    labels: ["1<br>Not at all", "2", "3", "4", "5", "6", "7<br>Very much"],
+    required: true,
+    name: "epstm_detemined_chance"
+  },
+  {
+    prompt: "…something that well-informed people would agree on",
+    labels: ["1<br>Not at all", "2", "3", "4", "5", "6", "7<br>Very much"],
+    required: true,
+    name: "epstm_informed_agree"
+  },
+  {
+    prompt: "...something that would be useful for me to know",
+    labels: ["1<br>Not at all", "2", "3", "4", "5", "6", "7<br>Very much"],
+    required: true,
+    name: "useful_me"
+  },
+  {
+    prompt: "...something that would be useful for others to know",
+    labels: ["1<br>Not at all", "2", "3", "4", "5", "6", "7<br>Very much"],
+    required: true,
+    name: "useful_others"
+  }
+]
+
+var covariate_trial = [fullscreen_prompt,
+  // Introduce questions
+  {
+    type: "html-button-response",
+    stimulus: function() {
+      return "<div id='instruct'><p>We are interested in your judgment about this question:</p>\
+      <p><i>" + jsPsych.timelineVariable('question', true) + "</i></p></div>"
+    },
+    choices: ["Continue"],
+    data:{
+      category: "covariate_intro_question",
+      questionId: jsPsych.timelineVariable('questionId')
+    }
+  },
+  // First page of probes
+  {
+    type: "survey-likert",
+    preamble: function() {
+      return "<p><i>" + jsPsych.timelineVariable('question', true) + "</i></p>\
+      <p>The answer to the question above is…</p>"
+    },
+    questions: function() {
+      return jsPsych.timelineVariable('probes', true).slice(0, 3)
+    },
+    scale_width: 400,
+    post_trial_gap: 100,
+    data:{
+      category: "covariate_question1",
+      questionId: jsPsych.timelineVariable('questionId')
+    }
+  },
+  // Second page of probes
+  {
+    type: "survey-likert",
+    preamble: function() {
+      return "<p><i>" + jsPsych.timelineVariable('question', true) + "</i></p>\
+      <p>The information in the question above is…</p>"
+    },
+    questions: function() {
+      return jsPsych.timelineVariable('probes', true).slice(3, 6)
+    },
+    scale_width: 400,
+    post_trial_gap: 300,
+    data:{
+      category: "covariate_question2",
+      questionId: jsPsych.timelineVariable('questionId')
+    }
+  }
+]
+
+var covariate_instructions = {
+  type: "instructions",
+  pages: [
+    "<div id='instruct'><p>In the next part of this experiment, you will be \
+    presented with 15 trivia qustion. We would like you to rate each of these \
+    questions on several scales.</p></div>",
+    "<div id='instruct'><p>In this study we are interested in your own personal \
+    judgment. Therefore it is important that you rely only on your own \
+    knowledge and give your best answer \"off the top of your head.\"</p></div>",
+    "<div id='instruct'><p>Press the <i>Next</i> button to begin this part of \
+    the experiment.</p></div>"
+  ],
+  show_clickable_nav: true,
+  allow_keys: false,
+  data: {
+    category: "covariate_instructions1"
+  }
+}

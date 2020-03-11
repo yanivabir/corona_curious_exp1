@@ -40,9 +40,7 @@ First five subjects ran on this version on 03/11/2020
 ## To Do
 6. Initial data processing script
 8. test
-11. Please respond to answer
-11. save question types, block
-
+12. obfuscate
 
 11. Consider waiting time distribution
 13. Second session.

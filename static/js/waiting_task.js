@@ -30,6 +30,23 @@ var too_slow = [kick_out, {
   post_trial_gap: postTooSlowTime
 }];
 
+var answer_n_respond = [kick_out, {
+  type: 'html-keyboard-response',
+  stimulus: '<div style="font-size: 150%">Please press continue after reading the answer</div>',
+  choices: jsPsych.NO_KEYS,
+  trial_duration: maxAnswerTime,
+  on_finish: function() {
+    var up_to_now = parseInt(jsPsych.data.get().last(1).select('n_warnings').values);
+    jsPsych.data.addProperties({
+      n_warnings: up_to_now + 1
+    });
+  },
+  data: {
+    category: 'ansewr-no-respond'
+  },
+  post_trial_gap: postTooSlowTime
+}];
+
 var wait_trial_answer = [{
     // Wait time
     type: 'html-keyboard-response',
@@ -61,6 +78,17 @@ var wait_trial_answer = [{
       block: jsPsych.timelineVariable('block')
     },
     post_trial_gap: 200
+  },
+  {
+    timeline: answer_n_respond,
+    conditional_function: function() {
+      // Got to answer only if wait selected
+      var resp = jsPsych.data.get().filter({
+        category: "wait_answer"
+      }).last(1).select("button_pressed").values[0]
+
+      return resp == null ? true : false
+    }
   },
   {
     // Satisfaction rating
