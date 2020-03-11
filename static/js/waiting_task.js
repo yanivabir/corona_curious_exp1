@@ -4,7 +4,7 @@
 var maxStimDuration = 10000,
   minResponseTime = 1500,
   tooSlowTime = 1000,
-  maxAnswerTime = 7,
+  maxAnswerTime = 7000,
   postTooSlowTime = 800,
   fixationTime = 500,
   maxTaskTime = 2.5,
