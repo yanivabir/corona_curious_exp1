@@ -297,7 +297,7 @@ function postLoad() {
   // Initiate experiment
   jsPsych.init({
     timeline: experiment,
-    // preload_images: images
+    preload_images: images
   });
 
 }
