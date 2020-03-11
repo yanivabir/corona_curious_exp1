@@ -96,7 +96,7 @@ corona_perception_block = [
         prompt: "<div id='instruct'>How upset would you be if you find out that a close family member is infected with the new coronavirus?</div>",
         labels: ["1<br>Not at all", "2", "3", "4", "5<br>Extremely upset"],
         required: true,
-        name: "corona_upst,fmly"
+        name: "corona_upst_fmly"
       },
       {
         prompt: "<div id='instruct'>How upset would you be if you find out that you are infected with the new coronavirus?</div>",

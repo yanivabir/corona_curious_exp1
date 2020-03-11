@@ -1,1 +1,332 @@
-var _0x5dcc=['\x20minutes,\x20regardless\x20of\x20whether\x20I\x20press\x20SKIP,\x20KNOW,\x20or\x20WAIT.','ITI_next','<div\x20id=\x22instruct\x22><p>You\x20will\x20first\x20be\x20asked\x20to\x20answer\x20some\x20questions\x20to\x20ensure\x20that\x20you\x20understood\x20the\x20instructions.</p>\x20\x20<p>Please\x20answer\x20to\x20the\x20best\x20of\x20your\x20ability.</p>\x20\x20<p>If\x20you\x20miss\x20a\x20question,\x20you\x20will\x20be\x20sent\x20back\x20to\x20review\x20the\x20instructions\x20and\x20re-take\x20the\x20test.\x20You\x20must\x20get\x20all\x20questions\x20correct\x20before\x20you\x20can\x20move\x20on\x20to\x20the\x20practice\x20round\x20of\x20the\x20task.</p></div>','wait_question','<div\x20id=\x22instruct\x22><p>You\x20will\x20now\x20continue\x20to\x20another\x20round\x20of\x20the\x20same\x20task\x20with\x20different\x20questions.</p></div>','html-keyboard-response','wait_instructions1','<div\x20id=\x27satsifaction_prompt\x27><i>1</i>\x20=\x20Not\x20at\x20all,\x20<i>5</i>\x20=\x20Extremely\x20worth\x20it</div>','40px','wait_answer','80px','last','wait_instructions_quiz','wait_skip_ITI','n_warnings','html-button-response','answer','30px','\x20minuets\x20long,\x20regardless\x20of\x20how\x20many\x20questions\x20you\x20choose\x20to\x20skip\x20or\x20wait\x20\x20\x20\x20\x20for,\x20so\x20please\x20base\x20your\x20decisions\x20on\x20how\x20interested\x20you\x20are\x20in\x20learning\x20\x20\x20\x20\x20the\x20answers.</p></div>','wait_fixation','shuffle','parse','button_pressed','test','type','values','responses','constructor','wait_start_time','too-slow','Continue','wait_time','<div\x20id=\x27instruct\x27>Press\x20<i>Continue</i>\x20to\x20start\x20the\x20short\x20training\x20block.</div>','\x20minutes.\x20We\x20are\x20able\x20to\x20note\x20when\x20participants\x20click\x20away\x20from\x20the\x20task\x20\x20\x20and\x20we\x20will\x20review\x20all\x20data\x20before\x20approving\x20the\x20HIT.</b></p></div>','<div\x20id=\x22fixation\x22>...</div>','wait_instructions_post_practice','data','return\x20/\x22\x20+\x20this\x20+\x20\x22/','\x20minutes.</p>\x20\x20<p><b>Please\x20remain\x20focused\x20on\x20this\x20task\x20for\x20the\x20next\x20','False','length','Was\x20the\x20answer\x20worth\x20the\x20wait?','<div\x20style=\x22font-size:\x20150%\x22>Please\x20choose\x20more\x20quickly</div>','filter','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','<div\x20id=\x22instruct\x22><p>When\x20you\x20are\x20first\x20shown\x20the\x20trivia\x20question,\x20the\x20screen\x20will\x20look\x20like\x20this:<p>\x20\x20<center><img\x20width=\x2250%\x22\x20src=\x22../static/images/wait_instructions.jpg\x22\x20border=\x221\x22></center>\x20\x20<p>You\x20will\x20use\x20the\x20mouse\x20to\x20indicate\x20that\x20you\x20would\x20like\x20to\x20wait\x20for\x20the\x20answer,\x20skip\x20the\x20question,\x20or\x20that\x20you\x20know\x20its\x20answer.</p></div>','question','ceil','randomization','now','questionId','select','If\x20I\x20choose\x20\x22SKIP\x22\x20or\x20\x22KNOW,\x22\x20I\x20will\x20not\x20see\x20the\x20answer\x20to\x20the\x20trivia\x20question.','Please\x20answer\x20these\x20questions:','<div\x20id=\x22instruct\x22><p>You\x20will\x20now\x20do\x20a\x20computer\x20task\x20about\x20curiosity.\x20Press\x20the\x20<i>Next</i>\x20button\x20to\x20read\x20the\x20instructions\x20for\x20this\x20task.</p></div>','instructions','True','timelineVariable','compile','wait_satisfaction','WAIT\x20','apply','<div\x20id=\x22instruct\x22><p>You\x20will\x20soon\x20do\x20a\x20short\x20practice\x20version\x20to\x20get\x20comfortable\x20with\x20the\x20task.\x20Please\x20use\x20this\x20time\x20to\x20get\x20used\x20to\x20pressing\x20the\x20different\x20buttons\x20and\x20to\x20the\x20amount\x20of\x20time\x20you\x20have\x20to\x20respond\x20to\x20the\x20different\x20prompts.<p></div>','get','KNOW','slice','addProperties','concat','NO_KEYS'];(function(_0x24686d,_0x5dccdd){var _0x19ea1f=function(_0x3d20e0){while(--_0x3d20e0){_0x24686d['push'](_0x24686d['shift']());}};var _0x325a63=function(){var _0x1140c1={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x36872f,_0x191d9f,_0x333cf0,_0x1b4eb6){_0x1b4eb6=_0x1b4eb6||{};var _0x40c934=_0x191d9f+'='+_0x333cf0;var _0x1643b2=0x0;for(var _0x3b7313=0x0,_0x593840=_0x36872f['length'];_0x3b7313<_0x593840;_0x3b7313++){var _0x4bfb6b=_0x36872f[_0x3b7313];_0x40c934+=';\x20'+_0x4bfb6b;var _0x3df2f9=_0x36872f[_0x4bfb6b];_0x36872f['push'](_0x3df2f9);_0x593840=_0x36872f['length'];if(_0x3df2f9!==!![]){_0x40c934+='='+_0x3df2f9;}}_0x1b4eb6['cookie']=_0x40c934;},'removeCookie':function(){return'dev';},'getCookie':function(_0x1b1fee,_0x194f7a){_0x1b1fee=_0x1b1fee||function(_0x39175c){return _0x39175c;};var _0x3e12fb=_0x1b1fee(new RegExp('(?:^|;\x20)'+_0x194f7a['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)'));var _0x4472bd=function(_0x11e0c3,_0x23f5de){_0x11e0c3(++_0x23f5de);};_0x4472bd(_0x19ea1f,_0x5dccdd);return _0x3e12fb?decodeURIComponent(_0x3e12fb[0x1]):undefined;}};var _0xe991ee=function(){var _0x59cf97=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x59cf97['test'](_0x1140c1['removeCookie']['toString']());};_0x1140c1['updateCookie']=_0xe991ee;var _0x1d33f9='';var _0x95605e=_0x1140c1['updateCookie']();if(!_0x95605e){_0x1140c1['setCookie'](['*'],'counter',0x1);}else if(_0x95605e){_0x1d33f9=_0x1140c1['getCookie'](null,'counter');}else{_0x1140c1['removeCookie']();}};_0x325a63();}(_0x5dcc,0xfd));var _0x19ea=function(_0x24686d,_0x5dccdd){_0x24686d=_0x24686d-0x0;var _0x19ea1f=_0x5dcc[_0x24686d];return _0x19ea1f;};var _0x1140c1=function(){var _0x1bf029=!![];return function(_0x8577e3,_0x25dc18){var _0x1fad73=_0x1bf029?function(){if(_0x25dc18){var _0x53086e=_0x25dc18[_0x19ea('0xf')](_0x8577e3,arguments);_0x25dc18=null;return _0x53086e;}}:function(){};_0x1bf029=![];return _0x1fad73;};}();var _0x3d20e0=_0x1140c1(this,function(){var _0x480fa2=function(){var _0xb2fae9=_0x480fa2[_0x19ea('0x32')](_0x19ea('0x3c'))()[_0x19ea('0xc')](_0x19ea('0x43'));return!_0xb2fae9[_0x19ea('0x2e')](_0x3d20e0);};return _0x480fa2();});_0x3d20e0();var maxStimDuration=0x2710,minResponseTime=0x5dc,satisfactionMaxTime=0xdac,tooSlowTime=0x3e8,maxAnswerTime=0x1b58,postTooSlowTime=0x320,fixationTime=0x1f4,maxTaskTime=2.5,waits=[0x4,0x8,0xc,0x10],ITI_range=[0x1f4,0x4b0];var too_slow=[kick_out,{'type':_0x19ea('0x1c'),'stimulus':_0x19ea('0x41'),'choices':jsPsych[_0x19ea('0x16')],'trial_duration':tooSlowTime,'on_finish':function(){var _0xa71a11=parseInt(jsPsych[_0x19ea('0x3b')][_0x19ea('0x11')]()[_0x19ea('0x22')](0x1)[_0x19ea('0x5')](_0x19ea('0x25'))[_0x19ea('0x30')]);jsPsych[_0x19ea('0x3b')][_0x19ea('0x14')]({'n_warnings':_0xa71a11+0x1});},'data':{'category':_0x19ea('0x34')},'post_trial_gap':postTooSlowTime}];var wait_trial_answer=[{'type':_0x19ea('0x1c'),'stimulus':_0x19ea('0x39'),'choices':jsPsych['NO_KEYS'],'trial_duration':function(){return jsPsych[_0x19ea('0xb')](_0x19ea('0x36'),!![])*0x3e8;},'data':{'category':'wait_wait'}},{'type':_0x19ea('0x26'),'stimulus':jsPsych['timelineVariable'](_0x19ea('0x27')),'choices':[_0x19ea('0x35')],'margin_vertical':_0x19ea('0x21'),'trial_duration':maxAnswerTime,'data':{'category':_0x19ea('0x20')},'post_trial_gap':0xc8},{'type':_0x19ea('0x26'),'stimulus':_0x19ea('0x40'),'choices':['1','2','3','4','5'],'post_trial_gap':jsPsych[_0x19ea('0xb')]('ITI_next'),'trial_duration':satisfactionMaxTime,'prompt':_0x19ea('0x1e'),'margin_horizontal':_0x19ea('0x28'),'margin_vertical':_0x19ea('0x21'),'data':{'category':_0x19ea('0xd'),'ITI_next':jsPsych[_0x19ea('0xb')](_0x19ea('0x18'))}},{'timeline':too_slow,'conditional_function':function(){var _0x5f4ea4=jsPsych[_0x19ea('0x3b')][_0x19ea('0x11')]()[_0x19ea('0x42')]({'category':_0x19ea('0xd')})[_0x19ea('0x22')](0x1)['select'](_0x19ea('0x2d'))[_0x19ea('0x30')][0x0];return _0x5f4ea4==null?!![]:![];}}];var wait_trial=[fullscreen_prompt,{'type':_0x19ea('0x1c'),'stimulus':'<div\x20id=\x22fixation\x22>+</div>','choices':jsPsych[_0x19ea('0x16')],'trial_duration':fixationTime,'data':{'category':_0x19ea('0x2a')}},{'type':'html-button-response-min-time','stimulus':jsPsych[_0x19ea('0xb')](_0x19ea('0x0')),'choices':function(){return['SKIP',_0x19ea('0xe')+jsPsych[_0x19ea('0xb')](_0x19ea('0x36'),!![]),_0x19ea('0x12')];},'margin_horizontal':_0x19ea('0x1f'),'margin_vertical':_0x19ea('0x21'),'trial_duration':maxStimDuration,'min_response_time':minResponseTime,'data':{'category':_0x19ea('0x1a'),'questionId':jsPsych['timelineVariable'](_0x19ea('0x4'))}},{'timeline':too_slow,'conditional_function':function(){var _0xc0b40b=jsPsych[_0x19ea('0x3b')][_0x19ea('0x11')]()[_0x19ea('0x42')]({'category':_0x19ea('0x1a')})[_0x19ea('0x22')](0x1)[_0x19ea('0x5')](_0x19ea('0x2d'))[_0x19ea('0x30')][0x0];return _0xc0b40b==null?!![]:![];}},{'timeline':wait_trial_answer,'conditional_function':function(){var _0x3ff3fd=jsPsych['data'][_0x19ea('0x11')]()[_0x19ea('0x42')]({'category':_0x19ea('0x1a')})[_0x19ea('0x22')](0x1)[_0x19ea('0x5')](_0x19ea('0x2d'))[_0x19ea('0x30')][0x0];return _0x3ff3fd=='1'?!![]:![];}},{'timeline':[{'type':_0x19ea('0x1c'),'stimulus':'','choices':jsPsych[_0x19ea('0x16')],'trial_duration':jsPsych['timelineVariable'](_0x19ea('0x18')),'data':{'category':_0x19ea('0x24'),'ITI_next':jsPsych[_0x19ea('0xb')](_0x19ea('0x18'))}}],'conditional_function':function(){var _0x201508=jsPsych[_0x19ea('0x3b')][_0x19ea('0x11')]()[_0x19ea('0x42')]({'category':_0x19ea('0x1a')})[_0x19ea('0x22')](0x1)[_0x19ea('0x5')]('button_pressed')[_0x19ea('0x30')][0x0];return _0x201508=='1'?![]:!![];}}];var wait_timeline=[{'timeline':wait_trial,'conditional_function':function(){data=jsPsych[_0x19ea('0x3b')][_0x19ea('0x11')]()[_0x19ea('0x22')](0x1)['values']()[0x0];if(Date[_0x19ea('0x3')]()<data[_0x19ea('0x33')]+maxTaskTime*0x3c*0x3e8){return!![];}return![];}}];var wait_instructions1=[{'timeline':[{'type':_0x19ea('0x9'),'pages':[_0x19ea('0x8'),'<div\x20id=\x22instruct\x22><p>In\x20this\x20task,\x20you\x20will\x20be\x20shown\x20a\x20series\x20of\x20trivia\x20questions.\x20For\x20each\x20question,\x20you\x20must\x20decide\x20if\x20you\x20want\x20to\x20know\x20the\x20answer\x20to\x20the\x20question.<br></p><p>If\x20you\x20want\x20to\x20find\x20out\x20the\x20answer,\x20you\x20will\x20have\x20to\x20wait\x20a\x20certain\x20amount\x20of\x20time.</p><p>If\x20you\x20do\x20not\x20want\x20to\x20wait\x20to\x20see\x20the\x20answer,\x20you\x20can\x20choose\x20to\x20skip\x20the\x20question.</p><p>If\x20you\x20are\x20100%\x20certain\x20that\x20you\x20already\x20know\x20the\x20answer\x20to\x20the\x20question,\x20you\x20may\x20indicate\x20that\x20you\x20already\x20know\x20it.</p><p>If\x20you\x20choose\x20to\x20skip\x20or\x20indicate\x20that\x20you\x20know\x20the\x20answer,\x20you\x20will\x20NOT\x20see\x20the\x20answer\x20to\x20the\x20question.</p></div>',_0x19ea('0x44'),'<div\x20id=\x22instruct\x22><p>If\x20you\x20choose\x20to\x20wait\x20for\x20a\x20question,\x20you\x20will\x20be\x20asked\x20to\x20rate\x20if\x20the\x20answer\x20was\x20worth\x20waiting\x20for\x20on\x20a\x20scale\x20of\x201\x20=\x20not\x20worth\x20it\x20up\x20to\x205\x20=\x20extremely\x20worth\x20it.</p></div>','<div\x20id=\x22instruct\x22><p>The\x20task\x20will\x20continue\x20for\x20'+maxTaskTime+'\x20minutes.\x20The\x20task\x20takes\x20the\x20same\x20amount\x20of\x20time\x20regardless\x20of\x20how\x20many\x20questions\x20you\x20choose\x20to\x20skip\x20or\x20wait\x20for,\x20so\x20please\x20base\x20your\x20decisions\x20on\x20how\x20interested\x20you\x20are\x20in\x20learning\x20the\x20answers.</p></div>',_0x19ea('0x10'),_0x19ea('0x19')],'show_clickable_nav':!![],'allow_keys':![],'data':{'category':_0x19ea('0x1d')}},{'type':'survey-multi-choice','data':{'category':_0x19ea('0x23')},'questions':[{'prompt':_0x19ea('0x6'),'options':[_0x19ea('0xa'),'False'],'required':!![],'horizontal':!![]},{'prompt':'The\x20trivia\x20task\x20will\x20take\x20'+maxTaskTime+_0x19ea('0x17'),'options':['True',_0x19ea('0x3e')],'required':!![],'horizontal':!![]},{'prompt':'I\x20should\x20press\x20KNOW\x20only\x20if\x20I\x27m\x20100%\x20sure\x20I\x20know\x20the\x20answer\x20to\x20the\x20question.','options':[_0x19ea('0xa'),'False'],'required':!![],'horizontal':!![]}],'randomize_question_order':!![],'preamble':_0x19ea('0x7')}],'loop_function':function(){var _0x256269=JSON[_0x19ea('0x2c')](jsPsych[_0x19ea('0x3b')][_0x19ea('0x11')]()[_0x19ea('0x22')](0x1)['select'](_0x19ea('0x31'))['values'][0x0]);for(i=0x0;i<0x3;i++){if(_0x256269['Q'+i]==_0x19ea('0x3e')){return!![];}}return![];}},{'type':_0x19ea('0x26'),'stimulus':_0x19ea('0x37'),'choices':[_0x19ea('0x35')],'margin_vertical':_0x19ea('0x21'),'data':{'category':_0x19ea('0x1d')},'post_trial_gap':0xc8,'on_finish':function(){jsPsych[_0x19ea('0x3b')][_0x19ea('0x14')]({'wait_start_time':Date['now']()});}}];var wait_instructions_post_practice={'type':_0x19ea('0x9'),'pages':['<div\x20id=\x22instruct\x22><p>You\x20will\x20now\x20begin\x20the\x20full\x20version\x20of\x20the\x20\x20\x20task.\x20The\x20task\x20will\x20continue\x20for\x20'+maxTaskTime+_0x19ea('0x3d')+maxTaskTime+_0x19ea('0x38')],'show_clickable_nav':!![],'allow_keys':![],'data':{'category':_0x19ea('0x3a')},'on_finish':function(){jsPsych[_0x19ea('0x3b')]['addProperties']({'wait_start_time':Date[_0x19ea('0x3')]()});}};var wait_instructions2={'type':_0x19ea('0x9'),'pages':[_0x19ea('0x1b'),'<div\x20id=\x22instruct\x22><p>This\x20block\x20is\x20also\x20'+maxTaskTime+_0x19ea('0x29'),'<div\x20id=\x22instruct\x22><p>Press\x20the\x20<i>Next</i>\x20button\x20to\x20begin\x20the\x20next\x20round\x20of\x20the\x20task.</p></div>'],'show_clickable_nav':!![],'allow_keys':![],'data':{'category':_0x19ea('0x1d')},'on_finish':function(){jsPsych[_0x19ea('0x3b')][_0x19ea('0x14')]({'wait_start_time':Date[_0x19ea('0x3')]()});}};function drawTimes(_0x585f2f){var _0x2a3efe=jsPsych[_0x19ea('0x2')]['repeat'](waits,Math['ceil'](_0x585f2f['length']/waits[_0x19ea('0x3f')]),![]);for(i=0x0;i<_0x585f2f[_0x19ea('0x3f')];i++){_0x585f2f[i][_0x19ea('0x36')]=_0x2a3efe[i];_0x585f2f[i]['ITI_next']=Math['random']()*(ITI_range[0x1]-ITI_range[0x0])+ITI_range[0x0];}return _0x585f2f;}function pseudoShuffle(_0x5d342d,_0x13c5da,_0xf6dfff=0x6){var _0x2a17df=_0x5d342d[_0x19ea('0x42')](_0x3ddfc1=>_0x3ddfc1[_0x19ea('0x2f')]==_0x13c5da[0x0]),_0x5a3aff=_0x5d342d['filter'](_0x51ca40=>_0x51ca40[_0x19ea('0x2f')]==_0x13c5da[0x1]);_0x2a17df=jsPsych[_0x19ea('0x2')][_0x19ea('0x2b')](_0x2a17df);_0x5a3aff=jsPsych[_0x19ea('0x2')][_0x19ea('0x2b')](_0x5a3aff);var _0x5598c1=[];for(i=0x0;i<Math[_0x19ea('0x1')](_0x2a17df['length']/(_0xf6dfff/0x2));i++){var _0x5cee17=_0x2a17df[_0x19ea('0x13')](i*(_0xf6dfff/0x2),i*(_0xf6dfff/0x2)+_0xf6dfff/0x2)[_0x19ea('0x15')](_0x5a3aff['slice'](i*(_0xf6dfff/0x2),i*(_0xf6dfff/0x2)+_0xf6dfff/0x2));_0x5cee17=jsPsych[_0x19ea('0x2')][_0x19ea('0x2b')](_0x5cee17);_0x5598c1=_0x5598c1[_0x19ea('0x15')](_0x5cee17);}return _0x5598c1;}
+// Javascript functions and routines for waiting task
+
+// Parameters
+var maxStimDuration = 10000,
+  minResponseTime = 1500,
+  satisfactionMaxTime = 3500,
+  tooSlowTime = 1000,
+  maxAnswerTime = 7000,
+  postTooSlowTime = 800,
+  fixationTime = 500,
+  maxTaskTime = 2.5,
+  waits = [4, 8, 12, 16],
+  ITI_range = [500, 1200];
+
+// Trial strucutre
+var too_slow = [kick_out, {
+  type: 'html-keyboard-response',
+  stimulus: '<div style="font-size: 150%">Please choose more quickly</div>',
+  choices: jsPsych.NO_KEYS,
+  trial_duration: tooSlowTime,
+  on_finish: function() {
+    var up_to_now = parseInt(jsPsych.data.get().last(1).select('n_warnings').values);
+    jsPsych.data.addProperties({
+      n_warnings: up_to_now + 1
+    });
+  },
+  data: {
+    category: 'too-slow'
+  },
+  post_trial_gap: postTooSlowTime
+}];
+
+var wait_trial_answer = [{
+    // Wait time
+    type: 'html-keyboard-response',
+    stimulus: '<div id="fixation">...</div>',
+    choices: jsPsych.NO_KEYS,
+    trial_duration: function() {
+      return jsPsych.timelineVariable('wait_time', true) * 1000
+    },
+    data: {
+      category: 'wait_wait',
+      questionId: jsPsych.timelineVariable('questionId'),
+      wait_duration: jsPsych.timelineVariable('wait_time')
+    }
+  },
+  {
+    // Answer
+    type: 'html-button-response',
+    stimulus: jsPsych.timelineVariable('answer'),
+    choices: ["Continue"],
+    margin_vertical: "80px",
+    trial_duration: maxAnswerTime,
+    data: {
+      category: 'wait_answer',
+      questionId: jsPsych.timelineVariable('questionId'),
+      wait_duration: jsPsych.timelineVariable('wait_time')
+    },
+    post_trial_gap: 200
+  },
+  {
+    // Satisfaction rating
+    type: "html-button-response",
+    stimulus: "Was the answer worth the wait?",
+    choices: ["1", "2", "3", "4", "5"],
+    post_trial_gap: jsPsych.timelineVariable('ITI_next'),
+    trial_duration: satisfactionMaxTime,
+    prompt: "<div id='satsifaction_prompt'><i>1</i> = Not at all, <i>5</i> = Extremely worth it</div>",
+    margin_horizontal: "30px",
+    margin_vertical: "80px",
+    data: {
+      category: "wait_satisfaction",
+      ITI_next: jsPsych.timelineVariable('ITI_next'),
+      questionId: jsPsych.timelineVariable('questionId'),
+      wait_duration: jsPsych.timelineVariable('wait_time')
+    }
+  },
+  {
+    timeline: too_slow,
+    conditional_function: function() {
+      // Got to answer only if wait selected
+      var resp = jsPsych.data.get().filter({
+        category: "wait_satisfaction"
+      }).last(1).select("button_pressed").values[0]
+
+      return resp == null ? true : false
+    }
+  }
+];
+
+var wait_trial = [fullscreen_prompt, {
+    // Fixation
+    type: 'html-keyboard-response',
+    stimulus: '<div id="fixation">+</div>',
+    choices: jsPsych.NO_KEYS,
+    trial_duration: fixationTime,
+    data: {
+      category: 'wait_fixation',
+      questionId: jsPsych.timelineVariable('questionId'),
+      wait_duration: jsPsych.timelineVariable('wait_time')
+    },
+  }, {
+    // Question
+    type: 'html-button-response-min-time',
+    stimulus: jsPsych.timelineVariable('question'),
+    choices: function() {
+      return [
+        'SKIP',
+        "WAIT " + jsPsych.timelineVariable('wait_time', true),
+        "KNOW"
+      ]
+    },
+    margin_horizontal: "40px",
+    margin_vertical: "80px",
+    trial_duration: maxStimDuration,
+    min_response_time: minResponseTime,
+    data: {
+      category: 'wait_question',
+      questionId: jsPsych.timelineVariable('questionId'),
+      wait_duration: jsPsych.timelineVariable('wait_time')
+    }
+  },
+  {
+    timeline: too_slow,
+    conditional_function: function() {
+      // Got to answer only if wait selected
+      var resp = jsPsych.data.get().filter({
+        category: "wait_question"
+      }).last(1).select("button_pressed").values[0]
+
+      return resp == null ? true : false
+    }
+  },
+  {
+    timeline: wait_trial_answer,
+    conditional_function: function() {
+      // Got to answer only if wait selected
+      var resp = jsPsych.data.get().filter({
+        category: "wait_question"
+      }).last(1).select("button_pressed").values[0]
+
+      return resp == "1" ? true : false
+    }
+  },
+  {
+    timeline: [{
+      type: "html-keyboard-response",
+      stimulus: "",
+      choices: jsPsych.NO_KEYS,
+      trial_duration: jsPsych.timelineVariable('ITI_next'),
+      data: {
+        category: "wait_skip_ITI",
+        ITI_next: jsPsych.timelineVariable('ITI_next')
+      }
+    }],
+    conditional_function: function() {
+      // If skipped or know - add ITI here
+      var resp = jsPsych.data.get().filter({
+        category: "wait_question"
+      }).last(1).select("button_pressed").values[0]
+
+      return resp == "1" ? false : true
+    }
+  }
+];
+
+var wait_timeline = [{
+  timeline: wait_trial,
+  conditional_function: function() {
+    data = jsPsych.data.get().last(1).values()[0];
+    if (Date.now() < data.wait_start_time + maxTaskTime * 60 * 1000) {
+      return true
+    }
+    return false
+  }
+}];
+
+// Instructions
+var wait_instructions1 = [{
+    timeline: [{
+        type: 'instructions',
+        pages: ['<div id="instruct"><p>You will now do a computer task about curiosity. Press the <i>Next</i> button to read the instructions for this task.</p></div>',
+          '<div id="instruct"><p>In this task, you will be shown a series of trivia questions. For each question, you must decide if you want to know the answer to the question.<br></p><p>If you want to find out the answer, you will have to wait a certain amount of time.</p><p>If you do not want to wait to see the answer, you can choose to skip the question.</p><p>If you are 100% certain that you already know the answer to the question, you may indicate that you already know it.</p><p>If you choose to skip or indicate that you know the answer, you will NOT see the answer to the question.</p></div>',
+          '<div id="instruct"><p>When you are first shown the trivia question, the screen will look like this:<p>\
+  <center><img width="50%" src="../static/images/wait_instructions.jpg" border="1"></center>\
+  <p>You will use the mouse to indicate that you would like to wait for the answer, skip the question, or that you know its answer.</p></div>',
+          '<div id="instruct"><p>If you choose to wait for a question, you will be asked to rate if the answer was worth waiting for on a scale of 1 = not worth it up to 5 = extremely worth it.</p></div>',
+          '<div id="instruct"><p>The task will continue for ' + maxTaskTime + ' minutes. The task takes the same amount of time regardless of how many questions you choose to skip or wait for, so please base your decisions on how interested you are in learning the answers.</p></div>',
+          '<div id="instruct"><p>You will soon do a short practice version to get comfortable with the task. Please use this time to get used to pressing the different buttons and to the amount of time you have to respond to the different prompts.<p></div>',
+          '<div id="instruct"><p>You will first be asked to answer some questions to ensure that you understood the instructions.</p>\
+  <p>Please answer to the best of your ability.</p>\
+  <p>If you miss a question, you will be sent back to review the instructions and re-take the test. You must get all questions correct before you can move on to the practice round of the task.</p></div>'
+        ],
+        show_clickable_nav: true,
+        allow_keys: false,
+        data: {
+          category: "wait_instructions1"
+        }
+      },
+      {
+        type: 'survey-multi-choice',
+        data: {
+          category: "wait_instructions_quiz"
+        },
+        questions: [{
+            prompt: 'If I choose "SKIP" or "KNOW," I will not see the answer to the trivia question.',
+            options: ['True', 'False'],
+            required: true,
+            horizontal: true
+          },
+          {
+            prompt: 'The trivia task will take ' + maxTaskTime +
+              ' minutes, regardless of whether I press SKIP, KNOW, or WAIT.',
+            options: ['True', 'False'],
+            required: true,
+            horizontal: true
+          },
+          {
+            prompt: 'I should press KNOW only if I\'m 100% sure I know the answer to the question.',
+            options: ['True', 'False'],
+            required: true,
+            horizontal: true
+          }
+        ],
+        randomize_question_order: true,
+        preamble: 'Please answer these questions:'
+      }
+    ],
+    loop_function: function() {
+      var resps = JSON.parse(jsPsych.data.get().last(1).select("responses").values[0]);
+      for (i = 0; i < 3; i++) {
+        if (resps["Q" + i] == "False") {
+          return true
+        }
+      }
+      return false
+    }
+  },
+  {
+    type: "html-button-response",
+    stimulus: "<div id='instruct'>Press <i>Continue</i> to start the short training block.</div>",
+    choices: ["Continue"],
+    margin_vertical: "80px",
+    data: {
+      category: 'wait_instructions1'
+    },
+    post_trial_gap: 200,
+    on_finish: function() {
+      jsPsych.data.addProperties({
+        wait_start_time: Date.now()
+      });
+    }
+  },
+];
+
+var wait_instructions_post_practice = {
+  type: "instructions",
+  pages: ['<div id="instruct"><p>You will now begin the full version of the \
+  task. The task will continue for ' + maxTaskTime + ' minutes.</p>\
+  <p><b>Please remain focused on this task for the next ' + maxTaskTime +
+    ' minutes. We are able to note when participants click away from the task \
+  and we will review all data before approving the HIT.</b></p></div>'
+  ],
+  show_clickable_nav: true,
+  allow_keys: false,
+  data: {
+    category: "wait_instructions_post_practice"
+  },
+  on_finish: function() {
+    jsPsych.data.addProperties({
+      wait_start_time: Date.now()
+    });
+  }
+}
+
+var wait_instructions2 = {
+  type: 'instructions',
+  pages: ['<div id="instruct"><p>You will now continue to another round of the same task with different questions.</p></div>',
+    '<div id="instruct"><p>This block is also ' + maxTaskTime +
+    ' minuets long, regardless of how many questions you choose to skip or wait \
+    for, so please base your decisions on how interested you are in learning \
+    the answers.</p></div>',
+    '<div id="instruct"><p>Press the <i>Next</i> button to begin the next round of the task.</p></div>'
+  ],
+  show_clickable_nav: true,
+  allow_keys: false,
+  data: {
+    category: "wait_instructions1"
+  },
+  on_finish: function() {
+    jsPsych.data.addProperties({
+      wait_start_time: Date.now()
+    });
+  }
+};
+
+// Trial plans - add timing variables to tables loaded from csv
+function drawTimes(items) {
+  var wait_times = jsPsych.randomization.repeat(waits,
+    Math.ceil(items.length / waits.length), false);
+
+  for (i = 0; i < items.length; i++) {
+    items[i]["wait_time"] = wait_times[i];
+    items[i]["ITI_next"] = Math.random() * (ITI_range[1] - ITI_range[0]) +
+      ITI_range[0]
+  }
+  return items
+}
+
+// Trial plan - shuffle keeping types even throughout
+function pseudoShuffle(items, types, bin_size = 6) {
+
+  // Separate by type of question
+  var cond0 = items.filter(item => item["type"] == types[0]),
+    cond1 = items.filter(item => item["type"] == types[1]);
+
+  // Random order each type
+  cond0 = jsPsych.randomization.shuffle(cond0);
+  cond1 = jsPsych.randomization.shuffle(cond1);
+
+  var shuf_items = [];
+
+  for (i = 0; i < Math.ceil(cond0.length / (bin_size / 2)); i++) {
+    var this_add = cond0.slice(i * (bin_size / 2), i * (bin_size / 2) + (bin_size / 2)).concat(
+      cond1.slice(i * (bin_size / 2), i * (bin_size / 2) + (bin_size / 2))
+    );
+    this_add = jsPsych.randomization.shuffle(this_add);
+
+    shuf_items = shuf_items.concat(this_add);
+  }
+  return shuf_items
+}

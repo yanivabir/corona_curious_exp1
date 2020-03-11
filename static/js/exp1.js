@@ -198,12 +198,13 @@ function postLoad() {
       pages: ['<div id="instruct">Thank you for participating in this experiment!<p>\
       In this study we were interested in people\'s curiosity about different \
       types of questions.</p>\
-      <p>The information about coronavirus was based on the researchers\' \
-      reading of current publicly available information from the Centers for \
-      Disease Control and other reputable health and news media websites but \
-      should not be taken as medical advice. If you have any questions about \
-      coronavirus, you should seek the judgment of a medical professional.</p>\
-      <p>We will process your data witin 48h and grant you an extra $2 to any \
+      <p>Any health information presented in this experiment was based on the \
+      researchers’ reading of current publicly available information from the \
+      Center for Disease Control and other reputable health and news media \
+      websites but should not be taken as medical advice. If you have any \
+      questions about your health, you should seek the judgment of a medical \
+      professional.</p>\
+      <p>We will process your data within 48h and grant you an extra $2 to any \
       participant that stayed engaged throughout the task.</p>\
       <p>You will recieve an email invitiation for the next session early next week.</p>\
       <p>You\'ll  recieve $2 special bonus for participating in another session.</p></div>'],
