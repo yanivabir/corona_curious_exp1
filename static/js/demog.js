@@ -72,7 +72,7 @@ demographic_block = [{
         options: ["Male", "Female", "Other"],
         required: true,
         horizontal: true,
-        name: gender
+        name: "gender"
       },
       {
         prompt: "What is your race/ethnicity?",
