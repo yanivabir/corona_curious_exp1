@@ -25,8 +25,6 @@ Implemented using the [jsPsych package](jspsych.org).
 ```
 
 ## To Do
-1. link to cdc faq at the end
-
 5. Consider using database for data rather than saving locally on server with csv
 6. Initial data processing script
 11. Consider waiting time distribution

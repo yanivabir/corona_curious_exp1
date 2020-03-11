@@ -197,7 +197,7 @@ function postLoad() {
       types of questions.</p>\
       <p>All the coronavirus related information you viewed in the course of \
       this study was based on the current state of scientific knowledge, and \
-      on recommendations made by the Center for Disease Control and Prevention \
+      on recommendations made by the <a href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html">Center for Disease Control and Prevention</a> \
       (CDC).</p>\
       <p>You will recieve an email invitiation for the next session early next week.</p>\
       <p>You\'ll  recieve $2 special bonus for participating in another session.</p></div>'],
