@@ -125,7 +125,7 @@ function postLoad() {
 
   var welcome = {
     type: "html-button-response",
-    stimulus: "<div id='instruct'><p>In this study, you will be asked to \
+    stimulus: "<div id='instruct'><p>In this study, you will be asked to complete \
       several tasks and answer multiple questions. Throuhgout the study, we are \
       interested in your own personal judgments, views and knowledge.</p>\
       <p>It is important that you stay engaged throuhgout this study. We will\
@@ -199,6 +199,8 @@ function postLoad() {
       this study was based on the current state of scientific knowledge, and \
       on recommendations made by the <a href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html">Center for Disease Control and Prevention</a> \
       (CDC).</p>\
+      <p>We will process your data witin 48h and grant you an extra $2 to any \
+      participant that stayed engaged throughout the task.</p>\
       <p>You will recieve an email invitiation for the next session early next week.</p>\
       <p>You\'ll  recieve $2 special bonus for participating in another session.</p></div>'],
       show_clickable_nav: true,
