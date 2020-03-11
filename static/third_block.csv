@@ -1,4 +1,4 @@
-qustionId,type,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
+questionId,type,question,answer,normalized_curiosity,normalized_log_diagnosicity,comment
 TB_01_TR,Trivia,"What country is home to Roots, the company that outfits the U.S. Olympic team?",Canada,-2.7712415,1.95285018,
 TB_02_TR,Trivia,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?",Ivory Coast's,-2.1078316,1.87182145,
 TB_03_TR,Trivia,What 1993 film's title character has the first name Euphegenia?,Mrs. Doubtfire's,-1.9413601,1.32164136,

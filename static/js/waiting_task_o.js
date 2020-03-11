@@ -233,7 +233,7 @@ var wait_instructions1 = [{
     choices: ["Continue"],
     margin_vertical: "80px",
     data: {
-      category: 'wait_answer'
+      category: 'wait_instructions1'
     },
     post_trial_gap: 200,
     on_finish: function() {
