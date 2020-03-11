@@ -5,7 +5,8 @@ demographic_block = [{
       prompt: "<div id='instruct'>Who will you vote for in the upcoming presidential elections?</div>",
       options: ["President Trump", "The Democratic candidate", "Don't know",
       "I won't vote"],
-      horizontal: true
+      horizontal: true,
+      name: "vote_for"
     }],
     data: {
       category: 'politics'
@@ -30,7 +31,8 @@ demographic_block = [{
         in one month from now.</p></div>",
         columns: 20,
         rows: 1,
-        value: ''
+        value: '',
+        name: "sp500"
       }],
       data: {
         category: 'stock'
@@ -42,19 +44,22 @@ demographic_block = [{
         prompt: "<div id='instruct'>How old are you?</div>",
         columns: 20,
         rows: 1,
-        value: ''
+        value: '',
+        name: "age"
       },
       {
         prompt: "<div id='instruct'>What is your zip code?</div>",
         columns: 20,
         rows: 1,
-        value: ''
+        value: '',
+        name: "zip"
       },
       {
         prompt: "<div id='instruct'>What state do you live in?</div>",
         columns: 20,
         rows: 1,
-        value: ''
+        value: '',
+        name: "state"
       }
     ],
     data: {
@@ -66,7 +71,8 @@ demographic_block = [{
         prompt: "What is your gender?",
         options: ["Male", "Female", "Other"],
         required: true,
-        horizontal: true
+        horizontal: true,
+        name: gender
       },
       {
         prompt: "What is your race/ethnicity?",
@@ -75,7 +81,8 @@ demographic_block = [{
           "White", "Multi-racial", "Prefer not to answer"
         ],
         horizontal: true,
-        required: true
+        required: true,
+        name: "race"
       },
       {
         prompt: "What is the highest degree or level of school that you have completed? (If you are currently enrolled in school, please indicate the highest degree you have received)?",
@@ -84,13 +91,15 @@ demographic_block = [{
           "Master's Degree", "Professional Degree (e.g. MD, JD, DDS)", "Doctorate"
         ],
         horizontal: true,
-        required: true
+        required: true,
+        name: "education"
       },
       {
         prompt: "Is English your native language?",
         options: ["Yes", "No"],
         horizontal: true,
-        required: true
+        required: true,
+        name: "native_english"
       }
     ],
     data: {
@@ -102,7 +111,8 @@ demographic_block = [{
     questions: [{
       prompt: "How fluent are you in reading and understanding English?",
       labels: ["1<br>Not at all", "2", "3", "4", "5<br>Very fluent"],
-      required: true
+      required: true,
+      name: "fluent"
     }],
     scale_width: 400,
     data: {
