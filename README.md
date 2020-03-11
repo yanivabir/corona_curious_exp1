@@ -42,7 +42,6 @@ First five subjects ran on this version on 03/11/2020
 8. test
 11. Please respond to answer
 11. save question types, block
-12. category poltics_win
 
 
 11. Consider waiting time distribution

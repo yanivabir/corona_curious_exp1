@@ -19,7 +19,7 @@ demographic_block = [{
     labels: ["100% certain Trump", "Coin toss", "100% certain Democrat"],
     require_movement: true,
     data: {
-      category: 'politics'
+      category: 'politics_win'
     }
   },
   {
