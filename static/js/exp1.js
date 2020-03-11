@@ -279,7 +279,6 @@ function postLoad() {
   // experiment.push(covariate_block);
   // experiment.push(pre_questionnaires_message);
   // experiment = experiment.concat(five_d);
-  // experiment = experiment.concat(id_block);
   // experiment = experiment.concat(gallup_block);
   // experiment = experiment.concat(anxiety);
   // experiment = experiment.concat(corona_perception_block);
