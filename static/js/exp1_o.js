@@ -245,10 +245,7 @@ function postLoad() {
         var d = new Date;
         saveData(PID, sess, '', jsPsych.data.get().csv(),
           function() {
-            saveData(PID, sess, '_int', jsPsych.data.getInteractionData().csv(),
-              function() {
-                self.close();
-              })
+            saveData(PID, sess, '_int', jsPsych.data.getInteractionData().csv());
           });
       }
     },
