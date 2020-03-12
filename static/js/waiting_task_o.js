@@ -315,7 +315,7 @@ var wait_instructions2 = {
   type: 'instructions',
   pages: ['<div id="instruct"><p>You will now continue to another round of the same task with different questions.</p></div>',
     '<div id="instruct"><p>This block is also ' + maxTaskTime +
-    ' minuets long, regardless of how many questions you choose to skip or wait \
+    ' minutes long, regardless of how many questions you choose to skip or wait \
     for, so please base your decisions on how interested you are in learning \
     the answers.</p></div>',
     '<div id="instruct"><p>Press the <i>Next</i> button to begin the next round of the task.</p></div>'
