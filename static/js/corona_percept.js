@@ -43,7 +43,7 @@ corona_perception_block = [
           category: "corona_percept"
         },
         questions: [{
-            prompt: "<div id='instruct'>How long ago were you infected?</div>",
+            prompt: "<div id='instruct'>On what date were you infected?</div>",
             columns: 60,
             rows: 1,
             value: '',
