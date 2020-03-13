@@ -48,6 +48,13 @@ demographic_block = [{
         name: "age"
       },
       {
+        prompt: "<div id='instruct'>What city do you live in?</div>",
+        columns: 20,
+        rows: 1,
+        value: '',
+        name: "city"
+      },
+      {
         prompt: "<div id='instruct'>What is your zip code?</div>",
         columns: 20,
         rows: 1,
