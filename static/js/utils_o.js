@@ -28,7 +28,10 @@ var kick_out = {
     var d = new Date;
     saveData(PID, sess, '', jsPsych.data.get().csv(),
       function() {
-        saveData(PID, sess, '_int', jsPsych.data.getInteractionData().csv());
+        saveData(PID, sess, '_int', jsPsych.data.getInteractionData().csv(),
+      function() {
+        jsPsych.endExperiment();
+      });
       });
   },
   data: {
