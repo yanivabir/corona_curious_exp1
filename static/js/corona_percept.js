@@ -168,6 +168,19 @@ corona_perception_block = [{
     scale_width: 400
   },
   {
+    type: "survey-likert",
+    data: {
+      category: "corona_percept"
+    },
+    questions: [{
+      prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
+      labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
+      required: true,
+      name: "corona_info_seek"
+    }],
+    scale_width: 400
+  },
+  {
     type: "html-slider-response",
     stimulus: "<div id='instruct'>What do you think the chances are that you will personally be infected with the new coronavirus?</div>",
     slider_width: 400,
