@@ -26,9 +26,9 @@ C_24_NU,corona,Not useful,"According to media reports, which 2011 movie has seen
 C_25_NU,corona,Not useful,What is the supposed origin of the name coronavirus?,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),
 C_26_NU,corona,Not useful,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?,Severe acute respiratory syndrome,
 C_27_U,corona,Useful,What is the most effective measure to prevent infection with the coronavirus?,Washing your hands frequently,
-C_28_U,corona,Useful,Does sleep help prevent coronavirus infections?,"Yes, by boosting the immune system",RH: explicitly tie to corona
-C_29_U,corona,Useful,How soon is a vaccine for the coronavirus likely to be available?,Not for at least several months from now,
-C_30_U,corona,Useful,"Are the coronavirus symptoms similar to, or different from, seasonal flu?",Similar,https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
+C_28_U,corona,Useful,Does sleep make you more resistant to coronavirus infections?,"Yes, by boosting the immune system",RH: explicitly tie to corona
+C_29_U,corona,Useful,How soon is a vaccine for the new coronavirus likely to be available?,Not for at least several months from now,
+C_30_U,corona,Useful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?",More similar to the symptoms of the ful,https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
 C_31_U,corona,Useful,Can the coronavirus be transmitted through sexual intercourse?,Probably not but it's too soon to be sure,https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html
 C_32_U,corona,Useful,Which three groups of people does the CDC recommend masks for?,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html
 C_33_U,corona,Useful,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?,Soft surfaces are less likely to transmit the virus than hard surfaces.,cdc faq
