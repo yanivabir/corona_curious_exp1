@@ -7,6 +7,13 @@ corona_perception_block = [
     },
     questions: [
       {
+        prompt: "Are you or have you been in self-isolation or quarantine during the outbreak of the new coronavirus?",
+        options: ["Yes", "No"],
+        required: true,
+        name: "corona_isolate",
+        horizontal: true
+      },
+      {
         prompt: "Have you been infected with the new coronavirus?",
         options: ["Yes", "No"],
         required: true,
