@@ -172,7 +172,14 @@ corona_perception_block = [{
     data: {
       category: "corona_percept"
     },
-    questions: [{
+    questions: [
+      {
+        prompt: "<div id='instruct'>Relative to one month ago, before the new coronavirus epidemic, how much time do you spend reading and watching the news?</div>",
+        labels: ["1<br>Much less", "2", "3<br>Same as before", "4", "5<br>Much more"],
+        required: true,
+        name: "corona_rel_media"
+      },
+      {
       prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
       labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
       required: true,
