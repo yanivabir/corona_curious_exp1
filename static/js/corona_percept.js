@@ -1,12 +1,10 @@
 // Corona perception questions
-corona_perception_block = [
-  {
+corona_perception_block = [{
     type: "survey-multi-choice",
-    data:{
+    data: {
       category: "corona_percept"
     },
-    questions: [
-      {
+    questions: [{
         prompt: "Are you or have you been in self-isolation or quarantine during the outbreak of the new coronavirus?",
         options: ["Yes", "No"],
         required: true,
@@ -23,14 +21,12 @@ corona_perception_block = [
     ],
   },
   {
-    timeline:[
-      {
+    timeline: [{
         type: "survey-multi-choice",
-        data:{
+        data: {
           category: "corona_percept"
         },
-        questions: [
-          {
+        questions: [{
             prompt: "Have you been diagnosed by a COVID-19 test?",
             options: ["Yes", "No"],
             required: true,
@@ -46,31 +42,29 @@ corona_perception_block = [
       },
       {
         type: "survey-text",
-        data:{
+        data: {
           category: "corona_percept"
         },
         questions: [{
-            prompt: "<div id='instruct'>On what date were you infected?</div>",
-            columns: 60,
-            rows: 1,
-            value: '',
-            name: "corona_duration_infctd"
-          },
-        ]
+          prompt: "<div id='instruct'>On what date were you infected?</div>",
+          columns: 60,
+          rows: 1,
+          value: '',
+          name: "corona_duration_infctd"
+        }, ]
       }
     ],
-    conditional_function: function(){
+    conditional_function: function() {
       resp = JSON.parse(jsPsych.data.get().last(1).select('responses').values[0])["corona_infctd"]
       return resp == "Yes" ? true : false
     }
   },
   {
     type: "survey-multi-choice",
-    data:{
+    data: {
       category: "corona_percept"
     },
-    questions: [
-      {
+    questions: [{
         prompt: "Do you personally know anyone infected with the new coronavirus?",
         options: ["Yes", "No"],
         required: true,
@@ -95,11 +89,10 @@ corona_perception_block = [
   },
   {
     type: "survey-likert",
-    data:{
+    data: {
       category: "corona_percept"
     },
-    questions: [
-      {
+    questions: [{
         prompt: "<div id='instruct'>How upset would you be if you find out that a close family member is infected with the new coronavirus?</div>",
         labels: ["1<br>Not at all", "2", "3", "4", "5<br>Extremely upset"],
         required: true,
@@ -112,19 +105,25 @@ corona_perception_block = [
         name: "corona_upst_me"
       },
       {
-        prompt: "<div id='instruct'>In the next few weeks, how much will your personal life change as a result of the new coronavirus epidemic?</div>",
+        prompt: "<div id='instruct'>How much has your personal life changed relative to a month ago as a result of the new coronavirus epidemic?</div>",
         labels: ["1<br>No change", "2", "3", "4", "5<br>Extreme change"],
         required: true,
-        name: "corona_prsnl_change"
-      }],
+        name: "corona_already_changed"
+      }
+    ],
     scale_width: 400
   },
   {
     type: "survey-likert",
-    data:{
+    data: {
       category: "corona_percept"
     },
-    questions: [
+    questions: [{
+        prompt: "<div id='instruct'>In the next few weeks, how much will your personal life change as a result of the new coronavirus epidemic?</div>",
+        labels: ["1<br>No change", "2", "3", "4", "5<br>Extreme change"],
+        required: true,
+        name: "corona_prsnl_change"
+      },
       {
         prompt: "<div id='instruct'>In the next few weeks, how much will the lives of people around you will change as a result of the new coronavirus epidemic?</div>",
         labels: ["1<br>No change", "2", "3", "4", "5<br>Extreme change"],
@@ -136,21 +135,21 @@ corona_perception_block = [
         labels: ["1<br>No change", "2", "3", "4", "5<br>Extreme change"],
         required: true,
         name: "corona_scty_change"
-      },
-      {
-        prompt: "<div id='instruct'>How worried are you about being infected with the coronavirus?</div>",
-        labels: ["1<br>Not at all", "2", "3", "4", "5<br>Very worried"],
-        required: true,
-        name: "corona_worried"
-      }],
+      }
+    ],
     scale_width: 400,
   },
   {
     type: "survey-likert",
-    data:{
+    data: {
       category: "corona_percept"
     },
-    questions: [
+    questions: [{
+        prompt: "<div id='instruct'>How worried are you about being infected with the coronavirus?</div>",
+        labels: ["1<br>Not at all", "2", "3", "4", "5<br>Very worried"],
+        required: true,
+        name: "corona_worried"
+      },
       {
         prompt: "<div id='instruct'>How anxious do you feel about the possibility of losing your \
         life to the new coronavirus?</div>",
