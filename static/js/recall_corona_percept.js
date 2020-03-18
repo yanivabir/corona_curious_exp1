@@ -1,5 +1,5 @@
 // Corona perception questions
-recall_corona_block = [
+recall_corona_block = [fullscreen_prompt,
   {
     type: "survey-multi-choice",
     preamble: "<div id = 'instruct', class = 'recall'>What was your answer to these questions <font color='tomato'>one week ago</font>?</div>'",
@@ -29,6 +29,7 @@ recall_corona_block = [
       }
     ]
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What was your answer to these questions <font color='tomato'>one week ago</font>?</div>'",
@@ -56,6 +57,7 @@ recall_corona_block = [
     ],
     scale_width: 400
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What was your answer to these questions <font color='tomato'>one week ago</font>?</div>'",
@@ -83,6 +85,7 @@ recall_corona_block = [
     ],
     scale_width: 400,
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What was your answer to these questions <font color='tomato'>one week ago</font>?</div>'",
@@ -112,6 +115,7 @@ recall_corona_block = [
     ],
     scale_width: 400
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What was your answer to these questions <font color='tomato'>one week ago</font>?</div>'",
@@ -144,6 +148,7 @@ recall_corona_block = [
       category: "recall_corona_chances_infct"
     }
   },
+  fullscreen_prompt,
   {
     type: "html-slider-response",
     stimulus: "<div id = 'instruct', class = 'recall'>What was your answer to this question <font color='tomato'>one week ago</font>?</div>\
@@ -158,7 +163,8 @@ recall_corona_block = [
 ];
 
 // Corona perception questions
-corona_perception_block = [{
+corona_perception_block = [fullscreen_prompt,
+  {
     type: "survey-multi-choice",
     preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
     data: {
@@ -219,6 +225,7 @@ corona_perception_block = [{
       return resp == "Yes" ? true : false
     }
   },
+  fullscreen_prompt,
   {
     type: "survey-multi-choice",
     preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
@@ -248,6 +255,7 @@ corona_perception_block = [{
       }
     ]
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
@@ -275,6 +283,7 @@ corona_perception_block = [{
     ],
     scale_width: 400
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
@@ -302,6 +311,7 @@ corona_perception_block = [{
     ],
     scale_width: 400,
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
@@ -331,6 +341,7 @@ corona_perception_block = [{
     ],
     scale_width: 400
   },
+  fullscreen_prompt,
   {
     type: "survey-likert",
     preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",

@@ -4,7 +4,7 @@
 var minResponseTime = 1500;
 
 // Trial strucutre
-var recall_trial = [{
+var recall_trial = [fullscreen_prompt, {
     type: "html-button-response-min-time",
     stimulus: function() {
       return "<div id'instruct'><p>Do you remember the answer you read last week \
