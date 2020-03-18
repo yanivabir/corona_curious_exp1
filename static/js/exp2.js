@@ -111,13 +111,18 @@ function postLoad() {
   };
 
   var pre_questionnaires_message = {
-    type: "html-button-response",
-    stimulus: '<div id="instruct"><p>For the last part of the experiment, we ask \
-      you to answer a few questions about your opinions and beliefs, and about \
-      yourself.</p><p>Please answer these questions as truthfully and accurately \
-      as possible</p></div>',
-    choices: ["Continue"],
-    margin_vertical: "80px",
+    type: "instructions",
+    pages: [
+      '<div id="instruct"><p>For the last part of the experiment, we ask \
+      you to answer a few questions about your opinions, feelings and beliefs <font color="Chartreuse"><b>right now</b></font>.</p>\
+      </div>',
+      '<div id="instruct"><p>You are no longer trying to recall previous answers, but \
+        just reporting your feelings <font color="Chartreuse"><b>right now</b></font>.\
+        <p>Please answer these questions as truthfully and accurately \
+      as possible</p></div>'
+    ],
+    show_clickable_nav: true,
+    allow_keys: false,
     data: {
       category: 'pre_questionnaires_message'
     },
@@ -137,9 +142,7 @@ function postLoad() {
       questions about your health, you should seek the judgment of a medical \
       professional.</p>\
       <p>We will process your data within 48h and grant you an extra $2 to any \
-      participant that stayed engaged throughout the task.</p>\
-      <p>You will recieve an email invitiation for the next session early next week.</p>\
-      <p>You\'ll  recieve $2 special bonus for participating in another session.</p></div>'],
+      participant that made an honest attempt at recalling previous answers.</p></div>'],
       show_clickable_nav: true,
       allow_keys: false,
       data: {
@@ -201,15 +204,15 @@ function postLoad() {
   // Put it all together
   experiment.push(fullscreen);
   experiment.push(welcome);
-  // experiment.push(recall_instructions1);
-  // experiment = experiment.concat(answer_recall_block);
+  experiment.push(recall_instructions1);
+  experiment = experiment.concat(answer_recall_block);
   experiment.push(pre_recall_corona_message);
   experiment = experiment.concat(recall_corona_block);
-  // experiment.push(pre_questionnaires_message);
-  // experiment = experiment.concat(gallup_block);
-  // experiment = experiment.concat(anxiety);
-  // experiment = experiment.concat(corona_perception_block);
-  // experiment = experiment.concat(demographic_block);
+  experiment.push(pre_questionnaires_message);
+  experiment = experiment.concat(gallup_block);
+  experiment = experiment.concat(anxiety);
+  experiment = experiment.concat(corona_perception_block);
+  experiment = experiment.concat(demographic_block);
   experiment = experiment.concat(debrief);
 
   // Prevent right click, refresh
