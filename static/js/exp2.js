@@ -69,7 +69,7 @@ function postLoad() {
       the reading material and your answers from last week.</p></div>",
       "<div id='instruct'><p>When prompted, please try your best to remember \
       the relevant piece of information from last week.</p><p>We will be going over \
-      responses, and awarding a $2 bonus payment only to participants who made a sincere \
+      responses, and awarding a $1 bonus payment only to participants who made a sincere \
       effort at remembering.</p><p>This bonus will be processed within 48 hours from \
       completing this session.</p></div>"
     ],
@@ -141,7 +141,7 @@ function postLoad() {
       websites but should not be taken as medical advice. If you have any \
       questions about your health, you should seek the judgment of a medical \
       professional.</p>\
-      <p>We will process your data within 48h and grant you an extra $2 to any \
+      <p>We will process your data within 48h and grant you an extra $1 to any \
       participant that made an honest attempt at recalling previous answers.</p></div>'],
       show_clickable_nav: true,
       allow_keys: false,
