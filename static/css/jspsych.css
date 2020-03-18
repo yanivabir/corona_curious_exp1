@@ -16,6 +16,11 @@
   max-width: 800px;
 }
 
+.recall{
+  font-size: 150%;
+  font-weight: bold;
+}
+
 #jspsych-html-button-response-stimulus, #jspsych-survey-likert-preamble{
   max-width: 800px;
 }

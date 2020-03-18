@@ -90,6 +90,26 @@ function postLoad() {
     timeline_variables: viewed_answers
   }
 
+  var pre_recall_corona_message = {
+    type: "instructions",
+    pages: [
+      "<div id='instruct'><p>This is the end of this part of this session.</p></div>",
+      "<div id='instruct'><p>In the next part of the experiment, we will ask you \
+      to revisit the answers you gave<br><font color='tomato'><b>one week ago</b></font> \
+      regarding your opinions and beliefs.</p><p>You will now review some questions\
+      that you answered last week. Please answer them <i>as close as possible to \
+      your answers last week</i>.</p></div>",
+      "<div id='instruct'><p>Press the <i>Next</i> button to start recalling your \
+      answers <font color='tomato'><b>from last week</b></font>.</p>"
+    ],
+    show_clickable_nav: true,
+    allow_keys: false,
+    data: {
+      category: 'pre_recall_corona_message'
+    },
+    post_trial_gap: 200
+  };
+
   var pre_questionnaires_message = {
     type: "html-button-response",
     stimulus: '<div id="instruct"><p>For the last part of the experiment, we ask \
@@ -181,8 +201,10 @@ function postLoad() {
   // Put it all together
   experiment.push(fullscreen);
   experiment.push(welcome);
-  experiment.push(recall_instructions1);
-  experiment = experiment.concat(answer_recall_block);
+  // experiment.push(recall_instructions1);
+  // experiment = experiment.concat(answer_recall_block);
+  experiment.push(pre_recall_corona_message);
+  experiment = experiment.concat(recall_corona_block);
   // experiment.push(pre_questionnaires_message);
   // experiment = experiment.concat(gallup_block);
   // experiment = experiment.concat(anxiety);
