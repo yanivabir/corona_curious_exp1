@@ -212,7 +212,7 @@ function postLoad() {
   experiment = experiment.concat(gallup_block);
   experiment = experiment.concat(anxiety);
   experiment = experiment.concat(corona_perception_block);
-  // experiment = experiment.concat(demographic_block);
+  experiment = experiment.concat(demographic_block);
   experiment = experiment.concat(debrief);
 
   // Prevent right click, refresh
