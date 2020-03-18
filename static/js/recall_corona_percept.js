@@ -118,23 +118,23 @@ recall_corona_block = [fullscreen_prompt,
   fullscreen_prompt,
   {
     type: "survey-likert",
-    preamble: "<div id = 'instruct', class = 'recall'>What was your answer to these questions <font color='tomato'>one week ago</font>?</div>'",
+    preamble: "<div id = 'instruct', class = 'recall'>What was your answer to these questions <font color='tomato'>one week ago</font>?</div>",
     data: {
       category: "recall_corona_percept"
     },
-    questions: [
-      {
+    questions: [{
         prompt: "<div id='instruct'>Relative to one month ago, before the new coronavirus epidemic, how much time do you spend reading and watching the news?</div>",
         labels: ["1<br>Much less", "2", "3<br>Same as before", "4", "5<br>Much more"],
         required: true,
         name: "recall_corona_rel_media"
       },
       {
-      prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
-      labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
-      required: true,
-      name: "recall_corona_info_seek"
-    }],
+        prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
+        labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
+        required: true,
+        name: "recall_corona_info_seek"
+      }
+    ],
     scale_width: 400
   },
   {
@@ -158,6 +158,52 @@ recall_corona_block = [fullscreen_prompt,
     require_movement: true,
     data: {
       category: "recall_corona_chances_loved"
+    }
+  },
+  fullscreen_prompt,
+  {
+    type: "survey-multi-choice",
+    preamble: "<div id = 'instruct', class = 'recall'>What was your answer to this question <font color='tomato'>one week ago</font>?</div>",
+    questions: [{
+      prompt: "<div id='instruct'>Who will you vote for in the upcoming presidential elections?</div>",
+      options: ["President Trump", "The Democratic candidate", "Don't know",
+        "I won't vote"
+      ],
+      horizontal: true,
+      name: "recall_vote_for"
+    }],
+    data: {
+      category: 'recall_politics'
+    }
+  },
+  fullscreen_prompt,
+  {
+    type: "html-slider-response",
+    stimulus: "<div id = 'instruct', class = 'recall'>What was your answer to this question <font color='tomato'>one week ago</font>?</div>\
+    <div id='instruct'>Who do you think is likely to win the next \
+      presidential elections?</div>",
+    labels: ["100% certain Trump", "Coin toss", "100% certain Democrat"],
+    require_movement: true,
+    data: {
+      category: 'recall_politics_win'
+    }
+  },
+  fullscreen_prompt,
+  {
+    type: 'survey-text',
+    questions: [{
+      prompt: "<div id = 'instruct', class = 'recall'>What was your answer to this question <font color='tomato'>one week ago</font>?</div>\
+      <div id='instruct'><p>The S&P 500 is an index that tracks much \
+          of the American stock market.</p><p>Think of the current level of the S&P 500 \
+          as 100. Please write your best guess for the relative level of the S&P 500 \
+          in one month from now.</p></div>",
+      columns: 20,
+      rows: 1,
+      value: '',
+      name: "recall_sp500"
+    }],
+    data: {
+      category: 'recall_stock'
     }
   }
 ];
@@ -348,25 +394,25 @@ corona_perception_block = [fullscreen_prompt,
     data: {
       category: "corona_percept"
     },
-    questions: [
-      {
+    questions: [{
         prompt: "<div id='instruct'>Relative to one month ago, before the new coronavirus epidemic, how much time do you spend reading and watching the news?</div>",
         labels: ["1<br>Much less", "2", "3<br>Same as before", "4", "5<br>Much more"],
         required: true,
         name: "corona_rel_media"
       },
       {
-      prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
-      labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
-      required: true,
-      name: "corona_info_seek"
-    }],
+        prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
+        labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
+        required: true,
+        name: "corona_info_seek"
+      }
+    ],
     scale_width: 400
   },
   {
     type: "html-slider-response",
     stimulus: "<div id = 'instruct', class = 'recall'>What is your answer to this question <font color='Chartreuse'>right now</font>?</div>'" +
-    "<div id='instruct'>What do you think the chances are that you will personally be infected with the new coronavirus?</div>",
+      "<div id='instruct'>What do you think the chances are that you will personally be infected with the new coronavirus?</div>",
     slider_width: 400,
     labels: ["0%", "50%", "100%"],
     require_movement: true,
@@ -377,7 +423,7 @@ corona_perception_block = [fullscreen_prompt,
   {
     type: "html-slider-response",
     stimulus: "<div id = 'instruct', class = 'recall'>What is your answer to this questiont <font color='Chartreuse'>right now</font>?</div>'" +
-    "<div id='instruct'>What do you think the chances are that you will lose a loved one to the new coronavirus?</div>",
+      "<div id='instruct'>What do you think the chances are that you will lose a loved one to the new coronavirus?</div>",
     slider_width: 400,
     labels: ["0%", "50%", "100%"],
     require_movement: true,
