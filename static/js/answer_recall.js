@@ -1,28 +1,61 @@
 // Javascript functions and routines for waiting task
 
 // Parameters
+var minResponseTime = 1500;
 
 // Trial strucutre
-var recall_trial = {
-  type: "survey-text",
-  preamble: "<div id'instruct'>What answer did you read last week for the question:</div>",
-  questions: [{
-    prompt: jsPsych.timelineVariable('question'),
-    required: true,
-    rows: 3,
-    columns: 60,
-    name: "recall"
-  }],
-  post_trial_gap: 200,
-  data: {
-    category: "answer_recall",
-    question: jsPsych.timelineVariable('question'),
-    answer: jsPsych.timelineVariable('answer'),
-    questionId: jsPsych.timelineVariable('questionId'),
-    block: jsPsych.timelineVariable('block'),
-    type: jsPsych.timelineVariable('type')
+var recall_trial = [{
+    type: "html-button-response-min-time",
+    stimulus: function() {
+      return "<div id'instruct'><p>Do you remember the answer you read last week \
+    to this question:</p><p><i>" + jsPsych.timelineVariable('question', true) +
+        "</i></p></div>"
+    },
+    choices: ["Yes", "No"],
+    margin_horizontal: "30px",
+    margin_vertical: "80px",
+    post_trial_gap: 200,
+    min_response_time: minResponseTime,
+    data: {
+      category: "answer_recall_yn",
+      question: jsPsych.timelineVariable('question'),
+      answer: jsPsych.timelineVariable('answer'),
+      questionId: jsPsych.timelineVariable('questionId'),
+      block: jsPsych.timelineVariable('block'),
+      type: jsPsych.timelineVariable('type')
+    }
+  },
+  {
+    timeline: [{
+      type: "survey-text",
+      preamble: "<div id'instruct'>What answer did you read last week for the question:</div>",
+      questions: [{
+        prompt: jsPsych.timelineVariable('question'),
+        required: true,
+        rows: 3,
+        columns: 60,
+        name: "recall"
+      }],
+      post_trial_gap: 200,
+      data: {
+        category: "answer_recall",
+        question: jsPsych.timelineVariable('question'),
+        answer: jsPsych.timelineVariable('answer'),
+        questionId: jsPsych.timelineVariable('questionId'),
+        block: jsPsych.timelineVariable('block'),
+        type: jsPsych.timelineVariable('type')
+      }
+    }],
+    conditional_function: function() {
+      // Got to answer input only if yes indicated
+      var resp = jsPsych.data.get().filter({
+        category: "answer_recall_yn"
+      }).last(1).select("button_pressed").values[0]
+
+      return (resp == "0") | (resp == 0)  ? true : false
+    }
   }
-}
+];
 
 
 // Instructions

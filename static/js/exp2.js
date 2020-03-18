@@ -86,7 +86,7 @@ function postLoad() {
 
   // Answer recall block
   var answer_recall_block = {
-    timeline: [recall_trial],
+    timeline: recall_trial,
     timeline_variables: viewed_answers
   }
 
@@ -212,7 +212,7 @@ function postLoad() {
   experiment = experiment.concat(gallup_block);
   experiment = experiment.concat(anxiety);
   experiment = experiment.concat(corona_perception_block);
-  experiment = experiment.concat(demographic_block);
+  // experiment = experiment.concat(demographic_block);
   experiment = experiment.concat(debrief);
 
   // Prevent right click, refresh
