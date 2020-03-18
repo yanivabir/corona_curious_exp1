@@ -193,7 +193,7 @@ function postLoad() {
         category: "data_saved"
       },
       stimulus: "<div class='instructions'><p>Your results have successfully uploaded.</p>\
-    <p>Your completion code for this study is: <br> <b>EK64HN7</b></p>\
+    <p>Your completion code for this study is: <br> <b>JK834LLO</b></p>\
     <p>Use it to submit this HIT on MTurk.</p>\
     <p>You may now close this window.</p></div>",
       choices: jsPsych.NO_KEYS
