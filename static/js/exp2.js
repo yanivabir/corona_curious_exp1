@@ -1,49 +1,24 @@
 // Parameters
-var sess = 1,
-  version = 1.01,
-  n_for_covariates = 5, // How many items to save for covariate measurement
-  n_for_practice; // How many itmes in practice block
-var images = ["../static/images/wait_instructions.jpg"];
+var sess = 2,
+  version = 1.01
+var images = [];
 
 // ------- Determine subject level variables ----- //
-var PID = jsPsych.data.getURLVariable('workerId'),
-  firstBlock = Math.random() > 0.5 ? "corona" : "general";
+var PID = jsPsych.data.getURLVariable('workerId');
 
 // Is this a debug run?
 var debug = PID.includes("debug");
 
 // Keep important variables in global scope for convenience
-var corona_items,
-  general_items,
-  corona_items_curiosity,
-  corona_items_covariate,
-  general_items_curiosity,
-  general_items_covariate;
+var viewed_answers;
 
 // Load items from local csv file
-Papa.parse("../static/corona_questions.csv", {
+Papa.parse("../static/secSessStims/" + PID + "_viewedAnswers.csv", {
   download: true,
   header: true,
   dynamicTyping: true,
   complete: function(results) {
-    corona_items = results.data;
-    Papa.parse("../static/general_questions.csv", {
-      download: true,
-      header: true,
-      dynamicTyping: true,
-      complete: function(results) {
-        general_items = results.data;
-        Papa.parse("../static/third_block.csv", {
-          download: true,
-          header: true,
-          dynamicTyping: true,
-          complete: function(results) {
-            third_block_items = results.data;
-            postLoad();
-          }
-        });
-      }
-    });
+    viewed_answers = results.data;
   }
 });
 
@@ -53,58 +28,6 @@ var experiment = [];
 // Execute all of this experiment prep and run after we load items from local
 // csv file
 function postLoad() {
-
-  // Separate 2 items for practice block - one from each type
-  if (firstBlock == "corona") {
-    // Pick 1 from each type at random
-    practice_items = jsPsych.randomization.shuffle(
-      corona_items).filter(x => x['type'] == "Useful").splice(0,1).concat(
-        jsPsych.randomization.shuffle(corona_items).filter(x =>
-        x['type'] == "Not useful").splice(0,1));
-    // Remove them from corona list
-    corona_items = corona_items.filter(x => !practice_items.includes(x));
-  } else {
-    // Pick 1 from each type at random
-    practice_items = jsPsych.randomization.shuffle(
-      general_items).filter(x => x['type'] ==
-      "Useful").splice(0,1).concat(jsPsych.randomization.shuffle(general_items).filter(x =>
-        x['type'] == "Not useful").splice(0,1));
-    // Remove them from general list
-    general_items = general_items.filter(x => !practice_items.includes(x));
-  }
-
-  // Split items to curiosity and covariate ratings sets
-  corona_items = pseudoShuffle(corona_items, ["Useful", "Not useful"], 6);
-  general_items = pseudoShuffle(general_items, ["Useful", "Not useful"], 6);
-  third_block_items = pseudoShuffle(third_block_items, ["Trivia", "MTurk"], 6);
-
-  corona_items_curiosity = corona_items.slice(0,
-    corona_items.length - n_for_covariates);
-  corona_items_covariate = corona_items.slice(
-    corona_items.length - n_for_covariates, corona_items.length);
-
-  general_items_curiosity = general_items.slice(0,
-    general_items.length - n_for_covariates);
-  general_items_covariate = general_items.slice(
-    general_items.length - n_for_covariates, general_items.length);
-
-  third_block_items_curiosity = third_block_items.slice(0,
-    third_block_items.length - n_for_covariates);
-  third_block_items_covariate = third_block_items.slice(
-    third_block_items.length - n_for_covariates, third_block_items.length);
-
-  // Set timing parameters for waiting task practice block
-  practice_items[0]["wait_time"] = waits[1];
-  practice_items[1]["wait_time"] = waits[0];
-  practice_items[0]["ITI_next"] = Math.random() * (ITI_range[1] - ITI_range[0]) +
-    ITI_range[0];
-  practice_items[1]["ITI_next"] = Math.random() * (ITI_range[1] - ITI_range[0]) +
-    ITI_range[0];
-
-  // Draw timing parameters for waiting task
-  corona_items_curiosity = drawTimes(corona_items_curiosity);
-  general_items_curiosity = drawTimes(general_items_curiosity);
-  third_block_items_curiosity = drawTimes(third_block_items_curiosity);
 
   // Fullscreen experiment, save PID, counterbalancing
   var fullscreen = {
@@ -119,7 +42,6 @@ function postLoad() {
       jsPsych.data.addProperties({
         n_warnings: 0,
         PID: PID,
-        firstBlock: firstBlock,
         sess: sess,
         version: version
       });
@@ -141,41 +63,6 @@ function postLoad() {
         category: 'welcome'
       },
       post_trial_gap: 200
-  }
-
-  // Build waiting task blocks
-  wait_practice_block = {
-    timeline: wait_timeline,
-    timeline_variables: practice_items
-  }
-
-  wait_block1 = {
-    timeline: wait_timeline,
-    timeline_variables: firstBlock == "corona" ? corona_items_curiosity : general_items_curiosity
-  }
-
-  wait_block2 = {
-    timeline: wait_timeline,
-    timeline_variables: firstBlock == "corona" ? general_items_curiosity : corona_items_curiosity
-  }
-
-  wait_block3 = {
-    timeline: wait_timeline,
-    timeline_variables: third_block_items_curiosity
-  }
-
-  // Building covariate rating block
-  var items_covariate = corona_items_covariate.concat(general_items_covariate).concat(third_block_items_covariate);
-
-  for (i = 0; i < items_covariate.length; i++) {
-    items_covariate[i]["probes"] =
-      jsPsych.randomization.shuffle(covariate_probes);
-  }
-
-  var covariate_block = {
-    timeline: covariate_trial,
-    timeline_variables: items_covariate,
-    randomize_order: true
   }
 
   var pre_questionnaires_message = {
@@ -269,22 +156,11 @@ function postLoad() {
   // Put it all together
   experiment.push(fullscreen);
   experiment.push(welcome);
-  experiment = experiment.concat(wait_instructions1);
-  experiment.push(wait_practice_block);
-  experiment.push(wait_instructions_post_practice);
-  experiment.push(wait_block1);
-  experiment.push(wait_instructions2);
-  experiment.push(wait_block2);
-  experiment.push(wait_instructions2);
-  experiment.push(wait_block3);
-  experiment.push(covariate_instructions);
-  experiment.push(covariate_block);
-  experiment.push(pre_questionnaires_message);
-  experiment = experiment.concat(five_d);
-  experiment = experiment.concat(gallup_block);
-  experiment = experiment.concat(anxiety);
-  experiment = experiment.concat(corona_perception_block);
-  experiment = experiment.concat(demographic_block);
+  // experiment.push(pre_questionnaires_message);
+  // experiment = experiment.concat(gallup_block);
+  // experiment = experiment.concat(anxiety);
+  // experiment = experiment.concat(corona_perception_block);
+  // experiment = experiment.concat(demographic_block);
   experiment = experiment.concat(debrief);
 
   // Prevent right click, refresh
