@@ -53,20 +53,36 @@ function postLoad() {
   }
 
   var welcome = {
-    type: "html-button-response",
-    stimulus: "<div id='instruct'><p>In this study, you will be asked to complete \
-      several tasks and answer multiple questions. Throughout the study, we are \
-      interested in your own personal judgments, views and knowledge.</p>\
-      <p>It is important that you stay engaged throughout this study. We will\
-      monitor the data for use of other apps or lack of attention, and give \
-      an extra $2 bonus for full engagement with the task.</p><p>Thank you for\
-      participating!</p></div>",
-      choices: ["Continue"],
-      margin_vertical: "80px",
+    type: "instructions",
+    pages: [
+      "<div id='instruct'><p>Welcom back to this study!</p>\
+      <p>On week ago, you completed several tasks related to your curiosity \
+      towards different questions, and your judgments and perceptions of various \
+      topics.</p>\
+      <p>Today, we are interested in your memory of the previous session. \
+      Throughout the first part of this session, you will be asked to recall \
+      the reading material and your answers from last week.</p></div>",
+      "<div id='instruct'><p>When prompted, please try your best to remember \
+      the relevant piece of information from last week.</p><p>We will be going over \
+      responses, and awarding a $2 bonus payment only to participants who made a sincere \
+      effort at remembering.</p><p>This bonus will be processed within 48 hours from \
+      completing this session.</p></div>"
+    ],
+      show_clickable_nav: true,
+      allow_keys: false,
       data: {
         category: 'welcome'
       },
       post_trial_gap: 200
+  };
+
+  // Shuffle questions for recall
+  viewed_answers = shuffle_viewed_answers(viewed_answers);
+
+  // Answer recall block
+  var answer_recall_block = {
+    timeline: [recall_trial],
+    timeline_variables: viewed_answers
   }
 
   var pre_questionnaires_message = {
@@ -160,6 +176,8 @@ function postLoad() {
   // Put it all together
   experiment.push(fullscreen);
   experiment.push(welcome);
+  experiment.push(recall_instructions1);
+  experiment = experiment.concat(answer_recall_block);
   // experiment.push(pre_questionnaires_message);
   // experiment = experiment.concat(gallup_block);
   // experiment = experiment.concat(anxiety);
