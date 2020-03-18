@@ -22,6 +22,12 @@ Papa.parse("../static/secSessStims/" + PID + "_viewedAnswers.csv", {
     viewed_answers = results.data;
     firstBlock = viewed_answers[0]["firstBlock"];
     postLoad();
+  },
+  error: function() {
+    console.log('this');
+    document.body.innerHTML = "<div id='instruct'><p>Sorry, an error has occured while trying to retrieve your data.</p>\
+      <p>Please contact ya2402+mutrk@columbia.edu to resolve this issue.</p>\
+      <p>Thank you!</p></div>"
   }
 });
 
@@ -68,12 +74,12 @@ function postLoad() {
       effort at remembering.</p><p>This bonus will be processed within 48 hours from \
       completing this session.</p></div>"
     ],
-      show_clickable_nav: true,
-      allow_keys: false,
-      data: {
-        category: 'welcome'
-      },
-      post_trial_gap: 200
+    show_clickable_nav: true,
+    allow_keys: false,
+    data: {
+      category: 'welcome'
+    },
+    post_trial_gap: 200
   };
 
   // Shuffle questions for recall
@@ -91,12 +97,12 @@ function postLoad() {
       you to answer a few questions about your opinions and beliefs, and about \
       yourself.</p><p>Please answer these questions as truthfully and accurately \
       as possible</p></div>',
-      choices: ["Continue"],
-      margin_vertical: "80px",
-      data: {
-        category: 'pre_questionnaires_message'
-      },
-      post_trial_gap: 200
+    choices: ["Continue"],
+    margin_vertical: "80px",
+    data: {
+      category: 'pre_questionnaires_message'
+    },
+    post_trial_gap: 200
   }
 
   // Debriefing and data upload
@@ -155,7 +161,7 @@ function postLoad() {
         saveData(PID, sess, '', jsPsych.data.get().csv(),
           function() {
             saveData(PID, sess, '_int', jsPsych.data.getInteractionData().csv(),
-          jsPsych.finishTrial);
+              jsPsych.finishTrial);
           });
       }
     },
