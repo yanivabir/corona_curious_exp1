@@ -10,7 +10,8 @@ var PID = jsPsych.data.getURLVariable('workerId');
 var debug = PID.includes("debug");
 
 // Keep important variables in global scope for convenience
-var viewed_answers;
+var viewed_answers,
+  firstBlock;
 
 // Load items from local csv file
 Papa.parse("../static/secSessStims/" + PID + "_viewedAnswers.csv", {
@@ -19,6 +20,8 @@ Papa.parse("../static/secSessStims/" + PID + "_viewedAnswers.csv", {
   dynamicTyping: true,
   complete: function(results) {
     viewed_answers = results.data;
+    firstBlock = viewed_answers[0]["firstBlock"];
+    postLoad();
   }
 });
 
@@ -42,6 +45,7 @@ function postLoad() {
       jsPsych.data.addProperties({
         n_warnings: 0,
         PID: PID,
+        firstBlock: firstBlock,
         sess: sess,
         version: version
       });
