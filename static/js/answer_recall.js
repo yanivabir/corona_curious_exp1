@@ -65,8 +65,9 @@ var recall_instructions1 = {
     return [
       '<div id="instruct"><p>You will now start with recalling the answers to the questions you viewed last week.</p>\
         <p>Last week you were presented with a question and had to decided whether you were interested in waiting to view its answer.</p>\
-        <p>You will now be presented with the questions you chose to wait for, one question at a time.</p>\
-        <p>For each question, we ask you to write down your best recollection of the answer that was displayed last week.</p></div>',
+        <p>You will now be presented with the questions you chose to wait for, one question at a time.</p></div>',
+        '<div id="instruct"><p>For each question, we first ask you to indicate whether you remember the answer that was displayed last week.</p>\
+        <p>Then we will ask you to write down your best recollection of that answer.</p></div>',
       '<div id="instruct"><p>Please note: It is important that you try to recall the answer <b>as it was displayed to you last week</b>.</div>',
       '<div id="instruct"><p>You will be presented with ' + viewed_answers.length + ' questions.</p><p>Press the <i>Next</i> button to start recalling the answers.</p></div>'
     ]
