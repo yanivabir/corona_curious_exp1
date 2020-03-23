@@ -1,4 +1,4 @@
-choose// anxiety
+// anxiety
 
 var anxiety = [{
     type: "survey-likert",
