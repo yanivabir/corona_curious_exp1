@@ -29,7 +29,7 @@ C_27_U,corona,Useful,What is the most effective measure to prevent infection wit
 C_28_U,corona,Useful,Does sleep make you more resistant to coronavirus infections?,"Yes, by boosting the immune system",RH: explicitly tie to corona
 C_29_U,corona,Useful,How soon is a vaccine for the new coronavirus likely to be available?,Not for at least several months from now,
 C_30_U,corona,Useful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?",More similar to the symptoms of the ful,https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
-C_31_U,corona,Useful,Can the coronavirus be transmitted through sexual intercourse?,Probably not but it's too soon to be sure,https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html
+C_31_U,corona,Useful,Can the coronavirus be transmitted through sexual intercourse?,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",https://www.theguardian.com/world/2020/mar/18/can-i-have-sex-a-guide-to-intimacy-during-the-coronavirus-outbreak
 C_32_U,corona,Useful,Which three groups of people does the CDC recommend masks for?,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html
 C_33_U,corona,Useful,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?,Soft surfaces are less likely to transmit the virus than hard surfaces.,cdc faq
 C_34_U,corona,Useful,Can the new coronavirus be transmitted on a package from an infected country?,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",cdc faq
@@ -41,7 +41,7 @@ C_39_U,corona,Useful,Are antibiotics effective in preventing and treating the ne
 C_40_U,corona,Useful,How long is the incubation period for the new coronavirus?,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",cdc faq
 C_41_U,corona,Useful,How long does the new coronavirus survive on surfaces?,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,
 C_42_U,corona,Useful,What are the most common symptoms of the new coronavirus?,"Fever, cough, shortness of breath.",wikipedia:2019-2020 coronavirus outbreak
-C_43_U,corona,Useful,"Currently, people who have traveled to a high-risk area or who may have been in contact with someone with the new coronavirus are recommended to do what?",Quarantine themselves for 14 days to make sure they are not infected.,
+C_43_U,corona,Useful,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?",Quarantine themselves for 14 days to make sure they are not infected.,
 C_44_U,corona,Useful,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?,People over age 60,
 C_45_U,corona,Useful,What did 75% of the people who have died from the new coronavirus have?,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",
 C_46_U,corona,Useful,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?",Remdesivir,
