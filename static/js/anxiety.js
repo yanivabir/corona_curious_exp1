@@ -1,9 +1,9 @@
-// anxiety
+choose// anxiety
 
 var anxiety = [{
     type: "survey-likert",
     preamble: "<div id='instruct'>A number of statements which people have used to \
-   describe themselves are given below. Read each statement and chose the number \
+   describe themselves are given below. Read each statement and choose the number \
    that indicates how you feel <b>right now‚ at this moment</b>.</p><p>There \
    is no right or wrong answers. Do not spend too much time on any one statement \
    but give the answer which seems to describe your present feelings best.</div>",
@@ -32,7 +32,7 @@ var anxiety = [{
   {
     type: "survey-likert",
     preamble: "<div id='instruct'>A number of statements which people have used to \
-     describe themselves are given below. Read each statement and chose the number \
+     describe themselves are given below. Read each statement and choose the number \
      that indicates how you feel <b>right now‚ at this moment</b>.</p><p>There \
      is no right or wrong answers. Do not spend too much time on any one statement \
      but give the answer which seems to describe your present feelings best.</div>",
