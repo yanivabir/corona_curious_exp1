@@ -38,11 +38,6 @@ First five subjects ran on this version on 03/11/2020
 ```
 
 ## To Do
-6. Initial data processing script
-7. ran additions
-8. UK version
-9. Order 5d
-
-11. Consider waiting time distribution
-13. Second session.
-14. prevent retakes
+10. Has your income changed result of the virus
+11. Have your lost your job?
+12. More time for reading answers
