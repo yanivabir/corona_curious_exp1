@@ -12,6 +12,20 @@ corona_perception_block = [{
         horizontal: true
       },
       {
+        prompt: "Did you lose your job due to the outbreak of the new coronavirus?",
+        options: ["Yes", "No"],
+        required: true,
+        name: "corona_jobloss",
+        horizontal: true
+      },
+      {
+        prompt: "How did your household income change due to the outbreak of the new coronavirus?",
+        options: ["Income decreased", "Income didn't change", "Income increased"],
+        required: true,
+        name: "corona_income",
+        horizontal: true
+      },
+      {
         prompt: "Have you been infected with the new coronavirus?",
         options: ["Yes", "No"],
         required: true,
@@ -172,19 +186,19 @@ corona_perception_block = [{
     data: {
       category: "corona_percept"
     },
-    questions: [
-      {
+    questions: [{
         prompt: "<div id='instruct'>Relative to one month ago, before the new coronavirus epidemic, how much time do you spend reading and watching the news?</div>",
         labels: ["1<br>Much less", "2", "3<br>Same as before", "4", "5<br>Much more"],
         required: true,
         name: "corona_rel_media"
       },
       {
-      prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
-      labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
-      required: true,
-      name: "corona_info_seek"
-    }],
+        prompt: "<div id='instruct'>What is your reaction to the volume of information about the new coronavirus?</div>",
+        labels: ["1<br>I cant stand<br>it anymore", "2", "3<br>Neutral", "4", "5<br>I want more<br>information"],
+        required: true,
+        name: "corona_info_seek"
+      }
+    ],
     scale_width: 400
   },
   {
