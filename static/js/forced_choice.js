@@ -30,7 +30,7 @@ var facts = [
   {
     "number": 6,
     "type": "corona",
-    "fact": "This novel coronavirus enters human lung cells using a receptor called angiotensin-converting enzyme 2 (ACE2)"
+    "fact": "This novel coronavirus enters human lung cells using a receptor called angiotensin-converting enzyme 2 (ACE2)."
   },
   {
     "number": 7,
@@ -55,7 +55,7 @@ var facts = [
   {
     "number": 1,
     "type": "trivia",
-    "fact": "Aphids, the tiny bugs that feed off of plants, are essentially born pregnant and can give birth 10 days after being born themselves?"
+    "fact": "Aphids, the tiny bugs that feed off of plants, are essentially born pregnant and can give birth 10 days after being born themselves."
   },
   {
     "number": 2,
