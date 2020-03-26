@@ -224,6 +224,20 @@ corona_perception_block = [fullscreen_prompt,
         horizontal: true
       },
       {
+        prompt: "Did you lose your job due to the outbreak of the new coronavirus?",
+        options: ["Yes", "No"],
+        required: true,
+        name: "corona_jobloss",
+        horizontal: true
+      },
+      {
+        prompt: "How did your household income change due to the outbreak of the new coronavirus?",
+        options: ["Income decreased", "Income didn't change", "Income increased"],
+        required: true,
+        name: "corona_income",
+        horizontal: true
+      },
+      {
         prompt: "Have you been infected with the new coronavirus?",
         options: ["Yes", "No"],
         required: true,
