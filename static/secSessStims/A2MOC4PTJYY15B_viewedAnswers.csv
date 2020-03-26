@@ -1,0 +1,9 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2MOC4PTJYY15B,1,general,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A2MOC4PTJYY15B,1,general,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+A2MOC4PTJYY15B,1,general,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A2MOC4PTJYY15B,1,general,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A2MOC4PTJYY15B,1,general,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2MOC4PTJYY15B,1,general,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A2MOC4PTJYY15B,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?
+A2MOC4PTJYY15B,1,general,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

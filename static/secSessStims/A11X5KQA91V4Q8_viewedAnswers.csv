@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A11X5KQA91V4Q8,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A11X5KQA91V4Q8,1,corona,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A11X5KQA91V4Q8,1,corona,corona,Not useful,C_20_NU,8,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A11X5KQA91V4Q8,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A11X5KQA91V4Q8,1,corona,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A11X5KQA91V4Q8,1,corona,corona,Useful,C_46_U,12,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A11X5KQA91V4Q8,1,corona,general,Not useful,NC_08_NU,16,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A11X5KQA91V4Q8,1,corona,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A11X5KQA91V4Q8,1,corona,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A11X5KQA91V4Q8,1,corona,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A11X5KQA91V4Q8,1,corona,general,Useful,NC_29_U,4,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A11X5KQA91V4Q8,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A11X5KQA91V4Q8,1,corona,general,Useful,NC_34_U,12,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A11X5KQA91V4Q8,1,corona,third,MTurk,TB_40_MT,8,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A11X5KQA91V4Q8,1,corona,third,Trivia,TB_02_TR,16,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A11X5KQA91V4Q8,1,corona,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A11X5KQA91V4Q8,1,corona,third,Trivia,TB_10_TR,12,George VI,Who was the last British Monarch to also be an emperor?
+A11X5KQA91V4Q8,1,corona,third,Trivia,TB_16_TR,8,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A11X5KQA91V4Q8,1,corona,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

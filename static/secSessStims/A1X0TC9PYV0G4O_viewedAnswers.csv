@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1X0TC9PYV0G4O,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A1X0TC9PYV0G4O,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A1X0TC9PYV0G4O,1,corona,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1X0TC9PYV0G4O,1,corona,corona,Not useful,C_22_NU,16,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1X0TC9PYV0G4O,1,corona,corona,Useful,C_36_U,16,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1X0TC9PYV0G4O,1,corona,corona,Useful,C_51_U,12,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1X0TC9PYV0G4O,1,corona,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1X0TC9PYV0G4O,1,corona,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1X0TC9PYV0G4O,1,corona,general,Useful,NC_30_U,12,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1X0TC9PYV0G4O,1,corona,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1X0TC9PYV0G4O,1,corona,general,Useful,NC_40_U,12,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1X0TC9PYV0G4O,1,corona,general,Useful,NC_45_U,16,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1X0TC9PYV0G4O,1,corona,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1X0TC9PYV0G4O,1,corona,third,MTurk,TB_45_MT,4,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A1X0TC9PYV0G4O,1,corona,third,Trivia,TB_06_TR,16,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A1X0TC9PYV0G4O,1,corona,third,Trivia,TB_07_TR,4,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A1X0TC9PYV0G4O,1,corona,third,Trivia,TB_08_TR,8,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1X0TC9PYV0G4O,1,corona,third,Trivia,TB_13_TR,16,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1X0TC9PYV0G4O,1,corona,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

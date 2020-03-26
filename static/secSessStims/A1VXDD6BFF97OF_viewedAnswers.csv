@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1VXDD6BFF97OF,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A1VXDD6BFF97OF,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1VXDD6BFF97OF,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1VXDD6BFF97OF,1,corona,corona,Useful,C_36_U,4,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1VXDD6BFF97OF,1,corona,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A1VXDD6BFF97OF,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A1VXDD6BFF97OF,1,corona,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1VXDD6BFF97OF,1,corona,general,Not useful,NC_23_NU,12,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1VXDD6BFF97OF,1,corona,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1VXDD6BFF97OF,1,corona,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A1VXDD6BFF97OF,1,corona,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1VXDD6BFF97OF,1,corona,third,MTurk,TB_32_MT,16,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A1VXDD6BFF97OF,1,corona,third,Trivia,TB_06_TR,4,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A1VXDD6BFF97OF,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

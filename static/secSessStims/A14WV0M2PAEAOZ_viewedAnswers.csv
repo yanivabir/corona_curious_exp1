@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A14WV0M2PAEAOZ,1,corona,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+A14WV0M2PAEAOZ,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A14WV0M2PAEAOZ,1,corona,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A14WV0M2PAEAOZ,1,corona,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A14WV0M2PAEAOZ,1,corona,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A14WV0M2PAEAOZ,1,corona,corona,Useful,C_31_U,16,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A14WV0M2PAEAOZ,1,corona,general,Useful,NC_30_U,4,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A14WV0M2PAEAOZ,1,corona,general,Useful,NC_31_U,4,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A14WV0M2PAEAOZ,1,corona,general,Useful,NC_35_U,8,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A14WV0M2PAEAOZ,1,corona,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+A14WV0M2PAEAOZ,1,corona,general,Useful,NC_50_U,16,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A14WV0M2PAEAOZ,1,corona,third,MTurk,TB_41_MT,8,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A14WV0M2PAEAOZ,1,corona,third,MTurk,TB_46_MT,4,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A14WV0M2PAEAOZ,1,corona,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A14WV0M2PAEAOZ,1,corona,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A14WV0M2PAEAOZ,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

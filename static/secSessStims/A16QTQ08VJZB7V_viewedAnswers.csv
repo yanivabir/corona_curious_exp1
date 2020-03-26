@@ -1,0 +1,9 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A16QTQ08VJZB7V,1,general,corona,Not useful,C_09_NU,16,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A16QTQ08VJZB7V,1,general,corona,Useful,C_44_U,16,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A16QTQ08VJZB7V,1,general,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A16QTQ08VJZB7V,1,general,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A16QTQ08VJZB7V,1,general,general,Useful,NC_46_U,4,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A16QTQ08VJZB7V,1,general,general,Useful,NC_47_U,12,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A16QTQ08VJZB7V,1,general,third,MTurk,TB_45_MT,12,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A16QTQ08VJZB7V,1,general,third,Trivia,TB_14_TR,12,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2LZ0TBYJ91GYQ,1,general,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+A2LZ0TBYJ91GYQ,1,general,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A2LZ0TBYJ91GYQ,1,general,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A2LZ0TBYJ91GYQ,1,general,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A2LZ0TBYJ91GYQ,1,general,corona,Useful,C_36_U,16,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A2LZ0TBYJ91GYQ,1,general,corona,Useful,C_40_U,16,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A2LZ0TBYJ91GYQ,1,general,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A2LZ0TBYJ91GYQ,1,general,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A2LZ0TBYJ91GYQ,1,general,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A2LZ0TBYJ91GYQ,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A2LZ0TBYJ91GYQ,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2LZ0TBYJ91GYQ,1,general,general,Useful,NC_36_U,12,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2LZ0TBYJ91GYQ,1,general,general,Useful,NC_37_U,12,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A2LZ0TBYJ91GYQ,1,general,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A2LZ0TBYJ91GYQ,1,general,general,Useful,NC_51_U,12,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A2LZ0TBYJ91GYQ,1,general,third,MTurk,TB_27_MT,8,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A2LZ0TBYJ91GYQ,1,general,third,MTurk,TB_31_MT,12,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A2LZ0TBYJ91GYQ,1,general,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2LZ0TBYJ91GYQ,1,general,third,MTurk,TB_37_MT,4,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A2LZ0TBYJ91GYQ,1,general,third,MTurk,TB_38_MT,8,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A2LZ0TBYJ91GYQ,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A2LZ0TBYJ91GYQ,1,general,third,MTurk,TB_45_MT,4,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A2LZ0TBYJ91GYQ,1,general,third,Trivia,TB_11_TR,16,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?

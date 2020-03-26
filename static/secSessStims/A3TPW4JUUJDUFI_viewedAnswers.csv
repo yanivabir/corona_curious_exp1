@@ -1,0 +1,6 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3TPW4JUUJDUFI,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A3TPW4JUUJDUFI,1,corona,corona,Not useful,C_09_NU,12,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A3TPW4JUUJDUFI,1,corona,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A3TPW4JUUJDUFI,1,corona,corona,Useful,C_39_U,4,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A3TPW4JUUJDUFI,1,corona,corona,Useful,C_45_U,8,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?

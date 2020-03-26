@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ATGO5J2TL18KM,1,corona,corona,Not useful,C_03_NU,8,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+ATGO5J2TL18KM,1,corona,corona,Not useful,C_05_NU,16,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+ATGO5J2TL18KM,1,corona,corona,Not useful,C_12_NU,4,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+ATGO5J2TL18KM,1,corona,corona,Not useful,C_19_NU,4,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+ATGO5J2TL18KM,1,corona,corona,Not useful,C_20_NU,4,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+ATGO5J2TL18KM,1,corona,corona,Not useful,C_24_NU,16,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+ATGO5J2TL18KM,1,corona,corona,Useful,C_39_U,12,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+ATGO5J2TL18KM,1,corona,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+ATGO5J2TL18KM,1,corona,general,Not useful,NC_02_NU,12,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+ATGO5J2TL18KM,1,corona,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+ATGO5J2TL18KM,1,corona,general,Not useful,NC_21_NU,8,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+ATGO5J2TL18KM,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+ATGO5J2TL18KM,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+ATGO5J2TL18KM,1,corona,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?
+ATGO5J2TL18KM,1,corona,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+ATGO5J2TL18KM,1,corona,general,Useful,NC_44_U,4,Doritos,What popular snack food is effective to use as kindling to start a fire?
+ATGO5J2TL18KM,1,corona,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+ATGO5J2TL18KM,1,corona,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+ATGO5J2TL18KM,1,corona,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+ATGO5J2TL18KM,1,corona,third,MTurk,TB_45_MT,12,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+ATGO5J2TL18KM,1,corona,third,Trivia,TB_03_TR,12,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+ATGO5J2TL18KM,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+ATGO5J2TL18KM,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

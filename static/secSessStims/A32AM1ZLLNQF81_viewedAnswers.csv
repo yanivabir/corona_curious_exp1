@@ -1,0 +1,7 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A32AM1ZLLNQF81,1,corona,corona,Not useful,C_03_NU,8,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A32AM1ZLLNQF81,1,corona,corona,Not useful,C_22_NU,12,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A32AM1ZLLNQF81,1,corona,corona,Useful,C_47_U,12,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A32AM1ZLLNQF81,1,corona,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A32AM1ZLLNQF81,1,corona,general,Not useful,NC_23_NU,8,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A32AM1ZLLNQF81,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?

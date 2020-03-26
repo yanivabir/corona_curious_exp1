@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2Z4FN21XUR1HB,1,corona,corona,Not useful,C_18_NU,12,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2Z4FN21XUR1HB,1,corona,corona,Not useful,C_20_NU,4,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A2Z4FN21XUR1HB,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A2Z4FN21XUR1HB,1,corona,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A2Z4FN21XUR1HB,1,corona,general,Not useful,NC_14_NU,16,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A2Z4FN21XUR1HB,1,corona,general,Not useful,NC_24_NU,16,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2Z4FN21XUR1HB,1,corona,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A2Z4FN21XUR1HB,1,corona,general,Useful,NC_30_U,8,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2Z4FN21XUR1HB,1,corona,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2Z4FN21XUR1HB,1,corona,general,Useful,NC_49_U,4,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A2Z4FN21XUR1HB,1,corona,third,MTurk,TB_31_MT,12,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A2Z4FN21XUR1HB,1,corona,third,MTurk,TB_35_MT,12,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2Z4FN21XUR1HB,1,corona,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2Z4FN21XUR1HB,1,corona,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A2Z4FN21XUR1HB,1,corona,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

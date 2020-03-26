@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A282NN2RO8XZP6,1,corona,corona,Not useful,C_04_NU,8,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A282NN2RO8XZP6,1,corona,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A282NN2RO8XZP6,1,corona,corona,Useful,C_28_U,8,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A282NN2RO8XZP6,1,corona,corona,Useful,C_32_U,16,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A282NN2RO8XZP6,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A282NN2RO8XZP6,1,corona,corona,Useful,C_48_U,4,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A282NN2RO8XZP6,1,corona,general,Not useful,NC_01_NU,8,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A282NN2RO8XZP6,1,corona,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A282NN2RO8XZP6,1,corona,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A282NN2RO8XZP6,1,corona,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A282NN2RO8XZP6,1,corona,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A282NN2RO8XZP6,1,corona,general,Useful,NC_38_U,12,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A282NN2RO8XZP6,1,corona,third,MTurk,TB_25_MT,16,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A282NN2RO8XZP6,1,corona,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A282NN2RO8XZP6,1,corona,third,MTurk,TB_35_MT,12,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A282NN2RO8XZP6,1,corona,third,MTurk,TB_40_MT,12,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A282NN2RO8XZP6,1,corona,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A282NN2RO8XZP6,1,corona,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?

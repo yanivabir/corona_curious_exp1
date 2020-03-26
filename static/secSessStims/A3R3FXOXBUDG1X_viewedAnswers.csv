@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3R3FXOXBUDG1X,1,general,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A3R3FXOXBUDG1X,1,general,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A3R3FXOXBUDG1X,1,general,corona,Not useful,C_21_NU,8,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A3R3FXOXBUDG1X,1,general,corona,Useful,C_48_U,16,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A3R3FXOXBUDG1X,1,general,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A3R3FXOXBUDG1X,1,general,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A3R3FXOXBUDG1X,1,general,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A3R3FXOXBUDG1X,1,general,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3R3FXOXBUDG1X,1,general,general,Useful,NC_42_U,8,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A3R3FXOXBUDG1X,1,general,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A3R3FXOXBUDG1X,1,general,general,Useful,NC_46_U,12,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A3R3FXOXBUDG1X,1,general,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A3R3FXOXBUDG1X,1,general,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A3R3FXOXBUDG1X,1,general,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3R3FXOXBUDG1X,1,general,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A3R3FXOXBUDG1X,1,general,third,Trivia,TB_08_TR,8,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A3R3FXOXBUDG1X,1,general,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?

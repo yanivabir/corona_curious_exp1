@@ -1,0 +1,11 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1BK15QBL5758M,1,corona,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A1BK15QBL5758M,1,corona,corona,Useful,C_34_U,16,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1BK15QBL5758M,1,corona,corona,Useful,C_45_U,8,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1BK15QBL5758M,1,corona,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1BK15QBL5758M,1,corona,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1BK15QBL5758M,1,corona,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A1BK15QBL5758M,1,corona,general,Useful,NC_42_U,4,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A1BK15QBL5758M,1,corona,general,Useful,NC_49_U,12,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1BK15QBL5758M,1,corona,third,MTurk,TB_29_MT,4,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+A1BK15QBL5758M,1,corona,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

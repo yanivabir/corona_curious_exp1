@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1Q3SZ9C5BW6QB,1,general,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1Q3SZ9C5BW6QB,1,general,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1Q3SZ9C5BW6QB,1,general,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1Q3SZ9C5BW6QB,1,general,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1Q3SZ9C5BW6QB,1,general,corona,Useful,C_37_U,8,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A1Q3SZ9C5BW6QB,1,general,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1Q3SZ9C5BW6QB,1,general,corona,Useful,C_49_U,12,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A1Q3SZ9C5BW6QB,1,general,general,Not useful,NC_07_NU,8,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A1Q3SZ9C5BW6QB,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A1Q3SZ9C5BW6QB,1,general,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1Q3SZ9C5BW6QB,1,general,general,Not useful,NC_11_NU,12,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A1Q3SZ9C5BW6QB,1,general,general,Not useful,NC_22_NU,8,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A1Q3SZ9C5BW6QB,1,general,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A1Q3SZ9C5BW6QB,1,general,general,Useful,NC_42_U,4,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A1Q3SZ9C5BW6QB,1,general,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1Q3SZ9C5BW6QB,1,general,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1Q3SZ9C5BW6QB,1,general,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1Q3SZ9C5BW6QB,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1Q3SZ9C5BW6QB,1,general,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A1Q3SZ9C5BW6QB,1,general,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A1Q3SZ9C5BW6QB,1,general,third,Trivia,TB_04_TR,8,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1Q3SZ9C5BW6QB,1,general,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A1Q3SZ9C5BW6QB,1,general,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?

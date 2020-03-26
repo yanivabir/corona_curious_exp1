@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A120URYFNZAZYW,1,corona,corona,Not useful,C_15_NU,8,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A120URYFNZAZYW,1,corona,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A120URYFNZAZYW,1,corona,corona,Not useful,C_21_NU,4,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A120URYFNZAZYW,1,corona,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A120URYFNZAZYW,1,corona,corona,Useful,C_29_U,8,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A120URYFNZAZYW,1,corona,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A120URYFNZAZYW,1,corona,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A120URYFNZAZYW,1,corona,corona,Useful,C_47_U,4,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A120URYFNZAZYW,1,corona,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A120URYFNZAZYW,1,corona,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A120URYFNZAZYW,1,corona,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A120URYFNZAZYW,1,corona,general,Useful,NC_28_U,4,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A120URYFNZAZYW,1,corona,general,Useful,NC_30_U,12,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A120URYFNZAZYW,1,corona,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A120URYFNZAZYW,1,corona,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A120URYFNZAZYW,1,corona,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A120URYFNZAZYW,1,corona,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A120URYFNZAZYW,1,corona,third,MTurk,TB_46_MT,4,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A120URYFNZAZYW,1,corona,third,Trivia,TB_01_TR,16,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A120URYFNZAZYW,1,corona,third,Trivia,TB_15_TR,16,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A120URYFNZAZYW,1,corona,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A120URYFNZAZYW,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1PP6RT33WYA5H,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A1PP6RT33WYA5H,1,corona,corona,Not useful,C_15_NU,12,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1PP6RT33WYA5H,1,corona,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1PP6RT33WYA5H,1,corona,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1PP6RT33WYA5H,1,corona,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A1PP6RT33WYA5H,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1PP6RT33WYA5H,1,corona,corona,Useful,C_46_U,12,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1PP6RT33WYA5H,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1PP6RT33WYA5H,1,corona,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1PP6RT33WYA5H,1,corona,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+A1PP6RT33WYA5H,1,corona,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1PP6RT33WYA5H,1,corona,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1PP6RT33WYA5H,1,corona,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1PP6RT33WYA5H,1,corona,general,Useful,NC_43_U,12,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A1PP6RT33WYA5H,1,corona,general,Useful,NC_47_U,8,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A1PP6RT33WYA5H,1,corona,third,MTurk,TB_30_MT,8,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A1PP6RT33WYA5H,1,corona,third,MTurk,TB_31_MT,16,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1PP6RT33WYA5H,1,corona,third,MTurk,TB_33_MT,12,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1PP6RT33WYA5H,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A1PP6RT33WYA5H,1,corona,third,Trivia,TB_14_TR,16,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

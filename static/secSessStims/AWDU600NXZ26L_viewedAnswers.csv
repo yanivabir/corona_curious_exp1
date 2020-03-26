@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AWDU600NXZ26L,1,general,corona,Not useful,C_05_NU,8,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+AWDU600NXZ26L,1,general,corona,Not useful,C_18_NU,12,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+AWDU600NXZ26L,1,general,corona,Not useful,C_25_NU,16,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+AWDU600NXZ26L,1,general,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AWDU600NXZ26L,1,general,corona,Useful,C_33_U,16,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+AWDU600NXZ26L,1,general,general,Not useful,NC_17_NU,16,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+AWDU600NXZ26L,1,general,general,Not useful,NC_23_NU,12,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+AWDU600NXZ26L,1,general,general,Useful,NC_30_U,12,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+AWDU600NXZ26L,1,general,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+AWDU600NXZ26L,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+AWDU600NXZ26L,1,general,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+AWDU600NXZ26L,1,general,third,MTurk,TB_32_MT,16,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+AWDU600NXZ26L,1,general,third,Trivia,TB_01_TR,12,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+AWDU600NXZ26L,1,general,third,Trivia,TB_04_TR,8,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+AWDU600NXZ26L,1,general,third,Trivia,TB_06_TR,8,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+AWDU600NXZ26L,1,general,third,Trivia,TB_11_TR,16,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AWDU600NXZ26L,1,general,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

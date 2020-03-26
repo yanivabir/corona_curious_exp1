@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1ILD5BPLI8X1P,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A1ILD5BPLI8X1P,1,corona,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A1ILD5BPLI8X1P,1,corona,corona,Not useful,C_12_NU,16,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1ILD5BPLI8X1P,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A1ILD5BPLI8X1P,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1ILD5BPLI8X1P,1,corona,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A1ILD5BPLI8X1P,1,corona,corona,Useful,C_32_U,8,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A1ILD5BPLI8X1P,1,corona,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1ILD5BPLI8X1P,1,corona,corona,Useful,C_44_U,12,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A1ILD5BPLI8X1P,1,corona,general,Not useful,NC_06_NU,16,David Livingstone,Who discovered the Victoria Falls?
+A1ILD5BPLI8X1P,1,corona,general,Not useful,NC_21_NU,8,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1ILD5BPLI8X1P,1,corona,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1ILD5BPLI8X1P,1,corona,general,Useful,NC_29_U,12,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A1ILD5BPLI8X1P,1,corona,general,Useful,NC_44_U,4,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1ILD5BPLI8X1P,1,corona,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1ILD5BPLI8X1P,1,corona,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1ILD5BPLI8X1P,1,corona,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A1ILD5BPLI8X1P,1,corona,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1ILD5BPLI8X1P,1,corona,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1ILD5BPLI8X1P,1,corona,third,MTurk,TB_39_MT,12,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1ILD5BPLI8X1P,1,corona,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A1ILD5BPLI8X1P,1,corona,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?
+A1ILD5BPLI8X1P,1,corona,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1DVNAQ217BZJF,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A1DVNAQ217BZJF,1,corona,corona,Not useful,C_07_NU,12,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1DVNAQ217BZJF,1,corona,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1DVNAQ217BZJF,1,corona,corona,Not useful,C_19_NU,12,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A1DVNAQ217BZJF,1,corona,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1DVNAQ217BZJF,1,corona,corona,Useful,C_34_U,4,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1DVNAQ217BZJF,1,corona,corona,Useful,C_36_U,4,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1DVNAQ217BZJF,1,corona,corona,Useful,C_39_U,16,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A1DVNAQ217BZJF,1,corona,corona,Useful,C_47_U,12,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1DVNAQ217BZJF,1,corona,general,Not useful,NC_06_NU,16,David Livingstone,Who discovered the Victoria Falls?
+A1DVNAQ217BZJF,1,corona,general,Not useful,NC_08_NU,16,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A1DVNAQ217BZJF,1,corona,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A1DVNAQ217BZJF,1,corona,general,Not useful,NC_11_NU,8,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A1DVNAQ217BZJF,1,corona,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1DVNAQ217BZJF,1,corona,general,Useful,NC_33_U,16,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A1DVNAQ217BZJF,1,corona,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1DVNAQ217BZJF,1,corona,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1DVNAQ217BZJF,1,corona,third,MTurk,TB_35_MT,12,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A1DVNAQ217BZJF,1,corona,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1DVNAQ217BZJF,1,corona,third,Trivia,TB_04_TR,12,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1DVNAQ217BZJF,1,corona,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A1DVNAQ217BZJF,1,corona,third,Trivia,TB_07_TR,8,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A1DVNAQ217BZJF,1,corona,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1DVNAQ217BZJF,1,corona,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A1DVNAQ217BZJF,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

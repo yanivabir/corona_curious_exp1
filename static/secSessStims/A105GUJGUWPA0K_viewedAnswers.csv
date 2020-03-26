@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A105GUJGUWPA0K,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A105GUJGUWPA0K,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A105GUJGUWPA0K,1,corona,general,Not useful,NC_02_NU,16,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A105GUJGUWPA0K,1,corona,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A105GUJGUWPA0K,1,corona,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A105GUJGUWPA0K,1,corona,general,Useful,NC_41_U,4,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A105GUJGUWPA0K,1,corona,third,MTurk,TB_26_MT,8,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A105GUJGUWPA0K,1,corona,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A105GUJGUWPA0K,1,corona,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3PDOZ6I8PE9ZK,1,corona,corona,Not useful,C_04_NU,8,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A3PDOZ6I8PE9ZK,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A3PDOZ6I8PE9ZK,1,corona,corona,Not useful,C_13_NU,12,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A3PDOZ6I8PE9ZK,1,corona,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A3PDOZ6I8PE9ZK,1,corona,corona,Useful,C_35_U,12,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A3PDOZ6I8PE9ZK,1,corona,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A3PDOZ6I8PE9ZK,1,corona,general,Not useful,NC_05_NU,8,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A3PDOZ6I8PE9ZK,1,corona,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A3PDOZ6I8PE9ZK,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A3PDOZ6I8PE9ZK,1,corona,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3PDOZ6I8PE9ZK,1,corona,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A3PDOZ6I8PE9ZK,1,corona,general,Useful,NC_36_U,12,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3PDOZ6I8PE9ZK,1,corona,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3PDOZ6I8PE9ZK,1,corona,third,MTurk,TB_28_MT,4,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A3PDOZ6I8PE9ZK,1,corona,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A3PDOZ6I8PE9ZK,1,corona,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A3PDOZ6I8PE9ZK,1,corona,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A3PDOZ6I8PE9ZK,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A3PDOZ6I8PE9ZK,1,corona,third,Trivia,TB_15_TR,12,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A3PDOZ6I8PE9ZK,1,corona,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A3PDOZ6I8PE9ZK,1,corona,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?

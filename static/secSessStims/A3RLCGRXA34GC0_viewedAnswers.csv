@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3RLCGRXA34GC0,1,general,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A3RLCGRXA34GC0,1,general,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+A3RLCGRXA34GC0,1,general,corona,Not useful,C_23_NU,12,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A3RLCGRXA34GC0,1,general,corona,Useful,C_31_U,16,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A3RLCGRXA34GC0,1,general,general,Not useful,NC_06_NU,8,David Livingstone,Who discovered the Victoria Falls?
+A3RLCGRXA34GC0,1,general,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A3RLCGRXA34GC0,1,general,general,Not useful,NC_10_NU,16,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A3RLCGRXA34GC0,1,general,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A3RLCGRXA34GC0,1,general,general,Useful,NC_41_U,12,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A3RLCGRXA34GC0,1,general,general,Useful,NC_51_U,12,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A3RLCGRXA34GC0,1,general,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A3RLCGRXA34GC0,1,general,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A3RLCGRXA34GC0,1,general,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A3RLCGRXA34GC0,1,general,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A3RLCGRXA34GC0,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

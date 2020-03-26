@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2N8JRW0CLL9G3,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2N8JRW0CLL9G3,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A2N8JRW0CLL9G3,1,corona,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A2N8JRW0CLL9G3,1,corona,corona,Useful,C_36_U,12,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A2N8JRW0CLL9G3,1,corona,corona,Useful,C_39_U,4,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A2N8JRW0CLL9G3,1,corona,corona,Useful,C_41_U,4,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A2N8JRW0CLL9G3,1,corona,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A2N8JRW0CLL9G3,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A2N8JRW0CLL9G3,1,corona,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A2N8JRW0CLL9G3,1,corona,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A2N8JRW0CLL9G3,1,corona,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2N8JRW0CLL9G3,1,corona,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A2N8JRW0CLL9G3,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A2N8JRW0CLL9G3,1,corona,general,Useful,NC_27_U,16,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2N8JRW0CLL9G3,1,corona,general,Useful,NC_49_U,4,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A2N8JRW0CLL9G3,1,corona,general,Useful,NC_51_U,12,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A2N8JRW0CLL9G3,1,corona,third,MTurk,TB_25_MT,16,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2N8JRW0CLL9G3,1,corona,third,MTurk,TB_30_MT,4,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A2N8JRW0CLL9G3,1,corona,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2N8JRW0CLL9G3,1,corona,third,Trivia,TB_01_TR,16,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A2N8JRW0CLL9G3,1,corona,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A2N8JRW0CLL9G3,1,corona,third,Trivia,TB_16_TR,4,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A2N8JRW0CLL9G3,1,corona,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

@@ -1,0 +1,9 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3SR7LK7TH1B6F,1,general,corona,Not useful,C_19_NU,12,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3SR7LK7TH1B6F,1,general,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A3SR7LK7TH1B6F,1,general,general,Not useful,NC_04_NU,8,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A3SR7LK7TH1B6F,1,general,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A3SR7LK7TH1B6F,1,general,third,MTurk,TB_31_MT,16,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A3SR7LK7TH1B6F,1,general,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3SR7LK7TH1B6F,1,general,third,Trivia,TB_21_TR,12,New York,Which state has the zip code 12345?
+A3SR7LK7TH1B6F,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

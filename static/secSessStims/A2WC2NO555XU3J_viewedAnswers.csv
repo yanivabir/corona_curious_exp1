@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2WC2NO555XU3J,1,corona,corona,Not useful,C_01_NU,12,"Animals, probably bats",What is the source of coronavirus in humans?
+A2WC2NO555XU3J,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A2WC2NO555XU3J,1,corona,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2WC2NO555XU3J,1,corona,corona,Not useful,C_22_NU,12,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A2WC2NO555XU3J,1,corona,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A2WC2NO555XU3J,1,corona,corona,Useful,C_39_U,12,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A2WC2NO555XU3J,1,corona,corona,Useful,C_45_U,8,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A2WC2NO555XU3J,1,corona,corona,Useful,C_52_U,4,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A2WC2NO555XU3J,1,corona,general,Not useful,NC_17_NU,16,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A2WC2NO555XU3J,1,corona,general,Not useful,NC_24_NU,16,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2WC2NO555XU3J,1,corona,general,Useful,NC_28_U,4,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A2WC2NO555XU3J,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2WC2NO555XU3J,1,corona,general,Useful,NC_47_U,4,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A2WC2NO555XU3J,1,corona,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A2WC2NO555XU3J,1,corona,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A2WC2NO555XU3J,1,corona,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2WC2NO555XU3J,1,corona,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2WC2NO555XU3J,1,corona,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A2WC2NO555XU3J,1,corona,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A2WC2NO555XU3J,1,corona,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?
+A2WC2NO555XU3J,1,corona,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?

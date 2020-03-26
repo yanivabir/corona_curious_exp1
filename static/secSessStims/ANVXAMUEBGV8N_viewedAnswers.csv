@@ -1,0 +1,13 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ANVXAMUEBGV8N,1,general,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+ANVXAMUEBGV8N,1,general,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+ANVXAMUEBGV8N,1,general,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+ANVXAMUEBGV8N,1,general,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+ANVXAMUEBGV8N,1,general,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+ANVXAMUEBGV8N,1,general,general,Not useful,NC_19_NU,16,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+ANVXAMUEBGV8N,1,general,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+ANVXAMUEBGV8N,1,general,third,MTurk,TB_31_MT,4,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+ANVXAMUEBGV8N,1,general,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+ANVXAMUEBGV8N,1,general,third,MTurk,TB_46_MT,8,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+ANVXAMUEBGV8N,1,general,third,Trivia,TB_11_TR,4,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+ANVXAMUEBGV8N,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

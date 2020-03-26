@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3K8WQICXRO3F8,1,general,corona,Not useful,C_15_NU,8,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A3K8WQICXRO3F8,1,general,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A3K8WQICXRO3F8,1,general,corona,Useful,C_28_U,8,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A3K8WQICXRO3F8,1,general,corona,Useful,C_31_U,12,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A3K8WQICXRO3F8,1,general,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A3K8WQICXRO3F8,1,general,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A3K8WQICXRO3F8,1,general,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+A3K8WQICXRO3F8,1,general,general,Not useful,NC_14_NU,16,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A3K8WQICXRO3F8,1,general,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A3K8WQICXRO3F8,1,general,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A3K8WQICXRO3F8,1,general,third,MTurk,TB_32_MT,16,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A3K8WQICXRO3F8,1,general,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A3K8WQICXRO3F8,1,general,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A3K8WQICXRO3F8,1,general,third,Trivia,TB_06_TR,4,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A3K8WQICXRO3F8,1,general,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3K8WQICXRO3F8,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

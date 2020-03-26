@@ -1,0 +1,5 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AIVCONP5S4OKQ,1,general,corona,Not useful,C_17_NU,16,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+AIVCONP5S4OKQ,1,general,corona,Not useful,C_23_NU,8,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+AIVCONP5S4OKQ,1,general,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+AIVCONP5S4OKQ,1,general,general,Useful,NC_46_U,12,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "

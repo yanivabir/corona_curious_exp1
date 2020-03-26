@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1F561VBW2J4PO,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A1F561VBW2J4PO,1,corona,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1F561VBW2J4PO,1,corona,corona,Not useful,C_13_NU,12,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A1F561VBW2J4PO,1,corona,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1F561VBW2J4PO,1,corona,corona,Useful,C_28_U,8,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A1F561VBW2J4PO,1,corona,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1F561VBW2J4PO,1,corona,corona,Useful,C_42_U,8,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A1F561VBW2J4PO,1,corona,general,Not useful,NC_08_NU,8,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A1F561VBW2J4PO,1,corona,general,Not useful,NC_12_NU,16,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A1F561VBW2J4PO,1,corona,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1F561VBW2J4PO,1,corona,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1F561VBW2J4PO,1,corona,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1F561VBW2J4PO,1,corona,general,Useful,NC_45_U,12,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1F561VBW2J4PO,1,corona,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1F561VBW2J4PO,1,corona,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A1F561VBW2J4PO,1,corona,third,MTurk,TB_40_MT,12,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A1F561VBW2J4PO,1,corona,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A1F561VBW2J4PO,1,corona,third,Trivia,TB_01_TR,8,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A1F561VBW2J4PO,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A1F561VBW2J4PO,1,corona,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"

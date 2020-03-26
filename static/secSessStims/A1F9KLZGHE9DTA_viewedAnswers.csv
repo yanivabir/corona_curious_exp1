@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1F9KLZGHE9DTA,1,general,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A1F9KLZGHE9DTA,1,general,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1F9KLZGHE9DTA,1,general,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1F9KLZGHE9DTA,1,general,corona,Useful,C_32_U,12,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A1F9KLZGHE9DTA,1,general,corona,Useful,C_39_U,4,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A1F9KLZGHE9DTA,1,general,corona,Useful,C_46_U,4,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1F9KLZGHE9DTA,1,general,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1F9KLZGHE9DTA,1,general,general,Not useful,NC_02_NU,12,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A1F9KLZGHE9DTA,1,general,general,Not useful,NC_05_NU,12,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A1F9KLZGHE9DTA,1,general,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A1F9KLZGHE9DTA,1,general,general,Not useful,NC_14_NU,8,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A1F9KLZGHE9DTA,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1F9KLZGHE9DTA,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A1F9KLZGHE9DTA,1,general,general,Useful,NC_42_U,4,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A1F9KLZGHE9DTA,1,general,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1F9KLZGHE9DTA,1,general,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A1F9KLZGHE9DTA,1,general,third,MTurk,TB_26_MT,12,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A1F9KLZGHE9DTA,1,general,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1F9KLZGHE9DTA,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1F9KLZGHE9DTA,1,general,third,MTurk,TB_35_MT,12,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A1F9KLZGHE9DTA,1,general,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A1F9KLZGHE9DTA,1,general,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A1F9KLZGHE9DTA,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

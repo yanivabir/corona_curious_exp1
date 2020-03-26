@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A332M80F2HUE16,1,general,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A332M80F2HUE16,1,general,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A332M80F2HUE16,1,general,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A332M80F2HUE16,1,general,general,Not useful,NC_02_NU,4,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A332M80F2HUE16,1,general,general,Not useful,NC_05_NU,12,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A332M80F2HUE16,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A332M80F2HUE16,1,general,general,Not useful,NC_15_NU,8,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A332M80F2HUE16,1,general,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A332M80F2HUE16,1,general,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A332M80F2HUE16,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A332M80F2HUE16,1,general,general,Useful,NC_47_U,12,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A332M80F2HUE16,1,general,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A332M80F2HUE16,1,general,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A332M80F2HUE16,1,general,third,Trivia,TB_02_TR,16,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A332M80F2HUE16,1,general,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A332M80F2HUE16,1,general,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A23EGLIF8IEH11,1,general,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A23EGLIF8IEH11,1,general,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A23EGLIF8IEH11,1,general,corona,Not useful,C_20_NU,16,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A23EGLIF8IEH11,1,general,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A23EGLIF8IEH11,1,general,corona,Useful,C_32_U,12,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A23EGLIF8IEH11,1,general,general,Not useful,NC_08_NU,16,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A23EGLIF8IEH11,1,general,general,Not useful,NC_22_NU,12,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A23EGLIF8IEH11,1,general,general,Useful,NC_46_U,16,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A23EGLIF8IEH11,1,general,general,Useful,NC_47_U,12,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A23EGLIF8IEH11,1,general,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A23EGLIF8IEH11,1,general,third,MTurk,TB_28_MT,12,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A23EGLIF8IEH11,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A23EGLIF8IEH11,1,general,third,Trivia,TB_08_TR,8,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A23EGLIF8IEH11,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?
+A23EGLIF8IEH11,1,general,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

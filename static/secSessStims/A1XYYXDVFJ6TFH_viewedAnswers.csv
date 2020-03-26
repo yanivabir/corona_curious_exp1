@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1XYYXDVFJ6TFH,1,general,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1XYYXDVFJ6TFH,1,general,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A1XYYXDVFJ6TFH,1,general,corona,Not useful,C_24_NU,8,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A1XYYXDVFJ6TFH,1,general,corona,Useful,C_29_U,16,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A1XYYXDVFJ6TFH,1,general,corona,Useful,C_34_U,4,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1XYYXDVFJ6TFH,1,general,corona,Useful,C_48_U,4,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A1XYYXDVFJ6TFH,1,general,general,Not useful,NC_01_NU,8,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A1XYYXDVFJ6TFH,1,general,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A1XYYXDVFJ6TFH,1,general,general,Not useful,NC_17_NU,16,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A1XYYXDVFJ6TFH,1,general,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1XYYXDVFJ6TFH,1,general,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1XYYXDVFJ6TFH,1,general,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A1XYYXDVFJ6TFH,1,general,general,Useful,NC_41_U,12,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1XYYXDVFJ6TFH,1,general,general,Useful,NC_49_U,12,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1XYYXDVFJ6TFH,1,general,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A1XYYXDVFJ6TFH,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1XYYXDVFJ6TFH,1,general,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1XYYXDVFJ6TFH,1,general,third,Trivia,TB_12_TR,12,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1XYYXDVFJ6TFH,1,general,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?
+A1XYYXDVFJ6TFH,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

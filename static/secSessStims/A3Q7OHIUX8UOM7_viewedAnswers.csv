@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3Q7OHIUX8UOM7,1,general,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A3Q7OHIUX8UOM7,1,general,corona,Not useful,C_23_NU,12,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A3Q7OHIUX8UOM7,1,general,corona,Not useful,C_25_NU,4,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A3Q7OHIUX8UOM7,1,general,corona,Useful,C_33_U,12,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A3Q7OHIUX8UOM7,1,general,corona,Useful,C_37_U,4,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A3Q7OHIUX8UOM7,1,general,corona,Useful,C_41_U,4,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A3Q7OHIUX8UOM7,1,general,corona,Useful,C_45_U,8,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A3Q7OHIUX8UOM7,1,general,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A3Q7OHIUX8UOM7,1,general,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A3Q7OHIUX8UOM7,1,general,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A3Q7OHIUX8UOM7,1,general,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A3Q7OHIUX8UOM7,1,general,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A3Q7OHIUX8UOM7,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3Q7OHIUX8UOM7,1,general,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3Q7OHIUX8UOM7,1,general,general,Useful,NC_42_U,16,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A3Q7OHIUX8UOM7,1,general,general,Useful,NC_48_U,4,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+A3Q7OHIUX8UOM7,1,general,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A3Q7OHIUX8UOM7,1,general,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A3Q7OHIUX8UOM7,1,general,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A3Q7OHIUX8UOM7,1,general,third,MTurk,TB_28_MT,12,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A3Q7OHIUX8UOM7,1,general,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A3Q7OHIUX8UOM7,1,general,third,Trivia,TB_13_TR,8,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3Q7OHIUX8UOM7,1,general,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A3Q7OHIUX8UOM7,1,general,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A3Q7OHIUX8UOM7,1,general,third,Trivia,TB_18_TR,16,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1QCXSZJ3ZLCNY,1,general,corona,Not useful,C_07_NU,8,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1QCXSZJ3ZLCNY,1,general,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A1QCXSZJ3ZLCNY,1,general,corona,Not useful,C_21_NU,8,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A1QCXSZJ3ZLCNY,1,general,corona,Not useful,C_25_NU,8,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A1QCXSZJ3ZLCNY,1,general,corona,Useful,C_34_U,4,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1QCXSZJ3ZLCNY,1,general,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1QCXSZJ3ZLCNY,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1QCXSZJ3ZLCNY,1,general,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A1QCXSZJ3ZLCNY,1,general,general,Not useful,NC_16_NU,12,Newborns,The apgar score is used to measure the color and condition of what?
+A1QCXSZJ3ZLCNY,1,general,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1QCXSZJ3ZLCNY,1,general,general,Not useful,NC_26_NU,16,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1QCXSZJ3ZLCNY,1,general,general,Useful,NC_39_U,8,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A1QCXSZJ3ZLCNY,1,general,general,Useful,NC_43_U,12,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A1QCXSZJ3ZLCNY,1,general,general,Useful,NC_44_U,4,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1QCXSZJ3ZLCNY,1,general,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1QCXSZJ3ZLCNY,1,general,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1QCXSZJ3ZLCNY,1,general,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1QCXSZJ3ZLCNY,1,general,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A1QCXSZJ3ZLCNY,1,general,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A1QCXSZJ3ZLCNY,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A1QCXSZJ3ZLCNY,1,general,third,MTurk,TB_46_MT,8,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A1QCXSZJ3ZLCNY,1,general,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A1QCXSZJ3ZLCNY,1,general,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1QCXSZJ3ZLCNY,1,general,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A1QCXSZJ3ZLCNY,1,general,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?

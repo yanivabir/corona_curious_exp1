@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A11ST9LLMHHIF9,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A11ST9LLMHHIF9,1,general,corona,Not useful,C_09_NU,4,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A11ST9LLMHHIF9,1,general,corona,Not useful,C_24_NU,8,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A11ST9LLMHHIF9,1,general,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A11ST9LLMHHIF9,1,general,corona,Useful,C_39_U,16,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A11ST9LLMHHIF9,1,general,general,Not useful,NC_03_NU,4,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A11ST9LLMHHIF9,1,general,general,Not useful,NC_04_NU,12,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A11ST9LLMHHIF9,1,general,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A11ST9LLMHHIF9,1,general,general,Not useful,NC_17_NU,16,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A11ST9LLMHHIF9,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A11ST9LLMHHIF9,1,general,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A11ST9LLMHHIF9,1,general,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A11ST9LLMHHIF9,1,general,general,Useful,NC_52_U,16,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A11ST9LLMHHIF9,1,general,third,MTurk,TB_36_MT,16,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A11ST9LLMHHIF9,1,general,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A11ST9LLMHHIF9,1,general,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A11ST9LLMHHIF9,1,general,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A11ST9LLMHHIF9,1,general,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A11ST9LLMHHIF9,1,general,third,Trivia,TB_17_TR,12,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

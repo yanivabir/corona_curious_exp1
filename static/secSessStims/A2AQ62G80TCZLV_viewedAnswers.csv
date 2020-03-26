@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2AQ62G80TCZLV,1,corona,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A2AQ62G80TCZLV,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A2AQ62G80TCZLV,1,corona,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2AQ62G80TCZLV,1,corona,corona,Useful,C_51_U,12,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A2AQ62G80TCZLV,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2AQ62G80TCZLV,1,corona,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A2AQ62G80TCZLV,1,corona,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A2AQ62G80TCZLV,1,corona,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A2AQ62G80TCZLV,1,corona,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2AQ62G80TCZLV,1,corona,third,MTurk,TB_26_MT,8,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A2AQ62G80TCZLV,1,corona,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2AQ62G80TCZLV,1,corona,third,MTurk,TB_36_MT,16,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A2AQ62G80TCZLV,1,corona,third,Trivia,TB_05_TR,12,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A2AQ62G80TCZLV,1,corona,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

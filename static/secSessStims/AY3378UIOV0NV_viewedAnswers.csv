@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AY3378UIOV0NV,1,general,corona,Not useful,C_10_NU,16,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+AY3378UIOV0NV,1,general,corona,Not useful,C_14_NU,8,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+AY3378UIOV0NV,1,general,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+AY3378UIOV0NV,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+AY3378UIOV0NV,1,general,general,Not useful,NC_01_NU,12,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+AY3378UIOV0NV,1,general,general,Not useful,NC_17_NU,8,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+AY3378UIOV0NV,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+AY3378UIOV0NV,1,general,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+AY3378UIOV0NV,1,general,third,Trivia,TB_11_TR,16,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?

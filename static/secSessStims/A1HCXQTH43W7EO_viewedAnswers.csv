@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1HCXQTH43W7EO,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A1HCXQTH43W7EO,1,general,corona,Not useful,C_05_NU,16,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1HCXQTH43W7EO,1,general,corona,Not useful,C_10_NU,16,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A1HCXQTH43W7EO,1,general,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1HCXQTH43W7EO,1,general,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1HCXQTH43W7EO,1,general,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A1HCXQTH43W7EO,1,general,general,Not useful,NC_18_NU,16,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1HCXQTH43W7EO,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1HCXQTH43W7EO,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1HCXQTH43W7EO,1,general,general,Useful,NC_36_U,12,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1HCXQTH43W7EO,1,general,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1HCXQTH43W7EO,1,general,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1HCXQTH43W7EO,1,general,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1HCXQTH43W7EO,1,general,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1HCXQTH43W7EO,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1HCXQTH43W7EO,1,general,third,Trivia,TB_04_TR,8,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"

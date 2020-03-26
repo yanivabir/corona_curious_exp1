@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A10U08SAPJAEY6,1,general,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A10U08SAPJAEY6,1,general,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A10U08SAPJAEY6,1,general,corona,Useful,C_45_U,16,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A10U08SAPJAEY6,1,general,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+A10U08SAPJAEY6,1,general,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A10U08SAPJAEY6,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A10U08SAPJAEY6,1,general,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A10U08SAPJAEY6,1,general,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A10U08SAPJAEY6,1,general,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A10U08SAPJAEY6,1,general,third,MTurk,TB_28_MT,4,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A10U08SAPJAEY6,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A10U08SAPJAEY6,1,general,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A10U08SAPJAEY6,1,general,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?
+A10U08SAPJAEY6,1,general,third,Trivia,TB_21_TR,12,New York,Which state has the zip code 12345?

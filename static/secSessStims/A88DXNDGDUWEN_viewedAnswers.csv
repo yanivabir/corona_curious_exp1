@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A88DXNDGDUWEN,1,corona,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+A88DXNDGDUWEN,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A88DXNDGDUWEN,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A88DXNDGDUWEN,1,corona,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A88DXNDGDUWEN,1,corona,corona,Not useful,C_22_NU,16,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A88DXNDGDUWEN,1,corona,corona,Not useful,C_25_NU,12,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A88DXNDGDUWEN,1,corona,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A88DXNDGDUWEN,1,corona,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A88DXNDGDUWEN,1,corona,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A88DXNDGDUWEN,1,corona,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+A88DXNDGDUWEN,1,corona,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A88DXNDGDUWEN,1,corona,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A88DXNDGDUWEN,1,corona,general,Not useful,NC_15_NU,8,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A88DXNDGDUWEN,1,corona,general,Not useful,NC_16_NU,16,Newborns,The apgar score is used to measure the color and condition of what?
+A88DXNDGDUWEN,1,corona,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A88DXNDGDUWEN,1,corona,general,Useful,NC_33_U,16,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A88DXNDGDUWEN,1,corona,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A88DXNDGDUWEN,1,corona,third,MTurk,TB_29_MT,12,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+A88DXNDGDUWEN,1,corona,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A88DXNDGDUWEN,1,corona,third,MTurk,TB_36_MT,12,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A88DXNDGDUWEN,1,corona,third,MTurk,TB_37_MT,8,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A88DXNDGDUWEN,1,corona,third,Trivia,TB_01_TR,4,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A88DXNDGDUWEN,1,corona,third,Trivia,TB_04_TR,4,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A88DXNDGDUWEN,1,corona,third,Trivia,TB_06_TR,12,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A88DXNDGDUWEN,1,corona,third,Trivia,TB_14_TR,16,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

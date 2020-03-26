@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1AX618BOQLX79,1,corona,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1AX618BOQLX79,1,corona,corona,Not useful,C_13_NU,16,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A1AX618BOQLX79,1,corona,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1AX618BOQLX79,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A1AX618BOQLX79,1,corona,corona,Useful,C_33_U,16,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1AX618BOQLX79,1,corona,corona,Useful,C_36_U,4,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1AX618BOQLX79,1,corona,corona,Useful,C_47_U,16,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1AX618BOQLX79,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1AX618BOQLX79,1,corona,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1AX618BOQLX79,1,corona,third,Trivia,TB_05_TR,16,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A1AX618BOQLX79,1,corona,third,Trivia,TB_14_TR,16,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A1AX618BOQLX79,1,corona,third,Trivia,TB_15_TR,12,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A1AX618BOQLX79,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?
+A1AX618BOQLX79,1,corona,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

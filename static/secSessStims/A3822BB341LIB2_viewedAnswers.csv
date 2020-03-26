@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3822BB341LIB2,1,general,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+A3822BB341LIB2,1,general,corona,Useful,C_27_U,12,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A3822BB341LIB2,1,general,corona,Useful,C_39_U,16,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A3822BB341LIB2,1,general,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A3822BB341LIB2,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A3822BB341LIB2,1,general,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A3822BB341LIB2,1,general,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A3822BB341LIB2,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3822BB341LIB2,1,general,general,Useful,NC_37_U,4,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A3822BB341LIB2,1,general,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3822BB341LIB2,1,general,general,Useful,NC_48_U,4,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+A3822BB341LIB2,1,general,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A3822BB341LIB2,1,general,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A3822BB341LIB2,1,general,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A3822BB341LIB2,1,general,third,MTurk,TB_39_MT,8,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A3822BB341LIB2,1,general,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

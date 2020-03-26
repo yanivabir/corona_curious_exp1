@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A21LDJ3BBOVZDN,1,corona,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A21LDJ3BBOVZDN,1,corona,corona,Useful,C_33_U,16,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A21LDJ3BBOVZDN,1,corona,corona,Useful,C_35_U,16,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A21LDJ3BBOVZDN,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A21LDJ3BBOVZDN,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A21LDJ3BBOVZDN,1,corona,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A21LDJ3BBOVZDN,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A21LDJ3BBOVZDN,1,corona,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A21LDJ3BBOVZDN,1,corona,general,Useful,NC_39_U,16,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A21LDJ3BBOVZDN,1,corona,general,Useful,NC_46_U,4,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A21LDJ3BBOVZDN,1,corona,general,Useful,NC_49_U,12,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A21LDJ3BBOVZDN,1,corona,third,MTurk,TB_32_MT,16,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A21LDJ3BBOVZDN,1,corona,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A21LDJ3BBOVZDN,1,corona,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A21LDJ3BBOVZDN,1,corona,third,Trivia,TB_19_TR,16,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A21LDJ3BBOVZDN,1,corona,third,Trivia,TB_20_TR,16,Rafflesia (corpse lily),What is the largest flower in the world?

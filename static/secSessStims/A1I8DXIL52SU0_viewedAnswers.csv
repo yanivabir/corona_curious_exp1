@@ -1,0 +1,27 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1I8DXIL52SU0,1,general,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1I8DXIL52SU0,1,general,corona,Not useful,C_08_NU,12,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A1I8DXIL52SU0,1,general,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1I8DXIL52SU0,1,general,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A1I8DXIL52SU0,1,general,corona,Useful,C_40_U,4,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A1I8DXIL52SU0,1,general,corona,Useful,C_43_U,12,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+A1I8DXIL52SU0,1,general,corona,Useful,C_46_U,12,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1I8DXIL52SU0,1,general,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+A1I8DXIL52SU0,1,general,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1I8DXIL52SU0,1,general,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1I8DXIL52SU0,1,general,general,Not useful,NC_18_NU,16,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1I8DXIL52SU0,1,general,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A1I8DXIL52SU0,1,general,general,Not useful,NC_23_NU,8,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1I8DXIL52SU0,1,general,general,Useful,NC_33_U,8,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A1I8DXIL52SU0,1,general,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1I8DXIL52SU0,1,general,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1I8DXIL52SU0,1,general,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1I8DXIL52SU0,1,general,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A1I8DXIL52SU0,1,general,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A1I8DXIL52SU0,1,general,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A1I8DXIL52SU0,1,general,third,MTurk,TB_35_MT,8,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A1I8DXIL52SU0,1,general,third,MTurk,TB_43_MT,16,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1I8DXIL52SU0,1,general,third,Trivia,TB_06_TR,8,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A1I8DXIL52SU0,1,general,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1I8DXIL52SU0,1,general,third,Trivia,TB_15_TR,12,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A1I8DXIL52SU0,1,general,third,Trivia,TB_20_TR,12,Rafflesia (corpse lily),What is the largest flower in the world?

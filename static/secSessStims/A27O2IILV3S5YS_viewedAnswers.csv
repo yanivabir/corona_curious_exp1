@@ -1,0 +1,13 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A27O2IILV3S5YS,1,corona,corona,Not useful,C_08_NU,8,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A27O2IILV3S5YS,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A27O2IILV3S5YS,1,corona,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A27O2IILV3S5YS,1,corona,general,Not useful,NC_14_NU,8,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A27O2IILV3S5YS,1,corona,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A27O2IILV3S5YS,1,corona,third,MTurk,TB_40_MT,8,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A27O2IILV3S5YS,1,corona,third,MTurk,TB_42_MT,16,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A27O2IILV3S5YS,1,corona,third,Trivia,TB_04_TR,12,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A27O2IILV3S5YS,1,corona,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A27O2IILV3S5YS,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A27O2IILV3S5YS,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?
+A27O2IILV3S5YS,1,corona,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

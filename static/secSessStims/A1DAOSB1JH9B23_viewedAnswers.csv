@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1DAOSB1JH9B23,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1DAOSB1JH9B23,1,corona,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1DAOSB1JH9B23,1,corona,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A1DAOSB1JH9B23,1,corona,corona,Not useful,C_20_NU,12,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A1DAOSB1JH9B23,1,corona,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1DAOSB1JH9B23,1,corona,corona,Not useful,C_26_NU,12,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1DAOSB1JH9B23,1,corona,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1DAOSB1JH9B23,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1DAOSB1JH9B23,1,corona,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1DAOSB1JH9B23,1,corona,general,Not useful,NC_11_NU,12,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A1DAOSB1JH9B23,1,corona,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1DAOSB1JH9B23,1,corona,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1DAOSB1JH9B23,1,corona,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1DAOSB1JH9B23,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1DAOSB1JH9B23,1,corona,third,MTurk,TB_28_MT,12,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1DAOSB1JH9B23,1,corona,third,MTurk,TB_40_MT,16,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A1DAOSB1JH9B23,1,corona,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A1DAOSB1JH9B23,1,corona,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A1DAOSB1JH9B23,1,corona,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A1DAOSB1JH9B23,1,corona,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?

@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1CT5YVQ1CKUV6,1,corona,corona,Not useful,C_11_NU,8,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A1CT5YVQ1CKUV6,1,corona,corona,Not useful,C_12_NU,8,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1CT5YVQ1CKUV6,1,corona,corona,Not useful,C_17_NU,16,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A1CT5YVQ1CKUV6,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A1CT5YVQ1CKUV6,1,corona,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A1CT5YVQ1CKUV6,1,corona,general,Not useful,NC_05_NU,16,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A1CT5YVQ1CKUV6,1,corona,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A1CT5YVQ1CKUV6,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1CT5YVQ1CKUV6,1,corona,general,Not useful,NC_19_NU,16,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1CT5YVQ1CKUV6,1,corona,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1CT5YVQ1CKUV6,1,corona,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A1CT5YVQ1CKUV6,1,corona,general,Useful,NC_51_U,12,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A1CT5YVQ1CKUV6,1,corona,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A1CT5YVQ1CKUV6,1,corona,third,MTurk,TB_44_MT,4,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A1CT5YVQ1CKUV6,1,corona,third,Trivia,TB_06_TR,4,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A1CT5YVQ1CKUV6,1,corona,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A1CT5YVQ1CKUV6,1,corona,third,Trivia,TB_20_TR,12,Rafflesia (corpse lily),What is the largest flower in the world?
+A1CT5YVQ1CKUV6,1,corona,third,Trivia,TB_21_TR,12,New York,Which state has the zip code 12345?

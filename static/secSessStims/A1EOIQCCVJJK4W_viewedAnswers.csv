@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1EOIQCCVJJK4W,1,corona,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+A1EOIQCCVJJK4W,1,corona,corona,Not useful,C_03_NU,8,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1EOIQCCVJJK4W,1,corona,corona,Not useful,C_06_NU,12,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1EOIQCCVJJK4W,1,corona,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1EOIQCCVJJK4W,1,corona,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1EOIQCCVJJK4W,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1EOIQCCVJJK4W,1,corona,corona,Useful,C_35_U,16,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A1EOIQCCVJJK4W,1,corona,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A1EOIQCCVJJK4W,1,corona,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1EOIQCCVJJK4W,1,corona,general,Not useful,NC_03_NU,8,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A1EOIQCCVJJK4W,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1EOIQCCVJJK4W,1,corona,general,Not useful,NC_23_NU,8,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1EOIQCCVJJK4W,1,corona,general,Useful,NC_29_U,12,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A1EOIQCCVJJK4W,1,corona,general,Useful,NC_31_U,8,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1EOIQCCVJJK4W,1,corona,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A1EOIQCCVJJK4W,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1EOIQCCVJJK4W,1,corona,third,MTurk,TB_45_MT,16,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A1EOIQCCVJJK4W,1,corona,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1EOIQCCVJJK4W,1,corona,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1EOIQCCVJJK4W,1,corona,third,Trivia,TB_20_TR,12,Rafflesia (corpse lily),What is the largest flower in the world?

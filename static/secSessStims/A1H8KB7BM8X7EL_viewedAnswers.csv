@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1H8KB7BM8X7EL,1,general,corona,Not useful,C_13_NU,8,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A1H8KB7BM8X7EL,1,general,corona,Not useful,C_23_NU,8,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A1H8KB7BM8X7EL,1,general,corona,Useful,C_39_U,8,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A1H8KB7BM8X7EL,1,general,corona,Useful,C_45_U,16,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1H8KB7BM8X7EL,1,general,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A1H8KB7BM8X7EL,1,general,general,Not useful,NC_13_NU,4,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1H8KB7BM8X7EL,1,general,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1H8KB7BM8X7EL,1,general,general,Useful,NC_40_U,12,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1H8KB7BM8X7EL,1,general,general,Useful,NC_41_U,16,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1H8KB7BM8X7EL,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1H8KB7BM8X7EL,1,general,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A1H8KB7BM8X7EL,1,general,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A1H8KB7BM8X7EL,1,general,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A1H8KB7BM8X7EL,1,general,third,Trivia,TB_03_TR,4,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A1H8KB7BM8X7EL,1,general,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A1H8KB7BM8X7EL,1,general,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

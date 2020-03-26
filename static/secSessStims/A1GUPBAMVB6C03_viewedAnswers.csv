@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1GUPBAMVB6C03,1,corona,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+A1GUPBAMVB6C03,1,corona,corona,Not useful,C_05_NU,16,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1GUPBAMVB6C03,1,corona,corona,Useful,C_28_U,4,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A1GUPBAMVB6C03,1,corona,corona,Useful,C_51_U,16,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1GUPBAMVB6C03,1,corona,general,Not useful,NC_12_NU,16,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A1GUPBAMVB6C03,1,corona,general,Not useful,NC_22_NU,12,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A1GUPBAMVB6C03,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1GUPBAMVB6C03,1,corona,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1GUPBAMVB6C03,1,corona,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1GUPBAMVB6C03,1,corona,third,MTurk,TB_39_MT,8,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1GUPBAMVB6C03,1,corona,third,MTurk,TB_45_MT,16,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A1GUPBAMVB6C03,1,corona,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1GUPBAMVB6C03,1,corona,third,Trivia,TB_20_TR,16,Rafflesia (corpse lily),What is the largest flower in the world?
+A1GUPBAMVB6C03,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

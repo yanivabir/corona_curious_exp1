@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A150EE5TU7BW56,1,corona,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A150EE5TU7BW56,1,corona,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A150EE5TU7BW56,1,corona,corona,Not useful,C_12_NU,16,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A150EE5TU7BW56,1,corona,corona,Not useful,C_17_NU,16,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A150EE5TU7BW56,1,corona,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A150EE5TU7BW56,1,corona,corona,Useful,C_27_U,12,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A150EE5TU7BW56,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A150EE5TU7BW56,1,corona,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A150EE5TU7BW56,1,corona,general,Not useful,NC_01_NU,12,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A150EE5TU7BW56,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A150EE5TU7BW56,1,corona,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A150EE5TU7BW56,1,corona,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A150EE5TU7BW56,1,corona,general,Useful,NC_33_U,16,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A150EE5TU7BW56,1,corona,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A150EE5TU7BW56,1,corona,third,MTurk,TB_25_MT,16,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A150EE5TU7BW56,1,corona,third,MTurk,TB_30_MT,12,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A150EE5TU7BW56,1,corona,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A150EE5TU7BW56,1,corona,third,Trivia,TB_06_TR,4,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A150EE5TU7BW56,1,corona,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A150EE5TU7BW56,1,corona,third,Trivia,TB_09_TR,8,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A150EE5TU7BW56,1,corona,third,Trivia,TB_16_TR,16,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A150EE5TU7BW56,1,corona,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

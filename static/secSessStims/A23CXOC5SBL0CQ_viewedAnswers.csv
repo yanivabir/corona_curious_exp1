@@ -1,0 +1,6 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A23CXOC5SBL0CQ,1,corona,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A23CXOC5SBL0CQ,1,corona,general,Useful,NC_34_U,8,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A23CXOC5SBL0CQ,1,corona,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A23CXOC5SBL0CQ,1,corona,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A23CXOC5SBL0CQ,1,corona,third,MTurk,TB_40_MT,4,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?

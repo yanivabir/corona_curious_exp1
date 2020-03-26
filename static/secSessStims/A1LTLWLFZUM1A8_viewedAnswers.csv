@@ -1,0 +1,28 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1LTLWLFZUM1A8,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1LTLWLFZUM1A8,1,corona,corona,Not useful,C_06_NU,12,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1LTLWLFZUM1A8,1,corona,corona,Not useful,C_07_NU,8,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1LTLWLFZUM1A8,1,corona,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A1LTLWLFZUM1A8,1,corona,corona,Not useful,C_24_NU,8,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A1LTLWLFZUM1A8,1,corona,corona,Not useful,C_25_NU,4,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A1LTLWLFZUM1A8,1,corona,corona,Useful,C_27_U,8,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A1LTLWLFZUM1A8,1,corona,corona,Useful,C_39_U,16,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A1LTLWLFZUM1A8,1,corona,corona,Useful,C_41_U,4,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A1LTLWLFZUM1A8,1,corona,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A1LTLWLFZUM1A8,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1LTLWLFZUM1A8,1,corona,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A1LTLWLFZUM1A8,1,corona,general,Not useful,NC_13_NU,4,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1LTLWLFZUM1A8,1,corona,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A1LTLWLFZUM1A8,1,corona,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1LTLWLFZUM1A8,1,corona,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1LTLWLFZUM1A8,1,corona,general,Useful,NC_29_U,4,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A1LTLWLFZUM1A8,1,corona,general,Useful,NC_30_U,8,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1LTLWLFZUM1A8,1,corona,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1LTLWLFZUM1A8,1,corona,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1LTLWLFZUM1A8,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A1LTLWLFZUM1A8,1,corona,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1LTLWLFZUM1A8,1,corona,third,MTurk,TB_46_MT,4,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A1LTLWLFZUM1A8,1,corona,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1LTLWLFZUM1A8,1,corona,third,Trivia,TB_10_TR,12,George VI,Who was the last British Monarch to also be an emperor?
+A1LTLWLFZUM1A8,1,corona,third,Trivia,TB_19_TR,16,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A1LTLWLFZUM1A8,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

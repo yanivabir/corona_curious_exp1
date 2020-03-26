@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3DYPDGX5U3OJZ,1,general,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A3DYPDGX5U3OJZ,1,general,corona,Not useful,C_09_NU,4,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A3DYPDGX5U3OJZ,1,general,corona,Not useful,C_19_NU,12,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3DYPDGX5U3OJZ,1,general,corona,Not useful,C_23_NU,16,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A3DYPDGX5U3OJZ,1,general,corona,Useful,C_29_U,8,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A3DYPDGX5U3OJZ,1,general,corona,Useful,C_30_U,4,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A3DYPDGX5U3OJZ,1,general,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A3DYPDGX5U3OJZ,1,general,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A3DYPDGX5U3OJZ,1,general,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A3DYPDGX5U3OJZ,1,general,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A3DYPDGX5U3OJZ,1,general,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A3DYPDGX5U3OJZ,1,general,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A3DYPDGX5U3OJZ,1,general,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A3DYPDGX5U3OJZ,1,general,general,Useful,NC_31_U,16,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A3DYPDGX5U3OJZ,1,general,general,Useful,NC_37_U,4,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A3DYPDGX5U3OJZ,1,general,general,Useful,NC_42_U,8,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A3DYPDGX5U3OJZ,1,general,general,Useful,NC_45_U,12,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A3DYPDGX5U3OJZ,1,general,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3DYPDGX5U3OJZ,1,general,third,MTurk,TB_35_MT,12,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A3DYPDGX5U3OJZ,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A3DYPDGX5U3OJZ,1,general,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A3DYPDGX5U3OJZ,1,general,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?
+A3DYPDGX5U3OJZ,1,general,third,Trivia,TB_16_TR,16,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A3DYPDGX5U3OJZ,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

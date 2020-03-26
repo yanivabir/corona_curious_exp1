@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A19BWQY16G9600,1,general,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A19BWQY16G9600,1,general,corona,Not useful,C_15_NU,8,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A19BWQY16G9600,1,general,corona,Useful,C_36_U,16,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A19BWQY16G9600,1,general,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A19BWQY16G9600,1,general,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A19BWQY16G9600,1,general,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A19BWQY16G9600,1,general,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A19BWQY16G9600,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A19BWQY16G9600,1,general,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A19BWQY16G9600,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A19BWQY16G9600,1,general,general,Useful,NC_49_U,4,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A19BWQY16G9600,1,general,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A19BWQY16G9600,1,general,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A19BWQY16G9600,1,general,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A19BWQY16G9600,1,general,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A19BWQY16G9600,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

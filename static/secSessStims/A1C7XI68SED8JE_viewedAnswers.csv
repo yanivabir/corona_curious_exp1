@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1C7XI68SED8JE,1,corona,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A1C7XI68SED8JE,1,corona,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1C7XI68SED8JE,1,corona,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1C7XI68SED8JE,1,corona,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A1C7XI68SED8JE,1,corona,corona,Useful,C_33_U,16,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1C7XI68SED8JE,1,corona,corona,Useful,C_38_U,8,People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,"Does the new coronavirus affect older people, or are younger people also susceptible?"
+A1C7XI68SED8JE,1,corona,corona,Useful,C_39_U,12,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A1C7XI68SED8JE,1,corona,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A1C7XI68SED8JE,1,corona,corona,Useful,C_45_U,16,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1C7XI68SED8JE,1,corona,general,Not useful,NC_13_NU,8,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1C7XI68SED8JE,1,corona,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1C7XI68SED8JE,1,corona,general,Useful,NC_29_U,16,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A1C7XI68SED8JE,1,corona,general,Useful,NC_32_U,16,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A1C7XI68SED8JE,1,corona,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1C7XI68SED8JE,1,corona,third,MTurk,TB_29_MT,8,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+A1C7XI68SED8JE,1,corona,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A1C7XI68SED8JE,1,corona,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?

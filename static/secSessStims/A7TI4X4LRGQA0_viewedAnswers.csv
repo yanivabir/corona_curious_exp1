@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A7TI4X4LRGQA0,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A7TI4X4LRGQA0,1,corona,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+A7TI4X4LRGQA0,1,corona,corona,Not useful,C_14_NU,8,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A7TI4X4LRGQA0,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A7TI4X4LRGQA0,1,corona,corona,Useful,C_29_U,16,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A7TI4X4LRGQA0,1,corona,corona,Useful,C_39_U,16,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A7TI4X4LRGQA0,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A7TI4X4LRGQA0,1,corona,corona,Useful,C_47_U,4,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A7TI4X4LRGQA0,1,corona,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+A7TI4X4LRGQA0,1,corona,general,Not useful,NC_09_NU,12,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A7TI4X4LRGQA0,1,corona,general,Not useful,NC_24_NU,16,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A7TI4X4LRGQA0,1,corona,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A7TI4X4LRGQA0,1,corona,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A7TI4X4LRGQA0,1,corona,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A7TI4X4LRGQA0,1,corona,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A7TI4X4LRGQA0,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A7TI4X4LRGQA0,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A7TI4X4LRGQA0,1,corona,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A7TI4X4LRGQA0,1,corona,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A7TI4X4LRGQA0,1,corona,third,Trivia,TB_04_TR,12,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A7TI4X4LRGQA0,1,corona,third,Trivia,TB_13_TR,8,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A7TI4X4LRGQA0,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

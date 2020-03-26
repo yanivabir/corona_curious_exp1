@@ -1,0 +1,12 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AZLRPIAD0ZHAA,1,corona,corona,Not useful,C_05_NU,16,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+AZLRPIAD0ZHAA,1,corona,corona,Not useful,C_07_NU,16,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+AZLRPIAD0ZHAA,1,corona,corona,Not useful,C_12_NU,8,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+AZLRPIAD0ZHAA,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+AZLRPIAD0ZHAA,1,corona,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+AZLRPIAD0ZHAA,1,corona,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+AZLRPIAD0ZHAA,1,corona,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+AZLRPIAD0ZHAA,1,corona,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+AZLRPIAD0ZHAA,1,corona,general,Not useful,NC_26_NU,8,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+AZLRPIAD0ZHAA,1,corona,third,Trivia,TB_05_TR,16,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+AZLRPIAD0ZHAA,1,corona,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?

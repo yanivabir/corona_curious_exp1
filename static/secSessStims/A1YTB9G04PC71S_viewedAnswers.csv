@@ -1,0 +1,14 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1YTB9G04PC71S,1,general,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1YTB9G04PC71S,1,general,corona,Useful,C_32_U,8,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A1YTB9G04PC71S,1,general,corona,Useful,C_36_U,4,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1YTB9G04PC71S,1,general,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1YTB9G04PC71S,1,general,general,Not useful,NC_03_NU,8,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A1YTB9G04PC71S,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1YTB9G04PC71S,1,general,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1YTB9G04PC71S,1,general,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1YTB9G04PC71S,1,general,general,Useful,NC_47_U,4,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A1YTB9G04PC71S,1,general,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A1YTB9G04PC71S,1,general,third,Trivia,TB_07_TR,4,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A1YTB9G04PC71S,1,general,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A1YTB9G04PC71S,1,general,third,Trivia,TB_16_TR,4,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

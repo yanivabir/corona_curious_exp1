@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1BQRDDC1NZCST,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A1BQRDDC1NZCST,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A1BQRDDC1NZCST,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1BQRDDC1NZCST,1,corona,corona,Useful,C_28_U,8,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A1BQRDDC1NZCST,1,corona,corona,Useful,C_36_U,16,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1BQRDDC1NZCST,1,corona,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A1BQRDDC1NZCST,1,corona,corona,Useful,C_52_U,12,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A1BQRDDC1NZCST,1,corona,general,Not useful,NC_17_NU,16,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A1BQRDDC1NZCST,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1BQRDDC1NZCST,1,corona,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A1BQRDDC1NZCST,1,corona,general,Useful,NC_39_U,8,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A1BQRDDC1NZCST,1,corona,general,Useful,NC_41_U,16,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1BQRDDC1NZCST,1,corona,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1BQRDDC1NZCST,1,corona,third,MTurk,TB_25_MT,16,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1BQRDDC1NZCST,1,corona,third,MTurk,TB_29_MT,4,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+A1BQRDDC1NZCST,1,corona,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A1BQRDDC1NZCST,1,corona,third,Trivia,TB_04_TR,4,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1BQRDDC1NZCST,1,corona,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1BQRDDC1NZCST,1,corona,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A1BQRDDC1NZCST,1,corona,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?

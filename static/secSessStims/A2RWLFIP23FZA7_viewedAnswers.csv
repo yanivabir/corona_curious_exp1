@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2RWLFIP23FZA7,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A2RWLFIP23FZA7,1,corona,corona,Useful,C_39_U,8,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A2RWLFIP23FZA7,1,corona,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A2RWLFIP23FZA7,1,corona,general,Useful,NC_37_U,12,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A2RWLFIP23FZA7,1,corona,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A2RWLFIP23FZA7,1,corona,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2RWLFIP23FZA7,1,corona,third,MTurk,TB_26_MT,12,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A2RWLFIP23FZA7,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2RWLFIP23FZA7,1,corona,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?

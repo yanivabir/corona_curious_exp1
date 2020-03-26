@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3P7QP6K56ED2Z,1,corona,corona,Not useful,C_13_NU,12,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A3P7QP6K56ED2Z,1,corona,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A3P7QP6K56ED2Z,1,corona,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A3P7QP6K56ED2Z,1,corona,corona,Useful,C_31_U,12,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A3P7QP6K56ED2Z,1,corona,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A3P7QP6K56ED2Z,1,corona,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A3P7QP6K56ED2Z,1,corona,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A3P7QP6K56ED2Z,1,corona,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3P7QP6K56ED2Z,1,corona,general,Useful,NC_30_U,4,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A3P7QP6K56ED2Z,1,corona,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A3P7QP6K56ED2Z,1,corona,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A3P7QP6K56ED2Z,1,corona,third,MTurk,TB_30_MT,12,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A3P7QP6K56ED2Z,1,corona,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A3P7QP6K56ED2Z,1,corona,third,MTurk,TB_36_MT,16,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A3P7QP6K56ED2Z,1,corona,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A3P7QP6K56ED2Z,1,corona,third,Trivia,TB_06_TR,12,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A3P7QP6K56ED2Z,1,corona,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A3P7QP6K56ED2Z,1,corona,third,Trivia,TB_20_TR,16,Rafflesia (corpse lily),What is the largest flower in the world?

@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A18S266M02RWZU,1,corona,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A18S266M02RWZU,1,corona,corona,Not useful,C_08_NU,8,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A18S266M02RWZU,1,corona,corona,Not useful,C_10_NU,16,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A18S266M02RWZU,1,corona,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A18S266M02RWZU,1,corona,corona,Not useful,C_21_NU,12,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A18S266M02RWZU,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A18S266M02RWZU,1,corona,corona,Useful,C_36_U,16,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A18S266M02RWZU,1,corona,corona,Useful,C_39_U,4,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A18S266M02RWZU,1,corona,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A18S266M02RWZU,1,corona,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A18S266M02RWZU,1,corona,general,Useful,NC_30_U,4,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A18S266M02RWZU,1,corona,general,Useful,NC_32_U,16,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A18S266M02RWZU,1,corona,general,Useful,NC_46_U,4,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A18S266M02RWZU,1,corona,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A18S266M02RWZU,1,corona,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A18S266M02RWZU,1,corona,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A18S266M02RWZU,1,corona,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A18S266M02RWZU,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A18S266M02RWZU,1,corona,third,MTurk,TB_42_MT,12,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A18S266M02RWZU,1,corona,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

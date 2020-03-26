@@ -1,0 +1,14 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A144OK7GGOQZKS,1,general,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A144OK7GGOQZKS,1,general,corona,Not useful,C_05_NU,12,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A144OK7GGOQZKS,1,general,corona,Useful,C_31_U,16,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A144OK7GGOQZKS,1,general,corona,Useful,C_36_U,12,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A144OK7GGOQZKS,1,general,corona,Useful,C_38_U,16,People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,"Does the new coronavirus affect older people, or are younger people also susceptible?"
+A144OK7GGOQZKS,1,general,corona,Useful,C_47_U,4,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A144OK7GGOQZKS,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A144OK7GGOQZKS,1,general,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A144OK7GGOQZKS,1,general,general,Useful,NC_42_U,16,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A144OK7GGOQZKS,1,general,general,Useful,NC_45_U,12,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A144OK7GGOQZKS,1,general,third,MTurk,TB_26_MT,12,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A144OK7GGOQZKS,1,general,third,MTurk,TB_44_MT,4,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A144OK7GGOQZKS,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

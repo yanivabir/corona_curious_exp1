@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3UN1F1EOHKKE6,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A3UN1F1EOHKKE6,1,general,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A3UN1F1EOHKKE6,1,general,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A3UN1F1EOHKKE6,1,general,corona,Not useful,C_22_NU,16,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A3UN1F1EOHKKE6,1,general,corona,Useful,C_33_U,12,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A3UN1F1EOHKKE6,1,general,corona,Useful,C_41_U,16,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A3UN1F1EOHKKE6,1,general,general,Not useful,NC_04_NU,12,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A3UN1F1EOHKKE6,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A3UN1F1EOHKKE6,1,general,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A3UN1F1EOHKKE6,1,general,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A3UN1F1EOHKKE6,1,general,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3UN1F1EOHKKE6,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A3UN1F1EOHKKE6,1,general,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3UN1F1EOHKKE6,1,general,general,Useful,NC_47_U,12,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A3UN1F1EOHKKE6,1,general,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A3UN1F1EOHKKE6,1,general,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A3UN1F1EOHKKE6,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3UN1F1EOHKKE6,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A3UN1F1EOHKKE6,1,general,third,Trivia,TB_02_TR,8,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A3UN1F1EOHKKE6,1,general,third,Trivia,TB_07_TR,12,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A3UN1F1EOHKKE6,1,general,third,Trivia,TB_18_TR,16,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A3UN1F1EOHKKE6,1,general,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?

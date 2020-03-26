@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ANDJGNGFCS66G,1,corona,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+ANDJGNGFCS66G,1,corona,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+ANDJGNGFCS66G,1,corona,general,Not useful,NC_06_NU,8,David Livingstone,Who discovered the Victoria Falls?
+ANDJGNGFCS66G,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+ANDJGNGFCS66G,1,corona,third,MTurk,TB_24_MT,4,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+ANDJGNGFCS66G,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+ANDJGNGFCS66G,1,corona,third,MTurk,TB_35_MT,8,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+ANDJGNGFCS66G,1,corona,third,MTurk,TB_40_MT,16,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+ANDJGNGFCS66G,1,corona,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?

@@ -1,0 +1,6 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1TF9CEJ5FQUNH,1,corona,corona,Useful,C_40_U,12,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A1TF9CEJ5FQUNH,1,corona,corona,Useful,C_46_U,12,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1TF9CEJ5FQUNH,1,corona,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1TF9CEJ5FQUNH,1,corona,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1TF9CEJ5FQUNH,1,corona,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

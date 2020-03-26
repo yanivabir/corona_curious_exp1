@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2B2HQHFBYLTXU,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A2B2HQHFBYLTXU,1,corona,corona,Not useful,C_11_NU,8,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A2B2HQHFBYLTXU,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A2B2HQHFBYLTXU,1,corona,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2B2HQHFBYLTXU,1,corona,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2B2HQHFBYLTXU,1,corona,general,Not useful,NC_01_NU,8,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A2B2HQHFBYLTXU,1,corona,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A2B2HQHFBYLTXU,1,corona,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A2B2HQHFBYLTXU,1,corona,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2B2HQHFBYLTXU,1,corona,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A2B2HQHFBYLTXU,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2B2HQHFBYLTXU,1,corona,general,Useful,NC_33_U,8,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A2B2HQHFBYLTXU,1,corona,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A2B2HQHFBYLTXU,1,corona,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A2B2HQHFBYLTXU,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2B2HQHFBYLTXU,1,corona,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A2B2HQHFBYLTXU,1,corona,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2B2HQHFBYLTXU,1,corona,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A2B2HQHFBYLTXU,1,corona,third,MTurk,TB_45_MT,4,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A2B2HQHFBYLTXU,1,corona,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A2B2HQHFBYLTXU,1,corona,third,Trivia,TB_03_TR,8,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A2B2HQHFBYLTXU,1,corona,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A2B2HQHFBYLTXU,1,corona,third,Trivia,TB_08_TR,4,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A2B2HQHFBYLTXU,1,corona,third,Trivia,TB_12_TR,4,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"

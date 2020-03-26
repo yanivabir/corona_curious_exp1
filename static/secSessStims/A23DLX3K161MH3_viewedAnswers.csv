@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A23DLX3K161MH3,1,general,corona,Not useful,C_03_NU,12,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A23DLX3K161MH3,1,general,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A23DLX3K161MH3,1,general,corona,Not useful,C_15_NU,8,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A23DLX3K161MH3,1,general,corona,Not useful,C_20_NU,16,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A23DLX3K161MH3,1,general,general,Not useful,NC_03_NU,4,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A23DLX3K161MH3,1,general,general,Not useful,NC_04_NU,8,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A23DLX3K161MH3,1,general,general,Not useful,NC_06_NU,16,David Livingstone,Who discovered the Victoria Falls?
+A23DLX3K161MH3,1,general,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A23DLX3K161MH3,1,general,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A23DLX3K161MH3,1,general,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+A23DLX3K161MH3,1,general,general,Useful,NC_41_U,12,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A23DLX3K161MH3,1,general,third,MTurk,TB_28_MT,12,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A23DLX3K161MH3,1,general,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A23DLX3K161MH3,1,general,third,MTurk,TB_46_MT,16,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A23DLX3K161MH3,1,general,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A23DLX3K161MH3,1,general,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?

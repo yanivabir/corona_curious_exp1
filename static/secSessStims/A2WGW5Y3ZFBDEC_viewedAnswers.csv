@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2WGW5Y3ZFBDEC,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A2WGW5Y3ZFBDEC,1,corona,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A2WGW5Y3ZFBDEC,1,corona,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A2WGW5Y3ZFBDEC,1,corona,corona,Useful,C_34_U,16,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A2WGW5Y3ZFBDEC,1,corona,corona,Useful,C_40_U,16,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A2WGW5Y3ZFBDEC,1,corona,corona,Useful,C_41_U,12,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A2WGW5Y3ZFBDEC,1,corona,general,Not useful,NC_08_NU,8,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A2WGW5Y3ZFBDEC,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A2WGW5Y3ZFBDEC,1,corona,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+A2WGW5Y3ZFBDEC,1,corona,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2WGW5Y3ZFBDEC,1,corona,general,Useful,NC_45_U,16,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A2WGW5Y3ZFBDEC,1,corona,general,Useful,NC_46_U,16,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A2WGW5Y3ZFBDEC,1,corona,third,Trivia,TB_08_TR,8,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A2WGW5Y3ZFBDEC,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A2WGW5Y3ZFBDEC,1,corona,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A2WGW5Y3ZFBDEC,1,corona,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A2WGW5Y3ZFBDEC,1,corona,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A2WGW5Y3ZFBDEC,1,corona,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?

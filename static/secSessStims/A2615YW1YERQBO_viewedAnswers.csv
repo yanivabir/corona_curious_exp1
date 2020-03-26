@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2615YW1YERQBO,1,general,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2615YW1YERQBO,1,general,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2615YW1YERQBO,1,general,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A2615YW1YERQBO,1,general,corona,Useful,C_47_U,4,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A2615YW1YERQBO,1,general,general,Not useful,NC_03_NU,4,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A2615YW1YERQBO,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A2615YW1YERQBO,1,general,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A2615YW1YERQBO,1,general,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A2615YW1YERQBO,1,general,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2615YW1YERQBO,1,general,general,Useful,NC_46_U,8,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A2615YW1YERQBO,1,general,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A2615YW1YERQBO,1,general,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A2615YW1YERQBO,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2615YW1YERQBO,1,general,third,MTurk,TB_40_MT,4,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A2615YW1YERQBO,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A2615YW1YERQBO,1,general,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

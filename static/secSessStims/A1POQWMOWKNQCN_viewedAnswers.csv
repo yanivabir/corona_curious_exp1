@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1POQWMOWKNQCN,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1POQWMOWKNQCN,1,corona,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A1POQWMOWKNQCN,1,corona,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1POQWMOWKNQCN,1,corona,corona,Not useful,C_15_NU,8,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1POQWMOWKNQCN,1,corona,corona,Not useful,C_19_NU,16,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A1POQWMOWKNQCN,1,corona,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A1POQWMOWKNQCN,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1POQWMOWKNQCN,1,corona,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A1POQWMOWKNQCN,1,corona,general,Not useful,NC_13_NU,4,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1POQWMOWKNQCN,1,corona,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A1POQWMOWKNQCN,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1POQWMOWKNQCN,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1POQWMOWKNQCN,1,corona,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A1POQWMOWKNQCN,1,corona,general,Useful,NC_47_U,12,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A1POQWMOWKNQCN,1,corona,general,Useful,NC_50_U,16,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1POQWMOWKNQCN,1,corona,third,MTurk,TB_25_MT,16,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1POQWMOWKNQCN,1,corona,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A1POQWMOWKNQCN,1,corona,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1POQWMOWKNQCN,1,corona,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1POQWMOWKNQCN,1,corona,third,Trivia,TB_13_TR,8,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1POQWMOWKNQCN,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A1POQWMOWKNQCN,1,corona,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

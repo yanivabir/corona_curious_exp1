@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A11SMG7AJLZX0V,1,corona,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A11SMG7AJLZX0V,1,corona,corona,Not useful,C_21_NU,12,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A11SMG7AJLZX0V,1,corona,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A11SMG7AJLZX0V,1,corona,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A11SMG7AJLZX0V,1,corona,corona,Useful,C_39_U,16,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A11SMG7AJLZX0V,1,corona,corona,Useful,C_41_U,4,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A11SMG7AJLZX0V,1,corona,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A11SMG7AJLZX0V,1,corona,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+A11SMG7AJLZX0V,1,corona,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A11SMG7AJLZX0V,1,corona,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A11SMG7AJLZX0V,1,corona,general,Useful,NC_41_U,16,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A11SMG7AJLZX0V,1,corona,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A11SMG7AJLZX0V,1,corona,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A11SMG7AJLZX0V,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A11SMG7AJLZX0V,1,corona,third,Trivia,TB_01_TR,16,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A11SMG7AJLZX0V,1,corona,third,Trivia,TB_07_TR,4,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A11SMG7AJLZX0V,1,corona,third,Trivia,TB_18_TR,16,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

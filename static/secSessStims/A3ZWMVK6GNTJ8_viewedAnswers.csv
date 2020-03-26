@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3ZWMVK6GNTJ8,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A3ZWMVK6GNTJ8,1,corona,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+A3ZWMVK6GNTJ8,1,corona,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A3ZWMVK6GNTJ8,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A3ZWMVK6GNTJ8,1,corona,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A3ZWMVK6GNTJ8,1,corona,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A3ZWMVK6GNTJ8,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A3ZWMVK6GNTJ8,1,corona,corona,Useful,C_39_U,4,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A3ZWMVK6GNTJ8,1,corona,corona,Useful,C_49_U,16,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A3ZWMVK6GNTJ8,1,corona,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A3ZWMVK6GNTJ8,1,corona,general,Not useful,NC_09_NU,12,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A3ZWMVK6GNTJ8,1,corona,general,Not useful,NC_20_NU,8,Russia,Which country has the most public libraries?
+A3ZWMVK6GNTJ8,1,corona,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A3ZWMVK6GNTJ8,1,corona,general,Useful,NC_34_U,8,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A3ZWMVK6GNTJ8,1,corona,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3ZWMVK6GNTJ8,1,corona,general,Useful,NC_37_U,16,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A3ZWMVK6GNTJ8,1,corona,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3ZWMVK6GNTJ8,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3ZWMVK6GNTJ8,1,corona,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A3ZWMVK6GNTJ8,1,corona,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A3ZWMVK6GNTJ8,1,corona,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?
+A3ZWMVK6GNTJ8,1,corona,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A3ZWMVK6GNTJ8,1,corona,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3ZWMVK6GNTJ8,1,corona,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A3ZWMVK6GNTJ8,1,corona,third,Trivia,TB_16_TR,4,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

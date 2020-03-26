@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A13DKPCP0O48WN,1,general,corona,Not useful,C_01_NU,12,"Animals, probably bats",What is the source of coronavirus in humans?
+A13DKPCP0O48WN,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A13DKPCP0O48WN,1,general,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A13DKPCP0O48WN,1,general,corona,Not useful,C_15_NU,12,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A13DKPCP0O48WN,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A13DKPCP0O48WN,1,general,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A13DKPCP0O48WN,1,general,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A13DKPCP0O48WN,1,general,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A13DKPCP0O48WN,1,general,third,Trivia,TB_15_TR,16,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?

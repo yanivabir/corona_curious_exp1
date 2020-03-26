@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AN9MVFWRCF2OP,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+AN9MVFWRCF2OP,1,general,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+AN9MVFWRCF2OP,1,general,corona,Not useful,C_05_NU,12,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+AN9MVFWRCF2OP,1,general,corona,Not useful,C_06_NU,12,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+AN9MVFWRCF2OP,1,general,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+AN9MVFWRCF2OP,1,general,corona,Useful,C_36_U,16,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+AN9MVFWRCF2OP,1,general,corona,Useful,C_44_U,4,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+AN9MVFWRCF2OP,1,general,general,Not useful,NC_01_NU,12,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+AN9MVFWRCF2OP,1,general,general,Not useful,NC_02_NU,4,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+AN9MVFWRCF2OP,1,general,general,Not useful,NC_13_NU,4,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+AN9MVFWRCF2OP,1,general,general,Not useful,NC_18_NU,16,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+AN9MVFWRCF2OP,1,general,general,Not useful,NC_19_NU,16,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AN9MVFWRCF2OP,1,general,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+AN9MVFWRCF2OP,1,general,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+AN9MVFWRCF2OP,1,general,general,Useful,NC_40_U,12,Squint your eyes,How do you make your smile look more genuine in photographs?
+AN9MVFWRCF2OP,1,general,general,Useful,NC_47_U,4,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+AN9MVFWRCF2OP,1,general,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+AN9MVFWRCF2OP,1,general,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+AN9MVFWRCF2OP,1,general,third,MTurk,TB_31_MT,16,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+AN9MVFWRCF2OP,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+AN9MVFWRCF2OP,1,general,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+AN9MVFWRCF2OP,1,general,third,Trivia,TB_04_TR,4,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+AN9MVFWRCF2OP,1,general,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AN9MVFWRCF2OP,1,general,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?

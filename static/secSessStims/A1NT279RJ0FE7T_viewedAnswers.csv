@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1NT279RJ0FE7T,1,general,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A1NT279RJ0FE7T,1,general,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1NT279RJ0FE7T,1,general,corona,Not useful,C_15_NU,12,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1NT279RJ0FE7T,1,general,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1NT279RJ0FE7T,1,general,corona,Useful,C_29_U,8,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A1NT279RJ0FE7T,1,general,general,Not useful,NC_03_NU,16,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A1NT279RJ0FE7T,1,general,general,Not useful,NC_08_NU,12,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A1NT279RJ0FE7T,1,general,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A1NT279RJ0FE7T,1,general,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+A1NT279RJ0FE7T,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1NT279RJ0FE7T,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1NT279RJ0FE7T,1,general,general,Useful,NC_41_U,16,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1NT279RJ0FE7T,1,general,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1NT279RJ0FE7T,1,general,third,MTurk,TB_33_MT,12,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1NT279RJ0FE7T,1,general,third,MTurk,TB_44_MT,12,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A1NT279RJ0FE7T,1,general,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A1NT279RJ0FE7T,1,general,third,Trivia,TB_03_TR,12,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A1NT279RJ0FE7T,1,general,third,Trivia,TB_12_TR,4,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"

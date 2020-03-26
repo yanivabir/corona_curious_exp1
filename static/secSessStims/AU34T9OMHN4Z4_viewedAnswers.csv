@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AU34T9OMHN4Z4,1,corona,corona,Not useful,C_14_NU,16,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+AU34T9OMHN4Z4,1,corona,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+AU34T9OMHN4Z4,1,corona,corona,Not useful,C_21_NU,16,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+AU34T9OMHN4Z4,1,corona,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+AU34T9OMHN4Z4,1,corona,corona,Useful,C_29_U,8,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AU34T9OMHN4Z4,1,corona,corona,Useful,C_35_U,12,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+AU34T9OMHN4Z4,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+AU34T9OMHN4Z4,1,corona,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+AU34T9OMHN4Z4,1,corona,general,Not useful,NC_13_NU,12,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+AU34T9OMHN4Z4,1,corona,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+AU34T9OMHN4Z4,1,corona,general,Not useful,NC_21_NU,4,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+AU34T9OMHN4Z4,1,corona,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+AU34T9OMHN4Z4,1,corona,general,Useful,NC_41_U,12,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+AU34T9OMHN4Z4,1,corona,general,Useful,NC_48_U,12,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+AU34T9OMHN4Z4,1,corona,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+AU34T9OMHN4Z4,1,corona,third,MTurk,TB_29_MT,12,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+AU34T9OMHN4Z4,1,corona,third,MTurk,TB_32_MT,12,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+AU34T9OMHN4Z4,1,corona,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AU34T9OMHN4Z4,1,corona,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+AU34T9OMHN4Z4,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+AU34T9OMHN4Z4,1,corona,third,Trivia,TB_19_TR,16,Ketchup,The only vegetable ice cream ever produced was what flavor?

@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3G5IPGLH1IIZN,1,corona,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3G5IPGLH1IIZN,1,corona,corona,Not useful,C_20_NU,8,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A3G5IPGLH1IIZN,1,corona,corona,Useful,C_32_U,16,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A3G5IPGLH1IIZN,1,corona,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A3G5IPGLH1IIZN,1,corona,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A3G5IPGLH1IIZN,1,corona,general,Not useful,NC_11_NU,12,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A3G5IPGLH1IIZN,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A3G5IPGLH1IIZN,1,corona,general,Not useful,NC_21_NU,8,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A3G5IPGLH1IIZN,1,corona,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3G5IPGLH1IIZN,1,corona,general,Useful,NC_41_U,4,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A3G5IPGLH1IIZN,1,corona,general,Useful,NC_51_U,12,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A3G5IPGLH1IIZN,1,corona,third,MTurk,TB_31_MT,12,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A3G5IPGLH1IIZN,1,corona,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A3G5IPGLH1IIZN,1,corona,third,Trivia,TB_09_TR,8,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A3G5IPGLH1IIZN,1,corona,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A3G5IPGLH1IIZN,1,corona,third,Trivia,TB_17_TR,12,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A3G5IPGLH1IIZN,1,corona,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?

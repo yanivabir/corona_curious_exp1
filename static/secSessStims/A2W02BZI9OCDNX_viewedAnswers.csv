@@ -1,0 +1,7 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2W02BZI9OCDNX,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A2W02BZI9OCDNX,1,corona,corona,Useful,C_48_U,8,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A2W02BZI9OCDNX,1,corona,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2W02BZI9OCDNX,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2W02BZI9OCDNX,1,corona,third,MTurk,TB_45_MT,16,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A2W02BZI9OCDNX,1,corona,third,Trivia,TB_21_TR,8,New York,Which state has the zip code 12345?

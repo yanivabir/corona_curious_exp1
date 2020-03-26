@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1WH2SKWIQCAEL,1,corona,corona,Not useful,C_23_NU,16,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A1WH2SKWIQCAEL,1,corona,corona,Useful,C_31_U,16,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A1WH2SKWIQCAEL,1,corona,corona,Useful,C_48_U,12,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A1WH2SKWIQCAEL,1,corona,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1WH2SKWIQCAEL,1,corona,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A1WH2SKWIQCAEL,1,corona,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A1WH2SKWIQCAEL,1,corona,general,Not useful,NC_07_NU,12,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A1WH2SKWIQCAEL,1,corona,general,Not useful,NC_16_NU,12,Newborns,The apgar score is used to measure the color and condition of what?
+A1WH2SKWIQCAEL,1,corona,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1WH2SKWIQCAEL,1,corona,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1WH2SKWIQCAEL,1,corona,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1WH2SKWIQCAEL,1,corona,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A1WH2SKWIQCAEL,1,corona,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1WH2SKWIQCAEL,1,corona,third,MTurk,TB_42_MT,12,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1WH2SKWIQCAEL,1,corona,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1WH2SKWIQCAEL,1,corona,third,Trivia,TB_14_TR,16,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A1WH2SKWIQCAEL,1,corona,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?

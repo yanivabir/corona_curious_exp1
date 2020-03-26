@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1IWRYUOVXAB0Z,1,general,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1IWRYUOVXAB0Z,1,general,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A1IWRYUOVXAB0Z,1,general,corona,Useful,C_28_U,16,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A1IWRYUOVXAB0Z,1,general,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+A1IWRYUOVXAB0Z,1,general,general,Not useful,NC_07_NU,12,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A1IWRYUOVXAB0Z,1,general,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1IWRYUOVXAB0Z,1,general,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A1IWRYUOVXAB0Z,1,general,general,Not useful,NC_15_NU,8,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A1IWRYUOVXAB0Z,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A1IWRYUOVXAB0Z,1,general,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A1IWRYUOVXAB0Z,1,general,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1IWRYUOVXAB0Z,1,general,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A1IWRYUOVXAB0Z,1,general,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1IWRYUOVXAB0Z,1,general,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A1IWRYUOVXAB0Z,1,general,third,MTurk,TB_28_MT,16,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1IWRYUOVXAB0Z,1,general,third,MTurk,TB_32_MT,4,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A1IWRYUOVXAB0Z,1,general,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A1IWRYUOVXAB0Z,1,general,third,Trivia,TB_11_TR,12,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A1IWRYUOVXAB0Z,1,general,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1IWRYUOVXAB0Z,1,general,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?

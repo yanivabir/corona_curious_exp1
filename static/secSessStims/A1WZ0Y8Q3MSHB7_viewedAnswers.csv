@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1WZ0Y8Q3MSHB7,1,corona,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+A1WZ0Y8Q3MSHB7,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1WZ0Y8Q3MSHB7,1,corona,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A1WZ0Y8Q3MSHB7,1,corona,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1WZ0Y8Q3MSHB7,1,corona,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1WZ0Y8Q3MSHB7,1,corona,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1WZ0Y8Q3MSHB7,1,corona,general,Not useful,NC_07_NU,8,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A1WZ0Y8Q3MSHB7,1,corona,general,Not useful,NC_26_NU,16,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1WZ0Y8Q3MSHB7,1,corona,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1WZ0Y8Q3MSHB7,1,corona,general,Useful,NC_31_U,8,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1WZ0Y8Q3MSHB7,1,corona,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1WZ0Y8Q3MSHB7,1,corona,general,Useful,NC_41_U,12,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1WZ0Y8Q3MSHB7,1,corona,general,Useful,NC_49_U,12,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1WZ0Y8Q3MSHB7,1,corona,third,MTurk,TB_27_MT,12,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A1WZ0Y8Q3MSHB7,1,corona,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1WZ0Y8Q3MSHB7,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1WZ0Y8Q3MSHB7,1,corona,third,MTurk,TB_39_MT,12,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1WZ0Y8Q3MSHB7,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A1WZ0Y8Q3MSHB7,1,corona,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1WZ0Y8Q3MSHB7,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1WNYQE4T2UDLH,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1WNYQE4T2UDLH,1,corona,corona,Not useful,C_22_NU,12,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1WNYQE4T2UDLH,1,corona,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A1WNYQE4T2UDLH,1,corona,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1WNYQE4T2UDLH,1,corona,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A1WNYQE4T2UDLH,1,corona,corona,Useful,C_45_U,8,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1WNYQE4T2UDLH,1,corona,general,Not useful,NC_02_NU,16,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A1WNYQE4T2UDLH,1,corona,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1WNYQE4T2UDLH,1,corona,general,Not useful,NC_18_NU,16,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1WNYQE4T2UDLH,1,corona,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1WNYQE4T2UDLH,1,corona,general,Useful,NC_35_U,8,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A1WNYQE4T2UDLH,1,corona,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1WNYQE4T2UDLH,1,corona,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A1WNYQE4T2UDLH,1,corona,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A1WNYQE4T2UDLH,1,corona,third,MTurk,TB_42_MT,16,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1WNYQE4T2UDLH,1,corona,third,Trivia,TB_14_TR,16,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A1WNYQE4T2UDLH,1,corona,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?

@@ -1,0 +1,11 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A15JP58AY9SVBF,1,corona,corona,Not useful,C_11_NU,8,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A15JP58AY9SVBF,1,corona,corona,Useful,C_35_U,8,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A15JP58AY9SVBF,1,corona,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A15JP58AY9SVBF,1,corona,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A15JP58AY9SVBF,1,corona,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A15JP58AY9SVBF,1,corona,general,Not useful,NC_22_NU,16,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A15JP58AY9SVBF,1,corona,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A15JP58AY9SVBF,1,corona,third,MTurk,TB_42_MT,16,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A15JP58AY9SVBF,1,corona,third,MTurk,TB_46_MT,8,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A15JP58AY9SVBF,1,corona,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?

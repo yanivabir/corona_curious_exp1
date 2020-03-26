@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3EUGO4VR2N4G1,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A3EUGO4VR2N4G1,1,corona,corona,Not useful,C_18_NU,12,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A3EUGO4VR2N4G1,1,corona,corona,Not useful,C_19_NU,4,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3EUGO4VR2N4G1,1,corona,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A3EUGO4VR2N4G1,1,corona,corona,Useful,C_27_U,12,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A3EUGO4VR2N4G1,1,corona,corona,Useful,C_32_U,16,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A3EUGO4VR2N4G1,1,corona,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A3EUGO4VR2N4G1,1,corona,corona,Useful,C_42_U,16,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A3EUGO4VR2N4G1,1,corona,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A3EUGO4VR2N4G1,1,corona,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A3EUGO4VR2N4G1,1,corona,general,Useful,NC_28_U,12,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A3EUGO4VR2N4G1,1,corona,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A3EUGO4VR2N4G1,1,corona,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A3EUGO4VR2N4G1,1,corona,general,Useful,NC_43_U,16,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A3EUGO4VR2N4G1,1,corona,third,MTurk,TB_26_MT,8,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A3EUGO4VR2N4G1,1,corona,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A3EUGO4VR2N4G1,1,corona,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A3EUGO4VR2N4G1,1,corona,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A3EUGO4VR2N4G1,1,corona,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

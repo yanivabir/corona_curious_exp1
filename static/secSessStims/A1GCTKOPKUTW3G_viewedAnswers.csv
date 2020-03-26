@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1GCTKOPKUTW3G,1,general,corona,Not useful,C_10_NU,12,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A1GCTKOPKUTW3G,1,general,corona,Not useful,C_19_NU,12,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A1GCTKOPKUTW3G,1,general,corona,Not useful,C_23_NU,8,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A1GCTKOPKUTW3G,1,general,corona,Useful,C_29_U,16,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A1GCTKOPKUTW3G,1,general,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A1GCTKOPKUTW3G,1,general,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1GCTKOPKUTW3G,1,general,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A1GCTKOPKUTW3G,1,general,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1GCTKOPKUTW3G,1,general,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1GCTKOPKUTW3G,1,general,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1GCTKOPKUTW3G,1,general,general,Not useful,NC_26_NU,8,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1GCTKOPKUTW3G,1,general,general,Useful,NC_35_U,12,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A1GCTKOPKUTW3G,1,general,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1GCTKOPKUTW3G,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1GCTKOPKUTW3G,1,general,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A1GCTKOPKUTW3G,1,general,third,MTurk,TB_27_MT,4,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A1GCTKOPKUTW3G,1,general,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1GCTKOPKUTW3G,1,general,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1GCTKOPKUTW3G,1,general,third,MTurk,TB_32_MT,4,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A1GCTKOPKUTW3G,1,general,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1GCTKOPKUTW3G,1,general,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A1GCTKOPKUTW3G,1,general,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1GCTKOPKUTW3G,1,general,third,Trivia,TB_13_TR,16,Java,On what namesake Asian island are the first Homo erectus fossils found?
