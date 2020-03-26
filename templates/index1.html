@@ -59,8 +59,6 @@
 						<br>
 						<input type="checkbox" id="sess_checkbox" /> I know that this is a multi-session experiment, and I am willing to take part in two sessions, one week apart.
 						<br>
-						<input type="checkbox" id="hours_checkbox"/> I know I can start a session only between 8AM and 8PM ET.
-						<br>
 						<input type="checkbox" id="age_checkbox" /> I am over 18 years old.
 					</p>
 					<div class="alert alert-warning">
@@ -101,12 +99,11 @@
 				var safari = navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1;
 				var age = document.getElementById('age_checkbox');
 				var sess = document.getElementById('sess_checkbox');
-				var hours = document.getElementById('hours_checkbox');
 				var otherWin = document.getElementById('close_windows_checkbox')
 				var quiet = document.getElementById('quiet_checkbox')
 				var glasses = document.getElementsByName('glasses')[0].checked || document.getElementsByName('glasses')[1].checked
 				if (!safari) {
-					if (sess.checked && hours.checked && age.checked && otherWin.checked && quiet.checked && glasses) {
+					if (sess.checked && age.checked && otherWin.checked && quiet.checked && glasses) {
 						popup = window.open('/templates/consent.html' + window.location.search, 'Popup', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=' + 1024 + ',height=' +
 							768 + '');
 					} else {
