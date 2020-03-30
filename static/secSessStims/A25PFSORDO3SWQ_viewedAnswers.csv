@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A25PFSORDO3SWQ,1,general,corona,Not useful,C_05_NU,8,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A25PFSORDO3SWQ,1,general,corona,Not useful,C_07_NU,8,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A25PFSORDO3SWQ,1,general,corona,Not useful,C_12_NU,4,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A25PFSORDO3SWQ,1,general,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A25PFSORDO3SWQ,1,general,corona,Not useful,C_19_NU,4,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A25PFSORDO3SWQ,1,general,corona,Useful,C_38_U,16,People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,"Does the new coronavirus affect older people, or are younger people also susceptible?"
+A25PFSORDO3SWQ,1,general,corona,Useful,C_43_U,12,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+A25PFSORDO3SWQ,1,general,general,Not useful,NC_02_NU,16,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A25PFSORDO3SWQ,1,general,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A25PFSORDO3SWQ,1,general,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A25PFSORDO3SWQ,1,general,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A25PFSORDO3SWQ,1,general,general,Useful,NC_37_U,16,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A25PFSORDO3SWQ,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A25PFSORDO3SWQ,1,general,general,Useful,NC_45_U,12,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A25PFSORDO3SWQ,1,general,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A25PFSORDO3SWQ,1,general,third,MTurk,TB_32_MT,16,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A25PFSORDO3SWQ,1,general,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A25PFSORDO3SWQ,1,general,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A25PFSORDO3SWQ,1,general,third,Trivia,TB_13_TR,8,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A25PFSORDO3SWQ,1,general,third,Trivia,TB_15_TR,16,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?

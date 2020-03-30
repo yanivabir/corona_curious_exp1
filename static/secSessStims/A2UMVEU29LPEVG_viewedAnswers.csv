@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2UMVEU29LPEVG,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A2UMVEU29LPEVG,1,corona,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A2UMVEU29LPEVG,1,corona,corona,Not useful,C_10_NU,8,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A2UMVEU29LPEVG,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A2UMVEU29LPEVG,1,corona,corona,Not useful,C_17_NU,8,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2UMVEU29LPEVG,1,corona,corona,Useful,C_35_U,16,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A2UMVEU29LPEVG,1,corona,corona,Useful,C_38_U,4,People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,"Does the new coronavirus affect older people, or are younger people also susceptible?"
+A2UMVEU29LPEVG,1,corona,corona,Useful,C_41_U,4,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A2UMVEU29LPEVG,1,corona,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A2UMVEU29LPEVG,1,corona,general,Not useful,NC_20_NU,12,Russia,Which country has the most public libraries?
+A2UMVEU29LPEVG,1,corona,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A2UMVEU29LPEVG,1,corona,general,Useful,NC_34_U,12,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A2UMVEU29LPEVG,1,corona,general,Useful,NC_47_U,12,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A2UMVEU29LPEVG,1,corona,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A2UMVEU29LPEVG,1,corona,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A2UMVEU29LPEVG,1,corona,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A2UMVEU29LPEVG,1,corona,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2UMVEU29LPEVG,1,corona,third,MTurk,TB_32_MT,4,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A2UMVEU29LPEVG,1,corona,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2UMVEU29LPEVG,1,corona,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A2UMVEU29LPEVG,1,corona,third,Trivia,TB_04_TR,12,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A2UMVEU29LPEVG,1,corona,third,Trivia,TB_07_TR,12,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A2UMVEU29LPEVG,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?
+A2UMVEU29LPEVG,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A230VUDYOCRZ4N,1,general,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A230VUDYOCRZ4N,1,general,corona,Not useful,C_15_NU,8,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A230VUDYOCRZ4N,1,general,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A230VUDYOCRZ4N,1,general,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A230VUDYOCRZ4N,1,general,corona,Useful,C_40_U,16,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A230VUDYOCRZ4N,1,general,general,Not useful,NC_16_NU,8,Newborns,The apgar score is used to measure the color and condition of what?
+A230VUDYOCRZ4N,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A230VUDYOCRZ4N,1,general,general,Useful,NC_31_U,4,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A230VUDYOCRZ4N,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A230VUDYOCRZ4N,1,general,general,Useful,NC_46_U,16,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A230VUDYOCRZ4N,1,general,general,Useful,NC_47_U,8,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A230VUDYOCRZ4N,1,general,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A230VUDYOCRZ4N,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A230VUDYOCRZ4N,1,general,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A230VUDYOCRZ4N,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A230VUDYOCRZ4N,1,general,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A230VUDYOCRZ4N,1,general,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?
+A230VUDYOCRZ4N,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

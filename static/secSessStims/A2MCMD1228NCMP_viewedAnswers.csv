@@ -1,0 +1,3 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2MCMD1228NCMP,1,corona,corona,Not useful,C_04_NU,8,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A2MCMD1228NCMP,1,corona,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?

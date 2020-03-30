@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AD66HP7KFSKJG,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+AD66HP7KFSKJG,1,corona,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+AD66HP7KFSKJG,1,corona,corona,Not useful,C_26_NU,8,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+AD66HP7KFSKJG,1,corona,corona,Useful,C_29_U,8,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AD66HP7KFSKJG,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+AD66HP7KFSKJG,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+AD66HP7KFSKJG,1,corona,corona,Useful,C_46_U,4,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+AD66HP7KFSKJG,1,corona,general,Not useful,NC_12_NU,12,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+AD66HP7KFSKJG,1,corona,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AD66HP7KFSKJG,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+AD66HP7KFSKJG,1,corona,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+AD66HP7KFSKJG,1,corona,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+AD66HP7KFSKJG,1,corona,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+AD66HP7KFSKJG,1,corona,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+AD66HP7KFSKJG,1,corona,third,MTurk,TB_26_MT,12,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+AD66HP7KFSKJG,1,corona,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+AD66HP7KFSKJG,1,corona,third,MTurk,TB_42_MT,12,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+AD66HP7KFSKJG,1,corona,third,Trivia,TB_11_TR,4,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AD66HP7KFSKJG,1,corona,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?

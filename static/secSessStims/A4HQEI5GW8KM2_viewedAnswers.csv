@@ -1,0 +1,13 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A4HQEI5GW8KM2,1,general,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A4HQEI5GW8KM2,1,general,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A4HQEI5GW8KM2,1,general,corona,Useful,C_39_U,8,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A4HQEI5GW8KM2,1,general,general,Not useful,NC_05_NU,4,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A4HQEI5GW8KM2,1,general,general,Not useful,NC_10_NU,12,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A4HQEI5GW8KM2,1,general,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A4HQEI5GW8KM2,1,general,general,Useful,NC_31_U,16,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A4HQEI5GW8KM2,1,general,general,Useful,NC_33_U,8,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A4HQEI5GW8KM2,1,general,third,MTurk,TB_36_MT,4,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A4HQEI5GW8KM2,1,general,third,Trivia,TB_01_TR,4,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A4HQEI5GW8KM2,1,general,third,Trivia,TB_13_TR,16,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A4HQEI5GW8KM2,1,general,third,Trivia,TB_20_TR,12,Rafflesia (corpse lily),What is the largest flower in the world?

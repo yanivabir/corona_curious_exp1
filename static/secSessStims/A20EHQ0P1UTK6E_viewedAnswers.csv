@@ -1,0 +1,27 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A20EHQ0P1UTK6E,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A20EHQ0P1UTK6E,1,general,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A20EHQ0P1UTK6E,1,general,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A20EHQ0P1UTK6E,1,general,corona,Not useful,C_17_NU,8,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A20EHQ0P1UTK6E,1,general,corona,Not useful,C_25_NU,8,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A20EHQ0P1UTK6E,1,general,corona,Useful,C_39_U,8,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A20EHQ0P1UTK6E,1,general,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A20EHQ0P1UTK6E,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A20EHQ0P1UTK6E,1,general,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+A20EHQ0P1UTK6E,1,general,general,Not useful,NC_21_NU,4,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A20EHQ0P1UTK6E,1,general,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A20EHQ0P1UTK6E,1,general,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A20EHQ0P1UTK6E,1,general,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A20EHQ0P1UTK6E,1,general,general,Useful,NC_39_U,4,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A20EHQ0P1UTK6E,1,general,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A20EHQ0P1UTK6E,1,general,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A20EHQ0P1UTK6E,1,general,general,Useful,NC_48_U,8,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+A20EHQ0P1UTK6E,1,general,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A20EHQ0P1UTK6E,1,general,third,MTurk,TB_30_MT,4,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A20EHQ0P1UTK6E,1,general,third,MTurk,TB_35_MT,8,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A20EHQ0P1UTK6E,1,general,third,MTurk,TB_41_MT,4,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A20EHQ0P1UTK6E,1,general,third,MTurk,TB_45_MT,4,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A20EHQ0P1UTK6E,1,general,third,Trivia,TB_01_TR,8,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A20EHQ0P1UTK6E,1,general,third,Trivia,TB_06_TR,8,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A20EHQ0P1UTK6E,1,general,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A20EHQ0P1UTK6E,1,general,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?

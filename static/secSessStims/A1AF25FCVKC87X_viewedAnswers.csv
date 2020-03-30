@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1AF25FCVKC87X,1,corona,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+A1AF25FCVKC87X,1,corona,corona,Not useful,C_08_NU,12,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A1AF25FCVKC87X,1,corona,corona,Not useful,C_14_NU,8,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A1AF25FCVKC87X,1,corona,corona,Not useful,C_15_NU,8,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1AF25FCVKC87X,1,corona,corona,Not useful,C_19_NU,4,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A1AF25FCVKC87X,1,corona,corona,Useful,C_45_U,8,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1AF25FCVKC87X,1,corona,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1AF25FCVKC87X,1,corona,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1AF25FCVKC87X,1,corona,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1AF25FCVKC87X,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1AF25FCVKC87X,1,corona,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1AF25FCVKC87X,1,corona,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1AF25FCVKC87X,1,corona,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1AF25FCVKC87X,1,corona,third,MTurk,TB_35_MT,8,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A1AF25FCVKC87X,1,corona,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1AF25FCVKC87X,1,corona,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?
+A1AF25FCVKC87X,1,corona,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ARHBT4K14I7U,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+ARHBT4K14I7U,1,corona,corona,Not useful,C_12_NU,4,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+ARHBT4K14I7U,1,corona,corona,Not useful,C_17_NU,16,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+ARHBT4K14I7U,1,corona,corona,Useful,C_31_U,12,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+ARHBT4K14I7U,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+ARHBT4K14I7U,1,corona,corona,Useful,C_51_U,16,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+ARHBT4K14I7U,1,corona,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+ARHBT4K14I7U,1,corona,general,Not useful,NC_20_NU,12,Russia,Which country has the most public libraries?
+ARHBT4K14I7U,1,corona,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+ARHBT4K14I7U,1,corona,general,Useful,NC_37_U,4,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+ARHBT4K14I7U,1,corona,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+ARHBT4K14I7U,1,corona,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+ARHBT4K14I7U,1,corona,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+ARHBT4K14I7U,1,corona,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+ARHBT4K14I7U,1,corona,third,Trivia,TB_21_TR,8,New York,Which state has the zip code 12345?
+ARHBT4K14I7U,1,corona,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

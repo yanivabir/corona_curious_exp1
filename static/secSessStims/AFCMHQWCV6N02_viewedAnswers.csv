@@ -1,0 +1,5 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AFCMHQWCV6N02,1,corona,corona,Useful,C_29_U,16,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AFCMHQWCV6N02,1,corona,corona,Useful,C_48_U,4,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+AFCMHQWCV6N02,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+AFCMHQWCV6N02,1,corona,general,Useful,NC_41_U,12,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 

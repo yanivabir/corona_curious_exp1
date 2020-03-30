@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1CTUG0RUGCY48,1,corona,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+A1CTUG0RUGCY48,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A1CTUG0RUGCY48,1,corona,corona,Not useful,C_20_NU,12,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A1CTUG0RUGCY48,1,corona,corona,Useful,C_27_U,12,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A1CTUG0RUGCY48,1,corona,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A1CTUG0RUGCY48,1,corona,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A1CTUG0RUGCY48,1,corona,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1CTUG0RUGCY48,1,corona,general,Not useful,NC_13_NU,12,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1CTUG0RUGCY48,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A1CTUG0RUGCY48,1,corona,general,Useful,NC_34_U,8,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1CTUG0RUGCY48,1,corona,general,Useful,NC_35_U,12,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A1CTUG0RUGCY48,1,corona,general,Useful,NC_39_U,16,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A1CTUG0RUGCY48,1,corona,general,Useful,NC_45_U,12,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1CTUG0RUGCY48,1,corona,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1CTUG0RUGCY48,1,corona,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1CTUG0RUGCY48,1,corona,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1CTUG0RUGCY48,1,corona,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A1CTUG0RUGCY48,1,corona,third,MTurk,TB_43_MT,16,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1CTUG0RUGCY48,1,corona,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A1CTUG0RUGCY48,1,corona,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?
+A1CTUG0RUGCY48,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

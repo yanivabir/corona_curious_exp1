@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1EAIXWWNH7Q56,1,corona,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A1EAIXWWNH7Q56,1,corona,corona,Not useful,C_08_NU,8,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A1EAIXWWNH7Q56,1,corona,corona,Useful,C_36_U,4,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1EAIXWWNH7Q56,1,corona,corona,Useful,C_37_U,12,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A1EAIXWWNH7Q56,1,corona,general,Not useful,NC_21_NU,8,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1EAIXWWNH7Q56,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1EAIXWWNH7Q56,1,corona,general,Useful,NC_30_U,4,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1EAIXWWNH7Q56,1,corona,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1EAIXWWNH7Q56,1,corona,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A1EAIXWWNH7Q56,1,corona,general,Useful,NC_44_U,4,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1EAIXWWNH7Q56,1,corona,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1EAIXWWNH7Q56,1,corona,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A1EAIXWWNH7Q56,1,corona,third,MTurk,TB_38_MT,4,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A1EAIXWWNH7Q56,1,corona,third,MTurk,TB_43_MT,16,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1EAIXWWNH7Q56,1,corona,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?

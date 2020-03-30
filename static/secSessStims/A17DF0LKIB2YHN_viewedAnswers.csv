@@ -1,0 +1,12 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A17DF0LKIB2YHN,1,general,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A17DF0LKIB2YHN,1,general,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A17DF0LKIB2YHN,1,general,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A17DF0LKIB2YHN,1,general,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A17DF0LKIB2YHN,1,general,general,Not useful,NC_08_NU,16,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A17DF0LKIB2YHN,1,general,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A17DF0LKIB2YHN,1,general,general,Useful,NC_48_U,4,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+A17DF0LKIB2YHN,1,general,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A17DF0LKIB2YHN,1,general,third,MTurk,TB_37_MT,12,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A17DF0LKIB2YHN,1,general,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A17DF0LKIB2YHN,1,general,third,Trivia,TB_06_TR,16,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?

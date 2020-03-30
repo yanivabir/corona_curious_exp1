@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A26TP6KBY866VC,1,general,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+A26TP6KBY866VC,1,general,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A26TP6KBY866VC,1,general,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A26TP6KBY866VC,1,general,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A26TP6KBY866VC,1,general,corona,Useful,C_44_U,4,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A26TP6KBY866VC,1,general,corona,Useful,C_48_U,8,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A26TP6KBY866VC,1,general,general,Not useful,NC_12_NU,16,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A26TP6KBY866VC,1,general,general,Not useful,NC_15_NU,8,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A26TP6KBY866VC,1,general,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A26TP6KBY866VC,1,general,general,Useful,NC_37_U,12,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A26TP6KBY866VC,1,general,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A26TP6KBY866VC,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A26TP6KBY866VC,1,general,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A26TP6KBY866VC,1,general,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A26TP6KBY866VC,1,general,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A26TP6KBY866VC,1,general,third,MTurk,TB_27_MT,4,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A26TP6KBY866VC,1,general,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A26TP6KBY866VC,1,general,third,MTurk,TB_44_MT,12,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A26TP6KBY866VC,1,general,third,MTurk,TB_46_MT,16,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A26TP6KBY866VC,1,general,third,Trivia,TB_20_TR,16,Rafflesia (corpse lily),What is the largest flower in the world?

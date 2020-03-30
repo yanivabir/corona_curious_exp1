@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3C0NQ2IP5FTZQ,1,corona,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A3C0NQ2IP5FTZQ,1,corona,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A3C0NQ2IP5FTZQ,1,corona,corona,Useful,C_32_U,16,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A3C0NQ2IP5FTZQ,1,corona,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A3C0NQ2IP5FTZQ,1,corona,corona,Useful,C_49_U,16,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A3C0NQ2IP5FTZQ,1,corona,corona,Useful,C_52_U,12,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A3C0NQ2IP5FTZQ,1,corona,general,Not useful,NC_16_NU,16,Newborns,The apgar score is used to measure the color and condition of what?
+A3C0NQ2IP5FTZQ,1,corona,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3C0NQ2IP5FTZQ,1,corona,general,Useful,NC_30_U,8,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A3C0NQ2IP5FTZQ,1,corona,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A3C0NQ2IP5FTZQ,1,corona,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3C0NQ2IP5FTZQ,1,corona,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+A3C0NQ2IP5FTZQ,1,corona,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A3C0NQ2IP5FTZQ,1,corona,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A3C0NQ2IP5FTZQ,1,corona,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A3C0NQ2IP5FTZQ,1,corona,third,MTurk,TB_45_MT,12,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A3C0NQ2IP5FTZQ,1,corona,third,Trivia,TB_04_TR,8,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A3C0NQ2IP5FTZQ,1,corona,third,Trivia,TB_05_TR,16,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A3C0NQ2IP5FTZQ,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A3C0NQ2IP5FTZQ,1,corona,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A3C0NQ2IP5FTZQ,1,corona,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

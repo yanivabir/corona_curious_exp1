@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2ZA3X3DBEMBCD,1,corona,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A2ZA3X3DBEMBCD,1,corona,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2ZA3X3DBEMBCD,1,corona,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A2ZA3X3DBEMBCD,1,corona,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A2ZA3X3DBEMBCD,1,corona,corona,Useful,C_49_U,16,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A2ZA3X3DBEMBCD,1,corona,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A2ZA3X3DBEMBCD,1,corona,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2ZA3X3DBEMBCD,1,corona,general,Not useful,NC_20_NU,8,Russia,Which country has the most public libraries?
+A2ZA3X3DBEMBCD,1,corona,general,Useful,NC_29_U,16,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A2ZA3X3DBEMBCD,1,corona,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A2ZA3X3DBEMBCD,1,corona,general,Useful,NC_46_U,16,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A2ZA3X3DBEMBCD,1,corona,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A2ZA3X3DBEMBCD,1,corona,third,MTurk,TB_24_MT,4,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2ZA3X3DBEMBCD,1,corona,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2ZA3X3DBEMBCD,1,corona,third,MTurk,TB_38_MT,4,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A2ZA3X3DBEMBCD,1,corona,third,Trivia,TB_01_TR,16,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A2ZA3X3DBEMBCD,1,corona,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A2ZA3X3DBEMBCD,1,corona,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?
+A2ZA3X3DBEMBCD,1,corona,third,Trivia,TB_14_TR,8,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A2ZA3X3DBEMBCD,1,corona,third,Trivia,TB_17_TR,12,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

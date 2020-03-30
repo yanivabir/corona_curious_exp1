@@ -1,0 +1,14 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A6TSV1WPP3GG3,1,general,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A6TSV1WPP3GG3,1,general,corona,Not useful,C_10_NU,8,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A6TSV1WPP3GG3,1,general,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A6TSV1WPP3GG3,1,general,corona,Useful,C_29_U,8,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A6TSV1WPP3GG3,1,general,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A6TSV1WPP3GG3,1,general,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A6TSV1WPP3GG3,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A6TSV1WPP3GG3,1,general,general,Useful,NC_31_U,4,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A6TSV1WPP3GG3,1,general,third,MTurk,TB_24_MT,4,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A6TSV1WPP3GG3,1,general,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A6TSV1WPP3GG3,1,general,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A6TSV1WPP3GG3,1,general,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A6TSV1WPP3GG3,1,general,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?

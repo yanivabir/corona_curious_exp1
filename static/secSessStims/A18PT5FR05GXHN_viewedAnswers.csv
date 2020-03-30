@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A18PT5FR05GXHN,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A18PT5FR05GXHN,1,general,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A18PT5FR05GXHN,1,general,corona,Not useful,C_14_NU,16,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A18PT5FR05GXHN,1,general,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A18PT5FR05GXHN,1,general,corona,Useful,C_37_U,12,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A18PT5FR05GXHN,1,general,corona,Useful,C_41_U,16,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A18PT5FR05GXHN,1,general,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A18PT5FR05GXHN,1,general,general,Not useful,NC_03_NU,8,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A18PT5FR05GXHN,1,general,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A18PT5FR05GXHN,1,general,general,Not useful,NC_20_NU,12,Russia,Which country has the most public libraries?
+A18PT5FR05GXHN,1,general,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A18PT5FR05GXHN,1,general,general,Useful,NC_42_U,12,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A18PT5FR05GXHN,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A18PT5FR05GXHN,1,general,general,Useful,NC_45_U,12,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A18PT5FR05GXHN,1,general,general,Useful,NC_49_U,4,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A18PT5FR05GXHN,1,general,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A18PT5FR05GXHN,1,general,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A18PT5FR05GXHN,1,general,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A18PT5FR05GXHN,1,general,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A18PT5FR05GXHN,1,general,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A18PT5FR05GXHN,1,general,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A18PT5FR05GXHN,1,general,third,Trivia,TB_20_TR,12,Rafflesia (corpse lily),What is the largest flower in the world?

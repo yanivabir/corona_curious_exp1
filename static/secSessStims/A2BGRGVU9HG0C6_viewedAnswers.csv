@@ -1,0 +1,9 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2BGRGVU9HG0C6,1,corona,corona,Useful,C_39_U,12,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A2BGRGVU9HG0C6,1,corona,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+A2BGRGVU9HG0C6,1,corona,general,Useful,NC_28_U,4,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A2BGRGVU9HG0C6,1,corona,general,Useful,NC_44_U,4,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2BGRGVU9HG0C6,1,corona,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A2BGRGVU9HG0C6,1,corona,general,Useful,NC_47_U,4,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A2BGRGVU9HG0C6,1,corona,third,MTurk,TB_46_MT,12,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A2BGRGVU9HG0C6,1,corona,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

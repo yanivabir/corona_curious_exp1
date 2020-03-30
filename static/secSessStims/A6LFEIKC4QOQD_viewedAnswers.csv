@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A6LFEIKC4QOQD,1,general,corona,Not useful,C_04_NU,12,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A6LFEIKC4QOQD,1,general,corona,Not useful,C_05_NU,12,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A6LFEIKC4QOQD,1,general,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A6LFEIKC4QOQD,1,general,corona,Useful,C_36_U,12,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A6LFEIKC4QOQD,1,general,corona,Useful,C_42_U,8,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A6LFEIKC4QOQD,1,general,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A6LFEIKC4QOQD,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A6LFEIKC4QOQD,1,general,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A6LFEIKC4QOQD,1,general,general,Not useful,NC_10_NU,16,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A6LFEIKC4QOQD,1,general,general,Not useful,NC_16_NU,16,Newborns,The apgar score is used to measure the color and condition of what?
+A6LFEIKC4QOQD,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A6LFEIKC4QOQD,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A6LFEIKC4QOQD,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A6LFEIKC4QOQD,1,general,general,Useful,NC_45_U,16,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A6LFEIKC4QOQD,1,general,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A6LFEIKC4QOQD,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A6LFEIKC4QOQD,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A6LFEIKC4QOQD,1,general,third,MTurk,TB_44_MT,12,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A6LFEIKC4QOQD,1,general,third,MTurk,TB_45_MT,16,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A6LFEIKC4QOQD,1,general,third,Trivia,TB_05_TR,16,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A6LFEIKC4QOQD,1,general,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?
+A6LFEIKC4QOQD,1,general,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

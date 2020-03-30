@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3EKKEZ21SGJEC,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A3EKKEZ21SGJEC,1,corona,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A3EKKEZ21SGJEC,1,corona,corona,Not useful,C_13_NU,8,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A3EKKEZ21SGJEC,1,corona,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A3EKKEZ21SGJEC,1,corona,corona,Useful,C_27_U,4,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A3EKKEZ21SGJEC,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A3EKKEZ21SGJEC,1,corona,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A3EKKEZ21SGJEC,1,corona,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A3EKKEZ21SGJEC,1,corona,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A3EKKEZ21SGJEC,1,corona,general,Not useful,NC_03_NU,16,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A3EKKEZ21SGJEC,1,corona,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A3EKKEZ21SGJEC,1,corona,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A3EKKEZ21SGJEC,1,corona,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A3EKKEZ21SGJEC,1,corona,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A3EKKEZ21SGJEC,1,corona,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A3EKKEZ21SGJEC,1,corona,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A3EKKEZ21SGJEC,1,corona,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A3EKKEZ21SGJEC,1,corona,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A3EKKEZ21SGJEC,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3EKKEZ21SGJEC,1,corona,third,MTurk,TB_38_MT,8,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A3EKKEZ21SGJEC,1,corona,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A3EKKEZ21SGJEC,1,corona,third,Trivia,TB_08_TR,8,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A3EKKEZ21SGJEC,1,corona,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A3EKKEZ21SGJEC,1,corona,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

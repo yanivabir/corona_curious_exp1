@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AOSO1D81K0ET0,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+AOSO1D81K0ET0,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+AOSO1D81K0ET0,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+AOSO1D81K0ET0,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+AOSO1D81K0ET0,1,corona,corona,Not useful,C_24_NU,8,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+AOSO1D81K0ET0,1,corona,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AOSO1D81K0ET0,1,corona,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+AOSO1D81K0ET0,1,corona,general,Not useful,NC_17_NU,12,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+AOSO1D81K0ET0,1,corona,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+AOSO1D81K0ET0,1,corona,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+AOSO1D81K0ET0,1,corona,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+AOSO1D81K0ET0,1,corona,general,Useful,NC_45_U,16,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+AOSO1D81K0ET0,1,corona,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+AOSO1D81K0ET0,1,corona,third,MTurk,TB_41_MT,8,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+AOSO1D81K0ET0,1,corona,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+AOSO1D81K0ET0,1,corona,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+AOSO1D81K0ET0,1,corona,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

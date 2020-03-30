@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AD53HGLCK0UU1,1,general,corona,Not useful,C_21_NU,8,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+AD53HGLCK0UU1,1,general,corona,Useful,C_28_U,4,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+AD53HGLCK0UU1,1,general,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+AD53HGLCK0UU1,1,general,general,Useful,NC_34_U,12,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+AD53HGLCK0UU1,1,general,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+AD53HGLCK0UU1,1,general,general,Useful,NC_46_U,4,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+AD53HGLCK0UU1,1,general,third,MTurk,TB_41_MT,4,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+AD53HGLCK0UU1,1,general,third,Trivia,TB_09_TR,8,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+AD53HGLCK0UU1,1,general,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?

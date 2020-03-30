@@ -1,0 +1,5 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2DW9AYWPJKLEP,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A2DW9AYWPJKLEP,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A2DW9AYWPJKLEP,1,corona,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A2DW9AYWPJKLEP,1,corona,third,MTurk,TB_38_MT,8,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?

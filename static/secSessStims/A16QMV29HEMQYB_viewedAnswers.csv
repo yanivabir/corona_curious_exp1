@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A16QMV29HEMQYB,1,corona,corona,Not useful,C_11_NU,8,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A16QMV29HEMQYB,1,corona,corona,Useful,C_27_U,4,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A16QMV29HEMQYB,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A16QMV29HEMQYB,1,corona,corona,Useful,C_34_U,4,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A16QMV29HEMQYB,1,corona,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A16QMV29HEMQYB,1,corona,corona,Useful,C_52_U,4,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A16QMV29HEMQYB,1,corona,general,Not useful,NC_23_NU,8,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A16QMV29HEMQYB,1,corona,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A16QMV29HEMQYB,1,corona,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+A16QMV29HEMQYB,1,corona,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A16QMV29HEMQYB,1,corona,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A16QMV29HEMQYB,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A16QMV29HEMQYB,1,corona,third,MTurk,TB_37_MT,8,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A16QMV29HEMQYB,1,corona,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?

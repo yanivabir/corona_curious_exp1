@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2QW619H0PY3TF,1,general,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A2QW619H0PY3TF,1,general,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2QW619H0PY3TF,1,general,corona,Not useful,C_25_NU,8,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A2QW619H0PY3TF,1,general,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A2QW619H0PY3TF,1,general,corona,Useful,C_32_U,12,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A2QW619H0PY3TF,1,general,corona,Useful,C_37_U,8,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A2QW619H0PY3TF,1,general,corona,Useful,C_52_U,4,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A2QW619H0PY3TF,1,general,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A2QW619H0PY3TF,1,general,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A2QW619H0PY3TF,1,general,general,Not useful,NC_16_NU,12,Newborns,The apgar score is used to measure the color and condition of what?
+A2QW619H0PY3TF,1,general,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2QW619H0PY3TF,1,general,general,Useful,NC_33_U,8,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A2QW619H0PY3TF,1,general,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A2QW619H0PY3TF,1,general,general,Useful,NC_42_U,16,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A2QW619H0PY3TF,1,general,third,MTurk,TB_32_MT,4,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A2QW619H0PY3TF,1,general,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2QW619H0PY3TF,1,general,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2QW619H0PY3TF,1,general,third,MTurk,TB_40_MT,16,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A2QW619H0PY3TF,1,general,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A2QW619H0PY3TF,1,general,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A2QW619H0PY3TF,1,general,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

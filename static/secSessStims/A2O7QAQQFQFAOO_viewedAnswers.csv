@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2O7QAQQFQFAOO,1,corona,corona,Not useful,C_05_NU,16,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A2O7QAQQFQFAOO,1,corona,corona,Not useful,C_14_NU,8,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A2O7QAQQFQFAOO,1,corona,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2O7QAQQFQFAOO,1,corona,corona,Not useful,C_21_NU,8,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A2O7QAQQFQFAOO,1,corona,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A2O7QAQQFQFAOO,1,corona,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+A2O7QAQQFQFAOO,1,corona,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A2O7QAQQFQFAOO,1,corona,general,Not useful,NC_05_NU,12,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A2O7QAQQFQFAOO,1,corona,general,Not useful,NC_13_NU,12,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2O7QAQQFQFAOO,1,corona,general,Not useful,NC_17_NU,16,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A2O7QAQQFQFAOO,1,corona,general,Useful,NC_30_U,4,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2O7QAQQFQFAOO,1,corona,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A2O7QAQQFQFAOO,1,corona,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+A2O7QAQQFQFAOO,1,corona,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2O7QAQQFQFAOO,1,corona,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A2O7QAQQFQFAOO,1,corona,third,MTurk,TB_36_MT,4,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A2O7QAQQFQFAOO,1,corona,third,MTurk,TB_40_MT,8,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A2O7QAQQFQFAOO,1,corona,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A2O7QAQQFQFAOO,1,corona,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A2O7QAQQFQFAOO,1,corona,third,Trivia,TB_12_TR,4,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2O7QAQQFQFAOO,1,corona,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?

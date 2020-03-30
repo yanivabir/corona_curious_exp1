@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AUTYWXILTACCR,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+AUTYWXILTACCR,1,corona,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+AUTYWXILTACCR,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+AUTYWXILTACCR,1,corona,corona,Useful,C_31_U,16,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+AUTYWXILTACCR,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+AUTYWXILTACCR,1,corona,corona,Useful,C_52_U,12,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+AUTYWXILTACCR,1,corona,general,Not useful,NC_03_NU,4,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+AUTYWXILTACCR,1,corona,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+AUTYWXILTACCR,1,corona,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AUTYWXILTACCR,1,corona,general,Not useful,NC_20_NU,12,Russia,Which country has the most public libraries?
+AUTYWXILTACCR,1,corona,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+AUTYWXILTACCR,1,corona,general,Useful,NC_31_U,16,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+AUTYWXILTACCR,1,corona,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+AUTYWXILTACCR,1,corona,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+AUTYWXILTACCR,1,corona,third,MTurk,TB_31_MT,16,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+AUTYWXILTACCR,1,corona,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AUTYWXILTACCR,1,corona,third,MTurk,TB_37_MT,12,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+AUTYWXILTACCR,1,corona,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+AUTYWXILTACCR,1,corona,third,Trivia,TB_06_TR,8,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+AUTYWXILTACCR,1,corona,third,Trivia,TB_15_TR,16,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?

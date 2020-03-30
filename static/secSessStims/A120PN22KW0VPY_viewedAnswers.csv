@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A120PN22KW0VPY,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A120PN22KW0VPY,1,general,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A120PN22KW0VPY,1,general,corona,Not useful,C_09_NU,12,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A120PN22KW0VPY,1,general,corona,Useful,C_41_U,4,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A120PN22KW0VPY,1,general,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A120PN22KW0VPY,1,general,general,Not useful,NC_14_NU,8,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A120PN22KW0VPY,1,general,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A120PN22KW0VPY,1,general,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A120PN22KW0VPY,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A120PN22KW0VPY,1,general,general,Useful,NC_40_U,12,Squint your eyes,How do you make your smile look more genuine in photographs?
+A120PN22KW0VPY,1,general,general,Useful,NC_42_U,8,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A120PN22KW0VPY,1,general,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A120PN22KW0VPY,1,general,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A120PN22KW0VPY,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A120PN22KW0VPY,1,general,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A120PN22KW0VPY,1,general,third,Trivia,TB_01_TR,8,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A120PN22KW0VPY,1,general,third,Trivia,TB_11_TR,12,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A120PN22KW0VPY,1,general,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A20MWNCEZ6RAXV,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A20MWNCEZ6RAXV,1,corona,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A20MWNCEZ6RAXV,1,corona,corona,Not useful,C_20_NU,4,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A20MWNCEZ6RAXV,1,corona,corona,Not useful,C_21_NU,16,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A20MWNCEZ6RAXV,1,corona,corona,Not useful,C_24_NU,8,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A20MWNCEZ6RAXV,1,corona,corona,Useful,C_27_U,8,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A20MWNCEZ6RAXV,1,corona,corona,Useful,C_43_U,4,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+A20MWNCEZ6RAXV,1,corona,corona,Useful,C_47_U,16,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A20MWNCEZ6RAXV,1,corona,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A20MWNCEZ6RAXV,1,corona,general,Not useful,NC_05_NU,16,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A20MWNCEZ6RAXV,1,corona,general,Not useful,NC_11_NU,8,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A20MWNCEZ6RAXV,1,corona,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A20MWNCEZ6RAXV,1,corona,general,Useful,NC_37_U,16,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A20MWNCEZ6RAXV,1,corona,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A20MWNCEZ6RAXV,1,corona,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A20MWNCEZ6RAXV,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A20MWNCEZ6RAXV,1,corona,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A20MWNCEZ6RAXV,1,corona,third,Trivia,TB_11_TR,16,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A20MWNCEZ6RAXV,1,corona,third,Trivia,TB_14_TR,16,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A20MWNCEZ6RAXV,1,corona,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A20MWNCEZ6RAXV,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A20MWNCEZ6RAXV,1,corona,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

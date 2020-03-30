@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1W2L6BM7VQCXO,1,general,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A1W2L6BM7VQCXO,1,general,corona,Not useful,C_05_NU,12,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1W2L6BM7VQCXO,1,general,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A1W2L6BM7VQCXO,1,general,corona,Not useful,C_26_NU,12,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1W2L6BM7VQCXO,1,general,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A1W2L6BM7VQCXO,1,general,corona,Useful,C_45_U,16,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1W2L6BM7VQCXO,1,general,general,Not useful,NC_05_NU,12,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A1W2L6BM7VQCXO,1,general,general,Not useful,NC_10_NU,16,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A1W2L6BM7VQCXO,1,general,general,Not useful,NC_16_NU,8,Newborns,The apgar score is used to measure the color and condition of what?
+A1W2L6BM7VQCXO,1,general,general,Not useful,NC_17_NU,16,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A1W2L6BM7VQCXO,1,general,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1W2L6BM7VQCXO,1,general,general,Useful,NC_42_U,8,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A1W2L6BM7VQCXO,1,general,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A1W2L6BM7VQCXO,1,general,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A1W2L6BM7VQCXO,1,general,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A1W2L6BM7VQCXO,1,general,third,MTurk,TB_42_MT,16,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1W2L6BM7VQCXO,1,general,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1W2L6BM7VQCXO,1,general,third,Trivia,TB_16_TR,4,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A1W2L6BM7VQCXO,1,general,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?
+A1W2L6BM7VQCXO,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

@@ -1,0 +1,14 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3LMB5O7OPHELA,1,general,corona,Not useful,C_20_NU,16,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A3LMB5O7OPHELA,1,general,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A3LMB5O7OPHELA,1,general,corona,Not useful,C_26_NU,8,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A3LMB5O7OPHELA,1,general,corona,Useful,C_48_U,16,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A3LMB5O7OPHELA,1,general,general,Not useful,NC_03_NU,8,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A3LMB5O7OPHELA,1,general,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A3LMB5O7OPHELA,1,general,general,Not useful,NC_17_NU,8,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A3LMB5O7OPHELA,1,general,general,Not useful,NC_23_NU,12,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A3LMB5O7OPHELA,1,general,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A3LMB5O7OPHELA,1,general,third,Trivia,TB_02_TR,12,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A3LMB5O7OPHELA,1,general,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A3LMB5O7OPHELA,1,general,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A3LMB5O7OPHELA,1,general,third,Trivia,TB_21_TR,16,New York,Which state has the zip code 12345?

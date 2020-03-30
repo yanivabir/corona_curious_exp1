@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2Q3KN46PUMMX2,1,corona,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A2Q3KN46PUMMX2,1,corona,corona,Not useful,C_11_NU,16,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A2Q3KN46PUMMX2,1,corona,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A2Q3KN46PUMMX2,1,corona,corona,Useful,C_30_U,4,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A2Q3KN46PUMMX2,1,corona,corona,Useful,C_31_U,12,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A2Q3KN46PUMMX2,1,corona,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A2Q3KN46PUMMX2,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A2Q3KN46PUMMX2,1,corona,corona,Useful,C_37_U,8,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A2Q3KN46PUMMX2,1,corona,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A2Q3KN46PUMMX2,1,corona,general,Not useful,NC_12_NU,16,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A2Q3KN46PUMMX2,1,corona,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2Q3KN46PUMMX2,1,corona,general,Useful,NC_28_U,4,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A2Q3KN46PUMMX2,1,corona,general,Useful,NC_39_U,12,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A2Q3KN46PUMMX2,1,corona,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+A2Q3KN46PUMMX2,1,corona,general,Useful,NC_48_U,12,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+A2Q3KN46PUMMX2,1,corona,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A2Q3KN46PUMMX2,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2Q3KN46PUMMX2,1,corona,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A2Q3KN46PUMMX2,1,corona,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A2Q3KN46PUMMX2,1,corona,third,MTurk,TB_41_MT,8,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2Q3KN46PUMMX2,1,corona,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?

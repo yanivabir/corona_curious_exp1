@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AJM4334V07JDQ,1,corona,corona,Not useful,C_08_NU,12,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+AJM4334V07JDQ,1,corona,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+AJM4334V07JDQ,1,corona,corona,Not useful,C_13_NU,8,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+AJM4334V07JDQ,1,corona,corona,Not useful,C_19_NU,16,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+AJM4334V07JDQ,1,corona,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+AJM4334V07JDQ,1,corona,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+AJM4334V07JDQ,1,corona,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+AJM4334V07JDQ,1,corona,general,Not useful,NC_03_NU,4,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+AJM4334V07JDQ,1,corona,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+AJM4334V07JDQ,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+AJM4334V07JDQ,1,corona,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+AJM4334V07JDQ,1,corona,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AJM4334V07JDQ,1,corona,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+AJM4334V07JDQ,1,corona,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+AJM4334V07JDQ,1,corona,third,Trivia,TB_10_TR,4,George VI,Who was the last British Monarch to also be an emperor?
+AJM4334V07JDQ,1,corona,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+AJM4334V07JDQ,1,corona,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+AJM4334V07JDQ,1,corona,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?

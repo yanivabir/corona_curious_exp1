@@ -1,0 +1,14 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1D1C8B2LOLEUI,1,corona,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1D1C8B2LOLEUI,1,corona,corona,Useful,C_35_U,4,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A1D1C8B2LOLEUI,1,corona,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1D1C8B2LOLEUI,1,corona,corona,Useful,C_45_U,4,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1D1C8B2LOLEUI,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1D1C8B2LOLEUI,1,corona,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1D1C8B2LOLEUI,1,corona,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1D1C8B2LOLEUI,1,corona,general,Useful,NC_47_U,4,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A1D1C8B2LOLEUI,1,corona,third,MTurk,TB_28_MT,4,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1D1C8B2LOLEUI,1,corona,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A1D1C8B2LOLEUI,1,corona,third,Trivia,TB_16_TR,8,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A1D1C8B2LOLEUI,1,corona,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A1D1C8B2LOLEUI,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

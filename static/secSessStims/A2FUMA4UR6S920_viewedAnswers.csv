@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2FUMA4UR6S920,1,general,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A2FUMA4UR6S920,1,general,corona,Not useful,C_06_NU,12,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A2FUMA4UR6S920,1,general,corona,Not useful,C_07_NU,16,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A2FUMA4UR6S920,1,general,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2FUMA4UR6S920,1,general,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A2FUMA4UR6S920,1,general,general,Not useful,NC_13_NU,12,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2FUMA4UR6S920,1,general,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A2FUMA4UR6S920,1,general,general,Not useful,NC_20_NU,8,Russia,Which country has the most public libraries?
+A2FUMA4UR6S920,1,general,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A2FUMA4UR6S920,1,general,general,Useful,NC_34_U,12,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A2FUMA4UR6S920,1,general,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A2FUMA4UR6S920,1,general,third,MTurk,TB_44_MT,4,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A2FUMA4UR6S920,1,general,third,Trivia,TB_03_TR,12,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A2FUMA4UR6S920,1,general,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A2FUMA4UR6S920,1,general,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A2FUMA4UR6S920,1,general,third,Trivia,TB_11_TR,12,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A2FUMA4UR6S920,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

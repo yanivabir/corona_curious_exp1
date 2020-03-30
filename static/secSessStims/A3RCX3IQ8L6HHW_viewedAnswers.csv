@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3RCX3IQ8L6HHW,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A3RCX3IQ8L6HHW,1,corona,corona,Not useful,C_19_NU,4,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3RCX3IQ8L6HHW,1,corona,corona,Not useful,C_23_NU,8,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A3RCX3IQ8L6HHW,1,corona,corona,Useful,C_27_U,16,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A3RCX3IQ8L6HHW,1,corona,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A3RCX3IQ8L6HHW,1,corona,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A3RCX3IQ8L6HHW,1,corona,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A3RCX3IQ8L6HHW,1,corona,general,Not useful,NC_03_NU,4,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A3RCX3IQ8L6HHW,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A3RCX3IQ8L6HHW,1,corona,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A3RCX3IQ8L6HHW,1,corona,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3RCX3IQ8L6HHW,1,corona,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3RCX3IQ8L6HHW,1,corona,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A3RCX3IQ8L6HHW,1,corona,general,Useful,NC_48_U,8,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+A3RCX3IQ8L6HHW,1,corona,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A3RCX3IQ8L6HHW,1,corona,third,MTurk,TB_30_MT,4,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A3RCX3IQ8L6HHW,1,corona,third,MTurk,TB_36_MT,12,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A3RCX3IQ8L6HHW,1,corona,third,Trivia,TB_06_TR,4,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A3RCX3IQ8L6HHW,1,corona,third,Trivia,TB_11_TR,12,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A3RCX3IQ8L6HHW,1,corona,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A3RCX3IQ8L6HHW,1,corona,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

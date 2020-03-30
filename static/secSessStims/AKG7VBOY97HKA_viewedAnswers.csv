@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AKG7VBOY97HKA,1,general,corona,Not useful,C_07_NU,8,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+AKG7VBOY97HKA,1,general,corona,Not useful,C_09_NU,16,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+AKG7VBOY97HKA,1,general,corona,Not useful,C_12_NU,4,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+AKG7VBOY97HKA,1,general,corona,Not useful,C_23_NU,12,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+AKG7VBOY97HKA,1,general,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AKG7VBOY97HKA,1,general,corona,Useful,C_43_U,8,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+AKG7VBOY97HKA,1,general,corona,Useful,C_45_U,4,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+AKG7VBOY97HKA,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+AKG7VBOY97HKA,1,general,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+AKG7VBOY97HKA,1,general,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AKG7VBOY97HKA,1,general,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+AKG7VBOY97HKA,1,general,general,Useful,NC_28_U,16,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+AKG7VBOY97HKA,1,general,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+AKG7VBOY97HKA,1,general,general,Useful,NC_41_U,16,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+AKG7VBOY97HKA,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+AKG7VBOY97HKA,1,general,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+AKG7VBOY97HKA,1,general,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+AKG7VBOY97HKA,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+AKG7VBOY97HKA,1,general,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AKG7VBOY97HKA,1,general,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+AKG7VBOY97HKA,1,general,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+AKG7VBOY97HKA,1,general,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+AKG7VBOY97HKA,1,general,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+AKG7VBOY97HKA,1,general,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+AKG7VBOY97HKA,1,general,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?

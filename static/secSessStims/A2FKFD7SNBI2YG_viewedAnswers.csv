@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2FKFD7SNBI2YG,1,general,corona,Not useful,C_10_NU,16,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A2FKFD7SNBI2YG,1,general,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A2FKFD7SNBI2YG,1,general,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A2FKFD7SNBI2YG,1,general,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A2FKFD7SNBI2YG,1,general,corona,Useful,C_35_U,4,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A2FKFD7SNBI2YG,1,general,corona,Useful,C_44_U,16,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A2FKFD7SNBI2YG,1,general,general,Not useful,NC_02_NU,4,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A2FKFD7SNBI2YG,1,general,general,Not useful,NC_05_NU,16,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A2FKFD7SNBI2YG,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A2FKFD7SNBI2YG,1,general,general,Not useful,NC_24_NU,16,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2FKFD7SNBI2YG,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A2FKFD7SNBI2YG,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A2FKFD7SNBI2YG,1,general,general,Useful,NC_42_U,16,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A2FKFD7SNBI2YG,1,general,general,Useful,NC_49_U,4,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A2FKFD7SNBI2YG,1,general,third,MTurk,TB_32_MT,4,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A2FKFD7SNBI2YG,1,general,third,MTurk,TB_33_MT,12,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A2FKFD7SNBI2YG,1,general,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2FKFD7SNBI2YG,1,general,third,MTurk,TB_40_MT,16,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A2FKFD7SNBI2YG,1,general,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2FKFD7SNBI2YG,1,general,third,Trivia,TB_06_TR,4,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?

@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2EKD7TWQHEO9X,1,corona,corona,Not useful,C_10_NU,8,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A2EKD7TWQHEO9X,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2EKD7TWQHEO9X,1,corona,corona,Not useful,C_23_NU,16,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A2EKD7TWQHEO9X,1,corona,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A2EKD7TWQHEO9X,1,corona,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A2EKD7TWQHEO9X,1,corona,general,Not useful,NC_13_NU,8,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2EKD7TWQHEO9X,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A2EKD7TWQHEO9X,1,corona,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2EKD7TWQHEO9X,1,corona,general,Useful,NC_43_U,12,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A2EKD7TWQHEO9X,1,corona,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A2EKD7TWQHEO9X,1,corona,third,MTurk,TB_30_MT,4,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A2EKD7TWQHEO9X,1,corona,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A2EKD7TWQHEO9X,1,corona,third,Trivia,TB_01_TR,12,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A2EKD7TWQHEO9X,1,corona,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A2EKD7TWQHEO9X,1,corona,third,Trivia,TB_12_TR,4,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2EKD7TWQHEO9X,1,corona,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?

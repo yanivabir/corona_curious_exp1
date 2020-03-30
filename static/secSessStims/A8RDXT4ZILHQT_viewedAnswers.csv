@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A8RDXT4ZILHQT,1,general,corona,Not useful,C_06_NU,12,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A8RDXT4ZILHQT,1,general,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A8RDXT4ZILHQT,1,general,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A8RDXT4ZILHQT,1,general,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A8RDXT4ZILHQT,1,general,corona,Useful,C_32_U,8,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A8RDXT4ZILHQT,1,general,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A8RDXT4ZILHQT,1,general,corona,Useful,C_45_U,4,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A8RDXT4ZILHQT,1,general,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+A8RDXT4ZILHQT,1,general,general,Not useful,NC_05_NU,12,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A8RDXT4ZILHQT,1,general,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A8RDXT4ZILHQT,1,general,general,Not useful,NC_24_NU,16,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A8RDXT4ZILHQT,1,general,general,Useful,NC_28_U,16,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A8RDXT4ZILHQT,1,general,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A8RDXT4ZILHQT,1,general,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A8RDXT4ZILHQT,1,general,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A8RDXT4ZILHQT,1,general,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A8RDXT4ZILHQT,1,general,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A8RDXT4ZILHQT,1,general,third,MTurk,TB_29_MT,4,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+A8RDXT4ZILHQT,1,general,third,MTurk,TB_31_MT,4,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A8RDXT4ZILHQT,1,general,third,MTurk,TB_37_MT,8,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A8RDXT4ZILHQT,1,general,third,MTurk,TB_41_MT,8,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A8RDXT4ZILHQT,1,general,third,Trivia,TB_06_TR,16,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A8RDXT4ZILHQT,1,general,third,Trivia,TB_07_TR,16,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A8RDXT4ZILHQT,1,general,third,Trivia,TB_08_TR,4,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"

@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AQJWO4YPR3LUQ,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+AQJWO4YPR3LUQ,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+AQJWO4YPR3LUQ,1,corona,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+AQJWO4YPR3LUQ,1,corona,corona,Not useful,C_21_NU,12,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+AQJWO4YPR3LUQ,1,corona,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+AQJWO4YPR3LUQ,1,corona,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+AQJWO4YPR3LUQ,1,corona,corona,Useful,C_41_U,16,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+AQJWO4YPR3LUQ,1,corona,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+AQJWO4YPR3LUQ,1,corona,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+AQJWO4YPR3LUQ,1,corona,general,Not useful,NC_13_NU,8,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+AQJWO4YPR3LUQ,1,corona,general,Not useful,NC_21_NU,4,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+AQJWO4YPR3LUQ,1,corona,general,Useful,NC_35_U,12,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+AQJWO4YPR3LUQ,1,corona,general,Useful,NC_40_U,12,Squint your eyes,How do you make your smile look more genuine in photographs?
+AQJWO4YPR3LUQ,1,corona,general,Useful,NC_46_U,12,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+AQJWO4YPR3LUQ,1,corona,general,Useful,NC_47_U,8,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+AQJWO4YPR3LUQ,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+AQJWO4YPR3LUQ,1,corona,third,MTurk,TB_30_MT,8,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+AQJWO4YPR3LUQ,1,corona,third,MTurk,TB_36_MT,16,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+AQJWO4YPR3LUQ,1,corona,third,MTurk,TB_38_MT,8,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+AQJWO4YPR3LUQ,1,corona,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+AQJWO4YPR3LUQ,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

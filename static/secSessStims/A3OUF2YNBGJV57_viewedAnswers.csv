@@ -1,0 +1,11 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3OUF2YNBGJV57,1,corona,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A3OUF2YNBGJV57,1,corona,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A3OUF2YNBGJV57,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A3OUF2YNBGJV57,1,corona,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A3OUF2YNBGJV57,1,corona,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A3OUF2YNBGJV57,1,corona,general,Useful,NC_34_U,8,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A3OUF2YNBGJV57,1,corona,general,Useful,NC_37_U,12,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A3OUF2YNBGJV57,1,corona,third,MTurk,TB_28_MT,12,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A3OUF2YNBGJV57,1,corona,third,MTurk,TB_41_MT,4,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A3OUF2YNBGJV57,1,corona,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"

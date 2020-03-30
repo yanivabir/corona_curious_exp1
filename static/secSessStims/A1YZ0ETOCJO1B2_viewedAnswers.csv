@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1YZ0ETOCJO1B2,1,corona,corona,Not useful,C_05_NU,8,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1YZ0ETOCJO1B2,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1YZ0ETOCJO1B2,1,corona,corona,Not useful,C_07_NU,8,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1YZ0ETOCJO1B2,1,corona,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1YZ0ETOCJO1B2,1,corona,corona,Useful,C_34_U,16,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1YZ0ETOCJO1B2,1,corona,corona,Useful,C_35_U,8,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A1YZ0ETOCJO1B2,1,corona,corona,Useful,C_49_U,12,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A1YZ0ETOCJO1B2,1,corona,general,Not useful,NC_04_NU,12,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A1YZ0ETOCJO1B2,1,corona,general,Not useful,NC_11_NU,8,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A1YZ0ETOCJO1B2,1,corona,general,Not useful,NC_13_NU,12,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1YZ0ETOCJO1B2,1,corona,general,Not useful,NC_17_NU,12,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A1YZ0ETOCJO1B2,1,corona,general,Not useful,NC_20_NU,8,Russia,Which country has the most public libraries?
+A1YZ0ETOCJO1B2,1,corona,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1YZ0ETOCJO1B2,1,corona,general,Useful,NC_50_U,16,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1YZ0ETOCJO1B2,1,corona,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1YZ0ETOCJO1B2,1,corona,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A1YZ0ETOCJO1B2,1,corona,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1YZ0ETOCJO1B2,1,corona,third,MTurk,TB_45_MT,16,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A1YZ0ETOCJO1B2,1,corona,third,Trivia,TB_03_TR,8,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A1YZ0ETOCJO1B2,1,corona,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1YZ0ETOCJO1B2,1,corona,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A1YZ0ETOCJO1B2,1,corona,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1YZ0ETOCJO1B2,1,corona,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?

@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A6WXIKRYMXNIN,1,corona,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+A6WXIKRYMXNIN,1,corona,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A6WXIKRYMXNIN,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A6WXIKRYMXNIN,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A6WXIKRYMXNIN,1,corona,corona,Useful,C_39_U,12,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A6WXIKRYMXNIN,1,corona,corona,Useful,C_51_U,8,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A6WXIKRYMXNIN,1,corona,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A6WXIKRYMXNIN,1,corona,general,Not useful,NC_26_NU,8,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A6WXIKRYMXNIN,1,corona,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A6WXIKRYMXNIN,1,corona,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A6WXIKRYMXNIN,1,corona,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A6WXIKRYMXNIN,1,corona,general,Useful,NC_45_U,12,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A6WXIKRYMXNIN,1,corona,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A6WXIKRYMXNIN,1,corona,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A6WXIKRYMXNIN,1,corona,third,MTurk,TB_28_MT,12,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A6WXIKRYMXNIN,1,corona,third,MTurk,TB_31_MT,4,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A6WXIKRYMXNIN,1,corona,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A6WXIKRYMXNIN,1,corona,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?

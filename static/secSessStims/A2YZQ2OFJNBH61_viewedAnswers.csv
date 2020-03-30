@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2YZQ2OFJNBH61,1,general,corona,Not useful,C_01_NU,12,"Animals, probably bats",What is the source of coronavirus in humans?
+A2YZQ2OFJNBH61,1,general,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A2YZQ2OFJNBH61,1,general,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2YZQ2OFJNBH61,1,general,corona,Not useful,C_21_NU,4,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A2YZQ2OFJNBH61,1,general,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A2YZQ2OFJNBH61,1,general,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A2YZQ2OFJNBH61,1,general,corona,Useful,C_44_U,4,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A2YZQ2OFJNBH61,1,general,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A2YZQ2OFJNBH61,1,general,general,Not useful,NC_03_NU,4,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A2YZQ2OFJNBH61,1,general,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A2YZQ2OFJNBH61,1,general,general,Not useful,NC_25_NU,8,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A2YZQ2OFJNBH61,1,general,general,Useful,NC_32_U,16,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A2YZQ2OFJNBH61,1,general,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A2YZQ2OFJNBH61,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2YZQ2OFJNBH61,1,general,general,Useful,NC_47_U,8,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A2YZQ2OFJNBH61,1,general,general,Useful,NC_49_U,12,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A2YZQ2OFJNBH61,1,general,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A2YZQ2OFJNBH61,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2YZQ2OFJNBH61,1,general,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2YZQ2OFJNBH61,1,general,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A2YZQ2OFJNBH61,1,general,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A2YZQ2OFJNBH61,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3QXOE8A91D0C5,1,general,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A3QXOE8A91D0C5,1,general,corona,Not useful,C_19_NU,16,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3QXOE8A91D0C5,1,general,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A3QXOE8A91D0C5,1,general,corona,Useful,C_39_U,8,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A3QXOE8A91D0C5,1,general,corona,Useful,C_40_U,4,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A3QXOE8A91D0C5,1,general,general,Not useful,NC_02_NU,12,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A3QXOE8A91D0C5,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A3QXOE8A91D0C5,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A3QXOE8A91D0C5,1,general,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A3QXOE8A91D0C5,1,general,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A3QXOE8A91D0C5,1,general,general,Useful,NC_28_U,16,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A3QXOE8A91D0C5,1,general,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A3QXOE8A91D0C5,1,general,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A3QXOE8A91D0C5,1,general,third,MTurk,TB_32_MT,12,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A3QXOE8A91D0C5,1,general,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3QXOE8A91D0C5,1,general,third,Trivia,TB_04_TR,4,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A3QXOE8A91D0C5,1,general,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A3QXOE8A91D0C5,1,general,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A3QXOE8A91D0C5,1,general,third,Trivia,TB_13_TR,16,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3QXOE8A91D0C5,1,general,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

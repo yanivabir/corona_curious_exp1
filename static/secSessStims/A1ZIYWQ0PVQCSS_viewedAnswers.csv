@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1ZIYWQ0PVQCSS,1,general,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1ZIYWQ0PVQCSS,1,general,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A1ZIYWQ0PVQCSS,1,general,corona,Not useful,C_12_NU,8,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1ZIYWQ0PVQCSS,1,general,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A1ZIYWQ0PVQCSS,1,general,corona,Useful,C_52_U,4,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A1ZIYWQ0PVQCSS,1,general,general,Not useful,NC_04_NU,8,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A1ZIYWQ0PVQCSS,1,general,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A1ZIYWQ0PVQCSS,1,general,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1ZIYWQ0PVQCSS,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1ZIYWQ0PVQCSS,1,general,general,Not useful,NC_26_NU,8,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1ZIYWQ0PVQCSS,1,general,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A1ZIYWQ0PVQCSS,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1ZIYWQ0PVQCSS,1,general,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1ZIYWQ0PVQCSS,1,general,third,MTurk,TB_28_MT,4,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1ZIYWQ0PVQCSS,1,general,third,MTurk,TB_32_MT,4,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A1ZIYWQ0PVQCSS,1,general,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A1ZIYWQ0PVQCSS,1,general,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1ZIYWQ0PVQCSS,1,general,third,Trivia,TB_06_TR,16,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A1ZIYWQ0PVQCSS,1,general,third,Trivia,TB_10_TR,4,George VI,Who was the last British Monarch to also be an emperor?
+A1ZIYWQ0PVQCSS,1,general,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1ISZU2F6I12RW,1,corona,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1ISZU2F6I12RW,1,corona,corona,Not useful,C_25_NU,12,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A1ISZU2F6I12RW,1,corona,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1ISZU2F6I12RW,1,corona,corona,Useful,C_32_U,16,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A1ISZU2F6I12RW,1,corona,corona,Useful,C_43_U,12,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+A1ISZU2F6I12RW,1,corona,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1ISZU2F6I12RW,1,corona,corona,Useful,C_47_U,12,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1ISZU2F6I12RW,1,corona,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A1ISZU2F6I12RW,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1ISZU2F6I12RW,1,corona,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1ISZU2F6I12RW,1,corona,general,Not useful,NC_26_NU,8,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1ISZU2F6I12RW,1,corona,general,Useful,NC_28_U,4,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A1ISZU2F6I12RW,1,corona,general,Useful,NC_30_U,8,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1ISZU2F6I12RW,1,corona,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A1ISZU2F6I12RW,1,corona,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1ISZU2F6I12RW,1,corona,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A1ISZU2F6I12RW,1,corona,third,MTurk,TB_36_MT,12,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A1ISZU2F6I12RW,1,corona,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A1ISZU2F6I12RW,1,corona,third,Trivia,TB_12_TR,12,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1ISZU2F6I12RW,1,corona,third,Trivia,TB_19_TR,16,Ketchup,The only vegetable ice cream ever produced was what flavor?

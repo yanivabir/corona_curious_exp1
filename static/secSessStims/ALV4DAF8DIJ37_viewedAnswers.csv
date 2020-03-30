@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ALV4DAF8DIJ37,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+ALV4DAF8DIJ37,1,corona,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+ALV4DAF8DIJ37,1,corona,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+ALV4DAF8DIJ37,1,corona,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+ALV4DAF8DIJ37,1,corona,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+ALV4DAF8DIJ37,1,corona,general,Useful,NC_37_U,4,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+ALV4DAF8DIJ37,1,corona,third,MTurk,TB_44_MT,4,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+ALV4DAF8DIJ37,1,corona,third,MTurk,TB_46_MT,4,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+ALV4DAF8DIJ37,1,corona,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?

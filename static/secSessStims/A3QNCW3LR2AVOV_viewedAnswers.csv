@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3QNCW3LR2AVOV,1,corona,corona,Not useful,C_05_NU,8,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A3QNCW3LR2AVOV,1,corona,corona,Not useful,C_15_NU,12,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A3QNCW3LR2AVOV,1,corona,corona,Not useful,C_17_NU,8,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A3QNCW3LR2AVOV,1,corona,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3QNCW3LR2AVOV,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A3QNCW3LR2AVOV,1,corona,general,Not useful,NC_06_NU,8,David Livingstone,Who discovered the Victoria Falls?
+A3QNCW3LR2AVOV,1,corona,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A3QNCW3LR2AVOV,1,corona,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3QNCW3LR2AVOV,1,corona,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A3QNCW3LR2AVOV,1,corona,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A3QNCW3LR2AVOV,1,corona,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A3QNCW3LR2AVOV,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3QNCW3LR2AVOV,1,corona,third,MTurk,TB_39_MT,8,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A3QNCW3LR2AVOV,1,corona,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A3QNCW3LR2AVOV,1,corona,third,MTurk,TB_46_MT,4,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A3QNCW3LR2AVOV,1,corona,third,Trivia,TB_02_TR,16,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A3QNCW3LR2AVOV,1,corona,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

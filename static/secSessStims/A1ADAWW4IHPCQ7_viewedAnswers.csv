@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1ADAWW4IHPCQ7,1,general,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+A1ADAWW4IHPCQ7,1,general,corona,Not useful,C_06_NU,12,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1ADAWW4IHPCQ7,1,general,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A1ADAWW4IHPCQ7,1,general,corona,Useful,C_41_U,12,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A1ADAWW4IHPCQ7,1,general,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A1ADAWW4IHPCQ7,1,general,general,Not useful,NC_21_NU,4,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1ADAWW4IHPCQ7,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1ADAWW4IHPCQ7,1,general,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1ADAWW4IHPCQ7,1,general,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A1ADAWW4IHPCQ7,1,general,general,Useful,NC_34_U,8,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1ADAWW4IHPCQ7,1,general,general,Useful,NC_37_U,16,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A1ADAWW4IHPCQ7,1,general,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1ADAWW4IHPCQ7,1,general,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1ADAWW4IHPCQ7,1,general,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1ADAWW4IHPCQ7,1,general,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A1ADAWW4IHPCQ7,1,general,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A1ADAWW4IHPCQ7,1,general,third,MTurk,TB_39_MT,12,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1ADAWW4IHPCQ7,1,general,third,Trivia,TB_11_TR,16,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A1ADAWW4IHPCQ7,1,general,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1ADAWW4IHPCQ7,1,general,third,Trivia,TB_19_TR,16,Ketchup,The only vegetable ice cream ever produced was what flavor?

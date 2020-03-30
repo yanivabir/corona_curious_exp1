@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AQ9Y6WD8O72ZC,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+AQ9Y6WD8O72ZC,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+AQ9Y6WD8O72ZC,1,corona,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+AQ9Y6WD8O72ZC,1,corona,corona,Not useful,C_18_NU,12,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+AQ9Y6WD8O72ZC,1,corona,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+AQ9Y6WD8O72ZC,1,corona,corona,Useful,C_35_U,12,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+AQ9Y6WD8O72ZC,1,corona,corona,Useful,C_45_U,4,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+AQ9Y6WD8O72ZC,1,corona,corona,Useful,C_51_U,16,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+AQ9Y6WD8O72ZC,1,corona,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+AQ9Y6WD8O72ZC,1,corona,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+AQ9Y6WD8O72ZC,1,corona,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+AQ9Y6WD8O72ZC,1,corona,general,Useful,NC_45_U,16,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+AQ9Y6WD8O72ZC,1,corona,general,Useful,NC_46_U,8,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+AQ9Y6WD8O72ZC,1,corona,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+AQ9Y6WD8O72ZC,1,corona,third,MTurk,TB_24_MT,4,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+AQ9Y6WD8O72ZC,1,corona,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+AQ9Y6WD8O72ZC,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+AQ9Y6WD8O72ZC,1,corona,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+AQ9Y6WD8O72ZC,1,corona,third,Trivia,TB_11_TR,4,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AQ9Y6WD8O72ZC,1,corona,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+AQ9Y6WD8O72ZC,1,corona,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?

@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1WH32GYQOHIRQ,1,general,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1WH32GYQOHIRQ,1,general,corona,Not useful,C_04_NU,8,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A1WH32GYQOHIRQ,1,general,corona,Not useful,C_20_NU,4,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A1WH32GYQOHIRQ,1,general,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1WH32GYQOHIRQ,1,general,general,Not useful,NC_07_NU,4,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A1WH32GYQOHIRQ,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A1WH32GYQOHIRQ,1,general,general,Not useful,NC_12_NU,12,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A1WH32GYQOHIRQ,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1WH32GYQOHIRQ,1,general,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+A1WH32GYQOHIRQ,1,general,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1WH32GYQOHIRQ,1,general,third,MTurk,TB_28_MT,4,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1WH32GYQOHIRQ,1,general,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A1WH32GYQOHIRQ,1,general,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1WH32GYQOHIRQ,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A1WH32GYQOHIRQ,1,general,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?

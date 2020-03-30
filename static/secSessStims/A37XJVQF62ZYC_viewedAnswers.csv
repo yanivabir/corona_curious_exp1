@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A37XJVQF62ZYC,1,general,corona,Not useful,C_13_NU,12,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A37XJVQF62ZYC,1,general,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A37XJVQF62ZYC,1,general,corona,Useful,C_27_U,16,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A37XJVQF62ZYC,1,general,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A37XJVQF62ZYC,1,general,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A37XJVQF62ZYC,1,general,corona,Useful,C_40_U,16,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A37XJVQF62ZYC,1,general,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A37XJVQF62ZYC,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A37XJVQF62ZYC,1,general,general,Useful,NC_29_U,4,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A37XJVQF62ZYC,1,general,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A37XJVQF62ZYC,1,general,general,Useful,NC_37_U,4,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A37XJVQF62ZYC,1,general,general,Useful,NC_39_U,16,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A37XJVQF62ZYC,1,general,general,Useful,NC_46_U,8,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A37XJVQF62ZYC,1,general,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A37XJVQF62ZYC,1,general,third,MTurk,TB_36_MT,16,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A37XJVQF62ZYC,1,general,third,MTurk,TB_38_MT,8,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A37XJVQF62ZYC,1,general,third,MTurk,TB_45_MT,12,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A37XJVQF62ZYC,1,general,third,Trivia,TB_02_TR,16,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A37XJVQF62ZYC,1,general,third,Trivia,TB_10_TR,12,George VI,Who was the last British Monarch to also be an emperor?
+A37XJVQF62ZYC,1,general,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?

@@ -1,0 +1,12 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AYTUV0V3IO5AK,1,general,corona,Not useful,C_07_NU,12,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+AYTUV0V3IO5AK,1,general,corona,Not useful,C_22_NU,12,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+AYTUV0V3IO5AK,1,general,corona,Useful,C_34_U,4,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+AYTUV0V3IO5AK,1,general,corona,Useful,C_48_U,8,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+AYTUV0V3IO5AK,1,general,general,Useful,NC_30_U,12,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+AYTUV0V3IO5AK,1,general,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+AYTUV0V3IO5AK,1,general,general,Useful,NC_35_U,8,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+AYTUV0V3IO5AK,1,general,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+AYTUV0V3IO5AK,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+AYTUV0V3IO5AK,1,general,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+AYTUV0V3IO5AK,1,general,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

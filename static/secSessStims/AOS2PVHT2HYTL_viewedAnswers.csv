@@ -1,0 +1,11 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AOS2PVHT2HYTL,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+AOS2PVHT2HYTL,1,corona,corona,Useful,C_48_U,16,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+AOS2PVHT2HYTL,1,corona,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+AOS2PVHT2HYTL,1,corona,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+AOS2PVHT2HYTL,1,corona,general,Not useful,NC_26_NU,8,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+AOS2PVHT2HYTL,1,corona,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+AOS2PVHT2HYTL,1,corona,general,Useful,NC_42_U,4,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+AOS2PVHT2HYTL,1,corona,third,MTurk,TB_28_MT,4,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+AOS2PVHT2HYTL,1,corona,third,MTurk,TB_44_MT,12,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+AOS2PVHT2HYTL,1,corona,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?

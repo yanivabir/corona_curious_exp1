@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3K0E7TSPX25GH,1,general,corona,Not useful,C_06_NU,12,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A3K0E7TSPX25GH,1,general,corona,Not useful,C_19_NU,16,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3K0E7TSPX25GH,1,general,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A3K0E7TSPX25GH,1,general,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A3K0E7TSPX25GH,1,general,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A3K0E7TSPX25GH,1,general,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A3K0E7TSPX25GH,1,general,general,Useful,NC_31_U,4,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A3K0E7TSPX25GH,1,general,general,Useful,NC_33_U,4,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A3K0E7TSPX25GH,1,general,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A3K0E7TSPX25GH,1,general,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3K0E7TSPX25GH,1,general,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A3K0E7TSPX25GH,1,general,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A3K0E7TSPX25GH,1,general,third,MTurk,TB_30_MT,8,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A3K0E7TSPX25GH,1,general,third,MTurk,TB_37_MT,12,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A3K0E7TSPX25GH,1,general,third,Trivia,TB_01_TR,8,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A3K0E7TSPX25GH,1,general,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A3K0E7TSPX25GH,1,general,third,Trivia,TB_21_TR,8,New York,Which state has the zip code 12345?

@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A28J7H4TH29DC3,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A28J7H4TH29DC3,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A28J7H4TH29DC3,1,corona,corona,Useful,C_32_U,12,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A28J7H4TH29DC3,1,corona,corona,Useful,C_47_U,4,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A28J7H4TH29DC3,1,corona,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A28J7H4TH29DC3,1,corona,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A28J7H4TH29DC3,1,corona,general,Not useful,NC_15_NU,16,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A28J7H4TH29DC3,1,corona,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A28J7H4TH29DC3,1,corona,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A28J7H4TH29DC3,1,corona,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A28J7H4TH29DC3,1,corona,general,Useful,NC_34_U,12,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A28J7H4TH29DC3,1,corona,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A28J7H4TH29DC3,1,corona,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A28J7H4TH29DC3,1,corona,third,MTurk,TB_30_MT,8,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A28J7H4TH29DC3,1,corona,third,MTurk,TB_31_MT,12,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A28J7H4TH29DC3,1,corona,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A28J7H4TH29DC3,1,corona,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A28J7H4TH29DC3,1,corona,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A28J7H4TH29DC3,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

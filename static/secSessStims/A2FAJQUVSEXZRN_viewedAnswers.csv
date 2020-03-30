@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2FAJQUVSEXZRN,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A2FAJQUVSEXZRN,1,corona,corona,Not useful,C_03_NU,12,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A2FAJQUVSEXZRN,1,corona,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A2FAJQUVSEXZRN,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2FAJQUVSEXZRN,1,corona,corona,Not useful,C_20_NU,16,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A2FAJQUVSEXZRN,1,corona,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A2FAJQUVSEXZRN,1,corona,corona,Useful,C_47_U,12,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A2FAJQUVSEXZRN,1,corona,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+A2FAJQUVSEXZRN,1,corona,general,Not useful,NC_03_NU,12,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A2FAJQUVSEXZRN,1,corona,general,Not useful,NC_04_NU,8,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A2FAJQUVSEXZRN,1,corona,general,Not useful,NC_11_NU,12,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A2FAJQUVSEXZRN,1,corona,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A2FAJQUVSEXZRN,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2FAJQUVSEXZRN,1,corona,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2FAJQUVSEXZRN,1,corona,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A2FAJQUVSEXZRN,1,corona,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2FAJQUVSEXZRN,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2FAJQUVSEXZRN,1,corona,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2FAJQUVSEXZRN,1,corona,third,MTurk,TB_44_MT,12,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A2FAJQUVSEXZRN,1,corona,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A2FAJQUVSEXZRN,1,corona,third,Trivia,TB_08_TR,4,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A2FAJQUVSEXZRN,1,corona,third,Trivia,TB_13_TR,8,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A2FAJQUVSEXZRN,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?
+A2FAJQUVSEXZRN,1,corona,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

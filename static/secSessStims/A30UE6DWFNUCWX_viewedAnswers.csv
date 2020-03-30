@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A30UE6DWFNUCWX,1,general,corona,Not useful,C_10_NU,8,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A30UE6DWFNUCWX,1,general,corona,Not useful,C_13_NU,12,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A30UE6DWFNUCWX,1,general,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A30UE6DWFNUCWX,1,general,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A30UE6DWFNUCWX,1,general,corona,Useful,C_33_U,12,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A30UE6DWFNUCWX,1,general,corona,Useful,C_34_U,16,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A30UE6DWFNUCWX,1,general,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A30UE6DWFNUCWX,1,general,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A30UE6DWFNUCWX,1,general,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A30UE6DWFNUCWX,1,general,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A30UE6DWFNUCWX,1,general,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A30UE6DWFNUCWX,1,general,third,MTurk,TB_45_MT,16,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A30UE6DWFNUCWX,1,general,third,Trivia,TB_02_TR,16,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A30UE6DWFNUCWX,1,general,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A30UE6DWFNUCWX,1,general,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"

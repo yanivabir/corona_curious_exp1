@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1FKQY4MCJL15W,1,corona,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A1FKQY4MCJL15W,1,corona,corona,Not useful,C_12_NU,8,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1FKQY4MCJL15W,1,corona,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A1FKQY4MCJL15W,1,corona,corona,Useful,C_51_U,16,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A1FKQY4MCJL15W,1,corona,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1FKQY4MCJL15W,1,corona,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1FKQY4MCJL15W,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1FKQY4MCJL15W,1,corona,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1FKQY4MCJL15W,1,corona,general,Useful,NC_30_U,4,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1FKQY4MCJL15W,1,corona,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A1FKQY4MCJL15W,1,corona,third,MTurk,TB_40_MT,4,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A1FKQY4MCJL15W,1,corona,third,Trivia,TB_04_TR,8,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1FKQY4MCJL15W,1,corona,third,Trivia,TB_05_TR,12,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A1FKQY4MCJL15W,1,corona,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1FKQY4MCJL15W,1,corona,third,Trivia,TB_09_TR,8,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A1FKQY4MCJL15W,1,corona,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A1FKQY4MCJL15W,1,corona,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?

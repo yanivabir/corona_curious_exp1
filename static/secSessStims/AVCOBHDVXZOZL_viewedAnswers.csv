@@ -1,0 +1,29 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AVCOBHDVXZOZL,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+AVCOBHDVXZOZL,1,corona,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+AVCOBHDVXZOZL,1,corona,corona,Not useful,C_13_NU,8,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+AVCOBHDVXZOZL,1,corona,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+AVCOBHDVXZOZL,1,corona,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+AVCOBHDVXZOZL,1,corona,corona,Useful,C_28_U,8,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+AVCOBHDVXZOZL,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+AVCOBHDVXZOZL,1,corona,corona,Useful,C_33_U,12,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+AVCOBHDVXZOZL,1,corona,corona,Useful,C_43_U,4,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+AVCOBHDVXZOZL,1,corona,corona,Useful,C_45_U,4,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+AVCOBHDVXZOZL,1,corona,general,Not useful,NC_03_NU,8,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+AVCOBHDVXZOZL,1,corona,general,Not useful,NC_08_NU,12,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+AVCOBHDVXZOZL,1,corona,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AVCOBHDVXZOZL,1,corona,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+AVCOBHDVXZOZL,1,corona,general,Not useful,NC_22_NU,4,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+AVCOBHDVXZOZL,1,corona,general,Useful,NC_33_U,4,Below eye level,Where in the supermarket can you usually find the cheaper items?
+AVCOBHDVXZOZL,1,corona,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+AVCOBHDVXZOZL,1,corona,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+AVCOBHDVXZOZL,1,corona,general,Useful,NC_48_U,8,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+AVCOBHDVXZOZL,1,corona,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+AVCOBHDVXZOZL,1,corona,third,MTurk,TB_25_MT,16,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+AVCOBHDVXZOZL,1,corona,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AVCOBHDVXZOZL,1,corona,third,MTurk,TB_44_MT,12,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+AVCOBHDVXZOZL,1,corona,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+AVCOBHDVXZOZL,1,corona,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?
+AVCOBHDVXZOZL,1,corona,third,Trivia,TB_11_TR,12,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AVCOBHDVXZOZL,1,corona,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+AVCOBHDVXZOZL,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

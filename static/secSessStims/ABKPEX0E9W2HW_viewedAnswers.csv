@@ -1,0 +1,14 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ABKPEX0E9W2HW,1,general,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+ABKPEX0E9W2HW,1,general,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+ABKPEX0E9W2HW,1,general,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+ABKPEX0E9W2HW,1,general,corona,Useful,C_46_U,12,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+ABKPEX0E9W2HW,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+ABKPEX0E9W2HW,1,general,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+ABKPEX0E9W2HW,1,general,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+ABKPEX0E9W2HW,1,general,general,Useful,NC_32_U,16,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+ABKPEX0E9W2HW,1,general,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+ABKPEX0E9W2HW,1,general,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+ABKPEX0E9W2HW,1,general,third,MTurk,TB_44_MT,12,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+ABKPEX0E9W2HW,1,general,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+ABKPEX0E9W2HW,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

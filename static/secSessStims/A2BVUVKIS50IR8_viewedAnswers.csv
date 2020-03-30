@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2BVUVKIS50IR8,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A2BVUVKIS50IR8,1,corona,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2BVUVKIS50IR8,1,corona,corona,Useful,C_27_U,8,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A2BVUVKIS50IR8,1,corona,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A2BVUVKIS50IR8,1,corona,corona,Useful,C_46_U,12,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A2BVUVKIS50IR8,1,corona,general,Not useful,NC_13_NU,4,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2BVUVKIS50IR8,1,corona,general,Not useful,NC_14_NU,12,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A2BVUVKIS50IR8,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A2BVUVKIS50IR8,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2BVUVKIS50IR8,1,corona,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A2BVUVKIS50IR8,1,corona,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2BVUVKIS50IR8,1,corona,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A2BVUVKIS50IR8,1,corona,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A2BVUVKIS50IR8,1,corona,third,MTurk,TB_37_MT,8,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A2BVUVKIS50IR8,1,corona,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A2BVUVKIS50IR8,1,corona,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A2BVUVKIS50IR8,1,corona,third,Trivia,TB_10_TR,4,George VI,Who was the last British Monarch to also be an emperor?
+A2BVUVKIS50IR8,1,corona,third,Trivia,TB_16_TR,16,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A2BVUVKIS50IR8,1,corona,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A2BVUVKIS50IR8,1,corona,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

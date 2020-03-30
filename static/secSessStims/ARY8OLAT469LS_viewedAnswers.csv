@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ARY8OLAT469LS,1,general,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+ARY8OLAT469LS,1,general,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+ARY8OLAT469LS,1,general,corona,Not useful,C_20_NU,12,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+ARY8OLAT469LS,1,general,corona,Not useful,C_21_NU,8,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+ARY8OLAT469LS,1,general,corona,Useful,C_35_U,12,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+ARY8OLAT469LS,1,general,corona,Useful,C_38_U,4,People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,"Does the new coronavirus affect older people, or are younger people also susceptible?"
+ARY8OLAT469LS,1,general,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+ARY8OLAT469LS,1,general,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+ARY8OLAT469LS,1,general,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+ARY8OLAT469LS,1,general,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+ARY8OLAT469LS,1,general,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+ARY8OLAT469LS,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+ARY8OLAT469LS,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+ARY8OLAT469LS,1,general,general,Useful,NC_42_U,16,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+ARY8OLAT469LS,1,general,general,Useful,NC_43_U,16,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+ARY8OLAT469LS,1,general,general,Useful,NC_49_U,4,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+ARY8OLAT469LS,1,general,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+ARY8OLAT469LS,1,general,third,MTurk,TB_35_MT,8,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+ARY8OLAT469LS,1,general,third,MTurk,TB_36_MT,4,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+ARY8OLAT469LS,1,general,third,MTurk,TB_44_MT,4,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+ARY8OLAT469LS,1,general,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?
+ARY8OLAT469LS,1,general,third,Trivia,TB_13_TR,16,Java,On what namesake Asian island are the first Homo erectus fossils found?
+ARY8OLAT469LS,1,general,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+ARY8OLAT469LS,1,general,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

@@ -1,0 +1,9 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A14YGZCKCKBSA1,1,corona,corona,Not useful,C_24_NU,16,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A14YGZCKCKBSA1,1,corona,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A14YGZCKCKBSA1,1,corona,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A14YGZCKCKBSA1,1,corona,general,Not useful,NC_17_NU,8,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A14YGZCKCKBSA1,1,corona,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A14YGZCKCKBSA1,1,corona,third,MTurk,TB_33_MT,12,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A14YGZCKCKBSA1,1,corona,third,MTurk,TB_36_MT,16,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A14YGZCKCKBSA1,1,corona,third,Trivia,TB_09_TR,8,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"

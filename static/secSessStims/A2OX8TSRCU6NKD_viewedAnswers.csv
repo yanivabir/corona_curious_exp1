@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2OX8TSRCU6NKD,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A2OX8TSRCU6NKD,1,corona,corona,Not useful,C_11_NU,12,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A2OX8TSRCU6NKD,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A2OX8TSRCU6NKD,1,corona,corona,Not useful,C_20_NU,16,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A2OX8TSRCU6NKD,1,corona,corona,Not useful,C_23_NU,8,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A2OX8TSRCU6NKD,1,corona,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A2OX8TSRCU6NKD,1,corona,corona,Useful,C_32_U,12,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+A2OX8TSRCU6NKD,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A2OX8TSRCU6NKD,1,corona,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A2OX8TSRCU6NKD,1,corona,general,Not useful,NC_22_NU,8,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A2OX8TSRCU6NKD,1,corona,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A2OX8TSRCU6NKD,1,corona,general,Useful,NC_29_U,12,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A2OX8TSRCU6NKD,1,corona,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A2OX8TSRCU6NKD,1,corona,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A2OX8TSRCU6NKD,1,corona,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2OX8TSRCU6NKD,1,corona,third,MTurk,TB_31_MT,4,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A2OX8TSRCU6NKD,1,corona,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A2OX8TSRCU6NKD,1,corona,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A2OX8TSRCU6NKD,1,corona,third,Trivia,TB_07_TR,4,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A2OX8TSRCU6NKD,1,corona,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?
+A2OX8TSRCU6NKD,1,corona,third,Trivia,TB_21_TR,8,New York,Which state has the zip code 12345?
+A2OX8TSRCU6NKD,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

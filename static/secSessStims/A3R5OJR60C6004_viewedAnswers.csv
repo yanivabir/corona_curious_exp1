@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3R5OJR60C6004,1,general,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A3R5OJR60C6004,1,general,corona,Not useful,C_13_NU,12,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A3R5OJR60C6004,1,general,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A3R5OJR60C6004,1,general,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A3R5OJR60C6004,1,general,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A3R5OJR60C6004,1,general,general,Not useful,NC_05_NU,4,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A3R5OJR60C6004,1,general,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A3R5OJR60C6004,1,general,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A3R5OJR60C6004,1,general,general,Not useful,NC_23_NU,8,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A3R5OJR60C6004,1,general,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A3R5OJR60C6004,1,general,general,Useful,NC_28_U,16,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A3R5OJR60C6004,1,general,general,Useful,NC_33_U,8,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A3R5OJR60C6004,1,general,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A3R5OJR60C6004,1,general,third,MTurk,TB_24_MT,4,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A3R5OJR60C6004,1,general,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A3R5OJR60C6004,1,general,third,Trivia,TB_06_TR,16,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A3R5OJR60C6004,1,general,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A3R5OJR60C6004,1,general,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A3R5OJR60C6004,1,general,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

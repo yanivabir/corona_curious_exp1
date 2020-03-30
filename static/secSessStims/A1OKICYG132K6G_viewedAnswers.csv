@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1OKICYG132K6G,1,general,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+A1OKICYG132K6G,1,general,corona,Not useful,C_05_NU,8,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1OKICYG132K6G,1,general,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1OKICYG132K6G,1,general,corona,Not useful,C_20_NU,8,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A1OKICYG132K6G,1,general,corona,Useful,C_34_U,16,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1OKICYG132K6G,1,general,corona,Useful,C_43_U,8,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+A1OKICYG132K6G,1,general,corona,Useful,C_46_U,4,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1OKICYG132K6G,1,general,general,Not useful,NC_03_NU,12,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A1OKICYG132K6G,1,general,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A1OKICYG132K6G,1,general,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1OKICYG132K6G,1,general,general,Not useful,NC_22_NU,16,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A1OKICYG132K6G,1,general,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1OKICYG132K6G,1,general,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1OKICYG132K6G,1,general,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1OKICYG132K6G,1,general,third,MTurk,TB_39_MT,8,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1OKICYG132K6G,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A1OKICYG132K6G,1,general,third,Trivia,TB_04_TR,12,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1OKICYG132K6G,1,general,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1OKICYG132K6G,1,general,third,Trivia,TB_16_TR,16,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

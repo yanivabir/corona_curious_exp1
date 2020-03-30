@@ -1,0 +1,4 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A19C6T7B0H4PAQ,1,corona,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+A19C6T7B0H4PAQ,1,corona,general,Not useful,NC_23_NU,12,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A19C6T7B0H4PAQ,1,corona,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?

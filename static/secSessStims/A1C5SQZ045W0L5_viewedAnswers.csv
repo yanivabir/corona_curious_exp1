@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1C5SQZ045W0L5,1,general,corona,Not useful,C_11_NU,16,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A1C5SQZ045W0L5,1,general,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1C5SQZ045W0L5,1,general,corona,Not useful,C_25_NU,8,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A1C5SQZ045W0L5,1,general,corona,Useful,C_35_U,8,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A1C5SQZ045W0L5,1,general,corona,Useful,C_41_U,16,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A1C5SQZ045W0L5,1,general,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A1C5SQZ045W0L5,1,general,general,Not useful,NC_02_NU,12,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A1C5SQZ045W0L5,1,general,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A1C5SQZ045W0L5,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1C5SQZ045W0L5,1,general,general,Useful,NC_28_U,4,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A1C5SQZ045W0L5,1,general,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A1C5SQZ045W0L5,1,general,third,MTurk,TB_25_MT,16,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1C5SQZ045W0L5,1,general,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1C5SQZ045W0L5,1,general,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?

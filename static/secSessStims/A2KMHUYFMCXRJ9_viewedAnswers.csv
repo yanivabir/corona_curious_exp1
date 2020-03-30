@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2KMHUYFMCXRJ9,1,general,corona,Not useful,C_08_NU,12,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A2KMHUYFMCXRJ9,1,general,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2KMHUYFMCXRJ9,1,general,corona,Not useful,C_23_NU,16,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A2KMHUYFMCXRJ9,1,general,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A2KMHUYFMCXRJ9,1,general,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A2KMHUYFMCXRJ9,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A2KMHUYFMCXRJ9,1,general,general,Not useful,NC_08_NU,16,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A2KMHUYFMCXRJ9,1,general,general,Not useful,NC_15_NU,16,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A2KMHUYFMCXRJ9,1,general,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2KMHUYFMCXRJ9,1,general,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A2KMHUYFMCXRJ9,1,general,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2KMHUYFMCXRJ9,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2KMHUYFMCXRJ9,1,general,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A2KMHUYFMCXRJ9,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A2KMHUYFMCXRJ9,1,general,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2KMHUYFMCXRJ9,1,general,third,MTurk,TB_27_MT,8,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A2KMHUYFMCXRJ9,1,general,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A2KMHUYFMCXRJ9,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A2KMHUYFMCXRJ9,1,general,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A2KMHUYFMCXRJ9,1,general,third,Trivia,TB_09_TR,12,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A2KMHUYFMCXRJ9,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

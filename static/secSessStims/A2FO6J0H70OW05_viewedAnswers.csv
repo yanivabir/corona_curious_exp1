@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2FO6J0H70OW05,1,general,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+A2FO6J0H70OW05,1,general,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2FO6J0H70OW05,1,general,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A2FO6J0H70OW05,1,general,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A2FO6J0H70OW05,1,general,corona,Useful,C_45_U,16,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A2FO6J0H70OW05,1,general,corona,Useful,C_47_U,12,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A2FO6J0H70OW05,1,general,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2FO6J0H70OW05,1,general,general,Useful,NC_30_U,8,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A2FO6J0H70OW05,1,general,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A2FO6J0H70OW05,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A2FO6J0H70OW05,1,general,general,Useful,NC_52_U,16,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A2FO6J0H70OW05,1,general,third,MTurk,TB_35_MT,12,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2FO6J0H70OW05,1,general,third,MTurk,TB_39_MT,12,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A2FO6J0H70OW05,1,general,third,MTurk,TB_43_MT,16,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A2FO6J0H70OW05,1,general,third,Trivia,TB_14_TR,8,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A2FO6J0H70OW05,1,general,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A2FO6J0H70OW05,1,general,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?
+A2FO6J0H70OW05,1,general,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

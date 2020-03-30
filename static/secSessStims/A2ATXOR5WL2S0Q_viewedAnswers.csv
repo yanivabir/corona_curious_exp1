@@ -1,0 +1,8 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2ATXOR5WL2S0Q,1,corona,corona,Not useful,C_09_NU,12,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A2ATXOR5WL2S0Q,1,corona,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A2ATXOR5WL2S0Q,1,corona,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+A2ATXOR5WL2S0Q,1,corona,general,Useful,NC_46_U,12,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A2ATXOR5WL2S0Q,1,corona,third,MTurk,TB_27_MT,8,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A2ATXOR5WL2S0Q,1,corona,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A2ATXOR5WL2S0Q,1,corona,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?

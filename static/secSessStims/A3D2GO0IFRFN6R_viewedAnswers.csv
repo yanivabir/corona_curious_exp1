@@ -1,0 +1,28 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3D2GO0IFRFN6R,1,general,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A3D2GO0IFRFN6R,1,general,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A3D2GO0IFRFN6R,1,general,corona,Useful,C_29_U,16,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A3D2GO0IFRFN6R,1,general,corona,Useful,C_38_U,12,People of all ages can be infected by the new coronavirus. Older people appear to be more vulnerable to becoming severely ill with the virus.,"Does the new coronavirus affect older people, or are younger people also susceptible?"
+A3D2GO0IFRFN6R,1,general,corona,Useful,C_40_U,4,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A3D2GO0IFRFN6R,1,general,corona,Useful,C_42_U,16,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A3D2GO0IFRFN6R,1,general,corona,Useful,C_45_U,8,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A3D2GO0IFRFN6R,1,general,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A3D2GO0IFRFN6R,1,general,general,Not useful,NC_05_NU,12,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A3D2GO0IFRFN6R,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3D2GO0IFRFN6R,1,general,general,Not useful,NC_26_NU,8,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_42_U,4,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_45_U,4,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_46_U,8,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A3D2GO0IFRFN6R,1,general,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A3D2GO0IFRFN6R,1,general,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A3D2GO0IFRFN6R,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A3D2GO0IFRFN6R,1,general,third,MTurk,TB_40_MT,4,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A3D2GO0IFRFN6R,1,general,third,MTurk,TB_43_MT,8,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A3D2GO0IFRFN6R,1,general,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A3D2GO0IFRFN6R,1,general,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3D2GO0IFRFN6R,1,general,third,Trivia,TB_18_TR,8,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A3D2GO0IFRFN6R,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

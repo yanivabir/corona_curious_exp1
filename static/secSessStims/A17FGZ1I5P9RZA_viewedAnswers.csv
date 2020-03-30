@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A17FGZ1I5P9RZA,1,general,corona,Not useful,C_13_NU,16,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A17FGZ1I5P9RZA,1,general,corona,Not useful,C_17_NU,8,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A17FGZ1I5P9RZA,1,general,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A17FGZ1I5P9RZA,1,general,corona,Not useful,C_25_NU,4,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A17FGZ1I5P9RZA,1,general,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A17FGZ1I5P9RZA,1,general,corona,Useful,C_36_U,16,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A17FGZ1I5P9RZA,1,general,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+A17FGZ1I5P9RZA,1,general,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A17FGZ1I5P9RZA,1,general,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A17FGZ1I5P9RZA,1,general,general,Not useful,NC_07_NU,8,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A17FGZ1I5P9RZA,1,general,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A17FGZ1I5P9RZA,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A17FGZ1I5P9RZA,1,general,general,Useful,NC_34_U,8,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A17FGZ1I5P9RZA,1,general,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A17FGZ1I5P9RZA,1,general,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A17FGZ1I5P9RZA,1,general,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A17FGZ1I5P9RZA,1,general,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A17FGZ1I5P9RZA,1,general,third,MTurk,TB_28_MT,16,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A17FGZ1I5P9RZA,1,general,third,MTurk,TB_30_MT,4,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A17FGZ1I5P9RZA,1,general,third,MTurk,TB_37_MT,16,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A17FGZ1I5P9RZA,1,general,third,Trivia,TB_07_TR,8,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A17FGZ1I5P9RZA,1,general,third,Trivia,TB_12_TR,12,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A17FGZ1I5P9RZA,1,general,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A17FGZ1I5P9RZA,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

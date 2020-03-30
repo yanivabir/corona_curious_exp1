@@ -1,0 +1,28 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ADO8L473HLPTY,1,general,corona,Not useful,C_05_NU,8,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+ADO8L473HLPTY,1,general,corona,Not useful,C_12_NU,16,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+ADO8L473HLPTY,1,general,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+ADO8L473HLPTY,1,general,corona,Not useful,C_24_NU,16,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+ADO8L473HLPTY,1,general,corona,Useful,C_30_U,4,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+ADO8L473HLPTY,1,general,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+ADO8L473HLPTY,1,general,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+ADO8L473HLPTY,1,general,corona,Useful,C_42_U,16,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+ADO8L473HLPTY,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+ADO8L473HLPTY,1,general,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+ADO8L473HLPTY,1,general,general,Not useful,NC_02_NU,4,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+ADO8L473HLPTY,1,general,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+ADO8L473HLPTY,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+ADO8L473HLPTY,1,general,general,Not useful,NC_12_NU,12,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+ADO8L473HLPTY,1,general,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+ADO8L473HLPTY,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+ADO8L473HLPTY,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+ADO8L473HLPTY,1,general,general,Useful,NC_38_U,16,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+ADO8L473HLPTY,1,general,general,Useful,NC_43_U,16,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+ADO8L473HLPTY,1,general,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+ADO8L473HLPTY,1,general,third,MTurk,TB_31_MT,16,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+ADO8L473HLPTY,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+ADO8L473HLPTY,1,general,third,MTurk,TB_39_MT,8,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+ADO8L473HLPTY,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+ADO8L473HLPTY,1,general,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+ADO8L473HLPTY,1,general,third,Trivia,TB_19_TR,16,Ketchup,The only vegetable ice cream ever produced was what flavor?
+ADO8L473HLPTY,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

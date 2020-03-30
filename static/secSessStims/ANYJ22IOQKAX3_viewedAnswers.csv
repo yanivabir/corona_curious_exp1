@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ANYJ22IOQKAX3,1,general,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+ANYJ22IOQKAX3,1,general,corona,Useful,C_33_U,12,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+ANYJ22IOQKAX3,1,general,corona,Useful,C_43_U,16,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+ANYJ22IOQKAX3,1,general,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+ANYJ22IOQKAX3,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+ANYJ22IOQKAX3,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+ANYJ22IOQKAX3,1,general,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+ANYJ22IOQKAX3,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+ANYJ22IOQKAX3,1,general,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+ANYJ22IOQKAX3,1,general,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+ANYJ22IOQKAX3,1,general,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+ANYJ22IOQKAX3,1,general,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+ANYJ22IOQKAX3,1,general,third,MTurk,TB_45_MT,12,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+ANYJ22IOQKAX3,1,general,third,Trivia,TB_03_TR,4,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+ANYJ22IOQKAX3,1,general,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+ANYJ22IOQKAX3,1,general,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?

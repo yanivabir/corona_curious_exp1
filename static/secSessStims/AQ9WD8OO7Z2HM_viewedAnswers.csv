@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AQ9WD8OO7Z2HM,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+AQ9WD8OO7Z2HM,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+AQ9WD8OO7Z2HM,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+AQ9WD8OO7Z2HM,1,corona,corona,Not useful,C_15_NU,12,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+AQ9WD8OO7Z2HM,1,corona,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+AQ9WD8OO7Z2HM,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+AQ9WD8OO7Z2HM,1,corona,corona,Useful,C_50_U,16,Washington,The first US death from the new coronavirus occurred in which state?
+AQ9WD8OO7Z2HM,1,corona,corona,Useful,C_51_U,16,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+AQ9WD8OO7Z2HM,1,corona,general,Not useful,NC_03_NU,16,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+AQ9WD8OO7Z2HM,1,corona,general,Not useful,NC_05_NU,4,Matthew,Which of the four biblical Gospels was written by a tax collector?
+AQ9WD8OO7Z2HM,1,corona,general,Not useful,NC_13_NU,4,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+AQ9WD8OO7Z2HM,1,corona,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+AQ9WD8OO7Z2HM,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+AQ9WD8OO7Z2HM,1,corona,general,Useful,NC_35_U,16,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+AQ9WD8OO7Z2HM,1,corona,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+AQ9WD8OO7Z2HM,1,corona,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+AQ9WD8OO7Z2HM,1,corona,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+AQ9WD8OO7Z2HM,1,corona,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AQ9WD8OO7Z2HM,1,corona,third,MTurk,TB_36_MT,16,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+AQ9WD8OO7Z2HM,1,corona,third,MTurk,TB_39_MT,12,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+AQ9WD8OO7Z2HM,1,corona,third,Trivia,TB_01_TR,16,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+AQ9WD8OO7Z2HM,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+AQ9WD8OO7Z2HM,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

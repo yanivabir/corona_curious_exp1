@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2R6ZZXURYYVVV,1,corona,corona,Not useful,C_03_NU,12,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A2R6ZZXURYYVVV,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A2R6ZZXURYYVVV,1,corona,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A2R6ZZXURYYVVV,1,corona,corona,Not useful,C_11_NU,16,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A2R6ZZXURYYVVV,1,corona,corona,Not useful,C_19_NU,16,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A2R6ZZXURYYVVV,1,corona,corona,Useful,C_35_U,12,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A2R6ZZXURYYVVV,1,corona,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+A2R6ZZXURYYVVV,1,corona,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A2R6ZZXURYYVVV,1,corona,general,Not useful,NC_18_NU,12,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2R6ZZXURYYVVV,1,corona,general,Useful,NC_32_U,16,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A2R6ZZXURYYVVV,1,corona,general,Useful,NC_42_U,12,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A2R6ZZXURYYVVV,1,corona,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A2R6ZZXURYYVVV,1,corona,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A2R6ZZXURYYVVV,1,corona,general,Useful,NC_51_U,12,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A2R6ZZXURYYVVV,1,corona,third,MTurk,TB_28_MT,16,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A2R6ZZXURYYVVV,1,corona,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2R6ZZXURYYVVV,1,corona,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A2R6ZZXURYYVVV,1,corona,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?
+A2R6ZZXURYYVVV,1,corona,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?
+A2R6ZZXURYYVVV,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

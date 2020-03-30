@@ -1,0 +1,11 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ADEWILWI6SVLG,1,corona,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+ADEWILWI6SVLG,1,corona,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+ADEWILWI6SVLG,1,corona,corona,Useful,C_32_U,16,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+ADEWILWI6SVLG,1,corona,corona,Useful,C_46_U,8,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+ADEWILWI6SVLG,1,corona,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+ADEWILWI6SVLG,1,corona,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+ADEWILWI6SVLG,1,corona,general,Not useful,NC_25_NU,16,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+ADEWILWI6SVLG,1,corona,general,Useful,NC_33_U,4,Below eye level,Where in the supermarket can you usually find the cheaper items?
+ADEWILWI6SVLG,1,corona,general,Useful,NC_51_U,8,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+ADEWILWI6SVLG,1,corona,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AEMQTBRPPWJTC,1,general,corona,Not useful,C_05_NU,8,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+AEMQTBRPPWJTC,1,general,corona,Not useful,C_17_NU,16,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+AEMQTBRPPWJTC,1,general,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+AEMQTBRPPWJTC,1,general,corona,Useful,C_27_U,4,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+AEMQTBRPPWJTC,1,general,corona,Useful,C_33_U,12,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+AEMQTBRPPWJTC,1,general,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+AEMQTBRPPWJTC,1,general,general,Not useful,NC_16_NU,12,Newborns,The apgar score is used to measure the color and condition of what?
+AEMQTBRPPWJTC,1,general,general,Not useful,NC_21_NU,4,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+AEMQTBRPPWJTC,1,general,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+AEMQTBRPPWJTC,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+AEMQTBRPPWJTC,1,general,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+AEMQTBRPPWJTC,1,general,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+AEMQTBRPPWJTC,1,general,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+AEMQTBRPPWJTC,1,general,third,MTurk,TB_32_MT,12,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+AEMQTBRPPWJTC,1,general,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+AEMQTBRPPWJTC,1,general,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+AEMQTBRPPWJTC,1,general,third,Trivia,TB_07_TR,12,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+AEMQTBRPPWJTC,1,general,third,Trivia,TB_12_TR,12,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+AEMQTBRPPWJTC,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,5 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A38Z5T2J8MFBL1,1,general,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A38Z5T2J8MFBL1,1,general,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A38Z5T2J8MFBL1,1,general,third,MTurk,TB_43_MT,8,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A38Z5T2J8MFBL1,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

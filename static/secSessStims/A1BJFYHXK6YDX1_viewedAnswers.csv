@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1BJFYHXK6YDX1,1,corona,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1BJFYHXK6YDX1,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A1BJFYHXK6YDX1,1,corona,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A1BJFYHXK6YDX1,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A1BJFYHXK6YDX1,1,corona,corona,Not useful,C_26_NU,12,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1BJFYHXK6YDX1,1,corona,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A1BJFYHXK6YDX1,1,corona,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A1BJFYHXK6YDX1,1,corona,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A1BJFYHXK6YDX1,1,corona,general,Not useful,NC_13_NU,8,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1BJFYHXK6YDX1,1,corona,general,Not useful,NC_21_NU,16,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A1BJFYHXK6YDX1,1,corona,general,Useful,NC_46_U,12,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A1BJFYHXK6YDX1,1,corona,third,MTurk,TB_28_MT,16,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1BJFYHXK6YDX1,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1BJFYHXK6YDX1,1,corona,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

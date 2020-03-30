@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2FL477TMKC91L,1,general,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A2FL477TMKC91L,1,general,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A2FL477TMKC91L,1,general,corona,Not useful,C_12_NU,16,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A2FL477TMKC91L,1,general,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A2FL477TMKC91L,1,general,corona,Not useful,C_18_NU,12,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2FL477TMKC91L,1,general,corona,Useful,C_42_U,4,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A2FL477TMKC91L,1,general,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A2FL477TMKC91L,1,general,corona,Useful,C_52_U,12,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A2FL477TMKC91L,1,general,general,Not useful,NC_03_NU,16,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A2FL477TMKC91L,1,general,general,Not useful,NC_09_NU,12,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A2FL477TMKC91L,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A2FL477TMKC91L,1,general,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A2FL477TMKC91L,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2FL477TMKC91L,1,general,general,Useful,NC_33_U,8,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A2FL477TMKC91L,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2FL477TMKC91L,1,general,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2FL477TMKC91L,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2FL477TMKC91L,1,general,third,MTurk,TB_35_MT,12,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2FL477TMKC91L,1,general,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A2FL477TMKC91L,1,general,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2FL477TMKC91L,1,general,third,Trivia,TB_11_TR,4,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A2FL477TMKC91L,1,general,third,Trivia,TB_12_TR,12,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2FL477TMKC91L,1,general,third,Trivia,TB_13_TR,4,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A2FL477TMKC91L,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

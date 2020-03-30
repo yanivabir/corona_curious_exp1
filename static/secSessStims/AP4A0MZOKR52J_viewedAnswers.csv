@@ -1,0 +1,19 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AP4A0MZOKR52J,1,general,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+AP4A0MZOKR52J,1,general,corona,Not useful,C_15_NU,16,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+AP4A0MZOKR52J,1,general,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+AP4A0MZOKR52J,1,general,corona,Useful,C_32_U,4,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+AP4A0MZOKR52J,1,general,corona,Useful,C_39_U,12,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+AP4A0MZOKR52J,1,general,corona,Useful,C_48_U,16,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+AP4A0MZOKR52J,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+AP4A0MZOKR52J,1,general,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+AP4A0MZOKR52J,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+AP4A0MZOKR52J,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+AP4A0MZOKR52J,1,general,general,Useful,NC_40_U,12,Squint your eyes,How do you make your smile look more genuine in photographs?
+AP4A0MZOKR52J,1,general,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+AP4A0MZOKR52J,1,general,third,MTurk,TB_27_MT,8,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+AP4A0MZOKR52J,1,general,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+AP4A0MZOKR52J,1,general,third,Trivia,TB_03_TR,8,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+AP4A0MZOKR52J,1,general,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AP4A0MZOKR52J,1,general,third,Trivia,TB_20_TR,16,Rafflesia (corpse lily),What is the largest flower in the world?
+AP4A0MZOKR52J,1,general,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

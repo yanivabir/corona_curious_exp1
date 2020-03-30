@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A37GN2WIEMKT2W,1,general,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A37GN2WIEMKT2W,1,general,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A37GN2WIEMKT2W,1,general,corona,Useful,C_27_U,12,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A37GN2WIEMKT2W,1,general,corona,Useful,C_30_U,4,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A37GN2WIEMKT2W,1,general,corona,Useful,C_44_U,4,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A37GN2WIEMKT2W,1,general,corona,Useful,C_47_U,4,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A37GN2WIEMKT2W,1,general,corona,Useful,C_48_U,8,"Regular face masks are not considered effective, and reserves need to be saved for people who are infected and for healthcare professionals.",Why does the CDC currently recommend that healthy people do not wear face masks?
+A37GN2WIEMKT2W,1,general,general,Not useful,NC_07_NU,4,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A37GN2WIEMKT2W,1,general,general,Not useful,NC_13_NU,8,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A37GN2WIEMKT2W,1,general,general,Not useful,NC_16_NU,12,Newborns,The apgar score is used to measure the color and condition of what?
+A37GN2WIEMKT2W,1,general,general,Not useful,NC_21_NU,8,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A37GN2WIEMKT2W,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A37GN2WIEMKT2W,1,general,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A37GN2WIEMKT2W,1,general,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A37GN2WIEMKT2W,1,general,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A37GN2WIEMKT2W,1,general,third,MTurk,TB_27_MT,8,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A37GN2WIEMKT2W,1,general,third,MTurk,TB_28_MT,16,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A37GN2WIEMKT2W,1,general,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A37GN2WIEMKT2W,1,general,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A37GN2WIEMKT2W,1,general,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A37GN2WIEMKT2W,1,general,third,Trivia,TB_16_TR,4,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A37GN2WIEMKT2W,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AI1AY655WGVR0,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+AI1AY655WGVR0,1,corona,corona,Not useful,C_17_NU,8,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+AI1AY655WGVR0,1,corona,corona,Useful,C_32_U,8,"Healthcare professionals treating patients, in-home caregivers, and those who are already sick with the new coronavirus",Which three groups of people does the CDC recommend masks for?
+AI1AY655WGVR0,1,corona,corona,Useful,C_33_U,16,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+AI1AY655WGVR0,1,corona,general,Not useful,NC_11_NU,8,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+AI1AY655WGVR0,1,corona,general,Not useful,NC_21_NU,8,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+AI1AY655WGVR0,1,corona,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+AI1AY655WGVR0,1,corona,general,Useful,NC_28_U,12,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+AI1AY655WGVR0,1,corona,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+AI1AY655WGVR0,1,corona,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+AI1AY655WGVR0,1,corona,third,MTurk,TB_33_MT,12,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+AI1AY655WGVR0,1,corona,third,Trivia,TB_11_TR,12,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AI1AY655WGVR0,1,corona,third,Trivia,TB_13_TR,16,Java,On what namesake Asian island are the first Homo erectus fossils found?
+AI1AY655WGVR0,1,corona,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+AI1AY655WGVR0,1,corona,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+AI1AY655WGVR0,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

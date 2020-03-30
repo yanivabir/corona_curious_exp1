@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1V1JNPU0KOA3X,1,general,corona,Not useful,C_03_NU,12,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1V1JNPU0KOA3X,1,general,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1V1JNPU0KOA3X,1,general,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A1V1JNPU0KOA3X,1,general,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A1V1JNPU0KOA3X,1,general,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1V1JNPU0KOA3X,1,general,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A1V1JNPU0KOA3X,1,general,general,Not useful,NC_02_NU,16,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A1V1JNPU0KOA3X,1,general,general,Not useful,NC_04_NU,8,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A1V1JNPU0KOA3X,1,general,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1V1JNPU0KOA3X,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1V1JNPU0KOA3X,1,general,general,Useful,NC_28_U,4,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A1V1JNPU0KOA3X,1,general,general,Useful,NC_31_U,8,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1V1JNPU0KOA3X,1,general,general,Useful,NC_34_U,16,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1V1JNPU0KOA3X,1,general,general,Useful,NC_35_U,8,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A1V1JNPU0KOA3X,1,general,general,Useful,NC_41_U,4,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1V1JNPU0KOA3X,1,general,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A1V1JNPU0KOA3X,1,general,third,MTurk,TB_30_MT,12,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A1V1JNPU0KOA3X,1,general,third,MTurk,TB_39_MT,12,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1V1JNPU0KOA3X,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1V1JNPU0KOA3X,1,general,third,Trivia,TB_06_TR,12,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A1V1JNPU0KOA3X,1,general,third,Trivia,TB_15_TR,4,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A1V1JNPU0KOA3X,1,general,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2A2WK36YOPXX3,1,general,corona,Not useful,C_12_NU,8,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A2A2WK36YOPXX3,1,general,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2A2WK36YOPXX3,1,general,corona,Not useful,C_19_NU,12,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A2A2WK36YOPXX3,1,general,corona,Useful,C_28_U,16,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A2A2WK36YOPXX3,1,general,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A2A2WK36YOPXX3,1,general,corona,Useful,C_33_U,4,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A2A2WK36YOPXX3,1,general,corona,Useful,C_40_U,4,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A2A2WK36YOPXX3,1,general,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A2A2WK36YOPXX3,1,general,general,Not useful,NC_04_NU,8,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A2A2WK36YOPXX3,1,general,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A2A2WK36YOPXX3,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A2A2WK36YOPXX3,1,general,general,Not useful,NC_22_NU,16,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+A2A2WK36YOPXX3,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2A2WK36YOPXX3,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A2A2WK36YOPXX3,1,general,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A2A2WK36YOPXX3,1,general,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2A2WK36YOPXX3,1,general,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2A2WK36YOPXX3,1,general,third,MTurk,TB_40_MT,12,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A2A2WK36YOPXX3,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A2A2WK36YOPXX3,1,general,third,MTurk,TB_46_MT,4,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A2A2WK36YOPXX3,1,general,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A2A2WK36YOPXX3,1,general,third,Trivia,TB_14_TR,8,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A2A2WK36YOPXX3,1,general,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

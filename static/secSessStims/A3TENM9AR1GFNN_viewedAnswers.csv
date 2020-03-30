@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3TENM9AR1GFNN,1,corona,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A3TENM9AR1GFNN,1,corona,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A3TENM9AR1GFNN,1,corona,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A3TENM9AR1GFNN,1,corona,corona,Not useful,C_20_NU,4,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A3TENM9AR1GFNN,1,corona,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A3TENM9AR1GFNN,1,corona,corona,Useful,C_41_U,4,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A3TENM9AR1GFNN,1,corona,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A3TENM9AR1GFNN,1,corona,general,Not useful,NC_12_NU,16,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A3TENM9AR1GFNN,1,corona,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A3TENM9AR1GFNN,1,corona,general,Not useful,NC_26_NU,16,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A3TENM9AR1GFNN,1,corona,general,Useful,NC_31_U,12,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A3TENM9AR1GFNN,1,corona,general,Useful,NC_32_U,4,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A3TENM9AR1GFNN,1,corona,general,Useful,NC_47_U,12,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A3TENM9AR1GFNN,1,corona,third,MTurk,TB_32_MT,16,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A3TENM9AR1GFNN,1,corona,third,MTurk,TB_37_MT,8,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A3TENM9AR1GFNN,1,corona,third,MTurk,TB_40_MT,12,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A3TENM9AR1GFNN,1,corona,third,MTurk,TB_43_MT,8,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A3TENM9AR1GFNN,1,corona,third,Trivia,TB_16_TR,8,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A3TENM9AR1GFNN,1,corona,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AQOXSP4W3ITSW,1,corona,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+AQOXSP4W3ITSW,1,corona,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+AQOXSP4W3ITSW,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+AQOXSP4W3ITSW,1,corona,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+AQOXSP4W3ITSW,1,corona,corona,Not useful,C_21_NU,4,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+AQOXSP4W3ITSW,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+AQOXSP4W3ITSW,1,corona,corona,Useful,C_43_U,12,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+AQOXSP4W3ITSW,1,corona,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+AQOXSP4W3ITSW,1,corona,general,Not useful,NC_04_NU,16,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+AQOXSP4W3ITSW,1,corona,general,Not useful,NC_11_NU,12,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+AQOXSP4W3ITSW,1,corona,general,Not useful,NC_17_NU,12,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+AQOXSP4W3ITSW,1,corona,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AQOXSP4W3ITSW,1,corona,general,Useful,NC_31_U,16,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+AQOXSP4W3ITSW,1,corona,general,Useful,NC_42_U,8,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+AQOXSP4W3ITSW,1,corona,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+AQOXSP4W3ITSW,1,corona,third,MTurk,TB_38_MT,8,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+AQOXSP4W3ITSW,1,corona,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+AQOXSP4W3ITSW,1,corona,third,MTurk,TB_44_MT,8,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+AQOXSP4W3ITSW,1,corona,third,Trivia,TB_06_TR,12,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+AQOXSP4W3ITSW,1,corona,third,Trivia,TB_11_TR,12,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AQOXSP4W3ITSW,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

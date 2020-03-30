@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1QHEGQIWUO46H,1,general,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1QHEGQIWUO46H,1,general,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1QHEGQIWUO46H,1,general,corona,Not useful,C_23_NU,16,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A1QHEGQIWUO46H,1,general,corona,Useful,C_28_U,8,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A1QHEGQIWUO46H,1,general,corona,Useful,C_31_U,4,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A1QHEGQIWUO46H,1,general,corona,Useful,C_36_U,12,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1QHEGQIWUO46H,1,general,corona,Useful,C_49_U,12,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A1QHEGQIWUO46H,1,general,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A1QHEGQIWUO46H,1,general,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A1QHEGQIWUO46H,1,general,general,Not useful,NC_18_NU,16,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1QHEGQIWUO46H,1,general,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A1QHEGQIWUO46H,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A1QHEGQIWUO46H,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1QHEGQIWUO46H,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A1QHEGQIWUO46H,1,general,general,Useful,NC_38_U,12,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A1QHEGQIWUO46H,1,general,general,Useful,NC_52_U,16,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1QHEGQIWUO46H,1,general,third,MTurk,TB_36_MT,4,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A1QHEGQIWUO46H,1,general,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A1QHEGQIWUO46H,1,general,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1QHEGQIWUO46H,1,general,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1QHEGQIWUO46H,1,general,third,Trivia,TB_07_TR,12,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A1QHEGQIWUO46H,1,general,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?
+A1QHEGQIWUO46H,1,general,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A1QHEGQIWUO46H,1,general,third,Trivia,TB_21_TR,8,New York,Which state has the zip code 12345?

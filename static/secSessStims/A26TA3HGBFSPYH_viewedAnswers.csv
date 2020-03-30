@@ -1,0 +1,14 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A26TA3HGBFSPYH,1,general,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A26TA3HGBFSPYH,1,general,corona,Not useful,C_11_NU,16,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A26TA3HGBFSPYH,1,general,corona,Useful,C_44_U,12,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A26TA3HGBFSPYH,1,general,corona,Useful,C_45_U,16,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A26TA3HGBFSPYH,1,general,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A26TA3HGBFSPYH,1,general,general,Not useful,NC_15_NU,8,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A26TA3HGBFSPYH,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A26TA3HGBFSPYH,1,general,general,Useful,NC_27_U,4,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A26TA3HGBFSPYH,1,general,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A26TA3HGBFSPYH,1,general,general,Useful,NC_42_U,12,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A26TA3HGBFSPYH,1,general,third,Trivia,TB_16_TR,8,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A26TA3HGBFSPYH,1,general,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A26TA3HGBFSPYH,1,general,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

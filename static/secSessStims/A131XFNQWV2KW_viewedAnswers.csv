@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A131XFNQWV2KW,1,general,corona,Not useful,C_11_NU,12,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A131XFNQWV2KW,1,general,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A131XFNQWV2KW,1,general,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A131XFNQWV2KW,1,general,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A131XFNQWV2KW,1,general,corona,Useful,C_47_U,16,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A131XFNQWV2KW,1,general,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A131XFNQWV2KW,1,general,general,Not useful,NC_03_NU,16,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A131XFNQWV2KW,1,general,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A131XFNQWV2KW,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A131XFNQWV2KW,1,general,general,Useful,NC_30_U,12,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A131XFNQWV2KW,1,general,general,Useful,NC_31_U,4,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A131XFNQWV2KW,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A131XFNQWV2KW,1,general,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A131XFNQWV2KW,1,general,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A131XFNQWV2KW,1,general,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A131XFNQWV2KW,1,general,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A131XFNQWV2KW,1,general,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A131XFNQWV2KW,1,general,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?
+A131XFNQWV2KW,1,general,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?
