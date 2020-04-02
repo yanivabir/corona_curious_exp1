@@ -1,0 +1,4 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3CP03KUNUMEWF,1,corona,corona,Not useful,C_09_NU,16,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A3CP03KUNUMEWF,1,corona,corona,Not useful,C_19_NU,12,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3CP03KUNUMEWF,1,corona,corona,Useful,C_43_U,12,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
