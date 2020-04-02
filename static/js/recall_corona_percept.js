@@ -424,6 +424,115 @@ corona_perception_block = [fullscreen_prompt,
     scale_width: 400
   },
   {
+    type: "survey-likert",
+    data: {
+      category: "corona_percept"
+    },
+    preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div><div id='instruct'>How anxious do you feel about the following \
+    statements regarding the epidemic:</div>",
+    questions: [
+      {
+        prompt: "<div id='instruct'>The number of infected cases in the US keeps rising</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very anxious"],
+        required: true,
+        name: "corona_anx_number"
+      },
+      {
+        prompt: "<div id='instruct'>Severe constraints have been placed on everyday life due to the epidemic</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very anxious"],
+        required: true,
+        name: "corona_anx_contraint"
+      }
+      ],
+    scale_width: 400
+  },
+  {
+    type: "survey-likert",
+    preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
+    data: {
+      category: "corona_percept"
+    },
+    preamble: "<div id='instruct'>How anxious do you feel about the following \
+    statements regarding the epidemic:</div>",
+    questions: [
+      {
+        prompt: "<div id='instruct'>It is unclear when the state of emergency will be over</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very anxious"],
+        required: true,
+        name: "corona_anx_emergency"
+      },
+      {
+        prompt: "<div id='instruct'>Social distancing increasing feelings of loneliness</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very anxious"],
+        required: true,
+        name: "corona_anx_lonely"
+      },
+      {
+        prompt: "<div id='instruct'>Economic prospects have become worse due to the epidemic</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very anxious"],
+        required: true,
+        name: "corona_anx_economic"
+      }
+      ],
+    scale_width: 400
+  },
+  {
+    type: "survey-likert",
+    preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
+    data: {
+      category: "corona_percept"
+    },
+    questions: [
+      {
+        prompt: "<div id='instruct'>To what extent do you trust the quality of medical treatment available to you if you were to require it due to being infected with the new coronavirus?</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very trusting"],
+        required: true,
+        name: "corona_trust_medicine"
+      },
+      {
+        prompt: "<div id='instruct'>To what extent do you agree with the following: \"I have an optimistic outlook regarding the way events will unfold in the coming weeks\"</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very much"],
+        required: true,
+        name: "corona_optimist"
+      },
+      {
+        prompt: "<div id='instruct'>Do you find yourself able to enjoy a good book, a TV program, online browsing or social media?</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very much"],
+        required: true,
+        name: "corona_enjoy"
+      }
+      ],
+    scale_width: 400
+  },
+  {
+    type: "survey-likert",
+    preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
+    data: {
+      category: "corona_percept"
+    },
+    questions: [
+      {
+        prompt: "<div id='instruct'>On a scale of 1-5, how well do you think you're coping with the new coronavirus crisis?</div>",
+        labels: ["1<br>Very badly", "2", "3<br>", "4", "5<br>Very well"],
+        required: true,
+        name: "corona_cope"
+      },
+      {
+        prompt: "<div id='instruct'>How much support do you get from people close to you during this epidemic (including friends, online friends, parents, partner or other family members)?</div>",
+        labels: ["1<br>None at all", "2", "3<br>", "4", "5<br>A lot of support"],
+        required: true,
+        name: "corona_support"
+      },
+      {
+        prompt: "<div id='instruct'>To what extent do you agree with the following: \"The new coronviurs crisis has helped me better appreciate what I already have in life\"</div>",
+        labels: ["1<br>Not at all", "2", "3<br>", "4", "5<br>Very much"],
+        required: true,
+        name: "corona_appreciate"
+      }
+      ],
+    scale_width: 400
+  },
+  {
     type: "html-slider-response",
     stimulus: "<div id = 'instruct', class = 'recall'>What is your answer to this question <font color='Chartreuse'>right now</font>?</div>'" +
       "<div id='instruct'>What do you think the chances are that you will personally be infected with the new coronavirus?</div>",
