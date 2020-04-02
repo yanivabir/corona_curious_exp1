@@ -1,1 +1,314 @@
-var _0x3bc2=['debug','Useful','../static/third_block.csv','shuffle','beforeunload','type','slice','returnValue','probes','filter','random','../static/general_questions.csv','init','concat','ITI_next','getInteractionData','<div\x20id\x20=\x27instruct\x27><p>Once\x20you\x20press\x20the\x20<i>Next</i>\x20\x20\x20\x20\x20button,\x20your\x20results\x20will\x20be\x20uploaded\x20to\x20the\x20server,\x20and\x20the\x20experiment\x20will\x20\x20\x20\x20complete.\x20<b>This\x20may\x20take\x20several\x20minutes\x20-\x20do\x20not\x20\x20\x20\x20\x20refresh\x20or\x20close\x20your\x20browser\x20during\x20this\x20time.</b></p>\x20\x20\x20\x20<p>After\x20your\x20results\x20are\x20uploaded\x20to\x20the\x20server,\x20you\x20will\x20be\x20presented\x20\x20\x20\x20\x20with\x20the\x20completion\x20code\x20for\x20MTurk.\x20\x20\x20\x20<p>Press\x20the\x20<i>Next</i>\x20button\x20to\x20upload\x20your\x20results.</p></div>','html-keyboard-response','splice','<div\x20id=\x27instruct\x27><p>Data\x20uploading.\x20To\x20ensure\x20proper\x20completion\x20\x20\x20\x20\x20\x20\x20of\x20the\x20experiment,\x20please\x20don\x27t\x20refresh,\x20\x20\x20\x20\x20\x20\x20close\x20your\x20browser\x20or\x20open\x20another\x20tab.\x20\x20\x20\x20\x20\x20</p></div>','getURLVariable','csv','preventDefault','finishTrial','debrief','get','corona','<div\x20id=\x22instruct\x22><p>For\x20the\x20last\x20part\x20of\x20the\x20experiment,\x20we\x20ask\x20\x20\x20\x20\x20\x20\x20you\x20to\x20answer\x20a\x20few\x20questions\x20about\x20your\x20opinions\x20and\x20beliefs,\x20and\x20about\x20\x20\x20\x20\x20\x20\x20yourself.</p><p>Please\x20answer\x20these\x20questions\x20as\x20truthfully\x20and\x20accurately\x20\x20\x20\x20\x20\x20\x20as\x20possible</p></div>','data_saved','length','<div\x20id=\x27instruct\x27><p>In\x20this\x20study,\x20you\x20will\x20be\x20asked\x20to\x20complete\x20\x20\x20\x20\x20\x20\x20several\x20tasks\x20and\x20answer\x20multiple\x20questions.\x20Throughout\x20the\x20study,\x20we\x20are\x20\x20\x20\x20\x20\x20\x20interested\x20in\x20your\x20own\x20personal\x20judgments,\x20views\x20and\x20knowledge.</p>\x20\x20\x20\x20\x20\x20<p>It\x20is\x20important\x20that\x20you\x20stay\x20engaged\x20throughout\x20this\x20study.\x20We\x20will\x20\x20\x20\x20\x20\x20monitor\x20the\x20data\x20for\x20use\x20of\x20other\x20apps\x20or\x20lack\x20of\x20attention,\x20and\x20give\x20\x20\x20\x20\x20\x20\x20an\x20extra\x20$2\x20bonus\x20for\x20full\x20engagement\x20with\x20the\x20task.</p><p>Thank\x20you\x20for\x20\x20\x20\x20\x20\x20participating!</p></div>','test','<div\x20class=\x27instructions\x27><p>Your\x20results\x20have\x20successfully\x20uploaded.</p>\x20\x20\x20\x20<p>Your\x20completion\x20code\x20for\x20this\x20study\x20is:\x20<br>\x20<b>EK64HN7</b></p>\x20\x20\x20\x20<p>Use\x20it\x20to\x20submit\x20this\x20HIT\x20on\x20MTurk.</p>\x20\x20\x20\x20<p>You\x20may\x20now\x20close\x20this\x20window.</p></div>','instructions','welcome','wait_time','html-button-response','Continue','save_data','80px','NO_KEYS','MTurk','push','addEventListener','../static/corona_questions.csv','<p>This\x20study\x20runs\x20in\x20fullscreen.\x20To\x20switch\x20to\x20full\x20screen\x20mode\x20\x20\x20\x20\x20\x20\x20and\x20start\x20the\x20experiment,\x20press\x20the\x20button\x20below.</p>','compile','Not\x20useful','fullscreen','includes','_int','general','return\x20/\x22\x20+\x20this\x20+\x20\x22/','parse','data','Trivia','addProperties','pre_questionnaires_message','randomization'];(function(_0x494c8c,_0x3bc2be){var _0x8fa31d=function(_0x2a3c32){while(--_0x2a3c32){_0x494c8c['push'](_0x494c8c['shift']());}};var _0x19916f=function(){var _0x14657b={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x4b8388,_0x56457d,_0x9f1831,_0x50242a){_0x50242a=_0x50242a||{};var _0xa88585=_0x56457d+'='+_0x9f1831;var _0x1dc82b=0x0;for(var _0x5685b6=0x0,_0x2178b1=_0x4b8388['length'];_0x5685b6<_0x2178b1;_0x5685b6++){var _0x11404b=_0x4b8388[_0x5685b6];_0xa88585+=';\x20'+_0x11404b;var _0x316e0b=_0x4b8388[_0x11404b];_0x4b8388['push'](_0x316e0b);_0x2178b1=_0x4b8388['length'];if(_0x316e0b!==!![]){_0xa88585+='='+_0x316e0b;}}_0x50242a['cookie']=_0xa88585;},'removeCookie':function(){return'dev';},'getCookie':function(_0x2a02a1,_0x1db90c){_0x2a02a1=_0x2a02a1||function(_0x3d1461){return _0x3d1461;};var _0x41cef7=_0x2a02a1(new RegExp('(?:^|;\x20)'+_0x1db90c['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)'));var _0x285f09=function(_0x1a75a3,_0x4075b){_0x1a75a3(++_0x4075b);};_0x285f09(_0x8fa31d,_0x3bc2be);return _0x41cef7?decodeURIComponent(_0x41cef7[0x1]):undefined;}};var _0x542b0f=function(){var _0x1de9d1=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x1de9d1['test'](_0x14657b['removeCookie']['toString']());};_0x14657b['updateCookie']=_0x542b0f;var _0x4e85cf='';var _0x421fa8=_0x14657b['updateCookie']();if(!_0x421fa8){_0x14657b['setCookie'](['*'],'counter',0x1);}else if(_0x421fa8){_0x4e85cf=_0x14657b['getCookie'](null,'counter');}else{_0x14657b['removeCookie']();}};_0x19916f();}(_0x3bc2,0x198));var _0x8fa3=function(_0x494c8c,_0x3bc2be){_0x494c8c=_0x494c8c-0x0;var _0x8fa31d=_0x3bc2[_0x494c8c];return _0x8fa31d;};var _0x14657b=function(){var _0xbe7b1b=!![];return function(_0x50d58c,_0x443bb3){var _0x5a9d47=_0xbe7b1b?function(){if(_0x443bb3){var _0x9147a8=_0x443bb3['apply'](_0x50d58c,arguments);_0x443bb3=null;return _0x9147a8;}}:function(){};_0xbe7b1b=![];return _0x5a9d47;};}();var _0x2a3c32=_0x14657b(this,function(){var _0x35d66b=function(){var _0x505b27=_0x35d66b['constructor'](_0x8fa3('0x39'))()[_0x8fa3('0x33')]('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x505b27[_0x8fa3('0x24')](_0x2a3c32);};return _0x35d66b();});_0x2a3c32();var sess=0x1,version=1.011,n_for_covariates=0x5,n_for_practice;var images=['../static/images/wait_instructions.jpg'];var PID=jsPsych[_0x8fa3('0x0')][_0x8fa3('0x19')]('workerId'),firstBlock=Math[_0x8fa3('0xf')]()>0.5?_0x8fa3('0x1f'):_0x8fa3('0x38');var debug=PID[_0x8fa3('0x36')](_0x8fa3('0x5'));var corona_items,general_items,corona_items_curiosity,corona_items_covariate,general_items_curiosity,general_items_covariate;Papa[_0x8fa3('0x3a')](_0x8fa3('0x31'),{'download':!![],'header':!![],'dynamicTyping':!![],'complete':function(_0x2a71eb){corona_items=_0x2a71eb[_0x8fa3('0x0')];Papa[_0x8fa3('0x3a')](_0x8fa3('0x10'),{'download':!![],'header':!![],'dynamicTyping':!![],'complete':function(_0x16a53b){general_items=_0x16a53b[_0x8fa3('0x0')];Papa[_0x8fa3('0x3a')](_0x8fa3('0x7'),{'download':!![],'header':!![],'dynamicTyping':!![],'complete':function(_0x36251a){third_block_items=_0x36251a[_0x8fa3('0x0')];postLoad();}});}});}});var experiment=[];function postLoad(){if(firstBlock==_0x8fa3('0x1f')){practice_items=jsPsych[_0x8fa3('0x4')]['shuffle'](corona_items)['filter'](_0x2d59a2=>_0x2d59a2[_0x8fa3('0xa')]==_0x8fa3('0x6'))['splice'](0x0,0x1)[_0x8fa3('0x12')](jsPsych[_0x8fa3('0x4')][_0x8fa3('0x8')](corona_items)['filter'](_0x59eda6=>_0x59eda6[_0x8fa3('0xa')]==_0x8fa3('0x34'))['splice'](0x0,0x1));corona_items=corona_items[_0x8fa3('0xe')](_0x3dbc39=>!practice_items['includes'](_0x3dbc39));}else{practice_items=jsPsych[_0x8fa3('0x4')]['shuffle'](general_items)['filter'](_0x4d7a80=>_0x4d7a80['type']==_0x8fa3('0x6'))[_0x8fa3('0x17')](0x0,0x1)['concat'](jsPsych[_0x8fa3('0x4')][_0x8fa3('0x8')](general_items)[_0x8fa3('0xe')](_0x276624=>_0x276624['type']==_0x8fa3('0x34'))['splice'](0x0,0x1));general_items=general_items[_0x8fa3('0xe')](_0x1404b3=>!practice_items[_0x8fa3('0x36')](_0x1404b3));}corona_items=pseudoShuffle(corona_items,[_0x8fa3('0x6'),_0x8fa3('0x34')],0x6);general_items=pseudoShuffle(general_items,[_0x8fa3('0x6'),_0x8fa3('0x34')],0x6);third_block_items=pseudoShuffle(third_block_items,[_0x8fa3('0x1'),_0x8fa3('0x2e')],0x6);corona_items_curiosity=corona_items[_0x8fa3('0xb')](0x0,corona_items[_0x8fa3('0x22')]-n_for_covariates);corona_items_covariate=corona_items[_0x8fa3('0xb')](corona_items[_0x8fa3('0x22')]-n_for_covariates,corona_items[_0x8fa3('0x22')]);general_items_curiosity=general_items[_0x8fa3('0xb')](0x0,general_items['length']-n_for_covariates);general_items_covariate=general_items[_0x8fa3('0xb')](general_items[_0x8fa3('0x22')]-n_for_covariates,general_items[_0x8fa3('0x22')]);third_block_items_curiosity=third_block_items[_0x8fa3('0xb')](0x0,third_block_items[_0x8fa3('0x22')]-n_for_covariates);third_block_items_covariate=third_block_items['slice'](third_block_items[_0x8fa3('0x22')]-n_for_covariates,third_block_items[_0x8fa3('0x22')]);practice_items[0x0][_0x8fa3('0x28')]=waits[0x1];practice_items[0x1][_0x8fa3('0x28')]=waits[0x0];practice_items[0x0][_0x8fa3('0x13')]=Math[_0x8fa3('0xf')]()*(ITI_range[0x1]-ITI_range[0x0])+ITI_range[0x0];practice_items[0x1][_0x8fa3('0x13')]=Math[_0x8fa3('0xf')]()*(ITI_range[0x1]-ITI_range[0x0])+ITI_range[0x0];corona_items_curiosity=drawTimes(corona_items_curiosity);general_items_curiosity=drawTimes(general_items_curiosity);third_block_items_curiosity=drawTimes(third_block_items_curiosity);var _0x54b5cd={'type':_0x8fa3('0x35'),'fullscreen_mode':!![],'message':_0x8fa3('0x32'),'on_finish':function(){var _0x2541a4=document['styleSheets'][0x0];jsPsych['data'][_0x8fa3('0x2')]({'n_warnings':0x0,'PID':PID,'firstBlock':firstBlock,'sess':sess,'version':version});}};var _0x45d782={'type':_0x8fa3('0x29'),'stimulus':_0x8fa3('0x23'),'choices':[_0x8fa3('0x2a')],'margin_vertical':_0x8fa3('0x2c'),'data':{'category':_0x8fa3('0x27')},'post_trial_gap':0xc8};wait_practice_block={'timeline':wait_timeline,'timeline_variables':practice_items};wait_block1={'timeline':wait_timeline,'timeline_variables':firstBlock==_0x8fa3('0x1f')?corona_items_curiosity:general_items_curiosity};wait_block2={'timeline':wait_timeline,'timeline_variables':firstBlock==_0x8fa3('0x1f')?general_items_curiosity:corona_items_curiosity};wait_block3={'timeline':wait_timeline,'timeline_variables':third_block_items_curiosity};var _0x1792c8=corona_items_covariate[_0x8fa3('0x12')](general_items_covariate)[_0x8fa3('0x12')](third_block_items_covariate);for(i=0x0;i<_0x1792c8[_0x8fa3('0x22')];i++){_0x1792c8[i][_0x8fa3('0xd')]=jsPsych[_0x8fa3('0x4')][_0x8fa3('0x8')](covariate_probes);}var _0x5bd73a={'timeline':covariate_trial,'timeline_variables':_0x1792c8,'randomize_order':!![]};var _0x1cfd8c={'type':_0x8fa3('0x29'),'stimulus':_0x8fa3('0x20'),'choices':[_0x8fa3('0x2a')],'margin_vertical':_0x8fa3('0x2c'),'data':{'category':_0x8fa3('0x3')},'post_trial_gap':0xc8};var _0xf1502f=[{'type':_0x8fa3('0x26'),'pages':['<div\x20id=\x22instruct\x22>Thank\x20you\x20for\x20participating\x20in\x20this\x20experiment!<p>\x20\x20\x20\x20\x20\x20In\x20this\x20study\x20we\x20were\x20interested\x20in\x20people\x27s\x20curiosity\x20about\x20different\x20\x20\x20\x20\x20\x20\x20types\x20of\x20questions.</p>\x20\x20\x20\x20\x20\x20<p>Any\x20health\x20information\x20presented\x20in\x20this\x20experiment\x20was\x20based\x20on\x20the\x20\x20\x20\x20\x20\x20\x20researchers’\x20reading\x20of\x20current\x20publicly\x20available\x20information\x20from\x20the\x20\x20\x20\x20\x20\x20\x20Center\x20for\x20Disease\x20Control\x20and\x20other\x20reputable\x20health\x20and\x20news\x20media\x20\x20\x20\x20\x20\x20\x20websites\x20but\x20should\x20not\x20be\x20taken\x20as\x20medical\x20advice.\x20If\x20you\x20have\x20any\x20\x20\x20\x20\x20\x20\x20questions\x20about\x20your\x20health,\x20you\x20should\x20seek\x20the\x20judgment\x20of\x20a\x20medical\x20\x20\x20\x20\x20\x20\x20professional.</p>\x20\x20\x20\x20\x20\x20<p>We\x20will\x20process\x20your\x20data\x20within\x2048h\x20and\x20grant\x20you\x20an\x20extra\x20$2\x20to\x20any\x20\x20\x20\x20\x20\x20\x20participant\x20that\x20stayed\x20engaged\x20throughout\x20the\x20task.</p>\x20\x20\x20\x20\x20\x20<p>You\x20will\x20recieve\x20an\x20email\x20invitiation\x20for\x20the\x20next\x20session\x20early\x20next\x20week.</p>\x20\x20\x20\x20\x20\x20<p>You\x27ll\x20\x20recieve\x20$2\x20special\x20bonus\x20for\x20participating\x20in\x20another\x20session.</p></div>'],'show_clickable_nav':!![],'allow_keys':![],'data':{'category':_0x8fa3('0x1d')}},{'type':_0x8fa3('0x35'),'fullscreen_mode':![]},{'type':_0x8fa3('0x26'),'pages':[_0x8fa3('0x15')],'show_clickable_nav':!![],'allow_keys':![],'data':{'category':_0x8fa3('0x1d')}},{'type':'html-keyboard-response','data':{'category':_0x8fa3('0x2b')},'stimulus':_0x8fa3('0x18'),'choices':jsPsych[_0x8fa3('0x2d')],'on_load':function(){var _0x1247ac=new Date();saveData(PID,sess,'',jsPsych[_0x8fa3('0x0')][_0x8fa3('0x1e')]()[_0x8fa3('0x1a')](),function(){saveData(PID,sess,_0x8fa3('0x37'),jsPsych[_0x8fa3('0x0')][_0x8fa3('0x14')]()[_0x8fa3('0x1a')](),jsPsych[_0x8fa3('0x1c')]);});}},{'type':_0x8fa3('0x16'),'data':{'category':_0x8fa3('0x21')},'stimulus':_0x8fa3('0x25'),'choices':jsPsych[_0x8fa3('0x2d')]}];experiment[_0x8fa3('0x2f')](_0x54b5cd);experiment[_0x8fa3('0x2f')](_0x45d782);experiment=experiment[_0x8fa3('0x12')](wait_instructions1);experiment[_0x8fa3('0x2f')](wait_practice_block);experiment[_0x8fa3('0x2f')](wait_instructions_post_practice);experiment[_0x8fa3('0x2f')](wait_block1);experiment[_0x8fa3('0x2f')](wait_instructions2);experiment['push'](wait_block2);experiment[_0x8fa3('0x2f')](wait_instructions2);experiment[_0x8fa3('0x2f')](wait_block3);experiment[_0x8fa3('0x2f')](covariate_instructions);experiment[_0x8fa3('0x2f')](_0x5bd73a);experiment[_0x8fa3('0x2f')](forced_choice_instructions1);experiment=experiment[_0x8fa3('0x12')](forced_choice_trial);experiment[_0x8fa3('0x2f')](forced_choice_instructions2);experiment['push'](read_fact_block);experiment[_0x8fa3('0x2f')](_0x1cfd8c);experiment=experiment[_0x8fa3('0x12')](five_d);experiment=experiment[_0x8fa3('0x12')](gallup_block);experiment=experiment['concat'](anxiety);experiment=experiment[_0x8fa3('0x12')](corona_perception_block);experiment=experiment['concat'](demographic_block);experiment=experiment[_0x8fa3('0x12')](_0xf1502f);if(!debug){document[_0x8fa3('0x30')]('contextmenu',_0xe6dc7d=>_0xe6dc7d[_0x8fa3('0x1b')]());window[_0x8fa3('0x30')](_0x8fa3('0x9'),function(_0x5d31ee){_0x5d31ee['preventDefault']();_0x5d31ee[_0x8fa3('0xc')]='';});}jsPsych[_0x8fa3('0x11')]({'timeline':experiment,'preload_images':images});}
+// Parameters
+var sess = 1,
+  version = 1.011,
+  n_for_covariates = 5, // How many items to save for covariate measurement
+  n_for_practice; // How many itmes in practice block
+var images = ["../static/images/wait_instructions.jpg"];
+
+// ------- Determine subject level variables ----- //
+var PID = jsPsych.data.getURLVariable('workerId'),
+  firstBlock = Math.random() > 0.5 ? "corona" : "general";
+
+// Is this a debug run?
+var debug = PID.includes("debug");
+
+// Keep important variables in global scope for convenience
+var corona_items,
+  general_items,
+  corona_items_curiosity,
+  corona_items_covariate,
+  general_items_curiosity,
+  general_items_covariate;
+
+// Load items from local csv file
+Papa.parse("../static/corona_questions.csv", {
+  download: true,
+  header: true,
+  dynamicTyping: true,
+  complete: function(results) {
+    corona_items = results.data;
+    Papa.parse("../static/general_questions.csv", {
+      download: true,
+      header: true,
+      dynamicTyping: true,
+      complete: function(results) {
+        general_items = results.data;
+        Papa.parse("../static/third_block.csv", {
+          download: true,
+          header: true,
+          dynamicTyping: true,
+          complete: function(results) {
+            third_block_items = results.data;
+            postLoad();
+          }
+        });
+      }
+    });
+  }
+});
+
+var experiment = [];
+
+
+// Execute all of this experiment prep and run after we load items from local
+// csv file
+function postLoad() {
+
+  // Separate 2 items for practice block - one from each type
+  if (firstBlock == "corona") {
+    // Pick 1 from each type at random
+    practice_items = jsPsych.randomization.shuffle(
+      corona_items).filter(x => x['type'] == "Useful").splice(0,1).concat(
+        jsPsych.randomization.shuffle(corona_items).filter(x =>
+        x['type'] == "Not useful").splice(0,1));
+    // Remove them from corona list
+    corona_items = corona_items.filter(x => !practice_items.includes(x));
+  } else {
+    // Pick 1 from each type at random
+    practice_items = jsPsych.randomization.shuffle(
+      general_items).filter(x => x['type'] ==
+      "Useful").splice(0,1).concat(jsPsych.randomization.shuffle(general_items).filter(x =>
+        x['type'] == "Not useful").splice(0,1));
+    // Remove them from general list
+    general_items = general_items.filter(x => !practice_items.includes(x));
+  }
+
+  // Split items to curiosity and covariate ratings sets
+  corona_items = pseudoShuffle(corona_items, ["Useful", "Not useful"], 6);
+  general_items = pseudoShuffle(general_items, ["Useful", "Not useful"], 6);
+  third_block_items = pseudoShuffle(third_block_items, ["Trivia", "MTurk"], 6);
+
+  corona_items_curiosity = corona_items.slice(0,
+    corona_items.length - n_for_covariates);
+  corona_items_covariate = corona_items.slice(
+    corona_items.length - n_for_covariates, corona_items.length);
+
+  general_items_curiosity = general_items.slice(0,
+    general_items.length - n_for_covariates);
+  general_items_covariate = general_items.slice(
+    general_items.length - n_for_covariates, general_items.length);
+
+  third_block_items_curiosity = third_block_items.slice(0,
+    third_block_items.length - n_for_covariates);
+  third_block_items_covariate = third_block_items.slice(
+    third_block_items.length - n_for_covariates, third_block_items.length);
+
+  // Set timing parameters for waiting task practice block
+  practice_items[0]["wait_time"] = waits[1];
+  practice_items[1]["wait_time"] = waits[0];
+  practice_items[0]["ITI_next"] = Math.random() * (ITI_range[1] - ITI_range[0]) +
+    ITI_range[0];
+  practice_items[1]["ITI_next"] = Math.random() * (ITI_range[1] - ITI_range[0]) +
+    ITI_range[0];
+
+  // Draw timing parameters for waiting task
+  corona_items_curiosity = drawTimes(corona_items_curiosity);
+  general_items_curiosity = drawTimes(general_items_curiosity);
+  third_block_items_curiosity = drawTimes(third_block_items_curiosity);
+
+  // Fullscreen experiment, save PID, counterbalancing
+  var fullscreen = {
+    type: 'fullscreen',
+    fullscreen_mode: true,
+    message: '<p>This study runs in fullscreen. To switch to full screen mode \
+      and start the experiment, press the button below.</p>',
+    on_finish: function() {
+      // Hide mouse
+      var stylesheet = document.styleSheets[0];
+      // stylesheet.insertRule("* {cursor: none;}", stylesheet.cssRules.length);
+      jsPsych.data.addProperties({
+        n_warnings: 0,
+        PID: PID,
+        firstBlock: firstBlock,
+        sess: sess,
+        version: version
+      });
+    }
+  }
+
+  var welcome = {
+    type: "html-button-response",
+    stimulus: "<div id='instruct'><p>In this study, you will be asked to complete \
+      several tasks and answer multiple questions. Throughout the study, we are \
+      interested in your own personal judgments, views and knowledge.</p>\
+      <p>It is important that you stay engaged throughout this study. We will\
+      monitor the data for use of other apps or lack of attention, and give \
+      an extra $2 bonus for full engagement with the task.</p><p>Thank you for\
+      participating!</p></div>",
+      choices: ["Continue"],
+      margin_vertical: "80px",
+      data: {
+        category: 'welcome'
+      },
+      post_trial_gap: 200
+  }
+
+  // Build waiting task blocks
+  wait_practice_block = {
+    timeline: wait_timeline,
+    timeline_variables: practice_items
+  }
+
+  wait_block1 = {
+    timeline: wait_timeline,
+    timeline_variables: firstBlock == "corona" ? corona_items_curiosity : general_items_curiosity
+  }
+
+  wait_block2 = {
+    timeline: wait_timeline,
+    timeline_variables: firstBlock == "corona" ? general_items_curiosity : corona_items_curiosity
+  }
+
+  wait_block3 = {
+    timeline: wait_timeline,
+    timeline_variables: third_block_items_curiosity
+  }
+
+  // Building covariate rating block
+  var items_covariate = corona_items_covariate.concat(general_items_covariate).concat(third_block_items_covariate);
+
+  for (i = 0; i < items_covariate.length; i++) {
+    items_covariate[i]["probes"] =
+      jsPsych.randomization.shuffle(covariate_probes);
+  }
+
+  var covariate_block = {
+    timeline: covariate_trial,
+    timeline_variables: items_covariate,
+    randomize_order: true
+  }
+
+  var pre_questionnaires_message = {
+    type: "html-button-response",
+    stimulus: '<div id="instruct"><p>For the last part of the experiment, we ask \
+      you to answer a few questions about your opinions and beliefs, and about \
+      yourself.</p><p>Please answer these questions as truthfully and accurately \
+      as possible</p></div>',
+      choices: ["Continue"],
+      margin_vertical: "80px",
+      data: {
+        category: 'pre_questionnaires_message'
+      },
+      post_trial_gap: 200
+  }
+
+  // Debriefing and data upload
+  var debrief = [{
+      type: "instructions",
+      pages: ['<div id="instruct">Thank you for participating in this experiment!<p>\
+      In this study we were interested in people\'s curiosity about different \
+      types of questions.</p>\
+      <p>Any health information presented in this experiment was based on the \
+      researchers’ reading of current publicly available information from the \
+      Center for Disease Control and other reputable health and news media \
+      websites but should not be taken as medical advice. If you have any \
+      questions about your health, you should seek the judgment of a medical \
+      professional.</p>\
+      <p>We will process your data within 48h and grant you an extra $2 to any \
+      participant that stayed engaged throughout the task.</p>\
+      <p>You will recieve an email invitiation for the next session early next week.</p>\
+      <p>You\'ll  recieve $2 special bonus for participating in another session.</p></div>'],
+      show_clickable_nav: true,
+      allow_keys: false,
+      data: {
+        category: "debrief"
+      }
+    },
+    {
+      type: 'fullscreen',
+      fullscreen_mode: false
+    },
+    {
+      type: "instructions",
+      pages: ["<div id ='instruct'><p>Once you press the <i>Next</i> \
+    button, your results will be uploaded to the server, and the experiment will\
+    complete. <b>This may take several minutes - do not \
+    refresh or close your browser during this time.</b></p>\
+    <p>After your results are uploaded to the server, you will be presented \
+    with the completion code for MTurk.\
+    <p>Press the <i>Next</i> button to upload your results.</p></div>"],
+      show_clickable_nav: true,
+      allow_keys: false,
+      data: {
+        category: "debrief"
+      }
+    },
+    {
+      type: "html-keyboard-response",
+      data: {
+        category: "save_data"
+      },
+      stimulus: "<div id='instruct'><p>Data uploading. To ensure proper completion \
+      of the experiment, please don't refresh, \
+      close your browser or open another tab.\
+      </p></div>",
+      choices: jsPsych.NO_KEYS,
+      on_load: function() {
+        var d = new Date;
+        saveData(PID, sess, '', jsPsych.data.get().csv(),
+          function() {
+            saveData(PID, sess, '_int', jsPsych.data.getInteractionData().csv(),
+          jsPsych.finishTrial);
+          });
+      }
+    },
+    {
+      type: "html-keyboard-response",
+      data: {
+        category: "data_saved"
+      },
+      stimulus: "<div class='instructions'><p>Your results have successfully uploaded.</p>\
+    <p>Your completion code for this study is: <br> <b>EK64HN7</b></p>\
+    <p>Use it to submit this HIT on MTurk.</p>\
+    <p>You may now close this window.</p></div>",
+      choices: jsPsych.NO_KEYS
+    }
+  ];
+
+
+  // Put it all together
+  experiment.push(fullscreen);
+  experiment.push(welcome);
+  experiment = experiment.concat(wait_instructions1);
+  experiment.push(wait_practice_block);
+  experiment.push(wait_instructions_post_practice);
+  experiment.push(wait_block1);
+  experiment.push(wait_instructions2);
+  experiment.push(wait_block2);
+  experiment.push(wait_instructions2);
+  experiment.push(wait_block3);
+  experiment.push(covariate_instructions);
+  experiment.push(covariate_block);
+  experiment.push(forced_choice_instructions1);
+  experiment = experiment.concat(forced_choice_trial);
+  experiment.push(forced_choice_instructions2);
+  experiment.push(read_fact_block);
+  experiment.push(pre_questionnaires_message);
+  experiment = experiment.concat(five_d);
+  experiment = experiment.concat(gallup_block);
+  experiment = experiment.concat(anxiety);
+  experiment = experiment.concat(corona_perception_block);
+  experiment = experiment.concat(demographic_block);
+  experiment = experiment.concat(debrief);
+
+  // Prevent right click, refresh
+  if (!debug) {
+    // Prevent right-click
+    document.addEventListener('contextmenu', event => event.preventDefault());
+
+    // Prompt before refresh
+    window.addEventListener('beforeunload', function(e) {
+      // Cancel the event
+      e.preventDefault();
+      e.returnValue = '';
+    });
+
+  }
+
+  // Initiate experiment
+  jsPsych.init({
+    timeline: experiment,
+    preload_images: images
+  });
+
+}
