@@ -448,11 +448,10 @@ corona_perception_block = [fullscreen_prompt,
   },
   {
     type: "survey-likert",
-    preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div>'",
     data: {
       category: "corona_percept"
     },
-    preamble: "<div id='instruct'>How anxious do you feel about the following \
+    preamble: "<div id = 'instruct', class = 'recall'>What is your answer to these questions <font color='Chartreuse'>right now</font>?</div><div id='instruct'>How anxious do you feel about the following \
     statements regarding the epidemic:</div>",
     questions: [
       {
