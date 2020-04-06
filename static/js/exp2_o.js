@@ -210,6 +210,7 @@ function postLoad() {
   experiment = experiment.concat(recall_corona_block);
   experiment.push(pre_questionnaires_message);
   experiment = experiment.concat(gallup_block);
+  experiment = experiment.concat(resilience_quest);
   experiment = experiment.concat(anxiety);
   experiment = experiment.concat(corona_perception_block);
   experiment = experiment.concat(demographic_block);
