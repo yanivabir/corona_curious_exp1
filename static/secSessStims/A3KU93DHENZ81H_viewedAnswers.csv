@@ -1,0 +1,3 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3KU93DHENZ81H,1,corona,corona,Not useful,C_04_NU,8,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A3KU93DHENZ81H,1,corona,corona,Useful,C_35_U,8,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
