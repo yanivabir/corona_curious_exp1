@@ -1,0 +1,13 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3HRK1AVZ4QSYL,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A3HRK1AVZ4QSYL,1,general,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A3HRK1AVZ4QSYL,1,general,corona,Not useful,C_23_NU,4,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A3HRK1AVZ4QSYL,1,general,general,Not useful,NC_19_NU,8,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A3HRK1AVZ4QSYL,1,general,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A3HRK1AVZ4QSYL,1,general,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A3HRK1AVZ4QSYL,1,general,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3HRK1AVZ4QSYL,1,general,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A3HRK1AVZ4QSYL,1,general,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A3HRK1AVZ4QSYL,1,general,third,Trivia,TB_14_TR,12,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A3HRK1AVZ4QSYL,1,general,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A3HRK1AVZ4QSYL,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?
