@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A913XJIOPVVD9,1,general,corona,Not useful,C_05_NU,16,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A913XJIOPVVD9,1,general,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A913XJIOPVVD9,1,general,corona,Useful,C_28_U,16,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A913XJIOPVVD9,1,general,corona,Useful,C_29_U,12,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A913XJIOPVVD9,1,general,corona,Useful,C_39_U,12,"No, antibiotics do not work against viruses, only bacteria.",Are antibiotics effective in preventing and treating the new coronavirus?
+A913XJIOPVVD9,1,general,corona,Useful,C_42_U,4,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A913XJIOPVVD9,1,general,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A913XJIOPVVD9,1,general,general,Useful,NC_35_U,8,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A913XJIOPVVD9,1,general,general,Useful,NC_39_U,12,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A913XJIOPVVD9,1,general,general,Useful,NC_50_U,16,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A913XJIOPVVD9,1,general,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A913XJIOPVVD9,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A913XJIOPVVD9,1,general,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A913XJIOPVVD9,1,general,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A913XJIOPVVD9,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?
+A913XJIOPVVD9,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

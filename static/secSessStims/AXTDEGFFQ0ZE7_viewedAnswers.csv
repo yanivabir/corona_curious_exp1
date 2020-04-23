@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AXTDEGFFQ0ZE7,1,general,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+AXTDEGFFQ0ZE7,1,general,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+AXTDEGFFQ0ZE7,1,general,corona,Not useful,C_19_NU,4,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+AXTDEGFFQ0ZE7,1,general,corona,Not useful,C_25_NU,16,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+AXTDEGFFQ0ZE7,1,general,corona,Useful,C_49_U,12,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+AXTDEGFFQ0ZE7,1,general,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+AXTDEGFFQ0ZE7,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AXTDEGFFQ0ZE7,1,general,general,Not useful,NC_24_NU,12,State quarters,What's been released five times a year from January 1999 to fall 2008?
+AXTDEGFFQ0ZE7,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+AXTDEGFFQ0ZE7,1,general,general,Useful,NC_31_U,8,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+AXTDEGFFQ0ZE7,1,general,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+AXTDEGFFQ0ZE7,1,general,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+AXTDEGFFQ0ZE7,1,general,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+AXTDEGFFQ0ZE7,1,general,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+AXTDEGFFQ0ZE7,1,general,third,MTurk,TB_45_MT,4,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+AXTDEGFFQ0ZE7,1,general,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

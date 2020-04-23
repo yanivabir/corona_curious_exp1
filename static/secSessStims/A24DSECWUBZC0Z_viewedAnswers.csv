@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A24DSECWUBZC0Z,1,corona,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+A24DSECWUBZC0Z,1,corona,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A24DSECWUBZC0Z,1,corona,corona,Not useful,C_15_NU,12,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A24DSECWUBZC0Z,1,corona,corona,Not useful,C_17_NU,16,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A24DSECWUBZC0Z,1,corona,corona,Not useful,C_19_NU,16,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A24DSECWUBZC0Z,1,corona,corona,Not useful,C_25_NU,12,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A24DSECWUBZC0Z,1,corona,general,Not useful,NC_06_NU,16,David Livingstone,Who discovered the Victoria Falls?
+A24DSECWUBZC0Z,1,corona,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A24DSECWUBZC0Z,1,corona,general,Not useful,NC_11_NU,16,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A24DSECWUBZC0Z,1,corona,general,Useful,NC_27_U,16,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A24DSECWUBZC0Z,1,corona,general,Useful,NC_43_U,12,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A24DSECWUBZC0Z,1,corona,third,MTurk,TB_31_MT,12,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A24DSECWUBZC0Z,1,corona,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A24DSECWUBZC0Z,1,corona,third,Trivia,TB_14_TR,16,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A24DSECWUBZC0Z,1,corona,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A24DSECWUBZC0Z,1,corona,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

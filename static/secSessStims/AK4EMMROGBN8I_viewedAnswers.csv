@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AK4EMMROGBN8I,1,general,corona,Not useful,C_10_NU,4,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+AK4EMMROGBN8I,1,general,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+AK4EMMROGBN8I,1,general,corona,Not useful,C_21_NU,4,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+AK4EMMROGBN8I,1,general,corona,Useful,C_27_U,12,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+AK4EMMROGBN8I,1,general,corona,Useful,C_28_U,4,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+AK4EMMROGBN8I,1,general,corona,Useful,C_29_U,16,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AK4EMMROGBN8I,1,general,corona,Useful,C_30_U,12,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+AK4EMMROGBN8I,1,general,general,Not useful,NC_05_NU,16,Matthew,Which of the four biblical Gospels was written by a tax collector?
+AK4EMMROGBN8I,1,general,general,Not useful,NC_07_NU,8,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+AK4EMMROGBN8I,1,general,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+AK4EMMROGBN8I,1,general,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+AK4EMMROGBN8I,1,general,general,Not useful,NC_14_NU,16,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+AK4EMMROGBN8I,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+AK4EMMROGBN8I,1,general,general,Useful,NC_37_U,12,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+AK4EMMROGBN8I,1,general,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+AK4EMMROGBN8I,1,general,general,Useful,NC_47_U,16,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+AK4EMMROGBN8I,1,general,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+AK4EMMROGBN8I,1,general,third,MTurk,TB_30_MT,8,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+AK4EMMROGBN8I,1,general,third,MTurk,TB_35_MT,8,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AK4EMMROGBN8I,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+AK4EMMROGBN8I,1,general,third,Trivia,TB_01_TR,12,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+AK4EMMROGBN8I,1,general,third,Trivia,TB_13_TR,8,Java,On what namesake Asian island are the first Homo erectus fossils found?
+AK4EMMROGBN8I,1,general,third,Trivia,TB_14_TR,12,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+AK4EMMROGBN8I,1,general,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?
+AK4EMMROGBN8I,1,general,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

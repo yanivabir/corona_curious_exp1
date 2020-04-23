@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1FJINS24NQMIE,1,general,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A1FJINS24NQMIE,1,general,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1FJINS24NQMIE,1,general,corona,Not useful,C_23_NU,8,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A1FJINS24NQMIE,1,general,corona,Useful,C_31_U,12,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A1FJINS24NQMIE,1,general,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A1FJINS24NQMIE,1,general,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A1FJINS24NQMIE,1,general,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1FJINS24NQMIE,1,general,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A1FJINS24NQMIE,1,general,general,Not useful,NC_11_NU,16,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A1FJINS24NQMIE,1,general,general,Not useful,NC_12_NU,12,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A1FJINS24NQMIE,1,general,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1FJINS24NQMIE,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A1FJINS24NQMIE,1,general,general,Useful,NC_31_U,8,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1FJINS24NQMIE,1,general,general,Useful,NC_43_U,16,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A1FJINS24NQMIE,1,general,general,Useful,NC_52_U,4,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A1FJINS24NQMIE,1,general,third,MTurk,TB_25_MT,12,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A1FJINS24NQMIE,1,general,third,MTurk,TB_42_MT,12,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1FJINS24NQMIE,1,general,third,MTurk,TB_46_MT,16,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A1FJINS24NQMIE,1,general,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A1FJINS24NQMIE,1,general,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A1FJINS24NQMIE,1,general,third,Trivia,TB_12_TR,12,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A1FJINS24NQMIE,1,general,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?

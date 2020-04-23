@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2FIMENJ9UMN7M,1,general,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A2FIMENJ9UMN7M,1,general,corona,Not useful,C_17_NU,8,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2FIMENJ9UMN7M,1,general,corona,Not useful,C_25_NU,12,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+A2FIMENJ9UMN7M,1,general,corona,Useful,C_28_U,4,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A2FIMENJ9UMN7M,1,general,corona,Useful,C_45_U,16,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A2FIMENJ9UMN7M,1,general,general,Not useful,NC_04_NU,4,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A2FIMENJ9UMN7M,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A2FIMENJ9UMN7M,1,general,general,Not useful,NC_12_NU,12,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A2FIMENJ9UMN7M,1,general,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A2FIMENJ9UMN7M,1,general,general,Not useful,NC_24_NU,16,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2FIMENJ9UMN7M,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2FIMENJ9UMN7M,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A2FIMENJ9UMN7M,1,general,general,Useful,NC_46_U,4,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A2FIMENJ9UMN7M,1,general,general,Useful,NC_50_U,12,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A2FIMENJ9UMN7M,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A2FIMENJ9UMN7M,1,general,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2FIMENJ9UMN7M,1,general,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A2FIMENJ9UMN7M,1,general,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A2FIMENJ9UMN7M,1,general,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?
+A2FIMENJ9UMN7M,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

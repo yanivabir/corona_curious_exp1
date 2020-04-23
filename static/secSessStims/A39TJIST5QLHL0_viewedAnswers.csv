@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A39TJIST5QLHL0,1,general,corona,Not useful,C_02_NU,8,Three ,How many pandemics were there in the 20th century?
+A39TJIST5QLHL0,1,general,corona,Not useful,C_13_NU,16,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A39TJIST5QLHL0,1,general,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A39TJIST5QLHL0,1,general,corona,Not useful,C_21_NU,12,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A39TJIST5QLHL0,1,general,corona,Useful,C_32_U,8,"In public settings where other social distancing measures are difficult to maintain (e.g., grocery stores and pharmacies).",The CDC recommend people wear cloth masks in what situations?
+A39TJIST5QLHL0,1,general,corona,Useful,C_42_U,4,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A39TJIST5QLHL0,1,general,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A39TJIST5QLHL0,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A39TJIST5QLHL0,1,general,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A39TJIST5QLHL0,1,general,general,Not useful,NC_21_NU,4,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A39TJIST5QLHL0,1,general,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A39TJIST5QLHL0,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A39TJIST5QLHL0,1,general,general,Useful,NC_28_U,12,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A39TJIST5QLHL0,1,general,general,Useful,NC_33_U,8,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A39TJIST5QLHL0,1,general,general,Useful,NC_47_U,4,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A39TJIST5QLHL0,1,general,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A39TJIST5QLHL0,1,general,third,MTurk,TB_32_MT,8,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A39TJIST5QLHL0,1,general,third,MTurk,TB_34_MT,16,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A39TJIST5QLHL0,1,general,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A39TJIST5QLHL0,1,general,third,Trivia,TB_17_TR,8,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A39TJIST5QLHL0,1,general,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

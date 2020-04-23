@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AFTFOBESP6XUB,1,general,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+AFTFOBESP6XUB,1,general,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+AFTFOBESP6XUB,1,general,corona,Not useful,C_13_NU,12,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+AFTFOBESP6XUB,1,general,corona,Not useful,C_22_NU,12,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+AFTFOBESP6XUB,1,general,corona,Not useful,C_24_NU,8,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+AFTFOBESP6XUB,1,general,corona,Useful,C_29_U,8,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+AFTFOBESP6XUB,1,general,general,Not useful,NC_01_NU,12,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+AFTFOBESP6XUB,1,general,general,Not useful,NC_02_NU,8,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+AFTFOBESP6XUB,1,general,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+AFTFOBESP6XUB,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+AFTFOBESP6XUB,1,general,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+AFTFOBESP6XUB,1,general,general,Useful,NC_27_U,8,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+AFTFOBESP6XUB,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+AFTFOBESP6XUB,1,general,general,Useful,NC_42_U,16,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+AFTFOBESP6XUB,1,general,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+AFTFOBESP6XUB,1,general,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+AFTFOBESP6XUB,1,general,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+AFTFOBESP6XUB,1,general,third,MTurk,TB_46_MT,8,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+AFTFOBESP6XUB,1,general,third,Trivia,TB_11_TR,8,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+AFTFOBESP6XUB,1,general,third,Trivia,TB_19_TR,12,Ketchup,The only vegetable ice cream ever produced was what flavor?
+AFTFOBESP6XUB,1,general,third,Trivia,TB_20_TR,12,Rafflesia (corpse lily),What is the largest flower in the world?

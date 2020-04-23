@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1NHTBY5YB9JH7,1,general,corona,Not useful,C_03_NU,8,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1NHTBY5YB9JH7,1,general,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A1NHTBY5YB9JH7,1,general,corona,Not useful,C_20_NU,4,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A1NHTBY5YB9JH7,1,general,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A1NHTBY5YB9JH7,1,general,general,Not useful,NC_08_NU,12,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A1NHTBY5YB9JH7,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A1NHTBY5YB9JH7,1,general,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1NHTBY5YB9JH7,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A1NHTBY5YB9JH7,1,general,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A1NHTBY5YB9JH7,1,general,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A1NHTBY5YB9JH7,1,general,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A1NHTBY5YB9JH7,1,general,third,MTurk,TB_43_MT,12,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1NHTBY5YB9JH7,1,general,third,Trivia,TB_14_TR,8,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A1NHTBY5YB9JH7,1,general,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A1NHTBY5YB9JH7,1,general,third,Trivia,TB_19_TR,16,Ketchup,The only vegetable ice cream ever produced was what flavor?

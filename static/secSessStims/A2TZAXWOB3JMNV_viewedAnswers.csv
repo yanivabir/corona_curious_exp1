@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2TZAXWOB3JMNV,1,corona,corona,Not useful,C_07_NU,4,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A2TZAXWOB3JMNV,1,corona,corona,Not useful,C_12_NU,4,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A2TZAXWOB3JMNV,1,corona,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A2TZAXWOB3JMNV,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A2TZAXWOB3JMNV,1,corona,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+A2TZAXWOB3JMNV,1,corona,general,Not useful,NC_13_NU,8,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2TZAXWOB3JMNV,1,corona,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A2TZAXWOB3JMNV,1,corona,general,Useful,NC_29_U,4,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A2TZAXWOB3JMNV,1,corona,general,Useful,NC_44_U,16,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2TZAXWOB3JMNV,1,corona,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A2TZAXWOB3JMNV,1,corona,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A2TZAXWOB3JMNV,1,corona,third,Trivia,TB_14_TR,8,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A2TZAXWOB3JMNV,1,corona,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A2TZAXWOB3JMNV,1,corona,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?

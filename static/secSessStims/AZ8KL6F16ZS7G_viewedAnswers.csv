@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AZ8KL6F16ZS7G,1,corona,corona,Not useful,C_02_NU,12,Three ,How many pandemics were there in the 20th century?
+AZ8KL6F16ZS7G,1,corona,corona,Not useful,C_17_NU,16,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+AZ8KL6F16ZS7G,1,corona,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+AZ8KL6F16ZS7G,1,corona,corona,Not useful,C_25_NU,16,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+AZ8KL6F16ZS7G,1,corona,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+AZ8KL6F16ZS7G,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+AZ8KL6F16ZS7G,1,corona,corona,Useful,C_49_U,16,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+AZ8KL6F16ZS7G,1,corona,corona,Useful,C_52_U,4,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+AZ8KL6F16ZS7G,1,corona,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+AZ8KL6F16ZS7G,1,corona,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+AZ8KL6F16ZS7G,1,corona,general,Not useful,NC_19_NU,16,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+AZ8KL6F16ZS7G,1,corona,general,Not useful,NC_21_NU,8,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+AZ8KL6F16ZS7G,1,corona,general,Not useful,NC_25_NU,4,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+AZ8KL6F16ZS7G,1,corona,general,Useful,NC_29_U,4,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+AZ8KL6F16ZS7G,1,corona,general,Useful,NC_33_U,4,Below eye level,Where in the supermarket can you usually find the cheaper items?
+AZ8KL6F16ZS7G,1,corona,general,Useful,NC_46_U,12,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+AZ8KL6F16ZS7G,1,corona,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+AZ8KL6F16ZS7G,1,corona,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+AZ8KL6F16ZS7G,1,corona,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+AZ8KL6F16ZS7G,1,corona,third,Trivia,TB_05_TR,16,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+AZ8KL6F16ZS7G,1,corona,third,Trivia,TB_15_TR,12,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+AZ8KL6F16ZS7G,1,corona,third,Trivia,TB_16_TR,16,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

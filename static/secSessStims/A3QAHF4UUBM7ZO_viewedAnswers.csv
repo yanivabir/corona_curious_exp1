@@ -1,0 +1,26 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3QAHF4UUBM7ZO,1,general,corona,Not useful,C_03_NU,4,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A3QAHF4UUBM7ZO,1,general,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A3QAHF4UUBM7ZO,1,general,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A3QAHF4UUBM7ZO,1,general,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A3QAHF4UUBM7ZO,1,general,corona,Useful,C_32_U,8,"In public settings where other social distancing measures are difficult to maintain (e.g., grocery stores and pharmacies).",The CDC recommend people wear cloth masks in what situations?
+A3QAHF4UUBM7ZO,1,general,corona,Useful,C_34_U,8,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A3QAHF4UUBM7ZO,1,general,corona,Useful,C_43_U,4,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+A3QAHF4UUBM7ZO,1,general,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A3QAHF4UUBM7ZO,1,general,corona,Useful,C_49_U,12,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A3QAHF4UUBM7ZO,1,general,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A3QAHF4UUBM7ZO,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A3QAHF4UUBM7ZO,1,general,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A3QAHF4UUBM7ZO,1,general,general,Not useful,NC_14_NU,16,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A3QAHF4UUBM7ZO,1,general,general,Useful,NC_28_U,12,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A3QAHF4UUBM7ZO,1,general,general,Useful,NC_29_U,8,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A3QAHF4UUBM7ZO,1,general,general,Useful,NC_35_U,8,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A3QAHF4UUBM7ZO,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3QAHF4UUBM7ZO,1,general,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A3QAHF4UUBM7ZO,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A3QAHF4UUBM7ZO,1,general,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A3QAHF4UUBM7ZO,1,general,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A3QAHF4UUBM7ZO,1,general,third,Trivia,TB_14_TR,4,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A3QAHF4UUBM7ZO,1,general,third,Trivia,TB_16_TR,8,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A3QAHF4UUBM7ZO,1,general,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?
+A3QAHF4UUBM7ZO,1,general,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

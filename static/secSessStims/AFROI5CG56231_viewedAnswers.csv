@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AFROI5CG56231,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+AFROI5CG56231,1,corona,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+AFROI5CG56231,1,corona,general,Not useful,NC_07_NU,4,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+AFROI5CG56231,1,corona,general,Not useful,NC_10_NU,16,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+AFROI5CG56231,1,corona,general,Not useful,NC_22_NU,8,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+AFROI5CG56231,1,corona,general,Useful,NC_41_U,4,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+AFROI5CG56231,1,corona,third,Trivia,TB_02_TR,12,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+AFROI5CG56231,1,corona,third,Trivia,TB_05_TR,12,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+AFROI5CG56231,1,corona,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A30XJHY5V549VC,1,corona,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A30XJHY5V549VC,1,corona,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A30XJHY5V549VC,1,corona,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A30XJHY5V549VC,1,corona,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A30XJHY5V549VC,1,corona,corona,Not useful,C_22_NU,16,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A30XJHY5V549VC,1,corona,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+A30XJHY5V549VC,1,corona,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A30XJHY5V549VC,1,corona,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A30XJHY5V549VC,1,corona,general,Not useful,NC_12_NU,8,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A30XJHY5V549VC,1,corona,general,Not useful,NC_14_NU,12,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A30XJHY5V549VC,1,corona,general,Not useful,NC_15_NU,12,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A30XJHY5V549VC,1,corona,general,Useful,NC_28_U,16,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A30XJHY5V549VC,1,corona,general,Useful,NC_32_U,12,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A30XJHY5V549VC,1,corona,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A30XJHY5V549VC,1,corona,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A30XJHY5V549VC,1,corona,third,MTurk,TB_45_MT,4,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A30XJHY5V549VC,1,corona,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A30XJHY5V549VC,1,corona,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A30XJHY5V549VC,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A30XJHY5V549VC,1,corona,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

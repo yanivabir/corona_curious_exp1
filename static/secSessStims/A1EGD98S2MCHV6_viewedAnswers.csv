@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1EGD98S2MCHV6,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A1EGD98S2MCHV6,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1EGD98S2MCHV6,1,corona,corona,Not useful,C_09_NU,16,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A1EGD98S2MCHV6,1,corona,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1EGD98S2MCHV6,1,corona,corona,Useful,C_30_U,8,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A1EGD98S2MCHV6,1,corona,corona,Useful,C_48_U,4,Reserves need to be saved for people who are infected and for healthcare professionals.,Why does the CDC currently recommend that healthy people do not wear N95 face masks?
+A1EGD98S2MCHV6,1,corona,general,Not useful,NC_04_NU,16,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A1EGD98S2MCHV6,1,corona,general,Not useful,NC_14_NU,12,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A1EGD98S2MCHV6,1,corona,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A1EGD98S2MCHV6,1,corona,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+A1EGD98S2MCHV6,1,corona,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1EGD98S2MCHV6,1,corona,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1EGD98S2MCHV6,1,corona,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1EGD98S2MCHV6,1,corona,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A1EGD98S2MCHV6,1,corona,third,Trivia,TB_10_TR,12,George VI,Who was the last British Monarch to also be an emperor?
+A1EGD98S2MCHV6,1,corona,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A1EGD98S2MCHV6,1,corona,third,Trivia,TB_16_TR,4,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

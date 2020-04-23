@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ABOS7T84U3WNI,1,corona,corona,Not useful,C_10_NU,12,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+ABOS7T84U3WNI,1,corona,corona,Useful,C_34_U,4,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+ABOS7T84U3WNI,1,corona,general,Not useful,NC_01_NU,4,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+ABOS7T84U3WNI,1,corona,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+ABOS7T84U3WNI,1,corona,third,MTurk,TB_24_MT,4,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+ABOS7T84U3WNI,1,corona,third,MTurk,TB_28_MT,12,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+ABOS7T84U3WNI,1,corona,third,Trivia,TB_04_TR,4,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+ABOS7T84U3WNI,1,corona,third,Trivia,TB_10_TR,4,George VI,Who was the last British Monarch to also be an emperor?
+ABOS7T84U3WNI,1,corona,third,Trivia,TB_21_TR,8,New York,Which state has the zip code 12345?

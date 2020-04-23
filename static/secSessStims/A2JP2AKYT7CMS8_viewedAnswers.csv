@@ -1,0 +1,30 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2JP2AKYT7CMS8,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A2JP2AKYT7CMS8,1,corona,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2JP2AKYT7CMS8,1,corona,corona,Not useful,C_21_NU,4,An epidemic that has spread around the world,An epidemic is the outbreak of a disease that affects many people at the same time. What does pandemic mean?
+A2JP2AKYT7CMS8,1,corona,corona,Not useful,C_22_NU,8,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A2JP2AKYT7CMS8,1,corona,corona,Not useful,C_23_NU,16,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A2JP2AKYT7CMS8,1,corona,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A2JP2AKYT7CMS8,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A2JP2AKYT7CMS8,1,corona,corona,Useful,C_35_U,16,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A2JP2AKYT7CMS8,1,corona,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A2JP2AKYT7CMS8,1,corona,corona,Useful,C_44_U,4,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A2JP2AKYT7CMS8,1,corona,corona,Useful,C_47_U,16,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A2JP2AKYT7CMS8,1,corona,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A2JP2AKYT7CMS8,1,corona,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A2JP2AKYT7CMS8,1,corona,general,Not useful,NC_14_NU,16,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A2JP2AKYT7CMS8,1,corona,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A2JP2AKYT7CMS8,1,corona,general,Not useful,NC_20_NU,8,Russia,Which country has the most public libraries?
+A2JP2AKYT7CMS8,1,corona,general,Useful,NC_29_U,4,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A2JP2AKYT7CMS8,1,corona,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2JP2AKYT7CMS8,1,corona,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A2JP2AKYT7CMS8,1,corona,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+A2JP2AKYT7CMS8,1,corona,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A2JP2AKYT7CMS8,1,corona,third,MTurk,TB_40_MT,4,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A2JP2AKYT7CMS8,1,corona,third,MTurk,TB_41_MT,16,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2JP2AKYT7CMS8,1,corona,third,MTurk,TB_42_MT,4,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A2JP2AKYT7CMS8,1,corona,third,Trivia,TB_01_TR,16,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A2JP2AKYT7CMS8,1,corona,third,Trivia,TB_09_TR,8,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A2JP2AKYT7CMS8,1,corona,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?
+A2JP2AKYT7CMS8,1,corona,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2JP2AKYT7CMS8,1,corona,third,Trivia,TB_20_TR,12,Rafflesia (corpse lily),What is the largest flower in the world?

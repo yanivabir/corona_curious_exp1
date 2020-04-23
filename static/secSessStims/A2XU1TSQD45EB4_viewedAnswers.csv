@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2XU1TSQD45EB4,1,corona,corona,Not useful,C_08_NU,12,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A2XU1TSQD45EB4,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+A2XU1TSQD45EB4,1,corona,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2XU1TSQD45EB4,1,corona,corona,Not useful,C_22_NU,16,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A2XU1TSQD45EB4,1,corona,corona,Useful,C_32_U,4,"In public settings where other social distancing measures are difficult to maintain (e.g., grocery stores and pharmacies).",The CDC recommend people wear cloth masks in what situations?
+A2XU1TSQD45EB4,1,corona,corona,Useful,C_37_U,8,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A2XU1TSQD45EB4,1,corona,general,Not useful,NC_05_NU,4,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A2XU1TSQD45EB4,1,corona,general,Not useful,NC_07_NU,16,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A2XU1TSQD45EB4,1,corona,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A2XU1TSQD45EB4,1,corona,general,Not useful,NC_23_NU,4,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A2XU1TSQD45EB4,1,corona,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A2XU1TSQD45EB4,1,corona,general,Useful,NC_31_U,16,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A2XU1TSQD45EB4,1,corona,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A2XU1TSQD45EB4,1,corona,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A2XU1TSQD45EB4,1,corona,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2XU1TSQD45EB4,1,corona,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2XU1TSQD45EB4,1,corona,third,MTurk,TB_36_MT,12,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A2XU1TSQD45EB4,1,corona,third,MTurk,TB_46_MT,8,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A2XU1TSQD45EB4,1,corona,third,Trivia,TB_02_TR,4,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A2XU1TSQD45EB4,1,corona,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A2XU1TSQD45EB4,1,corona,third,Trivia,TB_17_TR,16,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A2XU1TSQD45EB4,1,corona,third,Trivia,TB_18_TR,12,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

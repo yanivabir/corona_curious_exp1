@@ -1,0 +1,13 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3QR2AJVELBX7W,1,corona,corona,Not useful,C_04_NU,8,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A3QR2AJVELBX7W,1,corona,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A3QR2AJVELBX7W,1,corona,corona,Not useful,C_14_NU,16,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A3QR2AJVELBX7W,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A3QR2AJVELBX7W,1,corona,corona,Useful,C_43_U,4,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+A3QR2AJVELBX7W,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A3QR2AJVELBX7W,1,corona,general,Not useful,NC_16_NU,4,Newborns,The apgar score is used to measure the color and condition of what?
+A3QR2AJVELBX7W,1,corona,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3QR2AJVELBX7W,1,corona,general,Useful,NC_40_U,12,Squint your eyes,How do you make your smile look more genuine in photographs?
+A3QR2AJVELBX7W,1,corona,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A3QR2AJVELBX7W,1,corona,third,MTurk,TB_29_MT,8,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+A3QR2AJVELBX7W,1,corona,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?

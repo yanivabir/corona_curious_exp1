@@ -1,0 +1,13 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3S1FX080CWBMG,1,general,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A3S1FX080CWBMG,1,general,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A3S1FX080CWBMG,1,general,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A3S1FX080CWBMG,1,general,corona,Useful,C_48_U,4,Reserves need to be saved for people who are infected and for healthcare professionals.,Why does the CDC currently recommend that healthy people do not wear N95 face masks?
+A3S1FX080CWBMG,1,general,general,Not useful,NC_11_NU,8,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A3S1FX080CWBMG,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3S1FX080CWBMG,1,general,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A3S1FX080CWBMG,1,general,general,Useful,NC_35_U,4,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A3S1FX080CWBMG,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3S1FX080CWBMG,1,general,general,Useful,NC_49_U,4,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A3S1FX080CWBMG,1,general,third,MTurk,TB_40_MT,4,"NASA plans another crewed mission to the Moon by 2024, followed by a sustained presence  by 2028.  Russia is planning to begin building a human colony by 2037.",When could a lunar base be established?
+A3S1FX080CWBMG,1,general,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2TCZ9IUCUN3KC,1,general,corona,Not useful,C_08_NU,8,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A2TCZ9IUCUN3KC,1,general,corona,Not useful,C_16_NU,16,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2TCZ9IUCUN3KC,1,general,corona,Not useful,C_18_NU,4,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2TCZ9IUCUN3KC,1,general,corona,Useful,C_30_U,12,More similar to the symptoms of the ful,"Are the new coronavirus symptoms more similar to the symptoms of flu, or of seasonal allergies?"
+A2TCZ9IUCUN3KC,1,general,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A2TCZ9IUCUN3KC,1,general,general,Not useful,NC_06_NU,12,David Livingstone,Who discovered the Victoria Falls?
+A2TCZ9IUCUN3KC,1,general,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2TCZ9IUCUN3KC,1,general,general,Not useful,NC_14_NU,12,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A2TCZ9IUCUN3KC,1,general,general,Useful,NC_27_U,12,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A2TCZ9IUCUN3KC,1,general,third,MTurk,TB_24_MT,4,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2TCZ9IUCUN3KC,1,general,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A2TCZ9IUCUN3KC,1,general,third,MTurk,TB_42_MT,16,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A2TCZ9IUCUN3KC,1,general,third,Trivia,TB_02_TR,12,Ivory Coast's,"The world's largest church is Our Lady of Peace Basilica in Yamoussoukro, what nation's capital?"
+A2TCZ9IUCUN3KC,1,general,third,Trivia,TB_12_TR,16,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2TCZ9IUCUN3KC,1,general,third,Trivia,TB_15_TR,16,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?

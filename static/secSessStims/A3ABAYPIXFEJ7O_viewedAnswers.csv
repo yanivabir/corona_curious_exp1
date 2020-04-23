@@ -1,0 +1,20 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3ABAYPIXFEJ7O,1,general,corona,Not useful,C_01_NU,12,"Animals, probably bats",What is the source of coronavirus in humans?
+A3ABAYPIXFEJ7O,1,general,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A3ABAYPIXFEJ7O,1,general,corona,Not useful,C_14_NU,4,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A3ABAYPIXFEJ7O,1,general,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A3ABAYPIXFEJ7O,1,general,corona,Useful,C_31_U,16,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A3ABAYPIXFEJ7O,1,general,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A3ABAYPIXFEJ7O,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A3ABAYPIXFEJ7O,1,general,general,Not useful,NC_16_NU,16,Newborns,The apgar score is used to measure the color and condition of what?
+A3ABAYPIXFEJ7O,1,general,general,Not useful,NC_25_NU,12,Shark,"What animal is thought to be immune to most all diseases, including cancer?"
+A3ABAYPIXFEJ7O,1,general,general,Not useful,NC_26_NU,16,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A3ABAYPIXFEJ7O,1,general,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A3ABAYPIXFEJ7O,1,general,general,Useful,NC_47_U,8,"Add baking soda, soak in advance, use a preassure cooker",What can you do to make dry beans cook faster?
+A3ABAYPIXFEJ7O,1,general,general,Useful,NC_50_U,16,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A3ABAYPIXFEJ7O,1,general,third,MTurk,TB_31_MT,16,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A3ABAYPIXFEJ7O,1,general,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A3ABAYPIXFEJ7O,1,general,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A3ABAYPIXFEJ7O,1,general,third,Trivia,TB_03_TR,8,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A3ABAYPIXFEJ7O,1,general,third,Trivia,TB_06_TR,8,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A3ABAYPIXFEJ7O,1,general,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

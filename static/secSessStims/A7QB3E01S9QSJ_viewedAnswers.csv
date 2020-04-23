@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A7QB3E01S9QSJ,1,corona,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A7QB3E01S9QSJ,1,corona,corona,Not useful,C_10_NU,8,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A7QB3E01S9QSJ,1,corona,corona,Not useful,C_12_NU,4,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A7QB3E01S9QSJ,1,corona,corona,Not useful,C_14_NU,16,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A7QB3E01S9QSJ,1,corona,corona,Not useful,C_15_NU,12,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A7QB3E01S9QSJ,1,corona,corona,Not useful,C_19_NU,4,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A7QB3E01S9QSJ,1,corona,corona,Useful,C_32_U,12,"In public settings where other social distancing measures are difficult to maintain (e.g., grocery stores and pharmacies).",The CDC recommend people wear cloth masks in what situations?
+A7QB3E01S9QSJ,1,corona,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A7QB3E01S9QSJ,1,corona,general,Not useful,NC_05_NU,16,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A7QB3E01S9QSJ,1,corona,general,Not useful,NC_12_NU,16,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A7QB3E01S9QSJ,1,corona,general,Not useful,NC_14_NU,12,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+A7QB3E01S9QSJ,1,corona,general,Not useful,NC_17_NU,4,Gilbert Van Camp,What Indianapolis grocer made his name by selling canned pork and beans to U.S. troops during the Civil War?
+A7QB3E01S9QSJ,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A7QB3E01S9QSJ,1,corona,general,Useful,NC_35_U,16,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A7QB3E01S9QSJ,1,corona,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+A7QB3E01S9QSJ,1,corona,general,Useful,NC_50_U,8,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A7QB3E01S9QSJ,1,corona,third,MTurk,TB_29_MT,16,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+A7QB3E01S9QSJ,1,corona,third,MTurk,TB_30_MT,16,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+A7QB3E01S9QSJ,1,corona,third,MTurk,TB_37_MT,8,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+A7QB3E01S9QSJ,1,corona,third,Trivia,TB_03_TR,8,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A7QB3E01S9QSJ,1,corona,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A7QB3E01S9QSJ,1,corona,third,Trivia,TB_09_TR,8,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A7QB3E01S9QSJ,1,corona,third,Trivia,TB_14_TR,12,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A7QB3E01S9QSJ,1,corona,third,Trivia,TB_22_TR,4,Cheetah,Which is the only cat that cannot retract its claws?

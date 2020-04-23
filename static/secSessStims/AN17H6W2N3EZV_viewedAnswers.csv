@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AN17H6W2N3EZV,1,corona,corona,Not useful,C_04_NU,16,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+AN17H6W2N3EZV,1,corona,corona,Not useful,C_11_NU,16,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+AN17H6W2N3EZV,1,corona,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+AN17H6W2N3EZV,1,corona,corona,Not useful,C_25_NU,16,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+AN17H6W2N3EZV,1,corona,corona,Useful,C_32_U,4,"In public settings where other social distancing measures are difficult to maintain (e.g., grocery stores and pharmacies).",The CDC recommend people wear cloth masks in what situations?
+AN17H6W2N3EZV,1,corona,corona,Useful,C_43_U,4,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+AN17H6W2N3EZV,1,corona,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+AN17H6W2N3EZV,1,corona,corona,Useful,C_50_U,12,Washington,The first US death from the new coronavirus occurred in which state?
+AN17H6W2N3EZV,1,corona,general,Not useful,NC_02_NU,12,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+AN17H6W2N3EZV,1,corona,general,Not useful,NC_06_NU,8,David Livingstone,Who discovered the Victoria Falls?
+AN17H6W2N3EZV,1,corona,general,Not useful,NC_10_NU,16,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+AN17H6W2N3EZV,1,corona,general,Not useful,NC_14_NU,4,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+AN17H6W2N3EZV,1,corona,general,Useful,NC_29_U,12,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+AN17H6W2N3EZV,1,corona,general,Useful,NC_30_U,4,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+AN17H6W2N3EZV,1,corona,general,Useful,NC_33_U,4,Below eye level,Where in the supermarket can you usually find the cheaper items?
+AN17H6W2N3EZV,1,corona,general,Useful,NC_44_U,4,Doritos,What popular snack food is effective to use as kindling to start a fire?
+AN17H6W2N3EZV,1,corona,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+AN17H6W2N3EZV,1,corona,third,MTurk,TB_24_MT,8,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+AN17H6W2N3EZV,1,corona,third,MTurk,TB_37_MT,4,Engineers and architects agree that the answer is positive. Houses for the non-rich are much better built today than they were built 500 years ago.,Are houses built better than they used to be?
+AN17H6W2N3EZV,1,corona,third,MTurk,TB_43_MT,8,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+AN17H6W2N3EZV,1,corona,third,Trivia,TB_01_TR,8,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+AN17H6W2N3EZV,1,corona,third,Trivia,TB_03_TR,8,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+AN17H6W2N3EZV,1,corona,third,Trivia,TB_08_TR,16,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+AN17H6W2N3EZV,1,corona,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

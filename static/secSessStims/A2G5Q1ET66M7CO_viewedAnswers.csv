@@ -1,0 +1,18 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2G5Q1ET66M7CO,1,corona,corona,Not useful,C_01_NU,12,"Animals, probably bats",What is the source of coronavirus in humans?
+A2G5Q1ET66M7CO,1,corona,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A2G5Q1ET66M7CO,1,corona,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A2G5Q1ET66M7CO,1,corona,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A2G5Q1ET66M7CO,1,corona,corona,Useful,C_36_U,4,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A2G5Q1ET66M7CO,1,corona,general,Not useful,NC_02_NU,16,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A2G5Q1ET66M7CO,1,corona,general,Not useful,NC_10_NU,4,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A2G5Q1ET66M7CO,1,corona,general,Not useful,NC_24_NU,16,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2G5Q1ET66M7CO,1,corona,general,Useful,NC_34_U,12,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A2G5Q1ET66M7CO,1,corona,general,Useful,NC_42_U,16,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+A2G5Q1ET66M7CO,1,corona,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A2G5Q1ET66M7CO,1,corona,third,MTurk,TB_25_MT,4,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2G5Q1ET66M7CO,1,corona,third,MTurk,TB_32_MT,12,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A2G5Q1ET66M7CO,1,corona,third,Trivia,TB_12_TR,4,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2G5Q1ET66M7CO,1,corona,third,Trivia,TB_18_TR,16,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A2G5Q1ET66M7CO,1,corona,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A2G5Q1ET66M7CO,1,corona,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

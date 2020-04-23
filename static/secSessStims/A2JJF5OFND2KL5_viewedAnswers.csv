@@ -1,0 +1,17 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2JJF5OFND2KL5,1,general,corona,Not useful,C_03_NU,12,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A2JJF5OFND2KL5,1,general,corona,Not useful,C_08_NU,8,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A2JJF5OFND2KL5,1,general,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A2JJF5OFND2KL5,1,general,corona,Not useful,C_22_NU,4,Contact tracing,What is the name of the process health authorities use to understand the sources of infection and to prevent further transmission?
+A2JJF5OFND2KL5,1,general,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A2JJF5OFND2KL5,1,general,corona,Useful,C_41_U,16,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A2JJF5OFND2KL5,1,general,corona,Useful,C_42_U,4,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A2JJF5OFND2KL5,1,general,corona,Useful,C_49_U,8,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A2JJF5OFND2KL5,1,general,general,Not useful,NC_19_NU,12,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A2JJF5OFND2KL5,1,general,general,Not useful,NC_24_NU,4,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A2JJF5OFND2KL5,1,general,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+A2JJF5OFND2KL5,1,general,third,MTurk,TB_36_MT,8,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+A2JJF5OFND2KL5,1,general,third,Trivia,TB_12_TR,12,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2JJF5OFND2KL5,1,general,third,Trivia,TB_14_TR,12,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"
+A2JJF5OFND2KL5,1,general,third,Trivia,TB_15_TR,16,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?
+A2JJF5OFND2KL5,1,general,third,Trivia,TB_20_TR,16,Rafflesia (corpse lily),What is the largest flower in the world?

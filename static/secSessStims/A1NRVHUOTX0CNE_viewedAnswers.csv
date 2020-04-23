@@ -1,0 +1,10 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1NRVHUOTX0CNE,1,general,corona,Not useful,C_01_NU,4,"Animals, probably bats",What is the source of coronavirus in humans?
+A1NRVHUOTX0CNE,1,general,corona,Not useful,C_18_NU,8,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A1NRVHUOTX0CNE,1,general,corona,Useful,C_45_U,12,"Pre-existing health conditions, including cardiovascular diseases and diabetes.",What did 75% of the people who have died from the new coronavirus have?
+A1NRVHUOTX0CNE,1,general,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1NRVHUOTX0CNE,1,general,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A1NRVHUOTX0CNE,1,general,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A1NRVHUOTX0CNE,1,general,third,Trivia,TB_20_TR,4,Rafflesia (corpse lily),What is the largest flower in the world?
+A1NRVHUOTX0CNE,1,general,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?
+A1NRVHUOTX0CNE,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

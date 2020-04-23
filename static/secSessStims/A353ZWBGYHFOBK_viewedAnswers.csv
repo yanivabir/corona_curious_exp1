@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A353ZWBGYHFOBK,1,corona,corona,Not useful,C_06_NU,4,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A353ZWBGYHFOBK,1,corona,corona,Not useful,C_08_NU,8,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A353ZWBGYHFOBK,1,corona,corona,Not useful,C_10_NU,16,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A353ZWBGYHFOBK,1,corona,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A353ZWBGYHFOBK,1,corona,corona,Not useful,C_20_NU,12,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A353ZWBGYHFOBK,1,corona,corona,Not useful,C_24_NU,16,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A353ZWBGYHFOBK,1,corona,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A353ZWBGYHFOBK,1,corona,general,Not useful,NC_02_NU,4,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A353ZWBGYHFOBK,1,corona,general,Not useful,NC_03_NU,12,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A353ZWBGYHFOBK,1,corona,general,Not useful,NC_05_NU,16,Matthew,Which of the four biblical Gospels was written by a tax collector?
+A353ZWBGYHFOBK,1,corona,general,Not useful,NC_07_NU,8,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A353ZWBGYHFOBK,1,corona,general,Useful,NC_29_U,16,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A353ZWBGYHFOBK,1,corona,general,Useful,NC_43_U,4,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A353ZWBGYHFOBK,1,corona,general,Useful,NC_45_U,8,"Grapes or raisins, onions, avocado","In addition to chocolate, what other foods can be very harmful to dogs? "
+A353ZWBGYHFOBK,1,corona,general,Useful,NC_49_U,8,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A353ZWBGYHFOBK,1,corona,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A353ZWBGYHFOBK,1,corona,third,MTurk,TB_39_MT,16,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A353ZWBGYHFOBK,1,corona,third,MTurk,TB_45_MT,12,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A353ZWBGYHFOBK,1,corona,third,Trivia,TB_03_TR,8,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+A353ZWBGYHFOBK,1,corona,third,Trivia,TB_05_TR,8,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A353ZWBGYHFOBK,1,corona,third,Trivia,TB_09_TR,16,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A353ZWBGYHFOBK,1,corona,third,Trivia,TB_16_TR,4,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A353ZWBGYHFOBK,1,corona,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?

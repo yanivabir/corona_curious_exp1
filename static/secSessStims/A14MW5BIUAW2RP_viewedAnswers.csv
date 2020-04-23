@@ -1,0 +1,13 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A14MW5BIUAW2RP,1,corona,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A14MW5BIUAW2RP,1,corona,general,Not useful,NC_07_NU,12,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A14MW5BIUAW2RP,1,corona,general,Not useful,NC_11_NU,12,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A14MW5BIUAW2RP,1,corona,general,Not useful,NC_19_NU,16,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A14MW5BIUAW2RP,1,corona,general,Useful,NC_36_U,12,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A14MW5BIUAW2RP,1,corona,general,Useful,NC_38_U,4,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?
+A14MW5BIUAW2RP,1,corona,general,Useful,NC_39_U,12,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A14MW5BIUAW2RP,1,corona,third,MTurk,TB_31_MT,4,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A14MW5BIUAW2RP,1,corona,third,MTurk,TB_33_MT,12,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A14MW5BIUAW2RP,1,corona,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A14MW5BIUAW2RP,1,corona,third,Trivia,TB_01_TR,12,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A14MW5BIUAW2RP,1,corona,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"

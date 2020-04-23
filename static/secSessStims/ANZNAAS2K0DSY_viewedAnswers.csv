@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ANZNAAS2K0DSY,1,corona,corona,Not useful,C_13_NU,4,"The initial cases of the disease are thought to have been among people with a connection to a seafood wholesale market, which also sold live animals","Why is the virus believed to have zoonotic origin, i.e., to have potentially come from animals?"
+ANZNAAS2K0DSY,1,corona,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+ANZNAAS2K0DSY,1,corona,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+ANZNAAS2K0DSY,1,corona,corona,Useful,C_27_U,16,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+ANZNAAS2K0DSY,1,corona,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+ANZNAAS2K0DSY,1,corona,corona,Useful,C_42_U,8,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+ANZNAAS2K0DSY,1,corona,corona,Useful,C_48_U,8,Reserves need to be saved for people who are infected and for healthcare professionals.,Why does the CDC currently recommend that healthy people do not wear N95 face masks?
+ANZNAAS2K0DSY,1,corona,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+ANZNAAS2K0DSY,1,corona,corona,Useful,C_52_U,4,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+ANZNAAS2K0DSY,1,corona,general,Not useful,NC_15_NU,4,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+ANZNAAS2K0DSY,1,corona,general,Not useful,NC_19_NU,16,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+ANZNAAS2K0DSY,1,corona,general,Not useful,NC_22_NU,12,Steamboat Geyser,"Which Yellowstone geyser, with eruptions 100 fee taller than Old Faithful's, is the world's tallest?"
+ANZNAAS2K0DSY,1,corona,general,Useful,NC_32_U,16,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+ANZNAAS2K0DSY,1,corona,general,Useful,NC_35_U,8,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+ANZNAAS2K0DSY,1,corona,general,Useful,NC_39_U,8,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+ANZNAAS2K0DSY,1,corona,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+ANZNAAS2K0DSY,1,corona,third,MTurk,TB_24_MT,16,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+ANZNAAS2K0DSY,1,corona,third,MTurk,TB_26_MT,12,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+ANZNAAS2K0DSY,1,corona,third,MTurk,TB_30_MT,8,"The ""no hair theorem"" states that a black hole has only three properties: electric charge, angular momentum, and mass.",What is the composition of a black hole?
+ANZNAAS2K0DSY,1,corona,third,MTurk,TB_35_MT,8,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+ANZNAAS2K0DSY,1,corona,third,MTurk,TB_42_MT,12,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+ANZNAAS2K0DSY,1,corona,third,MTurk,TB_46_MT,4,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+ANZNAAS2K0DSY,1,corona,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?

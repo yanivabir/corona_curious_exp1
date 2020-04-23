@@ -1,0 +1,21 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A18FPXIJYCTETD,1,general,corona,Not useful,C_03_NU,16,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A18FPXIJYCTETD,1,general,corona,Not useful,C_04_NU,4,"It stands for ""COronaVIrus Disease 2019""","Why is the new coronavirus called ""COVID-19""? "
+A18FPXIJYCTETD,1,general,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A18FPXIJYCTETD,1,general,corona,Not useful,C_20_NU,12,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A18FPXIJYCTETD,1,general,corona,Not useful,C_24_NU,4,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A18FPXIJYCTETD,1,general,corona,Useful,C_35_U,8,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A18FPXIJYCTETD,1,general,general,Not useful,NC_07_NU,4,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A18FPXIJYCTETD,1,general,general,Not useful,NC_08_NU,8,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A18FPXIJYCTETD,1,general,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A18FPXIJYCTETD,1,general,general,Not useful,NC_12_NU,16,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A18FPXIJYCTETD,1,general,general,Not useful,NC_15_NU,16,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+A18FPXIJYCTETD,1,general,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A18FPXIJYCTETD,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+A18FPXIJYCTETD,1,general,third,MTurk,TB_27_MT,4,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A18FPXIJYCTETD,1,general,third,MTurk,TB_28_MT,8,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A18FPXIJYCTETD,1,general,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A18FPXIJYCTETD,1,general,third,Trivia,TB_07_TR,16,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A18FPXIJYCTETD,1,general,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A18FPXIJYCTETD,1,general,third,Trivia,TB_10_TR,4,George VI,Who was the last British Monarch to also be an emperor?
+A18FPXIJYCTETD,1,general,third,Trivia,TB_14_TR,12,James Brown,"When asked to define ""cool,"" what two words did James Brown use?"

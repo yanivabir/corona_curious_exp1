@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AYWZUZREI03BS,1,general,corona,Not useful,C_08_NU,16,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+AYWZUZREI03BS,1,general,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+AYWZUZREI03BS,1,general,corona,Not useful,C_18_NU,12,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+AYWZUZREI03BS,1,general,corona,Useful,C_27_U,8,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+AYWZUZREI03BS,1,general,corona,Useful,C_34_U,4,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+AYWZUZREI03BS,1,general,corona,Useful,C_44_U,8,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+AYWZUZREI03BS,1,general,corona,Useful,C_50_U,4,Washington,The first US death from the new coronavirus occurred in which state?
+AYWZUZREI03BS,1,general,general,Not useful,NC_08_NU,8,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+AYWZUZREI03BS,1,general,general,Not useful,NC_11_NU,16,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+AYWZUZREI03BS,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+AYWZUZREI03BS,1,general,general,Not useful,NC_13_NU,4,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+AYWZUZREI03BS,1,general,general,Not useful,NC_15_NU,8,Albert Einstein,Who beat out FDR and Gandhi to be named Time's Person of the Century in 1999?
+AYWZUZREI03BS,1,general,general,Useful,NC_30_U,12,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+AYWZUZREI03BS,1,general,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+AYWZUZREI03BS,1,general,general,Useful,NC_37_U,8,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+AYWZUZREI03BS,1,general,general,Useful,NC_44_U,8,Doritos,What popular snack food is effective to use as kindling to start a fire?
+AYWZUZREI03BS,1,general,general,Useful,NC_46_U,4,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+AYWZUZREI03BS,1,general,general,Useful,NC_52_U,8,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+AYWZUZREI03BS,1,general,third,MTurk,TB_29_MT,4,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+AYWZUZREI03BS,1,general,third,MTurk,TB_39_MT,12,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+AYWZUZREI03BS,1,general,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+AYWZUZREI03BS,1,general,third,Trivia,TB_03_TR,16,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+AYWZUZREI03BS,1,general,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+AYWZUZREI03BS,1,general,third,Trivia,TB_23_TR,12,Tooth,What is the only part of the body that can't repair itself?

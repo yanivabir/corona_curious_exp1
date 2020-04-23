@@ -1,0 +1,23 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1FH0Y12VSXUMK,1,corona,corona,Not useful,C_03_NU,8,"Fuburary 1st, 2020",When was the molecular structure of the coronovirus identfied?
+A1FH0Y12VSXUMK,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A1FH0Y12VSXUMK,1,corona,corona,Not useful,C_14_NU,8,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A1FH0Y12VSXUMK,1,corona,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A1FH0Y12VSXUMK,1,corona,corona,Not useful,C_16_NU,8,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A1FH0Y12VSXUMK,1,corona,corona,Useful,C_27_U,8,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A1FH0Y12VSXUMK,1,corona,corona,Useful,C_31_U,4,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A1FH0Y12VSXUMK,1,corona,corona,Useful,C_33_U,8,Soft surfaces are less likely to transmit the virus than hard surfaces.,Can the new coronavirus be transmitted by touching a soft surface like carpets or fabric?
+A1FH0Y12VSXUMK,1,corona,corona,Useful,C_44_U,12,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A1FH0Y12VSXUMK,1,corona,general,Not useful,NC_08_NU,12,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A1FH0Y12VSXUMK,1,corona,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A1FH0Y12VSXUMK,1,corona,general,Not useful,NC_13_NU,12,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1FH0Y12VSXUMK,1,corona,general,Not useful,NC_24_NU,8,State quarters,What's been released five times a year from January 1999 to fall 2008?
+A1FH0Y12VSXUMK,1,corona,general,Useful,NC_34_U,4,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A1FH0Y12VSXUMK,1,corona,general,Useful,NC_43_U,16,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A1FH0Y12VSXUMK,1,corona,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1FH0Y12VSXUMK,1,corona,third,MTurk,TB_35_MT,16,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A1FH0Y12VSXUMK,1,corona,third,MTurk,TB_39_MT,4,"There is radio emission around black holes. Scientists created a network of telescopes, capturing an image of a black hole by improving upon a technique that allows for the imaging of far-away objects",How was the recent picture of a black hole made?
+A1FH0Y12VSXUMK,1,corona,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A1FH0Y12VSXUMK,1,corona,third,Trivia,TB_01_TR,12,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A1FH0Y12VSXUMK,1,corona,third,Trivia,TB_06_TR,16,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+A1FH0Y12VSXUMK,1,corona,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?

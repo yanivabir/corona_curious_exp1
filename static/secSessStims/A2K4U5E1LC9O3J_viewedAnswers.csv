@@ -1,0 +1,5 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2K4U5E1LC9O3J,1,corona,corona,Useful,C_40_U,12,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A2K4U5E1LC9O3J,1,corona,general,Not useful,NC_04_NU,8,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A2K4U5E1LC9O3J,1,corona,third,Trivia,TB_20_TR,8,Rafflesia (corpse lily),What is the largest flower in the world?
+A2K4U5E1LC9O3J,1,corona,third,Trivia,TB_21_TR,8,New York,Which state has the zip code 12345?

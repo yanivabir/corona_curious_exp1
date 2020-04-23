@@ -1,0 +1,28 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1OCWSR3HKP0TB,1,general,corona,Not useful,C_12_NU,4,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1OCWSR3HKP0TB,1,general,corona,Not useful,C_19_NU,8,Strategic National Stockpile,What is the name of the repository of drugs and supplies the U.S. government is supposed to maintain in case of a public health emergency?
+A1OCWSR3HKP0TB,1,general,corona,Not useful,C_20_NU,12,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A1OCWSR3HKP0TB,1,general,corona,Not useful,C_24_NU,8,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A1OCWSR3HKP0TB,1,general,corona,Useful,C_27_U,16,Washing your hands frequently,What is the most effective measure to prevent infection with the coronavirus?
+A1OCWSR3HKP0TB,1,general,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A1OCWSR3HKP0TB,1,general,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A1OCWSR3HKP0TB,1,general,corona,Useful,C_48_U,16,Reserves need to be saved for people who are infected and for healthcare professionals.,Why does the CDC currently recommend that healthy people do not wear N95 face masks?
+A1OCWSR3HKP0TB,1,general,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A1OCWSR3HKP0TB,1,general,general,Not useful,NC_04_NU,16,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A1OCWSR3HKP0TB,1,general,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A1OCWSR3HKP0TB,1,general,general,Not useful,NC_09_NU,12,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A1OCWSR3HKP0TB,1,general,general,Not useful,NC_19_NU,4,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A1OCWSR3HKP0TB,1,general,general,Useful,NC_28_U,16,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A1OCWSR3HKP0TB,1,general,general,Useful,NC_30_U,16,Floormats - put them under the wheels for traction,What item that can be found in any car can help you extract your car from mud or snow?
+A1OCWSR3HKP0TB,1,general,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1OCWSR3HKP0TB,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A1OCWSR3HKP0TB,1,general,general,Useful,NC_50_U,4,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A1OCWSR3HKP0TB,1,general,third,MTurk,TB_32_MT,4,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A1OCWSR3HKP0TB,1,general,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A1OCWSR3HKP0TB,1,general,third,MTurk,TB_41_MT,4,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A1OCWSR3HKP0TB,1,general,third,MTurk,TB_43_MT,8,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?
+A1OCWSR3HKP0TB,1,general,third,Trivia,TB_04_TR,16,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A1OCWSR3HKP0TB,1,general,third,Trivia,TB_08_TR,4,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1OCWSR3HKP0TB,1,general,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?
+A1OCWSR3HKP0TB,1,general,third,Trivia,TB_17_TR,12,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A1OCWSR3HKP0TB,1,general,third,Trivia,TB_22_TR,16,Cheetah,Which is the only cat that cannot retract its claws?

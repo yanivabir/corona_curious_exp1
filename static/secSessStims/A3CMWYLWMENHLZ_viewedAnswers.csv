@@ -1,0 +1,15 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3CMWYLWMENHLZ,1,general,corona,Not useful,C_23_NU,16,They falsely claimed to cure or prevent coronavirus,"At the end of February, Amazon banned over a million products because of what?"
+A3CMWYLWMENHLZ,1,general,corona,Not useful,C_26_NU,12,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A3CMWYLWMENHLZ,1,general,corona,Useful,C_41_U,16,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A3CMWYLWMENHLZ,1,general,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+A3CMWYLWMENHLZ,1,general,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+A3CMWYLWMENHLZ,1,general,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A3CMWYLWMENHLZ,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A3CMWYLWMENHLZ,1,general,general,Useful,NC_40_U,16,Squint your eyes,How do you make your smile look more genuine in photographs?
+A3CMWYLWMENHLZ,1,general,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A3CMWYLWMENHLZ,1,general,third,MTurk,TB_33_MT,12,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A3CMWYLWMENHLZ,1,general,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3CMWYLWMENHLZ,1,general,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A3CMWYLWMENHLZ,1,general,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?
+A3CMWYLWMENHLZ,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?

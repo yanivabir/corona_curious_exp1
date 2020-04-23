@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AM77BGT0HCCOI,1,general,corona,Not useful,C_07_NU,8,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+AM77BGT0HCCOI,1,general,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+AM77BGT0HCCOI,1,general,corona,Not useful,C_25_NU,12,The viruses have spikes on their outer surface that look like a crown (or corona in Latin),What is the supposed origin of the name coronavirus?
+AM77BGT0HCCOI,1,general,general,Not useful,NC_01_NU,16,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+AM77BGT0HCCOI,1,general,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+AM77BGT0HCCOI,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+AM77BGT0HCCOI,1,general,general,Not useful,NC_16_NU,8,Newborns,The apgar score is used to measure the color and condition of what?
+AM77BGT0HCCOI,1,general,general,Not useful,NC_20_NU,8,Russia,Which country has the most public libraries?
+AM77BGT0HCCOI,1,general,general,Useful,NC_52_U,16,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+AM77BGT0HCCOI,1,general,third,MTurk,TB_33_MT,16,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+AM77BGT0HCCOI,1,general,third,MTurk,TB_36_MT,4,"For two reasons. One, they are too heavy. For example, the Space Shuttle weighed 2 thousand tons, yet a Boeing can only carry about 120 tons. Second, the thrust is likely to be too strong.",Why don't space rockets take off from a plane already in the air?
+AM77BGT0HCCOI,1,general,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+AM77BGT0HCCOI,1,general,third,Trivia,TB_12_TR,8,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+AM77BGT0HCCOI,1,general,third,Trivia,TB_13_TR,12,Java,On what namesake Asian island are the first Homo erectus fossils found?
+AM77BGT0HCCOI,1,general,third,Trivia,TB_15_TR,12,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?

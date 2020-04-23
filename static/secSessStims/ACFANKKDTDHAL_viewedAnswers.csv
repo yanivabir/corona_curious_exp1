@@ -1,0 +1,4 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ACFANKKDTDHAL,1,corona,corona,Useful,C_40_U,12,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+ACFANKKDTDHAL,1,corona,general,Useful,NC_42_U,4,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+ACFANKKDTDHAL,1,corona,third,MTurk,TB_38_MT,12,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?

@@ -1,0 +1,7 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3PTO0DMF57GDG,1,corona,corona,Not useful,C_09_NU,4,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A3PTO0DMF57GDG,1,corona,corona,Not useful,C_26_NU,16,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A3PTO0DMF57GDG,1,corona,corona,Useful,C_51_U,4,Nasal or orab swab or a sample of sputum,What sort of specimen is needed to test for the new coronavirus? 
+A3PTO0DMF57GDG,1,corona,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A3PTO0DMF57GDG,1,corona,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A3PTO0DMF57GDG,1,corona,third,Trivia,TB_12_TR,4,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"

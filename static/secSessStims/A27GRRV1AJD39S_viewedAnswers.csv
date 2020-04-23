@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A27GRRV1AJD39S,1,general,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A27GRRV1AJD39S,1,general,corona,Not useful,C_15_NU,4,7.5 days,"In the early stages of the new coronavirus, the number of new cases doubled approximately every how many days?"
+A27GRRV1AJD39S,1,general,corona,Not useful,C_18_NU,16,They are able to filter out at least 95% of airborne particles,Why are N95 respirator face masks so named?
+A27GRRV1AJD39S,1,general,corona,Not useful,C_20_NU,12,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A27GRRV1AJD39S,1,general,corona,Useful,C_36_U,8,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A27GRRV1AJD39S,1,general,general,Not useful,NC_19_NU,16,Smoke,"in 1908, New York City passed the Sullivan Ordinance which made it illegal for women to do what in public?"
+A27GRRV1AJD39S,1,general,general,Not useful,NC_23_NU,16,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+A27GRRV1AJD39S,1,general,general,Not useful,NC_26_NU,4,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A27GRRV1AJD39S,1,general,general,Useful,NC_33_U,12,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A27GRRV1AJD39S,1,general,general,Useful,NC_34_U,8,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A27GRRV1AJD39S,1,general,general,Useful,NC_39_U,8,"At least $2,467 according to current research",How much money should I keep as an emergency fund?
+A27GRRV1AJD39S,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A27GRRV1AJD39S,1,general,general,Useful,NC_46_U,4,"Dish soap, peroxide, and baking soda","While tomato juice probably will not work, what does work to remove skunk odor? "
+A27GRRV1AJD39S,1,general,third,MTurk,TB_31_MT,8,Scientists estimate that at the moment it is not. But with global warming it might become more feasilbe later in the 21st century.,How feasible would it be to colonize Antarctica?
+A27GRRV1AJD39S,1,general,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A27GRRV1AJD39S,1,general,third,MTurk,TB_42_MT,8,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A27GRRV1AJD39S,1,general,third,Trivia,TB_10_TR,4,George VI,Who was the last British Monarch to also be an emperor?
+A27GRRV1AJD39S,1,general,third,Trivia,TB_17_TR,4,"Third finger, left hand",What part of his body did Keith Richards insure for a million pounds?
+A27GRRV1AJD39S,1,general,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?
+A27GRRV1AJD39S,1,general,third,Trivia,TB_21_TR,4,New York,Which state has the zip code 12345?
+A27GRRV1AJD39S,1,general,third,Trivia,TB_22_TR,8,Cheetah,Which is the only cat that cannot retract its claws?

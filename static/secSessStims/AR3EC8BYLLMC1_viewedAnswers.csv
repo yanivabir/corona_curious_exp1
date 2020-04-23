@@ -1,0 +1,27 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+AR3EC8BYLLMC1,1,general,corona,Not useful,C_11_NU,16,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+AR3EC8BYLLMC1,1,general,corona,Not useful,C_14_NU,8,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+AR3EC8BYLLMC1,1,general,corona,Not useful,C_26_NU,8,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+AR3EC8BYLLMC1,1,general,corona,Useful,C_35_U,16,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+AR3EC8BYLLMC1,1,general,corona,Useful,C_43_U,12,Quarantine themselves for 14 days to make sure they are not infected.,"Currently, people who  may have been in contact with someone with the new coronavirus are recommended to do what?"
+AR3EC8BYLLMC1,1,general,corona,Useful,C_48_U,8,Reserves need to be saved for people who are infected and for healthcare professionals.,Why does the CDC currently recommend that healthy people do not wear N95 face masks?
+AR3EC8BYLLMC1,1,general,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+AR3EC8BYLLMC1,1,general,general,Not useful,NC_07_NU,8,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+AR3EC8BYLLMC1,1,general,general,Not useful,NC_10_NU,16,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+AR3EC8BYLLMC1,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+AR3EC8BYLLMC1,1,general,general,Not useful,NC_16_NU,12,Newborns,The apgar score is used to measure the color and condition of what?
+AR3EC8BYLLMC1,1,general,general,Not useful,NC_23_NU,8,The Netherlands,In 1568 the Catholic Church sentenced the entire population of which nation to death as heretics?
+AR3EC8BYLLMC1,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+AR3EC8BYLLMC1,1,general,general,Useful,NC_37_U,12,"Over the past 150 year, real estate, if you rent it out",What's a better investment: stocks or real estate?
+AR3EC8BYLLMC1,1,general,general,Useful,NC_42_U,12,"Deprive it of oxygen by covering, pouring baking soda if the fire is small, or using a fire extinguisher if it's large.",How do you put out a grease fire? 
+AR3EC8BYLLMC1,1,general,general,Useful,NC_43_U,16,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+AR3EC8BYLLMC1,1,general,general,Useful,NC_44_U,12,Doritos,What popular snack food is effective to use as kindling to start a fire?
+AR3EC8BYLLMC1,1,general,third,MTurk,TB_24_MT,12,"Deep sea creatures must survive in extremely harsh conditions. They include the giant spider crab, frilled shark, and the atlantic wolffish",Which creatures live in deep sea?
+AR3EC8BYLLMC1,1,general,third,MTurk,TB_29_MT,4,"There are a few helpful techniques. One is to imagine that you climb on top of a high building, and ""look down"" at your life. Second, to try to think about issues in novel ways. ",How to stay calm in adversity?
+AR3EC8BYLLMC1,1,general,third,MTurk,TB_33_MT,8,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+AR3EC8BYLLMC1,1,general,third,MTurk,TB_45_MT,12,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+AR3EC8BYLLMC1,1,general,third,Trivia,TB_03_TR,4,Mrs. Doubtfire's,What 1993 film's title character has the first name Euphegenia?
+AR3EC8BYLLMC1,1,general,third,Trivia,TB_05_TR,4,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+AR3EC8BYLLMC1,1,general,third,Trivia,TB_06_TR,4,Xanadu,What 1980 film is named for the legendary square-shaped capital of Kublai Khan?
+AR3EC8BYLLMC1,1,general,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?
+AR3EC8BYLLMC1,1,general,third,Trivia,TB_23_TR,16,Tooth,What is the only part of the body that can't repair itself?

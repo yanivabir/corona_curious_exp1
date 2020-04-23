@@ -1,0 +1,16 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A24Y8VN9D23XXJ,1,general,corona,Not useful,C_09_NU,12,Hubei,What is the name of the province in China in which this new coronavirus was first discovered?
+A24Y8VN9D23XXJ,1,general,corona,Not useful,C_10_NU,12,11 million people,"What is the population of Wuhan, the city in which coronavirus was first identified?"
+A24Y8VN9D23XXJ,1,general,corona,Not useful,C_12_NU,8,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A24Y8VN9D23XXJ,1,general,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A24Y8VN9D23XXJ,1,general,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A24Y8VN9D23XXJ,1,general,general,Not useful,NC_20_NU,16,Russia,Which country has the most public libraries?
+A24Y8VN9D23XXJ,1,general,general,Useful,NC_32_U,8,Take a picture of your fridge before leaving the house,What's a simple trick for telling whether your out of something when you're grocery shopping?
+A24Y8VN9D23XXJ,1,general,general,Useful,NC_35_U,16,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A24Y8VN9D23XXJ,1,general,general,Useful,NC_40_U,8,Squint your eyes,How do you make your smile look more genuine in photographs?
+A24Y8VN9D23XXJ,1,general,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A24Y8VN9D23XXJ,1,general,third,MTurk,TB_27_MT,16,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A24Y8VN9D23XXJ,1,general,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A24Y8VN9D23XXJ,1,general,third,MTurk,TB_44_MT,4,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A24Y8VN9D23XXJ,1,general,third,Trivia,TB_09_TR,4,The first email,"What did Ray Tomlinson send in Cambridge, Massachusetts, in late 1971?"
+A24Y8VN9D23XXJ,1,general,third,Trivia,TB_15_TR,8,Portia,The United States' first law school for woman was named for what cross-dressing Shakespearean character?

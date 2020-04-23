@@ -1,0 +1,22 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A3RKC93QLT5M5C,1,general,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+A3RKC93QLT5M5C,1,general,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A3RKC93QLT5M5C,1,general,corona,Not useful,C_11_NU,4,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A3RKC93QLT5M5C,1,general,corona,Not useful,C_17_NU,4,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A3RKC93QLT5M5C,1,general,corona,Useful,C_29_U,4,Not for at least several months from now,How soon is a vaccine for the new coronavirus likely to be available?
+A3RKC93QLT5M5C,1,general,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A3RKC93QLT5M5C,1,general,general,Not useful,NC_01_NU,8,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A3RKC93QLT5M5C,1,general,general,Not useful,NC_02_NU,4,Tiger Woods,"Who's the only two-time Sports Illustrated Sportsman of the Year, so named in 1996 and 2000?"
+A3RKC93QLT5M5C,1,general,general,Not useful,NC_08_NU,4,The guppy,What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?
+A3RKC93QLT5M5C,1,general,general,Not useful,NC_11_NU,8,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A3RKC93QLT5M5C,1,general,general,Not useful,NC_21_NU,12,The Pieta,Which was the only one of his sculptures that Michelangelo signed?
+A3RKC93QLT5M5C,1,general,general,Not useful,NC_26_NU,16,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A3RKC93QLT5M5C,1,general,general,Useful,NC_27_U,16,White vinegar,What can you use instead of fabric softner to soften sheets and remove odours?
+A3RKC93QLT5M5C,1,general,general,Useful,NC_49_U,16,"Roll it along its long side. If it stops immediately, it's raw.",How can you tell if an egg is cooked without breaking it?
+A3RKC93QLT5M5C,1,general,general,Useful,NC_51_U,4,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+A3RKC93QLT5M5C,1,general,third,MTurk,TB_35_MT,4,Prototypes already exist. Technological estimates suggest that definitely within the next twenty years -- although the challenges are great.,When will we have flying cars?
+A3RKC93QLT5M5C,1,general,third,Trivia,TB_04_TR,8,Phil Knight,"In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?"
+A3RKC93QLT5M5C,1,general,third,Trivia,TB_11_TR,16,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A3RKC93QLT5M5C,1,general,third,Trivia,TB_13_TR,8,Java,On what namesake Asian island are the first Homo erectus fossils found?
+A3RKC93QLT5M5C,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?
+A3RKC93QLT5M5C,1,general,third,Trivia,TB_23_TR,4,Tooth,What is the only part of the body that can't repair itself?

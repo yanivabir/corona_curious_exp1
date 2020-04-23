@@ -1,0 +1,25 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2PQN6EIDHNJWJ,1,corona,corona,Not useful,C_01_NU,16,"Animals, probably bats",What is the source of coronavirus in humans?
+A2PQN6EIDHNJWJ,1,corona,corona,Not useful,C_07_NU,16,Pink,What color latex gloves did Naomi Campbell wear to protect herself from coronavirus?
+A2PQN6EIDHNJWJ,1,corona,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2PQN6EIDHNJWJ,1,corona,corona,Not useful,C_20_NU,4,"Rear Adm. Ziemer led the global health security team, responsible for leading the US response to pandemics.","In May 2018, Rear Admiral Timothy Ziemer left the White House staff and was not replaced. What was Rear Adm. Ziemer's responsibility in the White House?"
+A2PQN6EIDHNJWJ,1,corona,corona,Useful,C_28_U,16,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
+A2PQN6EIDHNJWJ,1,corona,corona,Useful,C_37_U,8,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A2PQN6EIDHNJWJ,1,corona,corona,Useful,C_41_U,8,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A2PQN6EIDHNJWJ,1,corona,corona,Useful,C_42_U,16,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A2PQN6EIDHNJWJ,1,corona,general,Not useful,NC_09_NU,4,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A2PQN6EIDHNJWJ,1,corona,general,Not useful,NC_16_NU,8,Newborns,The apgar score is used to measure the color and condition of what?
+A2PQN6EIDHNJWJ,1,corona,general,Not useful,NC_18_NU,8,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+A2PQN6EIDHNJWJ,1,corona,general,Not useful,NC_26_NU,12,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A2PQN6EIDHNJWJ,1,corona,general,Useful,NC_36_U,12,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2PQN6EIDHNJWJ,1,corona,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A2PQN6EIDHNJWJ,1,corona,general,Useful,NC_43_U,8,Between 105 and 54 days before the scheduled trip.,How far in advance of a trip is the most cost effective time to purchase a plane ticket? 
+A2PQN6EIDHNJWJ,1,corona,general,Useful,NC_52_U,12,"Tie your hair into a tight ponytail at the front of your head, and cut it.",How can you give yourself a layered haircut?
+A2PQN6EIDHNJWJ,1,corona,third,MTurk,TB_27_MT,8,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A2PQN6EIDHNJWJ,1,corona,third,MTurk,TB_34_MT,12,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A2PQN6EIDHNJWJ,1,corona,third,MTurk,TB_38_MT,16,"As a rule, yes. Restaurants have to cover rent, salaries and taxes. These are all included in the prices.",Is it really cheaper to cook at home vs. eating out?
+A2PQN6EIDHNJWJ,1,corona,third,MTurk,TB_45_MT,8,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A2PQN6EIDHNJWJ,1,corona,third,Trivia,TB_07_TR,12,Tuxedo Club,What New York country club lent its name to the kind of dinner jacket first worn there in 1886?
+A2PQN6EIDHNJWJ,1,corona,third,Trivia,TB_08_TR,8,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A2PQN6EIDHNJWJ,1,corona,third,Trivia,TB_12_TR,4,It sits beside the Finger Lakes,"Why is Oneida Lake, near Syracuse, New York, sometimes called ""the thumb""?"
+A2PQN6EIDHNJWJ,1,corona,third,Trivia,TB_16_TR,12,Jim Lovell,Alan Shepard was scheduled to command the ill-fated Apollo 13 before switching missions with what astronaut?

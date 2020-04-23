@@ -1,0 +1,9 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2P1WD31HPJXU2,1,corona,corona,Not useful,C_02_NU,4,Three ,How many pandemics were there in the 20th century?
+A2P1WD31HPJXU2,1,corona,corona,Not useful,C_12_NU,16,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A2P1WD31HPJXU2,1,corona,corona,Not useful,C_16_NU,12,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+A2P1WD31HPJXU2,1,corona,corona,Useful,C_31_U,8,"The virus is probably not sexually tansmissible, but infection does occurs when kissing.",Can the coronavirus be transmitted through sexual intercourse?
+A2P1WD31HPJXU2,1,corona,corona,Useful,C_35_U,12,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A2P1WD31HPJXU2,1,corona,general,Useful,NC_29_U,4,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A2P1WD31HPJXU2,1,corona,general,Useful,NC_35_U,12,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A2P1WD31HPJXU2,1,corona,general,Useful,NC_38_U,8,"Camu Camu, a cherry-like fruit from Brazil",What fruit has the highest content of vitamin C?

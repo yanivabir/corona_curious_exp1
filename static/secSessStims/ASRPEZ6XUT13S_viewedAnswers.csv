@@ -1,0 +1,9 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ASRPEZ6XUT13S,1,general,corona,Not useful,C_01_NU,8,"Animals, probably bats",What is the source of coronavirus in humans?
+ASRPEZ6XUT13S,1,general,corona,Not useful,C_16_NU,4,Bats and pangolins,What other animals have been found to have viruses with highly similar genome sequences as the current coronavirus?
+ASRPEZ6XUT13S,1,general,general,Not useful,NC_14_NU,12,Rod Serling,What famed TV personality wrote the screenplay for 1968's Planet of the Apes?
+ASRPEZ6XUT13S,1,general,general,Not useful,NC_16_NU,8,Newborns,The apgar score is used to measure the color and condition of what?
+ASRPEZ6XUT13S,1,general,general,Not useful,NC_18_NU,4,A truce,What was put in place by the Ancient Greeks before and during all Olympic festivals?
+ASRPEZ6XUT13S,1,general,general,Useful,NC_51_U,16,White vinegar,What salad dressing ingredient is also an efficient weed killer?
+ASRPEZ6XUT13S,1,general,third,MTurk,TB_41_MT,4,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+ASRPEZ6XUT13S,1,general,third,Trivia,TB_19_TR,4,Ketchup,The only vegetable ice cream ever produced was what flavor?

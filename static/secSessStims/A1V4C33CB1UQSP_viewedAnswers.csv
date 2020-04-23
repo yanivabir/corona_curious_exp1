@@ -1,0 +1,4 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1V4C33CB1UQSP,1,general,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"
+A1V4C33CB1UQSP,1,general,general,Not useful,NC_16_NU,16,Newborns,The apgar score is used to measure the color and condition of what?
+A1V4C33CB1UQSP,1,general,third,MTurk,TB_43_MT,4,"Planets likely start off as grains of dust that then combine to form bigger rocks. They clear material from their path, leaving tracks of space empty but for fine dust.",How do planets form?

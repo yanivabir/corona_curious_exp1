@@ -1,0 +1,6 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A222ICMHU5JXLA,1,corona,corona,Not useful,C_02_NU,16,Three ,How many pandemics were there in the 20th century?
+A222ICMHU5JXLA,1,corona,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A222ICMHU5JXLA,1,corona,corona,Not useful,C_06_NU,16,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A222ICMHU5JXLA,1,corona,corona,Useful,C_47_U,8,"Free of fever; no other symptoms, including cough; negative tests on at least two consecutive respiratory specimens at least 24 hours apart.",What are current Centers for Disease Control (CDC) guidelines for releasing someone from isolation?
+A222ICMHU5JXLA,1,corona,corona,Useful,C_49_U,4,"Approved filtering facemask respirators, such as the N95 respirator.","It is recommended that healthcare professionals who may be working in contact with people with the virus wear what, in addition to personal protective equipment on their hands and bodies?"

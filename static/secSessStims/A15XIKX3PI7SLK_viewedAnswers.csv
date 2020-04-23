@@ -1,0 +1,29 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A15XIKX3PI7SLK,1,general,corona,Not useful,C_08_NU,4,Lombardy,What is the name of the county in Italy that had the first coronavirus outbreak?
+A15XIKX3PI7SLK,1,general,corona,Not useful,C_11_NU,16,The Chicago of China,"Wuhan, China, the city in which the coronavirus was first identified, is commonly referred to as the chinese version of what American city?"
+A15XIKX3PI7SLK,1,general,corona,Not useful,C_17_NU,12,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A15XIKX3PI7SLK,1,general,corona,Not useful,C_24_NU,12,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A15XIKX3PI7SLK,1,general,corona,Useful,C_35_U,8,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A15XIKX3PI7SLK,1,general,corona,Useful,C_44_U,12,People over age 60,Approximately 80% of deaths attributed to the new coronavirus were among people of what age?
+A15XIKX3PI7SLK,1,general,corona,Useful,C_50_U,8,Washington,The first US death from the new coronavirus occurred in which state?
+A15XIKX3PI7SLK,1,general,corona,Useful,C_52_U,8,No. To protect yourself against the new coronavirus washing your hands is the best preventive measure.,Are hand dryers effective in killing the new coronavirus?
+A15XIKX3PI7SLK,1,general,general,Not useful,NC_03_NU,12,Red River,"What name is shared by the rivers that run through Denison, TX and Hanoi, Vietnam?"
+A15XIKX3PI7SLK,1,general,general,Not useful,NC_04_NU,12,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A15XIKX3PI7SLK,1,general,general,Not useful,NC_09_NU,8,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A15XIKX3PI7SLK,1,general,general,Not useful,NC_10_NU,8,K.D. Lang,What Canadian singer appeared on the first cover of Entertainment Weekly?
+A15XIKX3PI7SLK,1,general,general,Not useful,NC_12_NU,4,Come by her,"The title of the song ""Kumbaya"" is actually a distortion of what three-word phrase?"
+A15XIKX3PI7SLK,1,general,general,Not useful,NC_20_NU,8,Russia,Which country has the most public libraries?
+A15XIKX3PI7SLK,1,general,general,Useful,NC_29_U,12,"Freeze before chopping, or hold a piece of bread in your mouth, half sticking out",How to chop an onion without crying?
+A15XIKX3PI7SLK,1,general,general,Useful,NC_34_U,12,"Pineapple, by planting the green leaves",What tropical fruit can be regrown from its scraps?
+A15XIKX3PI7SLK,1,general,general,Useful,NC_36_U,4,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A15XIKX3PI7SLK,1,general,general,Useful,NC_41_U,4,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A15XIKX3PI7SLK,1,general,third,MTurk,TB_26_MT,4,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A15XIKX3PI7SLK,1,general,third,MTurk,TB_32_MT,12,Sophisticated equipment is either lowered to the sea bottom or directly attached to submersible buoys and transmits to a research vessel that is equipped with state-of-the-art navigational instruments.,What are undersea researchers doing to explore the ocean floor?
+A15XIKX3PI7SLK,1,general,third,MTurk,TB_33_MT,4,"For SpaceX — the cheapest of NASA's new carriers — each pound costs approximately $27,000. So an average person of 160 pounds costs over $4,320,000.",How much does it cost to launch a person into space?
+A15XIKX3PI7SLK,1,general,third,MTurk,TB_34_MT,8,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A15XIKX3PI7SLK,1,general,third,MTurk,TB_44_MT,16,"In all U.S states, same-sex marriage is now legal. Also, the number of kids per family has decreased and so ""middle"" childreen, between the eldest and youngest, are getting rarer. ",How have families changed over time?
+A15XIKX3PI7SLK,1,general,third,Trivia,TB_01_TR,4,Canada,"What country is home to Roots, the company that outfits the U.S. Olympic team?"
+A15XIKX3PI7SLK,1,general,third,Trivia,TB_08_TR,12,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A15XIKX3PI7SLK,1,general,third,Trivia,TB_11_TR,4,Mung beans,What kind of bean produces the Asian-style bean sprouts in the produce section of supermarkets?
+A15XIKX3PI7SLK,1,general,third,Trivia,TB_18_TR,4,Orville Wright,Who was flying the plane in which the first US airplane fatality occurred?
+A15XIKX3PI7SLK,1,general,third,Trivia,TB_22_TR,12,Cheetah,Which is the only cat that cannot retract its claws?

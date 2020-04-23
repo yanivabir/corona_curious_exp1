@@ -1,0 +1,24 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2AJSEYVBTRBB3,1,general,corona,Not useful,C_06_NU,8,Gwyneth Paltrow,"Which celebrity said about the new coronavirus ""I've already been in this movie""?"
+A2AJSEYVBTRBB3,1,general,corona,Not useful,C_14_NU,12,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+A2AJSEYVBTRBB3,1,general,corona,Not useful,C_24_NU,16,Contagion,"According to media reports, which 2011 movie has seen a large increase in popularity in the wake of the new coronavirus?"
+A2AJSEYVBTRBB3,1,general,corona,Useful,C_32_U,12,"In public settings where other social distancing measures are difficult to maintain (e.g., grocery stores and pharmacies).",The CDC recommend people wear cloth masks in what situations?
+A2AJSEYVBTRBB3,1,general,corona,Useful,C_35_U,12,"The virus spreads through coughs and sneezes, there are no reports of transmission through mosquito bites.",Can the new coronavirus be transmitted through mosquito bites?
+A2AJSEYVBTRBB3,1,general,corona,Useful,C_36_U,4,No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.,Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+A2AJSEYVBTRBB3,1,general,corona,Useful,C_40_U,8,"The incubation period - the time between catching the virus and beginning to have symptoms of the disease - is estimated to range from 1-14 days, most commonly around five days.",How long is the incubation period for the new coronavirus?
+A2AJSEYVBTRBB3,1,general,corona,Useful,C_42_U,8,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A2AJSEYVBTRBB3,1,general,general,Not useful,NC_04_NU,12,Edward Albee,"Who wrote ""Who's Afraid of Virginia Woolf?"""
+A2AJSEYVBTRBB3,1,general,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A2AJSEYVBTRBB3,1,general,general,Not useful,NC_09_NU,16,Captain Cook,"Who christened Hawaii ""the Sandwich Islands"" in 1778?"
+A2AJSEYVBTRBB3,1,general,general,Not useful,NC_13_NU,12,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A2AJSEYVBTRBB3,1,general,general,Not useful,NC_16_NU,8,Newborns,The apgar score is used to measure the color and condition of what?
+A2AJSEYVBTRBB3,1,general,general,Useful,NC_35_U,16,Wrap a wet paper towel around the bottle and put in the fridge,How can you cool beverages more quickly?
+A2AJSEYVBTRBB3,1,general,general,Useful,NC_36_U,16,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A2AJSEYVBTRBB3,1,general,general,Useful,NC_50_U,16,Spread beeswax over them and then blow dry until you can't see the beeswax anymore,What's an easy way to waterproof canvas shoes?
+A2AJSEYVBTRBB3,1,general,third,MTurk,TB_25_MT,8,"Scientists estimate that we are likely to see flying cars, and that computers may be able to read people's thoughts and emotions ",What will be the new technologies of future?
+A2AJSEYVBTRBB3,1,general,third,MTurk,TB_26_MT,16,"Sometimes, it is easy to know, but science revealed that self-insight is prblematic. It is often very helpful to ask friends and family ",How do you know if you're happy?
+A2AJSEYVBTRBB3,1,general,third,MTurk,TB_41_MT,12,"Deep learning-based machines, that can process unparalleled amount of information will allow AI to accomplish goals that were unimaginable until very recently. ",What are the most recent developments in artificial intelligence?
+A2AJSEYVBTRBB3,1,general,third,MTurk,TB_42_MT,12,"Galaxy formation occured in the aftermath of the Big Bang. Clustering and merging allows galaxies to accumulate mass, determining both their shape and structure. ",How do galaxies form?
+A2AJSEYVBTRBB3,1,general,third,Trivia,TB_05_TR,12,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A2AJSEYVBTRBB3,1,general,third,Trivia,TB_10_TR,16,George VI,Who was the last British Monarch to also be an emperor?
+A2AJSEYVBTRBB3,1,general,third,Trivia,TB_19_TR,8,Ketchup,The only vegetable ice cream ever produced was what flavor?

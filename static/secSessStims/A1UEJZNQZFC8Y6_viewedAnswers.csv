@@ -1,0 +1,27 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A1UEJZNQZFC8Y6,1,general,corona,Not useful,C_05_NU,4,University of Washington,Which was the first US University to cancel classes becuase of the new coronavirus?
+A1UEJZNQZFC8Y6,1,general,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A1UEJZNQZFC8Y6,1,general,corona,Not useful,C_17_NU,8,"Locations, people, or animals","The name for the new disease COVID-19 adheres to WHO best practices in disease naming, which include guidelines to not name disease after what?"
+A1UEJZNQZFC8Y6,1,general,corona,Not useful,C_26_NU,4,Severe acute respiratory syndrome,The official name of the new coronavirus is SARS-CoV-2. What does SARS stand for?
+A1UEJZNQZFC8Y6,1,general,corona,Useful,C_37_U,8,There is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.,Can eating garlic help prevent infection with the new coronavirus?
+A1UEJZNQZFC8Y6,1,general,corona,Useful,C_41_U,16,Studies suggest that coronaviruses (including preliminary information on the new virus) may persist on surfaces for a few hours or up to several days.,How long does the new coronavirus survive on surfaces?
+A1UEJZNQZFC8Y6,1,general,corona,Useful,C_42_U,12,"Fever, cough, shortness of breath.",What are the most common symptoms of the new coronavirus?
+A1UEJZNQZFC8Y6,1,general,corona,Useful,C_48_U,12,Reserves need to be saved for people who are infected and for healthcare professionals.,Why does the CDC currently recommend that healthy people do not wear N95 face masks?
+A1UEJZNQZFC8Y6,1,general,general,Not useful,NC_01_NU,12,Mike Powell,"In 1991, who finally broke Bob Beamon's decades-old long jump record?"
+A1UEJZNQZFC8Y6,1,general,general,Not useful,NC_06_NU,4,David Livingstone,Who discovered the Victoria Falls?
+A1UEJZNQZFC8Y6,1,general,general,Not useful,NC_07_NU,12,Salt Lake City,In what city could you see the Seagull Monument at Temple Square?
+A1UEJZNQZFC8Y6,1,general,general,Not useful,NC_13_NU,16,Bling bling,What term does rapper B.G. say he wishes he'd patented when he used it for the title of his massive 1999 hit?
+A1UEJZNQZFC8Y6,1,general,general,Not useful,NC_20_NU,4,Russia,Which country has the most public libraries?
+A1UEJZNQZFC8Y6,1,general,general,Not useful,NC_26_NU,16,Dark Side of the Moon,What album spent a record 741 weeks on Billboard's Top 200 Albums chart?
+A1UEJZNQZFC8Y6,1,general,general,Useful,NC_28_U,8,Microwave next to a glass of water,How can you soften brown sugar that has hardened into a lump?
+A1UEJZNQZFC8Y6,1,general,general,Useful,NC_31_U,8,Sign up for a free USAA membership,How can people under 25 rent a car without paying extra fees?
+A1UEJZNQZFC8Y6,1,general,general,Useful,NC_36_U,8,Potatos: rub a cut potato over your windshield before a frost to prevent freezing,What vegetable can prevent your windshield from freezing over in winter?
+A1UEJZNQZFC8Y6,1,general,general,Useful,NC_40_U,4,Squint your eyes,How do you make your smile look more genuine in photographs?
+A1UEJZNQZFC8Y6,1,general,general,Useful,NC_41_U,8,"April 8th, 2024",When is the next total solar eclipse visible in North America projected to occur? 
+A1UEJZNQZFC8Y6,1,general,third,MTurk,TB_28_MT,16,"Futurist Diamandis argues that due to improved powers of computation we are likely to see AI, improved medicine, and new ways of communicating.",What is to happen ten years from now?
+A1UEJZNQZFC8Y6,1,general,third,MTurk,TB_34_MT,4,Evolution is usually very slow. Think about the similarities between apes and people. Future people are going to be as similar to us as we are to apes. ,What will future humans look like?
+A1UEJZNQZFC8Y6,1,general,third,MTurk,TB_45_MT,16,"The amygdala (from Greek, 'almond') is one of two almond-shaped clusters of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.",What is the amygdala?
+A1UEJZNQZFC8Y6,1,general,third,Trivia,TB_05_TR,16,Hong Kong,What city's harbor is overlooked by Victoria Peak?
+A1UEJZNQZFC8Y6,1,general,third,Trivia,TB_08_TR,8,Library of Congress,"In 1802, John Beckley became the librarian of what collection containing 740 books at the time?"
+A1UEJZNQZFC8Y6,1,general,third,Trivia,TB_10_TR,8,George VI,Who was the last British Monarch to also be an emperor?
+A1UEJZNQZFC8Y6,1,general,third,Trivia,TB_20_TR,16,Rafflesia (corpse lily),What is the largest flower in the world?
