@@ -1,0 +1,11 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+A2AJWJ8D4AC2G1,1,general,corona,Not useful,C_12_NU,12,Diamond Princess,What was the name of the British cruise ship that was quarantined in Japanese waters?
+A2AJWJ8D4AC2G1,1,general,corona,Useful,C_34_U,12,"The virus lives for up to a few days on surfaces, and so packages cannot transmit the virus.",Can the new coronavirus be transmitted on a package from an infected country?
+A2AJWJ8D4AC2G1,1,general,corona,Useful,C_46_U,16,Remdesivir,"Which drug, which has been used as a treatment for the Ebola and Marburg viruses, might be promising as a treatment for this new coronavirus?"
+A2AJWJ8D4AC2G1,1,general,general,Not useful,NC_06_NU,8,David Livingstone,Who discovered the Victoria Falls?
+A2AJWJ8D4AC2G1,1,general,general,Not useful,NC_11_NU,4,Endeavour,What is the name of the ship that carried Captain Cook to Australia?
+A2AJWJ8D4AC2G1,1,general,general,Useful,NC_33_U,4,Below eye level,Where in the supermarket can you usually find the cheaper items?
+A2AJWJ8D4AC2G1,1,general,general,Useful,NC_48_U,12,"Drop it from a 3 inch height. If it bounces, it's dead.",How can you tell if a battery is dead without using any tools?
+A2AJWJ8D4AC2G1,1,general,third,MTurk,TB_27_MT,8,"We do not know, of course. Yet, it is important to realize that there is no scientific proof for God's existence.  ",Does God exist?
+A2AJWJ8D4AC2G1,1,general,third,MTurk,TB_46_MT,16,"Scientists are still figuring it out. It seems that passive use is slightly bad, but active use is not.",How does social media influence our mental health?
+A2AJWJ8D4AC2G1,1,general,third,Trivia,TB_23_TR,8,Tooth,What is the only part of the body that can't repair itself?
