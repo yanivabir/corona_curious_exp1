@@ -1,0 +1,3 @@
+PID,sess,firstBlock,block,type,questionId,wait_duration,answer,question
+ASROBFA1M3XCN,1,corona,corona,Not useful,C_14_NU,8,"January 30, 2020",On what date did the World Health Organization declare the new coronavirus outbreak to be a Public Health Emergency of International Concern?
+ASROBFA1M3XCN,1,corona,corona,Useful,C_28_U,12,"Yes, by boosting the immune system",Does sleep make you more resistant to coronavirus infections?
