@@ -1,22 +1,10 @@
-# Corona Curious
-Online waiting task and other ratings for Cornoa and non Corona related items.
+# COVID-19 information-seeking
+Online waiting task and other ratings for COVID-related and general questions.
+This code was used to run the experiment reported in the main text of Abir, Y. Marvin, C. B. van Geen, C. Leshkowitz, M. Hassin, R. R. & Shohamy, D. (Under review). _Behavior During the COVID-19 Pandemic Reveals a Directing and an Energizing Role for Motivation in Information-Seeking_.
 
 Implemented using the [jsPsych package](jspsych.org).
 
-# Version 1.0
-First five subjects ran on this version on 03/11/2020
-
-## Bugs
-1. Wait duration not recorded
-2. questionId recorded only for question display in waiting task (nuiance)
-3. category:corona_upst_fmly typo corona_upst,fmly (corrupts downsream csv)
-4. category for winning forecast should be politics_win, not politics
-5. No please respond to answer prompt (waiting task).
-6. Question type and block not saved in separate variable.
-
-
-
-##Noteworthy files:
+## Noteworthy files:
 ```
 .
 |---_templates
@@ -36,8 +24,3 @@ First five subjects ran on this version on 03/11/2020
 |   |---_css
 |   |   |---jspscyh.css: all css rules for experiment, from jsPsych and otherwise.
 ```
-
-## To Do
-10. Has your income changed result of the virus
-11. Have your lost your job?
-12. More time for reading answers
